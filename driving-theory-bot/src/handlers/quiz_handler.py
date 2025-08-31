@@ -479,6 +479,9 @@ class QuizHandler:
             user_id, question_id, language, is_correct
         )
         
+        # Flush batch writes to ensure stats are current
+        await self.db._flush_batch()
+        
         # Prepare response
         if is_correct:
             response = "✅ Correct! Well done!"
@@ -494,7 +497,7 @@ class QuizHandler:
             if question.get('explanation'):
                 response += f"\n\n💡 {question['explanation']}"
         
-        # Add statistics
+        # Add statistics (fetch AFTER recording this attempt)
         stats = await self.db.get_user_statistics(user_id)
         accuracy = stats.get('accuracy_percentage', 0) or 0
         total = stats.get('total_attempts', 0)
@@ -600,6 +603,9 @@ class QuizHandler:
             user_id, question_id, language, is_correct
         )
         
+        # Flush batch writes to ensure stats are current
+        await self.db._flush_batch()
+        
         # Prepare response
         if is_correct:
             response = "✅ Correct! Well done!"
@@ -613,7 +619,7 @@ class QuizHandler:
             if question.get('explanation'):
                 response += f"\n\n💡 {question['explanation']}"
         
-        # Add statistics
+        # Add statistics (fetch AFTER recording this attempt)
         stats = await self.db.get_user_statistics(user_id)
         accuracy = stats.get('accuracy_percentage', 0) or 0
         total = stats.get('total_attempts', 0)
@@ -662,43 +668,46 @@ class QuizHandler:
             del self._user_locks[user_id]
     
     async def handle_stats(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
-        """Handle /stats command"""
+        """Handle /stats command - now works during wait periods"""
         user_id = update.effective_user.id
-        user_lock = await self._get_user_lock(user_id)
         
-        async with user_lock:
-            stats = await self.db.get_user_statistics(user_id)
+        # Don't use user lock for stats to avoid blocking during wait periods
+        stats = await self.db.get_user_statistics(user_id)
+        
+        total = stats.get('total_attempts', 0)
+        correct = stats.get('correct_answers', 0) or 0
+        accuracy = stats.get('accuracy_percentage', 0) or 0
+        
+        # Build stats message
+        stats_text = (
+            f"📊 Your Statistics:\n\n"
+            f"Total Questions: {total}\n"
+            f"Correct Answers: {int(correct)}\n"
+            f"Accuracy: {accuracy:.1f}%"
+        )
+        
+        # Add current question info if available
+        current_question = self.active_questions.get(user_id)
+        if current_question:
+            stats_text += f"\n\n🔄 Current Question: {current_question.get('id', 'Unknown')}"
+            if current_question.get('theme_name'):
+                stats_text += f"\n📚 Theme: {current_question['theme_name']}"
+            if current_question.get('chapter_name'):
+                stats_text += f"\n📖 Chapter: {current_question['chapter_name']}"
+            if current_question.get('points'):
+                stats_text += f"\n⭐ Points: {current_question['points']}"
             
-            total = stats.get('total_attempts', 0)
-            correct = stats.get('correct_answers', 0) or 0
-            accuracy = stats.get('accuracy_percentage', 0) or 0
-            
-            # Build stats message
-            stats_text = (
-                f"📊 Your Statistics:\n\n"
-                f"Total Questions: {total}\n"
-                f"Correct Answers: {int(correct)}\n"
-                f"Accuracy: {accuracy:.1f}%"
-            )
-            
-            # Add current question info if available
-            current_question = self.active_questions.get(user_id)
-            if current_question:
-                stats_text += f"\n\n🔄 Current Question: {current_question.get('id', 'Unknown')}"
-                if current_question.get('theme_name'):
-                    stats_text += f"\n📚 Theme: {current_question['theme_name']}"
-                if current_question.get('chapter_name'):
-                    stats_text += f"\n📖 Chapter: {current_question['chapter_name']}"
-                if current_question.get('points'):
-                    stats_text += f"\n⭐ Points: {current_question['points']}"
-            else:
-                # Check if there's a session in the database
-                session = await self.db.get_user_session(user_id)
-                if session and session.get('current_question_id'):
-                    stats_text += f"\n\n🔄 Current Question: {session['current_question_id']}"
-                    stats_text += f"\n🌐 Language: {session.get('language', 'english').capitalize()}"
-            
-            await update.message.reply_text(stats_text)
+            # Show waiting status if user is not awaiting answer
+            if user_id not in self.awaiting_answer:
+                stats_text += f"\n⏳ Status: Waiting for next question"
+        else:
+            # Check if there's a session in the database
+            session = await self.db.get_user_session(user_id)
+            if session and session.get('current_question_id'):
+                stats_text += f"\n\n🔄 Current Question: {session['current_question_id']}"
+                stats_text += f"\n🌐 Language: {session.get('language', 'english').capitalize()}"
+        
+        await update.message.reply_text(stats_text)
     
     async def handle_resend(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Resend the current question"""
