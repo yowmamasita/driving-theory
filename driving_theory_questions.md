@@ -769,6 +769,10 @@ Since there are children both on the left and right on the street, you should br
 
 **What should you do in this situation?**
 
+![Question Image](images/1_1_02-049.png)
+
+[Video: videos/1_1_02-049.mp4](videos/1_1_02-049.mp4)
+
 **Options:**
 - A. I perform an emergency braking manoeuvre
 - B. I sound my horn and continue driving
@@ -787,6 +791,10 @@ Immediately perform emergency braking to prevent a collision with the cyclist co
 **Points:** 5 Points
 
 **Why must you drive slowly here and be ready to brake?**
+
+![Question Image](images/1_1_02-050-M.png)
+
+[Video: videos/1_1_02-050-M.mp4](videos/1_1_02-050-M.mp4)
 
 **Options:**
 - A. Because the traffic situation is confusing
@@ -997,6 +1005,10 @@ In this situation, you should be prepared for the danger of the dog running into
 
 **In this situation, do you have to proceed slowly and be ready to brake?**
 
+![Question Image](images/1_1_02-115.png)
+
+[Video: videos/1_1_02-115.mp4](videos/1_1_02-115.mp4)
+
 **Options:**
 - A. Yes, because passengers could cross the road from in front of the bus
 - B. Yes, because pedestrians not alighting from the bus could cross the road
@@ -1038,6 +1050,10 @@ You may carefully pass a stopping tram at walking speed - but only if this does 
 **Points:** 5 Points
 
 **Why must you pause here?**
+
+![Question Image](images/1_1_02-117.png)
+
+[Video: videos/1_1_02-117.mp4](videos/1_1_02-117.mp4)
 
 **Options:**
 - A. - the child
@@ -1381,6 +1397,10 @@ If you see a person at the side of the road wearing a yellow armband with three 
 
 **Why do you have to reduce your speed here?**
 
+![Question Image](images/1_1_02-134-M.png)
+
+[Video: videos/1_1_02-134-M.mp4](videos/1_1_02-134-M.mp4)
+
 **Options:**
 - A. - child
 - B. - motorbike
@@ -1421,6 +1441,10 @@ When a pedestrian crosses the roadway, it is not certain that he will continue t
 
 **Why must you drive slowly now, and be ready to brake?**
 
+![Question Image](images/1_1_02-136-M.png)
+
+[Video: videos/1_1_02-136-M.mp4](videos/1_1_02-136-M.mp4)
+
 **Options:**
 - A. Because of the pedestrian
 - B. Because the bus is moving off
@@ -1440,6 +1464,10 @@ You must drive slowly and be ready to brake because passengers can cross the roa
 
 **Why are you required to brake here?**
 
+![Question Image](images/1_1_02-137-M.png)
+
+[Video: videos/1_1_02-137-M.mp4](videos/1_1_02-137-M.mp4)
+
 **Options:**
 - A. - child
 - B. - cyclist
@@ -1458,6 +1486,10 @@ A child is behind the parked vehicle and will probably cross the road in the nex
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/1_1_02-138-M.png)
+
+[Video: videos/1_1_02-138-M.mp4](videos/1_1_02-138-M.mp4)
 
 **Options:**
 - A. I reduce my speed
@@ -1479,6 +1511,10 @@ Since the dog, most likely, will run onto the street from the left, you have to 
 
 **Why are you required to stop here?**
 
+![Question Image](images/1_1_02-201-M.png)
+
+[Video: videos/1_1_02-201-M.mp4](videos/1_1_02-201-M.mp4)
+
 **Options:**
 - A. Because [a pedestrian] wants to cross the road from the left
 - B. Because a pedestrian wants to cross the road from the right
@@ -1498,6 +1534,10 @@ You should stop here because there are 2 pedestrians in front of the bus and the
 **Points:** 5 Points
 
 **Why are you required to brake now?**
+
+![Question Image](images/1_1_02-202-M.png)
+
+[Video: videos/1_1_02-202-M.mp4](videos/1_1_02-202-M.mp4)
 
 **Options:**
 - A. Because of the child
@@ -1842,6 +1882,10 @@ There is a long curve in front of you, the end of which you cannot see. A fast-m
 
 **You want to exit the motorway; to which must you pay particularly close attention?**
 
+![Question Image](images/1_1_03-115.png)
+
+[Video: videos/1_1_03-115.mp4](videos/1_1_03-115.mp4)
+
 **Options:**
 - A. The red motorbike
 - B. The yellow truck
@@ -1905,6 +1949,10 @@ On the right you will see the sign for a car park. Expect pedestrians walking aw
 **Points:** 5 Points
 
 **What must you be aware of?**
+
+![Question Image](images/1_1_03-118.png)
+
+[Video: videos/1_1_03-118.mp4](videos/1_1_03-118.mp4)
 
 **Options:**
 - A. - turn on the rear fog lights
@@ -2212,6 +2260,10 @@ You should reduce your speed before entering a tight bend and only accelerate ag
 
 **What must you be aware of?**
 
+![Question Image](images/1_1_05-103.png)
+
+[Video: videos/1_1_05-103.mp4](videos/1_1_05-103.mp4)
+
 **Options:**
 - A. Pedestrians could cross the road
 - B. I may drive past the bus at walking speed
@@ -2231,6 +2283,10 @@ You may only pass a bus at a bus stop with its hazard lights on at walking speed
 **Points:** 5 Points
 
 **What do you have to be aware of in this situation?**
+
+![Question Image](images/1_1_05-105.png)
+
+[Video: videos/1_1_05-105.mp4](videos/1_1_05-105.mp4)
 
 **Options:**
 - A. I look out for people who could walk onto the road
@@ -2428,6 +2484,10 @@ On a straight stretch of road, you may be able to see oncoming traffic from a di
 
 **What should you do in this situation?**
 
+![Question Image](images/1_1_06-113.png)
+
+[Video: videos/1_1_06-113.mp4](videos/1_1_06-113.mp4)
+
 **Options:**
 - A. I remain behind the cyclist
 - B. I overtake the cyclist
@@ -2446,6 +2506,10 @@ You must not overtake the cyclist: you must not cross the continuous centre line
 **Points:** 5 Points
 
 **What should you do?**
+
+![Question Image](images/1_1_06-114.png)
+
+[Video: videos/1_1_06-114.mp4](videos/1_1_06-114.mp4)
 
 **Options:**
 - A. I abort the overtaking manoeuvre
@@ -2572,6 +2636,10 @@ If you want to overtake a cyclist, you must consider the following with regard t
 
 **What is the right course of action?**
 
+![Question Image](images/1_1_06-127-M.png)
+
+[Video: videos/1_1_06-127-M.mp4](videos/1_1_06-127-M.mp4)
+
 **Options:**
 - A. - after the bend
 - B. - before drawing level with the [truck]
@@ -2655,6 +2723,10 @@ If you misjudge the speed and distance of an oncoming vehicle, your overtaking d
 
 **What is the right course of action now?**
 
+![Question Image](images/1_1_06-131-M.png)
+
+[Video: videos/1_1_06-131-M.mp4](videos/1_1_06-131-M.mp4)
+
 **Options:**
 - A. I reduce my speed
 - B. I move to the right, onto the parking strip
@@ -2673,6 +2745,10 @@ The vehicle overtaking you has estimated its overtaking path too short. You shou
 **Points:** 4 Points
 
 **Why may you not overtake in this situation?**
+
+![Question Image](images/1_1_06-201-M.png)
+
+[Video: videos/1_1_06-201-M.mp4](videos/1_1_06-201-M.mp4)
 
 **Options:**
 - A. Because the overtaking distance is obscured
@@ -2693,6 +2769,10 @@ The overtaking lane is not visible due to the cyclists and the course of the roa
 **Points:** 4 Points
 
 **Why are you not allowed to overtake now?**
+
+![Question Image](images/1_1_06-202-M.png)
+
+[Video: videos/1_1_06-202-M.mp4](videos/1_1_06-202-M.mp4)
 
 **Options:**
 - A. Because [the cyclist] could turn off to the left
@@ -2945,6 +3025,10 @@ The driver of the vehicle coming out of the exit cannot see the cross traffic. H
 
 **Why do you have to wait before turning right?**
 
+![Question Image](images/1_1_07-016.png)
+
+[Video: videos/1_1_07-016.mp4](videos/1_1_07-016.mp4)
+
 **Options:**
 - A. - the pedestrian
 - B. - the cyclist
@@ -2964,6 +3048,10 @@ If you want to turn right, you will need to let all the vehicles drive past that
 **Points:** 5 Points
 
 **What should you anticipate in this situation?**
+
+![Question Image](images/1_1_07-017.png)
+
+[Video: videos/1_1_07-017.mp4](videos/1_1_07-017.mp4)
 
 **Options:**
 - A. - pull out and cross the centre of the road
@@ -3029,6 +3117,10 @@ You can see that the cycle path ends immediately in front of you. The cyclist wo
 
 **What must you watch out for when turning right here?**
 
+![Question Image](images/1_1_07-021.png)
+
+[Video: videos/1_1_07-021.mp4](videos/1_1_07-021.mp4)
+
 **Options:**
 - A. For the cyclist
 - B. For oncoming traffic
@@ -3047,6 +3139,10 @@ Before you can turn right, you have to let the cyclist on the bike path to your 
 **Points:** 3 Points
 
 **What should you do?**
+
+![Question Image](images/1_1_07-022.png)
+
+[Video: videos/1_1_07-022.mp4](videos/1_1_07-022.mp4)
 
 **Options:**
 - A. I stop
@@ -3439,6 +3535,10 @@ The following rules of conduct are mandatory in all tunnels: on the entire route
 
 **Why are you required to stop here?**
 
+![Question Image](images/1_1_07-132.png)
+
+[Video: videos/1_1_07-132.mp4](videos/1_1_07-132.mp4)
+
 **Options:**
 - A. - the van
 - B. - the pedestrian
@@ -3458,6 +3558,10 @@ You want to turn left. A van approaching from the opposite lane also wants to tu
 **Points:** 5 Points
 
 **What should you do now?**
+
+![Question Image](images/1_1_07-136.png)
+
+[Video: videos/1_1_07-136.mp4](videos/1_1_07-136.mp4)
 
 **Options:**
 - A. Slow down and be ready to brake
@@ -3667,6 +3771,10 @@ If you have to park your vehicle in a tunnel due to a fire, you should: stop the
 
 **What should you anticipate?**
 
+![Question Image](images/1_1_07-146.png)
+
+[Video: videos/1_1_07-146.mp4](videos/1_1_07-146.mp4)
+
 **Options:**
 - A. - will swing outwards even more
 - B. - will come to a sudden stop
@@ -3686,6 +3794,10 @@ You see that the truck wants to turn in front of you. The vehicle obscures the v
 **Points:** 4 Points
 
 **What must you watch out for now?**
+
+![Question Image](images/1_1_07-147.png)
+
+[Video: videos/1_1_07-147.mp4](videos/1_1_07-147.mp4)
 
 **Options:**
 - A. For the vehicle on the road ahead
@@ -3707,6 +3819,10 @@ You want to turn right, so does the car driver in front of you. The pedestrian t
 
 **Why are you required to stop here?**
 
+![Question Image](images/1_1_07-148.png)
+
+[Video: videos/1_1_07-148.mp4](videos/1_1_07-148.mp4)
+
 **Options:**
 - A. Because of the cyclist
 - B. Because of the green car
@@ -3725,6 +3841,10 @@ The cyclist must be given priority because she is on the right-of-way. Wait unti
 **Points:** 5 Points
 
 **Why are you required to stop here?**
+
+![Question Image](images/1_1_07-149.png)
+
+[Video: videos/1_1_07-149.mp4](videos/1_1_07-149.mp4)
 
 **Options:**
 - A. Because of the red car
@@ -3745,6 +3865,10 @@ The traffic on the main road is jammed. The red car drives around the parked veh
 
 **What is the right course of action now?**
 
+![Question Image](images/1_1_07-150.png)
+
+[Video: videos/1_1_07-150.mp4](videos/1_1_07-150.mp4)
+
 **Options:**
 - A. I keep a tight hold of the steering wheel and keep it pointed straight ahead
 - B. I swerve to the left
@@ -3763,6 +3887,10 @@ When an animal walks on the road from the right, an evasive maneuver is a natura
 **Points:** 3 Points
 
 **What should you do now?**
+
+![Question Image](images/1_1_07-151.png)
+
+[Video: videos/1_1_07-151.mp4](videos/1_1_07-151.mp4)
 
 **Options:**
 - A. I perform an emergency braking manoeuvre
@@ -3783,6 +3911,10 @@ You can see that the animal is about to run on the road. Horns may help stop it.
 **Points:** 5 Points
 
 **What must you look out for when the traffic lights turn green?**
+
+![Question Image](images/1_1_07-152-M.png)
+
+[Video: videos/1_1_07-152-M.mp4](videos/1_1_07-152-M.mp4)
 
 **Options:**
 - A. For [the pedestrian]
@@ -3847,6 +3979,10 @@ When driving through a tunnel, proceed as follows: Make sure to pay attention to
 
 **What must you watch out for now?**
 
+![Question Image](images/1_1_07-155-M.png)
+
+[Video: videos/1_1_07-155-M.mp4](videos/1_1_07-155-M.mp4)
+
 **Options:**
 - A. For [the cyclist] on the left
 - B. For [the cyclist] on the right
@@ -3867,6 +4003,10 @@ You intend to turn left. Two cyclists move in the same direction. You must pay p
 
 **What should you do now?**
 
+![Question Image](images/1_1_07-156-M.png)
+
+[Video: videos/1_1_07-156-M.mp4](videos/1_1_07-156-M.mp4)
+
 **Options:**
 - A. I perform an emergency braking manoeuvre
 - B. I hold the steering wheel straight and firmly
@@ -3886,6 +4026,10 @@ Since the dog (from the right) seems to be walking into the street, please perfo
 **Points:** 4 Points
 
 **For what should your prepare yourself in this situation?**
+
+![Question Image](images/1_1_07-157-M.png)
+
+[Video: videos/1_1_07-157-M.mp4](videos/1_1_07-157-M.mp4)
 
 **Options:**
 - A. As it begins moving, the bus will swing out onto my side of the road
@@ -3951,6 +4095,10 @@ The traffic sign indicates a rambler parking area, which means that people can w
 
 **Why are you required to stop now?**
 
+![Question Image](images/1_1_07-160-M.png)
+
+[Video: videos/1_1_07-160-M.mp4](videos/1_1_07-160-M.mp4)
+
 **Options:**
 - A. Because of [the cyclist]
 - B. Because the traffic situation is confusing
@@ -3971,6 +4119,10 @@ As you do not have a full view of the traffic situation and must give the cyclis
 
 **You want to continue driving straight ahead. What is the correct course of action in this situation?**
 
+![Question Image](images/1_1_07-161-M.png)
+
+[Video: videos/1_1_07-161-M.mp4](videos/1_1_07-161-M.mp4)
+
 **Options:**
 - A. I allow the [red] vehicle to turn
 - B. I allow the electric scooter to cross the road
@@ -3981,7 +4133,7 @@ As you do not have a full view of the traffic situation and must give the cyclis
 - B. I allow the electric scooter to cross the road
 
 **Explanation:**
-You are coming from a priority road first. As there are no other traffic signs, right is before left. The red car is driving on your right and therefore has the right of way.
+You are coming from a priority road first. As there are no other traffic signs, right is before left. The red car is driving on your right and therefore has the right of way. 
 The electric scooter does not have right of way, so to avoid an accident you should let it cross anyway.
 
 ---
@@ -4037,6 +4189,10 @@ The traffic situation is unclear, sudden braking manoeuvres by gawpers and pedes
 
 **What must you watch out for when turning right here?**
 
+![Question Image](images/1_1_07-164-M.png)
+
+[Video: videos/1_1_07-164-M.mp4](videos/1_1_07-164-M.mp4)
+
 **Options:**
 - A. [For the cyclist]
 - B. For oncoming traffic
@@ -4055,6 +4211,10 @@ The cyclist has the right of way. When turning right, you must always pay attent
 **Points:** 5 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/1_1_07-165-M.png)
+
+[Video: videos/1_1_07-165-M.mp4](videos/1_1_07-165-M.mp4)
 
 **Options:**
 - A. I perform an emergency stop
@@ -4118,6 +4278,10 @@ In a tunnel, the emergency exits and SOS emergency telephones are clearly signpo
 
 **What is the right course of action now?**
 
+![Question Image](images/1_1_07-168-M.png)
+
+[Video: videos/1_1_07-168-M.mp4](videos/1_1_07-168-M.mp4)
+
 **Options:**
 - A. I brake
 - B. I swerve out to the left
@@ -4136,6 +4300,10 @@ The vehicle that is still parked wants to enter the road and has obviously overl
 **Points:** 4 Points
 
 **What should you anticipate now?**
+
+![Question Image](images/1_1_07-169-M.png)
+
+[Video: videos/1_1_07-169-M.mp4](videos/1_1_07-169-M.mp4)
 
 **Options:**
 - A. The driver of the [yellow] vehicle opens the driver-side door
@@ -4178,6 +4346,10 @@ You should be extra attentive on curves and before hilltops, because the traffic
 
 **Why are you required to stop now?**
 
+![Question Image](images/1_1_07-171.png)
+
+[Video: videos/1_1_07-171.mp4](videos/1_1_07-171.mp4)
+
 **Options:**
 - A. Because of the cyclist
 - B. Because of the pedestrians
@@ -4196,6 +4368,10 @@ The "Give way" sign in combination with the additional bicycle sign shows you th
 **Points:** 4 Points
 
 **What is the correct course of action in this situation?**
+
+![Question Image](images/1_1_07-172-M.png)
+
+[Video: videos/1_1_07-172-M.mp4](videos/1_1_07-172-M.mp4)
 
 **Options:**
 - A. I perform an emergency braking manoeuvre
@@ -4236,6 +4412,10 @@ A deer is very unpredictable, maybe it runs back into the forest, maybe it will 
 
 **What is the right course of action?**
 
+![Question Image](images/1_1_07-174-M.png)
+
+[Video: videos/1_1_07-174-M.mp4](videos/1_1_07-174-M.mp4)
+
 **Options:**
 - A. I continue braking
 - B. I remain waiting in my lane for now
@@ -4255,6 +4435,10 @@ As the lorry in front of you is parking in reverse, you must continue to slow do
 **Points:** 4 Points
 
 **What should you anticipate in this situation?**
+
+![Question Image](images/1_1_07-175-M.png)
+
+[Video: videos/1_1_07-175-M.mp4](videos/1_1_07-175-M.mp4)
 
 **Options:**
 - A. That [the yellow car] will turn left
@@ -4277,6 +4461,10 @@ The yellow car flashes and turns left. Although it does not have right of way, a
 
 **What is the right behaviour now?**
 
+![Question Image](images/1_1_07-176-M.png)
+
+[Video: videos/1_1_07-176-M.mp4](videos/1_1_07-176-M.mp4)
+
 **Options:**
 - A. I brake
 - B. I swerve to the left
@@ -4297,6 +4485,10 @@ In this situation you have to brake to avoid a collision with the overtaking car
 
 **What is the right course of action in this situation?**
 
+![Question Image](images/1_1_07-201-M.png)
+
+[Video: videos/1_1_07-201-M.mp4](videos/1_1_07-201-M.mp4)
+
 **Options:**
 - A. I brake very sharply
 - B. I sound my horn and continue driving
@@ -4316,6 +4508,10 @@ The cyclist from the left does not seem to slow down, so brake sharply.
 
 **Why must you brake now?**
 
+![Question Image](images/1_1_07-202-M.png)
+
+[Video: videos/1_1_07-202-M.mp4](videos/1_1_07-202-M.mp4)
+
 **Options:**
 - A. Because of [the cyclist]
 - B. Because of [the red vehicle]
@@ -4334,6 +4530,10 @@ Because the cyclist wants to be in your lane, brake because of the cyclist.
 **Points:** 4 Points
 
 **What must you watch out for now?**
+
+![Question Image](images/1_1_07-203-M.png)
+
+[Video: videos/1_1_07-203-M.mp4](videos/1_1_07-203-M.mp4)
 
 **Options:**
 - A. For [the cyclist] on the left
@@ -4355,6 +4555,10 @@ The cyclist on the right is riding on the roadway. There is a cyclist on the lef
 
 **What should you anticipate in this situation?**
 
+![Question Image](images/1_1_07-204-M.png)
+
+[Video: videos/1_1_07-204-M.mp4](videos/1_1_07-204-M.mp4)
+
 **Options:**
 - A. The driver of the [yellow] car fails to see me
 - B. There are loose chippings on the roadway
@@ -4374,6 +4578,10 @@ As you are driving behind a large vehicle, it can quickly happen that you are ov
 **Points:** 5 Points
 
 **You are driving outside of a built-up area. What is the correct course of action in this situation?**
+
+![Question Image](images/1_1_07-205-M.png)
+
+[Video: videos/1_1_07-205-M.mp4](videos/1_1_07-205-M.mp4)
 
 **Options:**
 - A. I only continue driving once I have reassured myself that the road is clear
@@ -4396,6 +4604,10 @@ You must still make sure that the road is clear for crossing.
 
 **Why should you be ready to brake now?**
 
+![Question Image](images/1_1_07-206-M.png)
+
+[Video: videos/1_1_07-206-M.mp4](videos/1_1_07-206-M.mp4)
+
 **Options:**
 - A. Because the driver of the brown vehicle could exit the vehicle
 - B. Because [the pedestrian] could walk out onto the road
@@ -4414,6 +4626,10 @@ The brown vehicle has just stopped, there is a high risk that a person will get 
 **Points:** 4 Points
 
 **What is the right thing to do in this situation?**
+
+![Question Image](images/1_1_07-207-M.png)
+
+[Video: videos/1_1_07-207-M.mp4](videos/1_1_07-207-M.mp4)
 
 **Options:**
 - A. I perform an emergency braking manoeuvre
@@ -5100,6 +5316,10 @@ Slow-moving vehicles such as tractors, mopeds must use the hard shoulder. Other 
 
 **What should you do in this situation?**
 
+![Question Image](images/1_2_02-107.png)
+
+[Video: videos/1_2_02-107.mp4](videos/1_2_02-107.mp4)
+
 **Options:**
 - A. - into the gap to allow the oncoming vehicle to drive past
 - B. - onwards, because the oncoming vehicle has to reverse
@@ -5184,7 +5404,7 @@ When crossing a priority road, you must keep in mind: 1. the width of the priori
 **Options:**
 
 **Correct Answer(s):**
-- 60
+- 60 
 
 **Explanation:**
 According to the German Road Traffic Regulations (Straßenverkehrsordnung - StVO), motorways may only be used by vehicles with a maximum design speed of more than 60 km / h.
@@ -5266,7 +5486,7 @@ The braking distance of your vehicle depends on the tires, the brake system and 
 **Options:**
 
 **Correct Answer(s):**
-- 50
+- 50 
 
 **Explanation:**
 50 km/h is the legally prescribed maximum speed limit within cities.
@@ -5283,7 +5503,7 @@ If this speed is exceeded, you will no longer be able to process information in 
 **Options:**
 
 **Correct Answer(s):**
-- 4
+- 4 
 
 **Explanation:**
 It also depends on your speed: At twice the speed, the braking distance will be four times as long - from 9m at 30 km/h to 36m at 60 km/h.
@@ -5417,6 +5637,10 @@ The distance to the vehicle in front depends on the speed as well as the visibil
 
 **What is the right course of action?**
 
+![Question Image](images/1_2_04-102.png)
+
+[Video: videos/1_2_04-102.mp4](videos/1_2_04-102.mp4)
+
 **Options:**
 - A. I brake
 - B. I increase my distance to the vehicle in front moving into my lane
@@ -5436,6 +5660,10 @@ If a driver in front of you suddenly intervenes and reduces the safety distance 
 **Points:** 5 Points
 
 **What is the right course of action?**
+
+![Question Image](images/1_2_04-103.png)
+
+[Video: videos/1_2_04-103.mp4](videos/1_2_04-103.mp4)
 
 **Options:**
 - A. I reduce my speed
@@ -5482,7 +5710,7 @@ You should always maintain a sufficiently large safety distance to the car in fr
 **Options:**
 
 **Correct Answer(s):**
-- 2
+- 2 
 
 **Explanation:**
 Outside built-up areas, the minimum distance to be maintained for pedestrians, cyclists and personal transporters is 2 metres.
@@ -5498,7 +5726,7 @@ Outside built-up areas, the minimum distance to be maintained for pedestrians, c
 **Options:**
 
 **Correct Answer(s):**
-- 1,5
+- 1,5 
 
 **Explanation:**
 When overtaking, you must keep a sufficient distance to the side so as not to endanger other road users. In built-up areas, the minimum distance for pedestrians, cyclists and personal transporters is 1.5 metres.
@@ -5514,7 +5742,7 @@ When overtaking, you must keep a sufficient distance to the side so as not to en
 **Options:**
 
 **Correct Answer(s):**
-- 1,5
+- 1,5 
 
 **Explanation:**
 When overtaking, you must keep a sufficient distance to the side so as not to endanger other road users. In built-up areas, the minimum distance for pedestrians, cyclists and personal transporters is 1.5 metres.
@@ -5901,7 +6129,7 @@ To protect cyclists and pedestrians, you must keep a distance of at least 1.5 me
 - B. I must overtake with at least 1.5 m of side clearance
 
 **Explanation:**
-When overtaking in built-up areas, you must maintain a distance of at least 1.5 metres to the side of the cyclist.
+When overtaking in built-up areas, you must maintain a distance of at least 1.5 metres to the side of the cyclist. 
 Due to the commuting of cyclists, a larger minimum distance is recommended.
 
 ---
@@ -5911,6 +6139,10 @@ Due to the commuting of cyclists, a larger minimum distance is recommended.
 **Points:** 5 Points
 
 **What is the correct course of action in this situation?**
+
+![Question Image](images/1_2_05-126-M.png)
+
+[Video: videos/1_2_05-126-M.mp4](videos/1_2_05-126-M.mp4)
 
 **Options:**
 - A. I remain behind [the cyclist]
@@ -5973,6 +6205,10 @@ If you want to drive past a parked car or a barrier on the left side of the road
 
 **Why should you drive especially slowly here?**
 
+![Question Image](images/1_2_06-004.png)
+
+[Video: videos/1_2_06-004.mp4](videos/1_2_06-004.mp4)
+
 **Options:**
 - A. - the truck is narrowing the lane
 - B. - people are proceeding onto the road
@@ -5993,6 +6229,10 @@ In front of you, a standing truck narrows the road. The view of traffic is limit
 
 **What is the right course of action?**
 
+![Question Image](images/1_2_06-005.png)
+
+[Video: videos/1_2_06-005.mp4](videos/1_2_06-005.mp4)
+
 **Options:**
 - A. Wait, because otherwise there would not be enough space between the cyclist and the car
 - B. Continue driving at a moderate speed, because there is very little space between the cyclist and the car
@@ -6011,6 +6251,10 @@ You want to drive around the vehicles parked on the right side of the road. But 
 **Points:** 5 Points
 
 **What should you do now?**
+
+![Question Image](images/1_2_06-006.png)
+
+[Video: videos/1_2_06-006.mp4](videos/1_2_06-006.mp4)
 
 **Options:**
 - A. - if it is clear that there is no oncoming traffic
@@ -6114,6 +6358,10 @@ In a tunnel with oncoming traffic, you must behave as follows: Orient yourself o
 
 **What is the correct course of action in this situation?**
 
+![Question Image](images/1_2_07-105-M.png)
+
+[Video: videos/1_2_07-105-M.mp4](videos/1_2_07-105-M.mp4)
+
 **Options:**
 - A. I move over to the right-hand lane after around 200 m
 - B. I may overtake the vehicles driving in the right-hand lane
@@ -6173,6 +6421,10 @@ You must allow the driver, who is prevented from continuing to drive on the term
 
 **You want to continue driving straight ahead. What should you do?**
 
+![Question Image](images/1_2_07-115.png)
+
+[Video: videos/1_2_07-115.mp4](videos/1_2_07-115.mp4)
+
 **Options:**
 - A. I change lanes just before the narrowing of the road
 - B. I move into the right-hand lane now
@@ -6190,6 +6442,10 @@ If a lane ends, vehicles should only merge into the lane right before the beginn
 **Points:** 4 Points
 
 **You want to turn right at the junction. What should you do?**
+
+![Question Image](images/1_2_07-116.png)
+
+[Video: videos/1_2_07-116.mp4](videos/1_2_07-116.mp4)
 
 **Options:**
 - A. I refrain from turning right, and remain in my lane
@@ -6388,6 +6644,10 @@ Use the right-hand driving line. The left-hand driving line is intended for onco
 **Points:** 5 Points
 
 **To which road user must you give way here?**
+
+![Question Image](images/1_2_09-020-M.png)
+
+[Video: videos/1_2_09-020-M.mp4](videos/1_2_09-020-M.mp4)
 
 **Options:**
 - A. [The pedestrian]
@@ -6665,6 +6925,10 @@ If you want to turn into a T-junction or a property, you have to indicate. The s
 
 **Why are you required to stop now?**
 
+![Question Image](images/1_2_09-119.png)
+
+[Video: videos/1_2_09-119.mp4](videos/1_2_09-119.mp4)
+
 **Options:**
 - A. - cyclist
 - B. - green vehicle
@@ -6789,6 +7053,10 @@ When turning left, vehicles approaching each other have to turn in front of each
 
 **Why are you required to stop now?**
 
+![Question Image](images/1_2_09-125.png)
+
+[Video: videos/1_2_09-125.mp4](videos/1_2_09-125.mp4)
+
 **Options:**
 - A. Because of the tram
 - B. Because of the cyclist
@@ -6807,6 +7075,10 @@ You are on a priority road and therefore you're allowed to drive before the whit
 **Points:** 4 Points
 
 **What is the right course of action here?**
+
+![Question Image](images/1_2_09-126.png)
+
+[Video: videos/1_2_09-126.mp4](videos/1_2_09-126.mp4)
 
 **Options:**
 - A. - not overtake the moped before the rail crossing
@@ -6827,6 +7099,10 @@ You must not overtake the moped before the level crossing. In general, no vehicl
 
 **Why are you required to brake now?**
 
+![Question Image](images/1_2_09-127.png)
+
+[Video: videos/1_2_09-127.mp4](videos/1_2_09-127.mp4)
+
 **Options:**
 - A. Because of the motorbike
 - B. Because of the van
@@ -6845,6 +7121,10 @@ The motorcyclist comes from the left at high speed. He probably did not see you 
 **Points:** 5 Points
 
 **Why do you have to wait before turning right?**
+
+![Question Image](images/1_2_09-128-M.png)
+
+[Video: videos/1_2_09-128-M.mp4](videos/1_2_09-128-M.mp4)
 
 **Options:**
 - A. Because of [the pedestrian]
@@ -6865,6 +7145,10 @@ If you want to turn, you must give priority to road users traveling straight ahe
 **Points:** 3 Points
 
 **What must you be aware of here?**
+
+![Question Image](images/1_2_09-129.png)
+
+[Video: videos/1_2_09-129.mp4](videos/1_2_09-129.mp4)
 
 **Options:**
 - A. - continue to brake
@@ -6927,6 +7211,10 @@ Vehicles that want to turn need to let bicycles pass that drive in their directi
 
 **Why must you wait before taking a turn in this situation?**
 
+![Question Image](images/1_2_09-132-M.png)
+
+[Video: videos/1_2_09-132-M.mp4](videos/1_2_09-132-M.mp4)
+
 **Options:**
 - A. Because of the motorbike
 - B. Because of the truck
@@ -6969,6 +7257,10 @@ You and the blue car are changing direction for this reason you must indicate th
 
 **What is the right course of action now?**
 
+![Question Image](images/1_2_09-134-M.png)
+
+[Video: videos/1_2_09-134-M.mp4](videos/1_2_09-134-M.mp4)
+
 **Options:**
 - A. I brake
 - B. I continue on the right-hand lane for now
@@ -6989,6 +7281,10 @@ The motorbike behind you has already changed to the left lane and will overtake 
 
 **Why are you not allowed to take the turn now?**
 
+![Question Image](images/1_2_09-135-M.png)
+
+[Video: videos/1_2_09-135-M.mp4](videos/1_2_09-135-M.mp4)
+
 **Options:**
 - A. - [yellow] car
 - B. - [red] vehicle
@@ -7007,6 +7303,10 @@ At an intersection, drivers going straight ahead have the right of way. You must
 **Points:** 5 Points
 
 **What must you anticipate in this situation?**
+
+![Question Image](images/1_2_09-136-M.png)
+
+[Video: videos/1_2_09-136-M.mp4](videos/1_2_09-136-M.mp4)
 
 **Options:**
 - A. [The blue car] will drive straight onwards
@@ -7027,6 +7327,10 @@ The blue car drives past the stopping bus and may want to continue straight on, 
 
 **Why are you required to stop now?**
 
+![Question Image](images/1_2_09-137-M.png)
+
+[Video: videos/1_2_09-137-M.mp4](videos/1_2_09-137-M.mp4)
+
 **Options:**
 - A. Because of the electric scooter
 - B. Because of the pedestrians
@@ -7045,6 +7349,10 @@ There is an electric scooter in the blind spot, so you must stop to avoid endang
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/1_2_09-138-M.png)
+
+[Video: videos/1_2_09-138-M.mp4](videos/1_2_09-138-M.mp4)
 
 **Options:**
 - A. I allow [the cyclist] to pass through
@@ -7066,6 +7374,10 @@ The straight ahead traffic always has priority, whether the cyclist is riding on
 
 **Why are you required to stop now?**
 
+![Question Image](images/1_2_09-201-M.png)
+
+[Video: videos/1_2_09-201-M.mp4](videos/1_2_09-201-M.mp4)
+
 **Options:**
 - A. Because of the tram
 - B. Because of [the cyclist]
@@ -7084,6 +7396,10 @@ Because you want to turn left, you should wait for the tram before turning.
 **Points:** 5 Points
 
 **In this situation, why do you have to wait before turning right?**
+
+![Question Image](images/1_2_09-202-M.png)
+
+[Video: videos/1_2_09-202-M.mp4](videos/1_2_09-202-M.mp4)
 
 **Options:**
 - A. Because of [the pedestrian]
@@ -7105,6 +7421,10 @@ When turning, you must give priority to longitudinal traffic, for this reason yo
 
 **Why can you not turn off the road here?**
 
+![Question Image](images/1_2_09-203-M.png)
+
+[Video: videos/1_2_09-203-M.mp4](videos/1_2_09-203-M.mp4)
+
 **Options:**
 - A. - [red] car
 - B. - [yellow] truck
@@ -7123,6 +7443,10 @@ The red car is still overtaking you and is travelling at a much higher speed tha
 **Points:** 5 Points
 
 **In this situation, why do you have to wait before turning left?**
+
+![Question Image](images/1_2_09-204-M.png)
+
+[Video: videos/1_2_09-204-M.mp4](videos/1_2_09-204-M.mp4)
 
 **Options:**
 - A. Because of the tram
@@ -7143,6 +7467,10 @@ You are changing the direction of travel, so you must give the tram priority.
 
 **In this situation, why do you have to wait before turning left?**
 
+![Question Image](images/1_2_09-205-M.png)
+
+[Video: videos/1_2_09-205-M.mp4](videos/1_2_09-205-M.mp4)
+
 **Options:**
 - A. Because of the motorbike
 - B. Because of the [red] car
@@ -7161,6 +7489,10 @@ A motorbike is driving behind a red car; due to your change of direction, you mu
 **Points:** 5 Points
 
 **Why are you required to wait now?**
+
+![Question Image](images/1_2_09-206-M.png)
+
+[Video: videos/1_2_09-206-M.mp4](videos/1_2_09-206-M.mp4)
 
 **Options:**
 - A. - cyclist
@@ -7203,6 +7535,10 @@ When there are drop kerbs (as it happens often in residential areas), the rule "
 **Points:** 3 Points
 
 **You want to leave the [petrol station]. What is correct?**
+
+![Question Image](images/1_2_10-006-M.png)
+
+[Video: videos/1_2_10-006-M.mp4](videos/1_2_10-006-M.mp4)
 
 **Options:**
 - A. I have to give priority to pedestrians crossing the road
@@ -7493,6 +7829,10 @@ The car ahead blocks you in your lane. Nevertheless, you should not overtake on 
 
 **What should you do?**
 
+![Question Image](images/1_2_11-104.png)
+
+[Video: videos/1_2_11-104.mp4](videos/1_2_11-104.mp4)
+
 **Options:**
 - A. Stop before the left turn and keep the central divide clear
 - B. Turn smoothly, so as not to impede following traffic
@@ -7512,6 +7852,10 @@ If tram rails lead through the left turn lane and you want to turn left when the
 
 **What is the right course of action?**
 
+![Question Image](images/1_2_11-105.png)
+
+[Video: videos/1_2_11-105.mp4](videos/1_2_11-105.mp4)
+
 **Options:**
 - A. Slow down
 - B. Accelerate
@@ -7530,6 +7874,10 @@ If a cyclist who moves to the left drives in front of you, you must not overtake
 **Points:** 2 Points
 
 **What is the right course of action?**
+
+![Question Image](images/1_2_11-107.png)
+
+[Video: videos/1_2_11-107.mp4](videos/1_2_11-107.mp4)
 
 **Options:**
 - A. Slow down
@@ -7590,6 +7938,10 @@ If the traffic slows down, you may enter a crossroad with a green traffic light 
 
 **Why must you slow down here and be ready to brake?**
 
+![Question Image](images/1_2_11-110-M.png)
+
+[Video: videos/1_2_11-110-M.mp4](videos/1_2_11-110-M.mp4)
+
 **Options:**
 - A. - cyclist
 - B. - [green] vehicle
@@ -7608,6 +7960,10 @@ You don't have to slow down because of pedestrians. He is far enough away from t
 **Points:** 4 Points
 
 **Why do you have to continue to brake?**
+
+![Question Image](images/1_2_11-111.png)
+
+[Video: videos/1_2_11-111.mp4](videos/1_2_11-111.mp4)
 
 **Options:**
 - A. - refuse truck
@@ -7629,6 +7985,10 @@ A garbage truck comes towards the blue truck and forces him to stop. Since the g
 
 **You want to drive straight ahead. What should you do?**
 
+![Question Image](images/1_2_11-112.png)
+
+[Video: videos/1_2_11-112.mp4](videos/1_2_11-112.mp4)
+
 **Options:**
 - A. - at the stop line
 - B. - between the yellow and the blue vehicle
@@ -7647,6 +8007,10 @@ In case of halting traffic, you are not allowed to block any intersection or T-j
 **Points:** 3 Points
 
 **When may you begin driving?**
+
+![Question Image](images/1_2_11-113-M.png)
+
+[Video: videos/1_2_11-113-M.mp4](videos/1_2_11-113-M.mp4)
 
 **Options:**
 - A. Once the truck driver has made a hand signal clearly yielding his right of way
@@ -7667,6 +8031,10 @@ The truck was signaled by flasher that he waives his right of way. Therefore, is
 **Points:** 3 Points
 
 **When may you take the turn?**
+
+![Question Image](images/1_2_11-114-M.png)
+
+[Video: videos/1_2_11-114-M.mp4](videos/1_2_11-114-M.mp4)
 
 **Options:**
 - A. Only once the truck driver has used a hand signal to clearly indicate he is foregoing his right of way
@@ -7709,6 +8077,10 @@ You should wait here and let the truck move off, giving warning signs if necessa
 **Points:** 4 Points
 
 **You want to drive straight ahead. Where should you position yourself in this situation?**
+
+![Question Image](images/1_2_11-202-M.png)
+
+[Video: videos/1_2_11-202-M.mp4](videos/1_2_11-202-M.mp4)
 
 **Options:**
 - A. On the right behind the truck
@@ -7790,7 +8162,7 @@ As soon as you stop or leave your vehicle for more than three minutes without an
 - C. At taxi ranks
 
 **Explanation:**
-You may only stop where you do not endanger other road users. This is the case, for example, if there is a hard shoulder separated from the carriageway by a continuous white line.
+You may only stop where you do not endanger other road users. This is the case, for example, if there is a hard shoulder separated from the carriageway by a continuous white line. 
 You are not allowed to stop
 - on marked lanes that are used for getting into the right of way
 - on the carriageway if there is a hard shoulder
@@ -7889,7 +8261,7 @@ If the car driver deliberately stops the vehicle and stays there for more than t
 **Options:**
 
 **Correct Answer(s):**
-- 5
+- 5 
 
 **Explanation:**
 On a pedestrian crossing and up to 5 m in front no stopping or parking is allowed. So, you can freely view the pedestrian crossing as a car driver and passers-by have a good overview of the traffic.
@@ -7905,7 +8277,7 @@ On a pedestrian crossing and up to 5 m in front no stopping or parking is allowe
 **Options:**
 
 **Correct Answer(s):**
-- 5
+- 5 
 
 **Explanation:**
 Parking is prohibited in areas that could endanger others.
@@ -7922,7 +8294,7 @@ A distance of 5 meters before and after a crossing or junction is required to ga
 **Options:**
 
 **Correct Answer(s):**
-- 50
+- 50 
 
 **Explanation:**
 At a railroad crossing with a St. Andrew's Cross sign, the view of the level crossing must not be obstructed with a distance of 50m to have enough space for waiting vehicles.
@@ -7938,7 +8310,7 @@ At a railroad crossing with a St. Andrew's Cross sign, the view of the level cro
 **Options:**
 
 **Correct Answer(s):**
-- 5
+- 5 
 
 **Explanation:**
 At a railroad crossing with St. Andrew's Cross, the rail vehicle has priority.
@@ -7955,7 +8327,7 @@ To avoid obscuring the view of the railway line, a safety distance of 5 meters m
 **Options:**
 
 **Correct Answer(s):**
-- 15
+- 15 
 
 **Explanation:**
 It is not allowed to park 15 meters before and after the stop sign to allow public transports to approach, stop and leave without encumbrance.
@@ -7971,7 +8343,7 @@ It is not allowed to park 15 meters before and after the stop sign to allow publ
 **Options:**
 
 **Correct Answer(s):**
-- 3
+- 3 
 
 **Explanation:**
 The stopping time is limited to a maximum of 3 minutes. If a vehicle is stopped for more than 3 minutes, the vehicle is considered as parked. Thus it is only alowed to stop for 3 minutes
@@ -8171,7 +8543,7 @@ In one-way streets you're only allowed to drive in one direction. If you have a 
 **Options:**
 
 **Correct Answer(s):**
-- 8
+- 8 
 
 **Explanation:**
 Parking is prohibited here up to 8 metres in front of a junction and intersection.
@@ -8187,7 +8559,7 @@ Parking is prohibited here up to 8 metres in front of a junction and intersectio
 **Options:**
 
 **Correct Answer(s):**
-- 8
+- 8 
 
 **Explanation:**
 Parking is prohibited here up to 8 metres in front of a junction and intersection.
@@ -8203,7 +8575,7 @@ Parking is prohibited here up to 8 metres in front of a junction and intersectio
 **Options:**
 
 **Correct Answer(s):**
-- 5
+- 5 
 
 **Explanation:**
 In order not to limit the view, you are not allowed to park 5 meters before and after an intersection.
@@ -8238,7 +8610,7 @@ Stopping occurs when a vehicle is stopped for less than 3 minutes for non-traffi
 **Options:**
 
 **Correct Answer(s):**
-- 8
+- 8 
 
 **Explanation:**
 To avoid obstructing visibility, you are not allowed to park 8 meters in front of and behind a junction or intersection.
@@ -8807,6 +9179,10 @@ The traffic sign combination shows you a level crossing. The car driver may appr
 
 **What is the right course of action now?**
 
+![Question Image](images/1_2_19-114.png)
+
+[Video: videos/1_2_19-114.mp4](videos/1_2_19-114.mp4)
+
 **Options:**
 - A. I wait in front of the level crossing
 - B. I carefully cross the tracks
@@ -8885,6 +9261,10 @@ Even when the barriers are open, you must always approach level crossings with c
 **Points:** 3 Points
 
 **What should you do now?**
+
+![Question Image](images/1_2_19-118-M.png)
+
+[Video: videos/1_2_19-118-M.mp4](videos/1_2_19-118-M.mp4)
 
 **Options:**
 - A. - stop before the cross
@@ -9008,6 +9388,10 @@ It is to be expected that passers-by carelessly and without paying any attention
 
 **What is the right course of action now?**
 
+![Question Image](images/1_2_20-102.png)
+
+[Video: videos/1_2_20-102.mp4](videos/1_2_20-102.mp4)
+
 **Options:**
 - A. I remain behind the bus for the moment
 - B. I overtake the bus at a moderate speed
@@ -9069,6 +9453,10 @@ You may drive past a public bus, a tram or a designated school bus only with cau
 
 **What must you be prepared for?**
 
+![Question Image](images/1_2_20-105.png)
+
+[Video: videos/1_2_20-105.mp4](videos/1_2_20-105.mp4)
+
 **Options:**
 - A. Oncoming vehicles will move onto my side of the road
 - B. As it begins moving, the bus will swing onto my side of the road
@@ -9109,6 +9497,10 @@ Here, the traffic rule "left yields to right" applies and every driver must give
 **Points:** 3 Points
 
 **What is the right course of action in this situation?**
+
+![Question Image](images/1_2_20-107-M.png)
+
+[Video: videos/1_2_20-107-M.mp4](videos/1_2_20-107-M.mp4)
 
 **Options:**
 - A. I remain behind the tram
@@ -9151,6 +9543,10 @@ Passengers can step onto the road, you should increase your attention. But you c
 
 **What do you have to be aware of in this situation?**
 
+![Question Image](images/1_2_20-109-M.png)
+
+[Video: videos/1_2_20-109-M.mp4](videos/1_2_20-109-M.mp4)
+
 **Options:**
 - A. Pedestrians could cross the road
 - B. I may drive past the bus at walking speed
@@ -9172,6 +9568,10 @@ Therefore, watch out for people, slow down and stop if necessary.
 
 **What is the right thing to do in this situation?**
 
+![Question Image](images/1_2_20-110-M.png)
+
+[Video: videos/1_2_20-110-M.mp4](videos/1_2_20-110-M.mp4)
+
 **Options:**
 - A. I am only allowed to pass the bus at walking speed
 - B. The [blue] car must stop
@@ -9190,6 +9590,10 @@ When buses move in traffic with their hazard lights on, other vehicles must alwa
 **Points:** 5 Points
 
 **What do you need to consider in this situation?**
+
+![Question Image](images/1_2_20-111-M.png)
+
+[Video: videos/1_2_20-111-M.mp4](videos/1_2_20-111-M.mp4)
 
 **Options:**
 - A. People might cross the road
@@ -9210,6 +9614,10 @@ Buses at stops may be overtaken at walking speed if they are stationary and have
 **Points:** 3 Points
 
 **What is the right course of action in this situation?**
+
+![Question Image](images/1_2_20-201-M.png)
+
+[Video: videos/1_2_20-201-M.mp4](videos/1_2_20-201-M.mp4)
 
 **Options:**
 - A. I remain behind the tram
@@ -9236,7 +9644,7 @@ You must not obstruct or endanger passengers. Therefore, stay behind the tram un
 **Options:**
 
 **Correct Answer(s):**
-- 1
+- 1 
 
 **Explanation:**
 The lighting or the brake light signals the end of the vehicle. With this, you estimating the correct safety distance. If a protruding object of the vehicle in front of you is visually marked, it protrudes at least one meter. You should take this into account in your assessment of the necessary safety distance and increase it accordingly.
@@ -9514,6 +9922,10 @@ There is a strict ban on passing in front of and on cross-walks. That is, so tha
 **Points:** 4 Points
 
 **What is the right course of action?**
+
+![Question Image](images/1_2_26-007.png)
+
+[Video: videos/1_2_26-007.mp4](videos/1_2_26-007.mp4)
 
 **Options:**
 - A. I stop because a man wants to cross the pedestrian crossing
@@ -9861,6 +10273,10 @@ After leaving the personal data on the damaged vehicle, you must inform a nearby
 
 **What is the right course of action now?**
 
+![Question Image](images/1_2_34-004.png)
+
+[Video: videos/1_2_34-004.mp4](videos/1_2_34-004.mp4)
+
 **Options:**
 - A. - leave the ignition key or transponder behind when leaving the vehicle
 - B. - exit the tunnel via the emergency exit
@@ -10009,7 +10425,7 @@ In the event of an accident involving a hazardous goods transport, you must stat
 **Options:**
 
 **Correct Answer(s):**
-- 112
+- 112 
 
 **Explanation:**
 You can reach the emergency call centre free of charge anywhere in Europe by dialling 112. This will take you directly to the emergency services, police and fire brigade
@@ -10477,7 +10893,7 @@ The traffic is regulated by the police so that the red car is allowed to drive f
 - A. - wait before the junction
 
 **Explanation:**
-If a traffic police officer is directing traffic, the instructions must be followed. In this situation, the traffic policeman stands in front of you, facing you and with his arms outstretched. This means that you have to wait at the intersection and vehicles from the right and left have the right of way.
+If a traffic police officer is directing traffic, the instructions must be followed.  In this situation, the traffic policeman stands in front of you, facing you and with his arms outstretched. This means that you have to wait at the intersection and vehicles from the right and left have the right of way.
 
 ---
 
@@ -10659,6 +11075,10 @@ If a traffic light turns red, car drivers who want to drive straight ahead or to
 
 **What should you do?**
 
+![Question Image](images/1_2_37-013.png)
+
+[Video: videos/1_2_37-013.mp4](videos/1_2_37-013.mp4)
+
 **Options:**
 - A. Continue driving
 - B. Slow down
@@ -10720,6 +11140,10 @@ Thanks to the green arrow sign, you can turn at this traffic light even when it'
 
 **What should you do?**
 
+![Question Image](images/1_2_37-017.png)
+
+[Video: videos/1_2_37-017.mp4](videos/1_2_37-017.mp4)
+
 **Options:**
 - A. Slow down
 - B. Continue driving
@@ -10737,6 +11161,10 @@ In front of you you see a traffic light changing from green to yellow. You drive
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/1_2_37-018.png)
+
+[Video: videos/1_2_37-018.mp4](videos/1_2_37-018.mp4)
 
 **Options:**
 - A. I allow any cross traffic the right of way
@@ -10820,6 +11248,10 @@ On traffic lights with this additional sign, only cyclists, even at red, can tur
 
 **The traffic lights facing you have already been “green” for some time now. What is the right course of action now?**
 
+![Question Image](images/1_2_37-022-M.png)
+
+[Video: videos/1_2_37-022-M.mp4](videos/1_2_37-022-M.mp4)
+
 **Options:**
 - A. I continue driving, ready to brake because the traffic lights could change to “amber”
 - B. I watch the traffic lights closely
@@ -10881,6 +11313,10 @@ Due to the solid line, you must not change the lane here. Follow only the arrows
 
 **What is the right behaviour now?**
 
+![Question Image](images/1_2_37-104.png)
+
+[Video: videos/1_2_37-104.mp4](videos/1_2_37-104.mp4)
+
 **Options:**
 - A. - off now
 - B. - off only when the lorry drives on
@@ -10899,6 +11335,10 @@ Since this situation is a two-phase traffic light, there is no green signal. Aft
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/1_2_37-201-M.png)
+
+[Video: videos/1_2_37-201-M.mp4](videos/1_2_37-201-M.mp4)
 
 **Options:**
 - A. I allow any cross traffic the right of way
@@ -11022,6 +11462,10 @@ A blue flashing light without siren indicates to accidents or other emergencies 
 **Points:** 4 Points
 
 **You are being followed by an ambulance with its blue lights flashing and siren sounding. What should you do?**
+
+![Question Image](images/1_2_38-104.png)
+
+[Video: videos/1_2_38-104.mp4](videos/1_2_38-104.mp4)
 
 **Options:**
 - A. I move out of the way immediately without endangering others
@@ -11354,7 +11798,7 @@ The green and red cars are on a turning main road. You are on the secondary road
 - B. [The yellow car] may proceed ahead of the [red car]
 
 **Explanation:**
-You and the yellow car are on a turning main road. The red car is on a secondary road. Because the yellow car remains on the main road, it is allowed to drive first. You may drive second and the red car can drive last.
+You and the yellow car are on a turning main road. The red car is on a secondary road.  Because the yellow car remains on the main road, it is allowed to drive first. You may drive second and the red car can drive last.
 
 ---
 
@@ -12168,6 +12612,10 @@ At intersections and junctions, whoever is coming from the right has the right o
 
 **Which is correct in this situation?**
 
+![Question Image](images/1_3_01-130-M.png)
+
+[Video: videos/1_3_01-130-M.mp4](videos/1_3_01-130-M.mp4)
+
 **Options:**
 - A. I have to wait
 - B. [The blue car] has to wait
@@ -12420,13 +12868,13 @@ This traffic sign warns of strong crosswinds and that your vehicle could be disp
 ![Question Image](images/1_4_40-013.png)
 
 **Options:**
-- A.
-- B.
-- C.
+- A. 
+- B. 
+- C. 
 
 **Correct Answer(s):**
-- A.
-- B.
+- A. 
+- B. 
 
 **Explanation:**
 The traffic sign “road narrowed on one side from the right” means that your lane will narrow significantly. Here you have to give way to oncoming traffic.
@@ -13909,7 +14357,7 @@ Basically, the traffic sign “Prohibited all types of vehicles” means that ve
 - B. I may also park on the left-hand side of the road
 
 **Explanation:**
-The direction of travel on a one-way street is always indicated by the white arrow on the traffic sign. If you are on your one-way street, you are allowed to park on the right or left side of the road in the direction of travel.
+The direction of travel on a one-way street is always indicated by the white arrow on the traffic sign. If you are on your one-way street, you are allowed to park on the right or left side of the road in the direction of travel. 
 In order not to obstruct the traffic behind you when turning left, you must move as far to the left as possible. This leaves enough space for vehicles that want to go straight or turn right.
 
 ---
@@ -13927,16 +14375,16 @@ In order not to obstruct the traffic behind you when turning left, you must move
 ![Question Image](images/1_4_41-031.png)
 
 **Options:**
-- A.
-- B.
-- C.
+- A. 
+- B. 
+- C. 
 
 **Correct Answer(s):**
-- A.
-- B.
+- A. 
+- B. 
 
 **Explanation:**
-The traffic sign “End of priority road” signals to you that the right of way regulation has been lifted and the priority road ends here.
+The traffic sign “End of priority road” signals to you that the right of way regulation has been lifted and the priority road ends here. 
 
 If you have previously been driving on a priority road, the traffic sign “Give way” tells you that this priority road now ends. You now have to give way to other road users.
 
@@ -13955,16 +14403,16 @@ If you have previously been driving on a priority road, the traffic sign “Give
 ![Question Image](images/1_4_41-032.png)
 
 **Options:**
-- A.
-- B.
-- C.
+- A. 
+- B. 
+- C. 
 
 **Correct Answer(s):**
-- A.
-- B.
+- A. 
+- B. 
 
 **Explanation:**
-The “stop sign” shows you that you must always stop at the stop line or line of sight.
+The “stop sign” shows you that you must always stop at the stop line or line of sight. 
 
 The “green arrow” next to the red traffic light signals that you can turn right despite the red traffic light. But only after you have stopped at the stop or line of sight and made sure that you are not endangering anyone.
 
@@ -13983,16 +14431,16 @@ The “green arrow” next to the red traffic light signals that you can turn ri
 ![Question Image](images/1_4_41-033.png)
 
 **Options:**
-- A.
-- B.
-- C.
+- A. 
+- B. 
+- C. 
 
 **Correct Answer(s):**
-- A.
-- B.
+- A. 
+- B. 
 
 **Explanation:**
-You are not allowed to enter a street with this traffic sign because it indicates a pedestrian zone. This may only be used by pedestrians.
+You are not allowed to enter a street with this traffic sign because it indicates a pedestrian zone. This may only be used by pedestrians. 
 
 The traffic sign means “Entry prohibited”. Driving into the signposted area is therefore prohibited.
 
@@ -15164,7 +15612,7 @@ This traffic sign indicates the prescribed minimum speed. You must therefore dri
 **Options:**
 
 **Correct Answer(s):**
-- 30
+- 30 
 
 **Explanation:**
 Cyclists, light electric vehicles and other authorized vehicles may not drive more than 30 km/h in bicycle zones.
@@ -15210,7 +15658,7 @@ The additional sign limits the speed limit between 10 pm and 6 am.
 - B. - turn left before the traffic sign
 
 **Explanation:**
-The arrow on this traffic sign always shows the direction of travel. If it is a straight arrow, you have to turn in front of the sign. If it is a curved arrow, you must turn according to the sign.
+The arrow on this traffic sign always shows the direction of travel. If it is a straight arrow, you have to turn in front of the sign. If it is a curved arrow, you must turn according to the sign. 
 You have to flash to indicate the change in driving direction.
 
 ---
@@ -15228,14 +15676,14 @@ You have to flash to indicate the change in driving direction.
 ![Question Image](images/1_4_41-174.png)
 
 **Options:**
-- A.
-- B.
-- C.
+- A. 
+- B. 
+- C. 
 
 **Correct Answer(s):**
-- A.
-- B.
-- C.
+- A. 
+- B. 
+- C. 
 
 **Explanation:**
 All traffic signs show you that turning is prohibited.
@@ -15261,12 +15709,12 @@ This traffic sign tells you that you are on a highway. U-turns are strictly proh
 ![Question Image](images/1_4_41-175.png)
 
 **Options:**
-- A.
-- B.
-- C.
+- A. 
+- B. 
+- C. 
 
 **Correct Answer(s):**
-- A.
+- A. 
 
 **Explanation:**
 Traffic signs with a red border generally indicate a ban.
@@ -15346,6 +15794,10 @@ At intersections and junctions with “right before left” regulation, especial
 
 **What is the rule created by the road markings in this situation?**
 
+![Question Image](images/1_4_42-010-M.png)
+
+[Video: videos/1_4_42-010-M.mp4](videos/1_4_42-010-M.mp4)
+
 **Options:**
 - A. - approach the junction cautiously
 - B. - give way to the [red vehicle]
@@ -15373,12 +15825,12 @@ At intersections and junctions with “right before left” regulation, especial
 ![Question Image](images/1_4_42-011.png)
 
 **Options:**
-- A.
-- B.
-- C.
+- A. 
+- B. 
+- C. 
 
 **Correct Answer(s):**
-- A.
+- A. 
 
 **Explanation:**
 In a traffic-calmed area, you may only drive your vehicle at walking speed, as you must expect pedestrians or children playing at any time.
@@ -15398,12 +15850,12 @@ In a traffic-calmed area, you may only drive your vehicle at walking speed, as y
 ![Question Image](images/1_4_42-012.png)
 
 **Options:**
-- A.
-- B.
-- C.
+- A. 
+- B. 
+- C. 
 
 **Correct Answer(s):**
-- A.
+- A. 
 
 **Explanation:**
 The traffic sign “One-time right of way” signals to you that you have the right of way at the next intersection or junction. However, this sign has no effect on the intersection after that.
@@ -17253,6 +17705,10 @@ If you ride with the visor open, an insect can fly into it at any time. This can
 
 **What should you do now?**
 
+![Question Image](images/2_1_01-007-M.png)
+
+[Video: videos/2_1_01-007-M.mp4](videos/2_1_01-007-M.mp4)
+
 **Options:**
 - A. I reduce my speed so that the overtaking vehicle can pull in ahead of me
 - B. I accelerate so that the overtaking vehicle can pull in behind me
@@ -17271,6 +17727,10 @@ The overtaking vehicle will probably not be able to complete its overtaking mano
 **Points:** 4 Points
 
 **Why should you allow the truck to change lane?**
+
+![Question Image](images/2_1_01-008-M.png)
+
+[Video: videos/2_1_01-008-M.mp4](videos/2_1_01-008-M.mp4)
 
 **Options:**
 - A. Because the driver of the truck may fail to see me
@@ -17418,6 +17878,10 @@ For this question, you must first calculate the thinking distance and the hazard
 
 **Why do you have to brake?**
 
+![Question Image](images/2_1_02-003.png)
+
+[Video: videos/2_1_02-003.mp4](videos/2_1_02-003.mp4)
+
 **Options:**
 - A. Because someone is walking onto the road
 - B. Because passengers are exiting the tram
@@ -17436,6 +17900,10 @@ You have to expect the person standing in front of the stationary truck to move 
 **Points:** 5 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_1_02-004.png)
+
+[Video: videos/2_1_02-004.mp4](videos/2_1_02-004.mp4)
 
 **Options:**
 - A. I stop
@@ -17478,6 +17946,10 @@ In addition, you have to expect that people get off to the side of the road.
 **Points:** 5 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_1_02-006-M.png)
+
+[Video: videos/2_1_02-006-M.mp4](videos/2_1_02-006-M.mp4)
 
 **Options:**
 - A. I stop
@@ -17936,6 +18408,10 @@ The road is usually very narrow. In addition, it is often heavily curved to drai
 
 **What is the right course of action?**
 
+![Question Image](images/2_1_03-028.png)
+
+[Video: videos/2_1_03-028.mp4](videos/2_1_03-028.mp4)
+
 **Options:**
 - A. I brake
 - B. I drive over to the right-side as far as possible
@@ -17956,6 +18432,10 @@ While overtaking a cyclist, the oncoming truck also partly gets on your lane. Br
 
 **Why should you brake now?**
 
+![Question Image](images/2_1_03-029.png)
+
+[Video: videos/2_1_03-029.mp4](videos/2_1_03-029.mp4)
+
 **Options:**
 - A. - green car
 - B. - blue car
@@ -17974,6 +18454,10 @@ Snow is a special danger for you as a car driver. Your lane is covered in snow. 
 **Points:** 3 Points
 
 **Why should you ready yourself to have to stop here?**
+
+![Question Image](images/2_1_03-030.png)
+
+[Video: videos/2_1_03-030.mp4](videos/2_1_03-030.mp4)
 
 **Options:**
 - A. Because of the truck
@@ -18034,6 +18518,10 @@ On the straight unexpected section with rolling gravel you should carefully redu
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_1_03-033.png)
+
+[Video: videos/2_1_03-033.mp4](videos/2_1_03-033.mp4)
 
 **Options:**
 - A. I reduce my speed
@@ -18258,7 +18746,7 @@ Locking tendency means that the front wheel is loaded more and the rear wheel is
 - B. The handbrake lever cannot be safely operated with cold fingers
 
 **Explanation:**
-If the temperature of the outside air differs from the air temperature in the helmet, the helmet will mist up. This greatly impairs visibility.
+If the temperature of the outside air differs from the air temperature in the helmet, the helmet will mist up. This greatly impairs visibility. 
 In addition, the handbrake lever is more difficult to operate with cold fingers.
 
 ---
@@ -18598,6 +19086,10 @@ Wet markings similarly to tram tracks are slippery. You should cross them as per
 
 **What is the right course of action?**
 
+![Question Image](images/2_1_03-115.png)
+
+[Video: videos/2_1_03-115.mp4](videos/2_1_03-115.mp4)
+
 **Options:**
 - A. I continue slowing down
 - B. I wait before the obstruction
@@ -18640,6 +19132,10 @@ In the event of lane damage before a turn, you should reduce your speed consider
 
 **You are driving on the autobahn. What is the correct thing to do in this situation?**
 
+![Question Image](images/2_1_03-117.png)
+
+[Video: videos/2_1_03-117.mp4](videos/2_1_03-117.mp4)
+
 **Options:**
 - A. - turn on the rear fog lights
 - B. - drive at 50 km/h maximum
@@ -18659,6 +19155,10 @@ Due to the severely restricted view on the motorway, you can switch on your rear
 **Points:** 3 Points
 
 **The electronic stability programme (ESP) display has flashed several times. What is the correct course of action in this situation?**
+
+![Question Image](images/2_1_03-118.png)
+
+[Video: videos/2_1_03-118.mp4](videos/2_1_03-118.mp4)
 
 **Options:**
 - A. I reduce my speed, because it is too high
@@ -18722,6 +19222,10 @@ The narrow width of the road and its often curved shape due to tree roots force 
 **Points:** 3 Points
 
 **The electronic stability control (ESC) display light has flashed several times. What is the correct course of action in this situation?**
+
+![Question Image](images/2_1_03-121.png)
+
+[Video: videos/2_1_03-121.mp4](videos/2_1_03-121.mp4)
 
 **Options:**
 - A. I reduce my speed, because it is too high
@@ -19171,7 +19675,7 @@ When driving constantly at high speed, the ability to concentrate decreases. You
 - C. I might not respond to hazards in good enough time
 
 **Explanation:**
-Other road users may underestimate your speed and suddenly pull out to overtake, for example. You may not be able to brake in time at high speed if a dangerous situation arises. If you see that danger is imminent, reduce your speed accordingly beforehand.
+Other road users may underestimate your speed and suddenly pull out to overtake, for example. You may not be able to brake in time at high speed if a dangerous situation arises. If you see that danger is imminent, reduce your speed accordingly beforehand. 
 In addition, at high speeds, even a slight crosswind can cause your vehicle to veer to the right or left.
 
 ---
@@ -19201,6 +19705,10 @@ When driving on an avenue with narrow lane width, you must consider the followin
 **Points:** 4 Points
 
 **Why are you required to slow down now?**
+
+![Question Image](images/2_1_05-102.png)
+
+[Video: videos/2_1_05-102.mp4](videos/2_1_05-102.mp4)
 
 **Options:**
 - A. Because of the animal
@@ -19241,6 +19749,10 @@ You must be aware of sudden, dangerous situations when: 1. visibility is severel
 **Points:** 5 Points
 
 **Why do you have to lower your speed here?**
+
+![Question Image](images/2_1_05-104-M.png)
+
+[Video: videos/2_1_05-104-M.mp4](videos/2_1_05-104-M.mp4)
 
 **Options:**
 - A. Because of the vehicle overtaking
@@ -19283,6 +19795,10 @@ With a confusing right turn you have to expect different situations. Especially 
 **Points:** 5 Points
 
 **Why do you have to reduce your speed and keep as far to the right as possible here?**
+
+![Question Image](images/2_1_05-106-M.png)
+
+[Video: videos/2_1_05-106-M.mp4](videos/2_1_05-106-M.mp4)
 
 **Options:**
 - A. Because of the [red car]
@@ -19412,6 +19928,10 @@ The car driver should reduce the speed. Otherwise an accident could occur. If th
 
 **You want to overtake. What is the right course of action now?**
 
+![Question Image](images/2_1_06-007-M.png)
+
+[Video: videos/2_1_06-007-M.mp4](videos/2_1_06-007-M.mp4)
+
 **Options:**
 - A. I refrain from overtaking
 - B. I accelerate
@@ -19430,6 +19950,10 @@ As the vehicle behind you has already started the overtaking process, you should
 **Points:** 4 Points
 
 **You want to overtake. What should you do?**
+
+![Question Image](images/2_1_06-008-M.png)
+
+[Video: videos/2_1_06-008-M.mp4](videos/2_1_06-008-M.mp4)
 
 **Options:**
 - A. - only if I have a clear view over the necessary stretch of road
@@ -19492,6 +20016,10 @@ You have to slow down and drive to the right, so that the overtaking vehicle dri
 
 **Why should you brake hard now?**
 
+![Question Image](images/2_1_06-011.png)
+
+[Video: videos/2_1_06-011.mp4](videos/2_1_06-011.mp4)
+
 **Options:**
 - A. Because of the car
 - B. Because of the truck
@@ -19510,6 +20038,10 @@ Since the blue passenger car will most likely get on your lane, you have to slow
 **Points:** 5 Points
 
 **What is the right course of action?**
+
+![Question Image](images/2_1_06-012-M.png)
+
+[Video: videos/2_1_06-012-M.mp4](videos/2_1_06-012-M.mp4)
 
 **Options:**
 - A. I overtake [the blue car] and then move into the middle lane
@@ -19530,6 +20062,10 @@ As the car driver, you do not have to dodge to the middle lane when another car 
 
 **You want to overtake. What is the right course of action now?**
 
+![Question Image](images/2_1_06-013.png)
+
+[Video: videos/2_1_06-013.mp4](videos/2_1_06-013.mp4)
+
 **Options:**
 - A. I cease the overtaking manoeuvre and remain behind the truck
 - B. I accelerate and quickly continue the overtaking manoeuvre
@@ -19548,6 +20084,10 @@ You already indicated and want to overtake the truck. In the rearview mirror you
 **Points:** 5 Points
 
 **What is the right course of action?**
+
+![Question Image](images/2_1_06-014.png)
+
+[Video: videos/2_1_06-014.mp4](videos/2_1_06-014.mp4)
 
 **Options:**
 - A. I quickly continue the overtaking manoeuvre
@@ -19568,6 +20108,10 @@ While overtaking a truck, you observe a fast approaching car in the rearview mir
 
 **What is the right course of action?**
 
+![Question Image](images/2_1_06-015.png)
+
+[Video: videos/2_1_06-015.mp4](videos/2_1_06-015.mp4)
+
 **Options:**
 - A. I overtake the van and then move into the middle lane
 - B. I move immediately into the lane to the right
@@ -19586,6 +20130,10 @@ A driver drives dangerously close to you on the left-hand lane and signals his/h
 **Points:** 5 Points
 
 **What should you do now?**
+
+![Question Image](images/2_1_06-016-M.png)
+
+[Video: videos/2_1_06-016-M.mp4](videos/2_1_06-016-M.mp4)
 
 **Options:**
 - A. I slow down
@@ -19607,6 +20155,10 @@ As a vehicle is approaching from the front and want to overtake a car behind you
 
 **Why must you slow down here?**
 
+![Question Image](images/2_1_06-017-M.png)
+
+[Video: videos/2_1_06-017-M.mp4](videos/2_1_06-017-M.mp4)
+
 **Options:**
 - A. Because of the overtaking car
 - B. Because the maximum permitted speed is 80 km/h
@@ -19625,6 +20177,10 @@ The oncoming car overtakes despite opposing traffic about 250 m in front of you.
 **Points:** 5 Points
 
 **What should you do now?**
+
+![Question Image](images/2_1_06-018-M.png)
+
+[Video: videos/2_1_06-018-M.mp4](videos/2_1_06-018-M.mp4)
 
 **Options:**
 - A. I slow down
@@ -19646,6 +20202,10 @@ If a car overtakes you despite oncoming traffic, you should delay and try to dri
 
 **Why are you not allowed to overtake in this situation?**
 
+![Question Image](images/2_1_06-019-M.png)
+
+[Video: videos/2_1_06-019-M.mp4](videos/2_1_06-019-M.mp4)
+
 **Options:**
 - A. Because the motorbike wants to overtake me
 - B. Because my overtaking distance is too long
@@ -19665,6 +20225,10 @@ You are not allowed to overtake because of the motorbike coming at a fast speed 
 **Points:** 5 Points
 
 **What should you do now?**
+
+![Question Image](images/2_1_06-020-M.png)
+
+[Video: videos/2_1_06-020-M.mp4](videos/2_1_06-020-M.mp4)
 
 **Options:**
 - A. I slow down
@@ -19686,6 +20250,10 @@ Given the truck that is overtaking you has incoming traffic, you should slow dow
 
 **You want to overtake. What is the right course of action now?**
 
+![Question Image](images/2_1_06-021-M.png)
+
+[Video: videos/2_1_06-021-M.mp4](videos/2_1_06-021-M.mp4)
+
 **Options:**
 - A. I refrain from overtaking the truck, because I do not have a clear view over the necessary stretch of road
 - B. I follow the motorbike, because the truck is using its indicators to signal an opportunity to overtake
@@ -19704,6 +20272,10 @@ You should not overtake the truck, as you cannot see the distance required for t
 **Points:** 4 Points
 
 **Why must you abort your overtaking manoeuvre?**
+
+![Question Image](images/2_1_06-022-M.png)
+
+[Video: videos/2_1_06-022-M.mp4](videos/2_1_06-022-M.mp4)
 
 **Options:**
 - A. Because the tractor wants to turn left
@@ -19724,6 +20296,10 @@ You should abort the overtaking maneuver because the tractor wants to turn left 
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_1_06-023-M.png)
+
+[Video: videos/2_1_06-023-M.mp4](videos/2_1_06-023-M.mp4)
 
 **Options:**
 - A. - do not overtake, because the tractor wants to pull out to the left
@@ -19788,6 +20364,10 @@ As a vehicle is in your lane, you should slow down immediately and as far as pos
 
 **Why are you not allowed to overtake now?**
 
+![Question Image](images/2_1_06-026-M.png)
+
+[Video: videos/2_1_06-026-M.mp4](videos/2_1_06-026-M.mp4)
+
 **Options:**
 - A. - motorbike
 - B. - layout of the road
@@ -19807,6 +20387,10 @@ Because of the motorcycle (oncoming traffic) and the course of the road and the 
 **Points:** 4 Points
 
 **Why are you not allowed to overtake here now?**
+
+![Question Image](images/2_1_06-027-M.png)
+
+[Video: videos/2_1_06-027-M.mp4](videos/2_1_06-027-M.mp4)
 
 **Options:**
 - A. - motorbike
@@ -19892,6 +20476,10 @@ The avenue is framed by trees. Therefore, the change of light and shadow often l
 
 **Why must you discontinue your overtaking manoeuvre here?**
 
+![Question Image](images/2_1_06-031-M.png)
+
+[Video: videos/2_1_06-031-M.mp4](videos/2_1_06-031-M.mp4)
+
 **Options:**
 - A. Because the tractor will turn off to the left
 - B. Because the motorbike will overtake me
@@ -19933,6 +20521,10 @@ Because a closed association consists of several vehicles, you cannot really und
 
 **Why is it dangerous to overtake in this situation?**
 
+![Question Image](images/2_1_06-033-M.png)
+
+[Video: videos/2_1_06-033-M.mp4](videos/2_1_06-033-M.mp4)
+
 **Options:**
 - A. Because vehicles ahead may swerve out
 - B. Because I cannot see far enough along the route necessary for overtaking
@@ -19944,7 +20536,7 @@ Because a closed association consists of several vehicles, you cannot really und
 - C. Because there is not sufficient space to pull back in between the vehicles ahead
 
 **Explanation:**
-You are driving in a convoy of several cars behind a lorry on a winding road with oncoming traffic. Ideally, the car behind the lorry overtakes first before the vehicles behind move up and start to overtake.
+You are driving in a convoy of several cars behind a lorry on a winding road with oncoming traffic. Ideally, the car behind the lorry overtakes first before the vehicles behind move up and start to overtake. 
 On the left-hand bend, you cannot see the overtaking lane sufficiently. You will probably have to cancel the overtaking manoeuvre and pull in between two vehicles. There is a possibility that the distance between the vehicles in front is too small and that you will endanger yourself and other road users by pulling in.
 
 ---
@@ -19954,6 +20546,10 @@ On the left-hand bend, you cannot see the overtaking lane sufficiently. You will
 **Points:** 4 Points
 
 **Why are you not permitted to overtake in this situation?**
+
+![Question Image](images/2_1_06-034-M.png)
+
+[Video: videos/2_1_06-034-M.mp4](videos/2_1_06-034-M.mp4)
 
 **Options:**
 - A. Because the motorbike might overtake me
@@ -19998,6 +20594,10 @@ You are not allowed to overtake before the bend as your overtaking distance is t
 
 **Why do you have to switch to the right-hand lane?**
 
+![Question Image](images/2_1_06-103-M.png)
+
+[Video: videos/2_1_06-103-M.mp4](videos/2_1_06-103-M.mp4)
+
 **Options:**
 - A. - [red] car
 - B. - [blue] car
@@ -20007,7 +20607,7 @@ You are not allowed to overtake before the bend as your overtaking distance is t
 - A. - [red] car
 
 **Explanation:**
-The traffic sign indicates a narrowing (end of a lane) in 200 metres.
+The traffic sign indicates a narrowing (end of a lane) in 200 metres. 
 The lane is led into oncoming traffic through the narrowing, so you must be extra vigilant not to end up in oncoming traffic.
 
 ---
@@ -20017,6 +20617,10 @@ The lane is led into oncoming traffic through the narrowing, so you must be extr
 **Points:** 4 Points
 
 **What is the right course of action here?**
+
+![Question Image](images/2_1_06-104-M.png)
+
+[Video: videos/2_1_06-104-M.mp4](videos/2_1_06-104-M.mp4)
 
 **Options:**
 - A. I do not overtake the [cyclists] for now
@@ -20036,6 +20640,10 @@ You should not overtake for the time being, as you are driving side by side and 
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_1_06-105.png)
+
+[Video: videos/2_1_06-105.mp4](videos/2_1_06-105.mp4)
 
 **Options:**
 - A. I slow down to walking speed
@@ -20057,6 +20665,10 @@ In such a situation, you must slow down to walking speed and keep to the right a
 
 **What is the right course of action now?**
 
+![Question Image](images/2_1_06-106-M.png)
+
+[Video: videos/2_1_06-106-M.mp4](videos/2_1_06-106-M.mp4)
+
 **Options:**
 - A. I reduce my speed
 - B. I maintain my speed
@@ -20076,6 +20688,10 @@ You have to reduce your speed because the side distance to the cyclist cannot be
 
 **Why should you not overtake the moped rider in this situation?**
 
+![Question Image](images/2_1_06-107-M.png)
+
+[Video: videos/2_1_06-107-M.mp4](videos/2_1_06-107-M.mp4)
+
 **Options:**
 - A. Because this might cause the moped rider to fall
 - B. Because I am not allowed to drive significantly faster than the moped rider
@@ -20087,8 +20703,8 @@ You have to reduce your speed because the side distance to the cyclist cannot be
 - C. Because I am unable to maintain the requisite amount of side clearance
 
 **Explanation:**
-In the roadworks area, the speed limit is 30 km/h and the road is narrowed.
-You are therefore not allowed to drive as fast as would be necessary to overtake the moped rider safely.
+In the roadworks area, the speed limit is 30 km/h and the road is narrowed. 
+You are therefore not allowed to drive as fast as would be necessary to overtake the moped rider safely. 
 Due to the narrowness of the road, you cannot keep the required distance to the side and the poor condition of the road could cause the moped rider to fall if you overtake him.
 
 ---
@@ -20098,6 +20714,10 @@ Due to the narrowness of the road, you cannot keep the required distance to the 
 **Points:** 4 Points
 
 **What is the right course of action here?**
+
+![Question Image](images/2_1_06-201-M.png)
+
+[Video: videos/2_1_06-201-M.mp4](videos/2_1_06-201-M.mp4)
 
 **Options:**
 - A. I do not overtake [the cyclist] for now
@@ -20186,6 +20806,10 @@ Outside of built-up areas, slow vehicles such as tractors, trucks and mopeds oft
 
 **What should you anticipate in this situation?**
 
+![Question Image](images/2_1_07-007-M.png)
+
+[Video: videos/2_1_07-007-M.mp4](videos/2_1_07-007-M.mp4)
+
 **Options:**
 - A. That the driver of the [yellow car] fails to see me
 - B. That there are loose chippings on the carriageway
@@ -20227,6 +20851,10 @@ The white car wants to turn left and since you do not know whether it will stop 
 **Points:** 4 Points
 
 **Why must you brake now?**
+
+![Question Image](images/2_1_07-009-M.png)
+
+[Video: videos/2_1_07-009-M.mp4](videos/2_1_07-009-M.mp4)
 
 **Options:**
 - A. - [green vehicle]
@@ -20270,6 +20898,10 @@ Vehicles can leave the parking space, watch out for vehicles leaving the parking
 
 **What is the right course of action now?**
 
+![Question Image](images/2_1_07-011-M.png)
+
+[Video: videos/2_1_07-011-M.mp4](videos/2_1_07-011-M.mp4)
+
 **Options:**
 - A. I drive as far to the right as possible
 - B. I brake
@@ -20289,6 +20921,10 @@ The car will probably overtake the cyclist. To be on the safe side, slow down an
 **Points:** 4 Points
 
 **Why should you be ready to brake in this situation?**
+
+![Question Image](images/2_1_07-012-M.png)
+
+[Video: videos/2_1_07-012-M.mp4](videos/2_1_07-012-M.mp4)
 
 **Options:**
 - A. Because of the tractor
@@ -20329,6 +20965,10 @@ Drive in a staggered manner to avoid rear-end collisions caused by sudden brakin
 
 **What should you anticipate in this situation?**
 
+![Question Image](images/2_1_07-014-M.png)
+
+[Video: videos/2_1_07-014-M.mp4](videos/2_1_07-014-M.mp4)
+
 **Options:**
 - A. The driver of the [red] vehicle fails to see me
 - B. The [green] truck performs a turn
@@ -20347,6 +20987,10 @@ Because of the turning truck, the van could miss you. Be ready to brake.
 **Points:** 5 Points
 
 **Why should you further reduce your speed here?**
+
+![Question Image](images/2_1_07-015-M.png)
+
+[Video: videos/2_1_07-015-M.mp4](videos/2_1_07-015-M.mp4)
 
 **Options:**
 - A. Because the [red] car could cross onto my lane
@@ -20368,6 +21012,10 @@ It's unlikely that the car in the left lane will continue as it appears to have 
 
 **What is the right course of action now?**
 
+![Question Image](images/2_1_07-016-M.png)
+
+[Video: videos/2_1_07-016-M.mp4](videos/2_1_07-016-M.mp4)
+
 **Options:**
 - A. I reduce my speed
 - B. I drive as far to the right as possible on my lane
@@ -20387,6 +21035,10 @@ The stalled vehicle is blocking the other vehicle's lane and restricting your vi
 **Points:** 5 Points
 
 **Why should you continue to slow down here?**
+
+![Question Image](images/2_1_07-017.png)
+
+[Video: videos/2_1_07-017.mp4](videos/2_1_07-017.mp4)
 
 **Options:**
 - A. Because the red vehicle could cross onto my lane
@@ -20408,6 +21060,10 @@ On the left lane a car has broken down. There's a person standing in front of th
 
 **What is the right course of action now?**
 
+![Question Image](images/2_1_07-018.png)
+
+[Video: videos/2_1_07-018.mp4](videos/2_1_07-018.mp4)
+
 **Options:**
 - A. I continue braking
 - B. I move into the left-hand lane
@@ -20426,6 +21082,10 @@ The cyclist cannot continue his journey due to the transporter on the bike path.
 **Points:** 5 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_1_07-019-M.png)
+
+[Video: videos/2_1_07-019-M.mp4](videos/2_1_07-019-M.mp4)
 
 **Options:**
 - A. I reduce my speed
@@ -20447,6 +21107,10 @@ The motorcyclist is approaching you at high speed. He could overtake you even th
 
 **What should you do now?**
 
+![Question Image](images/2_1_07-020.png)
+
+[Video: videos/2_1_07-020.mp4](videos/2_1_07-020.mp4)
+
 **Options:**
 - A. I continue driving as far to the right as possible
 - B. I brake
@@ -20467,6 +21131,10 @@ The yellow car comes towards you as a wrong-way driver on the highway. Drive to 
 
 **What is the right course of action now?**
 
+![Question Image](images/2_1_07-021-M.png)
+
+[Video: videos/2_1_07-021-M.mp4](videos/2_1_07-021-M.mp4)
+
 **Options:**
 - A. I stop behind the taxi
 - B. I move into the left-hand lane
@@ -20485,6 +21153,10 @@ Given that you have traffic on the left line behind you, you should slow down an
 **Points:** 3 Points
 
 **What is the correct course of action in this situation?**
+
+![Question Image](images/2_1_07-022-M.png)
+
+[Video: videos/2_1_07-022-M.mp4](videos/2_1_07-022-M.mp4)
 
 **Options:**
 - A. - reduce my speed further
@@ -20507,6 +21179,10 @@ Hazard braking could lead to a rear-end collision if the vehicle behind you cann
 
 **Why should you reduce your speed now?**
 
+![Question Image](images/2_1_07-023-M.png)
+
+[Video: videos/2_1_07-023-M.mp4](videos/2_1_07-023-M.mp4)
+
 **Options:**
 - A. Because of the animal
 - B. Because of the [red car]
@@ -20525,6 +21201,10 @@ Even if you keep to the speed limit of 60 km/h, an animal will run onto the road
 **Points:** 3 Points
 
 **What do you have to be aware of in this situation?**
+
+![Question Image](images/2_1_07-024-M.png)
+
+[Video: videos/2_1_07-024-M.mp4](videos/2_1_07-024-M.mp4)
 
 **Options:**
 - A. The driver of the [yellow car] may fail to see me
@@ -20547,6 +21227,10 @@ You should also take care not to drive on the chippings, as chippings increase t
 
 **What is the right course of action now?**
 
+![Question Image](images/2_1_07-025-M.png)
+
+[Video: videos/2_1_07-025-M.mp4](videos/2_1_07-025-M.mp4)
+
 **Options:**
 - A. I brake sharply
 - B. I yield my right of way
@@ -20566,6 +21250,10 @@ As the blue car will probably be travelling on the road without observing the ri
 **Points:** 3 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_1_07-026-M.png)
+
+[Video: videos/2_1_07-026-M.mp4](videos/2_1_07-026-M.mp4)
 
 **Options:**
 - A. I reduce my speed further
@@ -20587,6 +21275,10 @@ The tractor is signalling by flashing its lights that it wants to move back into
 
 **What is the right thing to do in this situation?**
 
+![Question Image](images/2_1_07-027-M.png)
+
+[Video: videos/2_1_07-027-M.mp4](videos/2_1_07-027-M.mp4)
+
 **Options:**
 - A. I must stop if necessary
 - B. I have to steer to the right onto the field as a precaution
@@ -20605,6 +21297,10 @@ On the narrow country road, it is possible that you and the tractor will not be 
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_1_07-028-M.png)
+
+[Video: videos/2_1_07-028-M.mp4](videos/2_1_07-028-M.mp4)
 
 **Options:**
 - A. I increase my distance to the [car] ahead
@@ -20647,6 +21343,10 @@ On bends, your view of the carriageway may be restricted after the bend. You may
 **Points:** 4 Points
 
 **What is the right behaviour now?**
+
+![Question Image](images/2_1_07-030-M.png)
+
+[Video: videos/2_1_07-030-M.mp4](videos/2_1_07-030-M.mp4)
 
 **Options:**
 - A. I stop behind the taxi
@@ -20807,6 +21507,10 @@ Keep a safe distance from the vehicle in front of you outside of closed areas th
 
 **Why must you be ready to brake in this situation?**
 
+![Question Image](images/2_1_07-111.png)
+
+[Video: videos/2_1_07-111.mp4](videos/2_1_07-111.mp4)
+
 **Options:**
 - A. Because the other vehicle might continue moving
 - B. Because the direction of the road ahead demands it
@@ -20825,6 +21529,10 @@ You see that a vehicle wants to drive onto the road from the right. Since it com
 **Points:** 5 Points
 
 **Why should you lower your speed now?**
+
+![Question Image](images/2_1_07-112.png)
+
+[Video: videos/2_1_07-112.mp4](videos/2_1_07-112.mp4)
 
 **Options:**
 - A. Because I am badly visible to other road users
@@ -20845,6 +21553,10 @@ Basically, you have the right of way, because you are on a priority road. Howeve
 
 **What is the right course of action in this situation?**
 
+![Question Image](images/2_1_07-113-M.png)
+
+[Video: videos/2_1_07-113-M.mp4](videos/2_1_07-113-M.mp4)
+
 **Options:**
 - A. I slow down
 - B. I accelerate
@@ -20863,6 +21575,10 @@ In this situation, you need to reduce the speed and allow the car driver to go b
 **Points:** 5 Points
 
 **What should you anticipate in this situation?**
+
+![Question Image](images/2_1_07-114-M.png)
+
+[Video: videos/2_1_07-114-M.mp4](videos/2_1_07-114-M.mp4)
 
 **Options:**
 - A. - motorcyclist will slow down
@@ -20884,6 +21600,10 @@ Although you are on the priority road, you must always expect dangerous situatio
 
 **What is the right course of action in this situation?**
 
+![Question Image](images/2_1_07-115.png)
+
+[Video: videos/2_1_07-115.mp4](videos/2_1_07-115.mp4)
+
 **Options:**
 - A. I maintain my speed and continue driving as before
 - B. I accelerate in order to create a large enough safety distance
@@ -20902,6 +21622,10 @@ The maximum speed limit on this road is 80 km/h. You drive 80 km/h. The driver d
 **Points:** 5 Points
 
 **What should you do?**
+
+![Question Image](images/2_1_07-116.png)
+
+[Video: videos/2_1_07-116.mp4](videos/2_1_07-116.mp4)
 
 **Options:**
 - A. I brake sharply and immediately
@@ -20923,6 +21647,10 @@ If you suddenly have to brake immediately as much as possible, you stay on your 
 
 **What must you pay attention to when turning right?**
 
+![Question Image](images/2_1_07-117-M.png)
+
+[Video: videos/2_1_07-117-M.mp4](videos/2_1_07-117-M.mp4)
+
 **Options:**
 - A. To the motorbike
 - B. To vehicles coming from the left
@@ -20942,6 +21670,10 @@ All drivers driving on the priority road must be given priority. The motorcycle 
 **Points:** 3 Points
 
 **You want to remain on the priority road. What must you anticipate now?**
+
+![Question Image](images/2_1_07-118-M.png)
+
+[Video: videos/2_1_07-118-M.mp4](videos/2_1_07-118-M.mp4)
 
 **Options:**
 - A. That the [red car] fails to see me
@@ -20983,6 +21715,10 @@ If a collision with an animal is no longer avoidable, the direction of travel is
 
 **The cruise control system of your motor vehicle is set to 130 km/h. What is the right course of action now?**
 
+![Question Image](images/2_1_07-120-M.png)
+
+[Video: videos/2_1_07-120-M.mp4](videos/2_1_07-120-M.mp4)
+
 **Options:**
 - A. - restore the safety distance by braking
 - B. - overtake the motorbike
@@ -21001,6 +21737,10 @@ You must interrupt the cruise control by braking. The motorcyclist changes to yo
 **Points:** 5 Points
 
 **What must you do in this situation?**
+
+![Question Image](images/2_1_07-121-M.png)
+
+[Video: videos/2_1_07-121-M.mp4](videos/2_1_07-121-M.mp4)
 
 **Options:**
 - A. I immediately brake sharply
@@ -21043,6 +21783,10 @@ On curvy roads, motorcyclists can cut their curves or protrude on your roadway i
 
 **What should you do now?**
 
+![Question Image](images/2_1_07-123-M.png)
+
+[Video: videos/2_1_07-123-M.mp4](videos/2_1_07-123-M.mp4)
+
 **Options:**
 - A. I reduce my speed
 - B. I remain behind the [red] vehicle for now
@@ -21063,6 +21807,10 @@ The driver of the red vehicle cuts the bend. Brake and stay behind the vehicle u
 
 **What is the right behaviour now?**
 
+![Question Image](images/2_1_07-124-M.png)
+
+[Video: videos/2_1_07-124-M.mp4](videos/2_1_07-124-M.mp4)
+
 **Options:**
 - A. I reduce my speed
 - B. I drive as far to the right as possible
@@ -21073,7 +21821,7 @@ The driver of the red vehicle cuts the bend. Brake and stay behind the vehicle u
 - B. I drive as far to the right as possible
 
 **Explanation:**
-On confusing roadways or when there is oncoming traffic on a narrow street, you should always pay close attention to other road users and adjust your speed. In this way, dangerous situations can be reduced in advance.
+On confusing roadways or when there is oncoming traffic on a narrow street, you should always pay close attention to other road users and adjust your speed. In this way, dangerous situations can be reduced in advance. 
 You should also drive as far to the right as possible to avoid a collision with the oncoming truck. You can't see through the tree how far in the middle the oncoming truck is driving. You also create more space on the road if the motorcycle behind you tries to overtake and hasn't seen the truck yet.
 
 ---
@@ -21083,6 +21831,10 @@ You should also drive as far to the right as possible to avoid a collision with 
 **Points:** 4 Points
 
 **What should you do?**
+
+![Question Image](images/2_1_07-202.png)
+
+[Video: videos/2_1_07-202.mp4](videos/2_1_07-202.mp4)
 
 **Options:**
 - A. Reduce speed, be ready to brake
@@ -21263,6 +22015,10 @@ The danger sign warns of a sharp left turn. The crest blocks the view forward on
 
 **What is the right course of action now?**
 
+![Question Image](images/2_1_07-211-M.png)
+
+[Video: videos/2_1_07-211-M.mp4](videos/2_1_07-211-M.mp4)
+
 **Options:**
 - A. I stay in the middle lane
 - B. I move into the left-hand lane
@@ -21370,6 +22126,10 @@ When driving uphill on motorways, you should expect slow-moving trucks in the ri
 
 **What must you do?**
 
+![Question Image](images/2_1_08-011.png)
+
+[Video: videos/2_1_08-011.mp4](videos/2_1_08-011.mp4)
+
 **Options:**
 - A. Slow down and stay in lane
 - B. Move to the left-hand lane
@@ -21449,6 +22209,10 @@ If you, as a car driver, leave the motorway at a speed of about 120 km/h, you mu
 
 **What should you do now?**
 
+![Question Image](images/2_1_08-016.png)
+
+[Video: videos/2_1_08-016.mp4](videos/2_1_08-016.mp4)
+
 **Options:**
 - A. I slow my vehicle down
 - B. I switch on my hazard lights
@@ -21513,6 +22277,10 @@ The curve is difficult to assess for the car driver. There may be other road use
 
 **Why do you have to slow here?**
 
+![Question Image](images/2_1_08-019.png)
+
+[Video: videos/2_1_08-019.mp4](videos/2_1_08-019.mp4)
+
 **Options:**
 - A. Because of the truck
 - B. Because of the speed limit
@@ -21531,6 +22299,10 @@ The moveable road barrier with flashing arrow in the right-hand lane forces the 
 **Points:** 4 Points
 
 **Why do you have to reduce your speed now?**
+
+![Question Image](images/2_1_08-020.png)
+
+[Video: videos/2_1_08-020.mp4](videos/2_1_08-020.mp4)
 
 **Options:**
 - A. Because of the blue car
@@ -21593,6 +22365,10 @@ The white car on the left lane must not be overtaken on the right. To go behind 
 
 **You are driving a truck. What is the right course of action now?**
 
+![Question Image](images/2_1_08-023.png)
+
+[Video: videos/2_1_08-023.mp4](videos/2_1_08-023.mp4)
+
 **Options:**
 - A. I increase the distance to the vehicle ahead
 - B. I maintain my speed
@@ -21611,6 +22387,10 @@ Please magnify the distance to the vehicle ahead and therefore hold a required s
 **Points:** 3 Points
 
 **What should you do now?**
+
+![Question Image](images/2_1_08-024-M.png)
+
+[Video: videos/2_1_08-024-M.mp4](videos/2_1_08-024-M.mp4)
 
 **Options:**
 - A. - do not switch lanes, because [the red car] is already moving across
@@ -21636,7 +22416,7 @@ Next to you is a red car that changes into the middle lane. Therefore, you canno
 **Options:**
 
 **Correct Answer(s):**
-- 3
+- 3 
 
 **Explanation:**
 While driving onto the freeway you should continue to follow the third driving line, so stay true to the lane and do not cut the boundary line.
@@ -21648,6 +22428,10 @@ While driving onto the freeway you should continue to follow the third driving l
 **Points:** 3 Points
 
 **What should you be prepared for now?**
+
+![Question Image](images/2_1_08-026-M.png)
+
+[Video: videos/2_1_08-026-M.mp4](videos/2_1_08-026-M.mp4)
 
 **Options:**
 - A. [The yellow car] exits the motorway
@@ -21668,6 +22452,10 @@ No traffic jam can be seen in this situation. Since the motorcycle is driving on
 
 **You want to exit the motorway. What is creating a dangerous situation here?**
 
+![Question Image](images/2_1_08-027-M.png)
+
+[Video: videos/2_1_08-027-M.mp4](videos/2_1_08-027-M.mp4)
+
 **Options:**
 - A. The motorbike
 - B. [The yellow truck]
@@ -21686,6 +22474,10 @@ The motorbike behind you (see right wing mirror) creates a dangerous situation f
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_1_08-028-M.png)
+
+[Video: videos/2_1_08-028-M.mp4](videos/2_1_08-028-M.mp4)
 
 **Options:**
 - A. I reduce my speed
@@ -21706,6 +22498,10 @@ There is an object on the roadway in the right lane in front of the truck. Truck
 **Points:** 4 Points
 
 **Why must you reduce your speed now?**
+
+![Question Image](images/2_1_08-029-M.png)
+
+[Video: videos/2_1_08-029-M.mp4](videos/2_1_08-029-M.mp4)
 
 **Options:**
 - A. Because of the truck
@@ -21769,6 +22565,10 @@ The higher the speed, the longer the reaction distance, braking distance, etc. I
 
 **What must you anticipate here?**
 
+![Question Image](images/2_1_08-032-M.png)
+
+[Video: videos/2_1_08-032-M.mp4](videos/2_1_08-032-M.mp4)
+
 **Options:**
 - A. The driver of the [yellow truck] does not notice the start of the tailback in time
 - B. The motorbike drives between the lines of vehicles
@@ -21811,6 +22611,10 @@ A warning triangle indicates a nearby obstacle, e.g. people, a defective vehicle
 **Points:** 4 Points
 
 **Why should you avoid overtaking alongside the roadworks site?**
+
+![Question Image](images/2_1_08-102.png)
+
+[Video: videos/2_1_08-102.mp4](videos/2_1_08-102.mp4)
 
 **Options:**
 - A. The time saved is frequently insignificant
@@ -22241,6 +23045,10 @@ A good driver always takes care to act in partnership and also knows that people
 
 **The [red] car in front of you has been driving slowly for some time now. What is the correct course of action in this situation?**
 
+![Question Image](images/2_1_11-014-M.png)
+
+[Video: videos/2_1_11-014-M.mp4](videos/2_1_11-014-M.mp4)
+
 **Options:**
 - A. I maintain my speed
 - B. I overtake, because the road is clear
@@ -22353,7 +23161,7 @@ Every lane change requires certain activities: observing traffic, flashing, chan
 - B. Later, I ponder if I could have avoided the situation
 
 **Explanation:**
-Stop at the next opportunity and take a break until you have calmed down. Maybe you can get out, walk a few metres and take a deep breath.
+Stop at the next opportunity and take a break until you have calmed down. Maybe you can get out, walk a few metres and take a deep breath. 
 You should also go through the situation again in your head later, as you may realise what didn't go perfectly. That way you can adjust your driving behaviour in the future.
 
 ---
@@ -22662,6 +23470,10 @@ The dense, aggressive tailgating of the following vehicle endangers all road use
 **Points:** 4 Points
 
 **You want to overtake. Why should you not do so?**
+
+![Question Image](images/2_1_11-125.png)
+
+[Video: videos/2_1_11-125.mp4](videos/2_1_11-125.mp4)
 
 **Options:**
 - A. The oncoming traffic
@@ -22985,6 +23797,10 @@ Coming soon...
 
 **You would like to turn right. What is the right course of action now?**
 
+![Question Image](images/2_2_02-009-M.png)
+
+[Video: videos/2_2_02-009-M.mp4](videos/2_2_02-009-M.mp4)
+
 **Options:**
 - A. I remain behind the [blue car]
 - B. I drive up to the stop line
@@ -23169,7 +23985,7 @@ You should drive slowly on large pools of water as there is a risk of aquaplanin
 **Options:**
 
 **Correct Answer(s):**
-- 25
+- 25 
 
 **Explanation:**
 The maximum speed of a motorized bicycle is 25km/h and 20km/h for a light motorized bicycle
@@ -23204,7 +24020,7 @@ If the visibility in fog is less than 50 meters, the driver must not drive faste
 **Options:**
 
 **Correct Answer(s):**
-- 130
+- 130 
 
 **Explanation:**
 The stopping distance during normal braking consists of the addition of reaction distance ((speed: 10) x 3) and braking distance (speed: 10) x (speed: 10). Stopping distance = reaction path + braking distance. At a speed of 100 km/h, the stopping distance is 130 meters. "
@@ -23220,7 +24036,7 @@ The stopping distance during normal braking consists of the addition of reaction
 **Options:**
 
 **Correct Answer(s):**
-- 100
+- 100 
 
 **Explanation:**
 Braking distance = (speed/10) x (speed/10)
@@ -23237,7 +24053,7 @@ That means at a speed of 100 km/h, the braking distance is 100 meters.
 **Options:**
 
 **Correct Answer(s):**
-- 30
+- 30 
 
 **Explanation:**
 Reaction path = (speed/10) x 3
@@ -23254,7 +24070,7 @@ That means at a speed of 100 km/h, the braking distance is 30 meters.
 **Options:**
 
 **Correct Answer(s):**
-- 40
+- 40 
 
 **Explanation:**
 The stopping distance during normal braking consists of the addition of reaction distance ((speed/10) x 3) and braking distance (speed/10) x (speed/10).
@@ -23272,7 +24088,7 @@ That means at a speed of 50 km/h, the stopping distance is 40 meters.
 **Options:**
 
 **Correct Answer(s):**
-- 25
+- 25 
 
 **Explanation:**
 Braking distance = (speed/10) x (speed/10)
@@ -23289,7 +24105,7 @@ That means that at a speed of 50 km/h, the braking distance is 25 meters.
 **Options:**
 
 **Correct Answer(s):**
-- 15
+- 15 
 
 **Explanation:**
 Reaction distance = (speed/10) x 3
@@ -23306,7 +24122,7 @@ That means at a speed of 50 km/h, the braking distance is 15 meters.
 **Options:**
 
 **Correct Answer(s):**
-- 25
+- 25 
 
 **Explanation:**
 On a narrow street you have to stop within half the visibility, in this case 25m.
@@ -23360,7 +24176,7 @@ The normal braking distance of your car is determined by this rule of thumb: Spe
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 When your truck of 4.0 t street legal. Total mass on roads outside built-up areas are for you 80 km / h right.
@@ -23376,7 +24192,7 @@ When your truck of 4.0 t street legal. Total mass on roads outside built-up area
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 If a trailer is carried along with a passenger car, it may be driven outside of built-up areas at a maximum speed of 80 km/h.
@@ -23392,7 +24208,7 @@ If a trailer is carried along with a passenger car, it may be driven outside of 
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 If a lorry with a maximum mass of 3.0 tonnes is driven by a trailer, it may be driven outside of built-up areas at a maximum speed of 80 km/h.
@@ -23408,7 +24224,7 @@ If a lorry with a maximum mass of 3.0 tonnes is driven by a trailer, it may be d
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 Coming soon...
@@ -23424,7 +24240,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 Coming soon...
@@ -23440,7 +24256,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 60
+- 60 
 
 **Explanation:**
 Your truck, which over 7.5 t gross. Total mass on a country road en route shall be a maximum of 60 km / h is allowed to drive.
@@ -23494,12 +24310,12 @@ You must be able to stop within the range of the low beam, as the parking light 
 **Options:**
 
 **Correct Answer(s):**
-- 50
+- 50 
 
 **Explanation:**
-You are only allowed to drive so fast that you can come to a stop within your field of vision. In a normal braking action at a speed of 50 km/h, the stopping distance is 40 meters. Therefore, you must not drive faster than 50 km/h here.
+You are only allowed to drive so fast that you can come to a stop within your field of vision. In a normal braking action at a speed of 50 km/h, the stopping distance is 40 meters. Therefore, you must not drive faster than 50 km/h here. 
 
-Stopping distance = reaction distance + braking distance
+Stopping distance = reaction distance + braking distance 
 [(Speed in km/h : 10) x 3] + [(Speed in km/h : 10) x (Speed in km/h : 10)]
 
 ---
@@ -23510,10 +24326,14 @@ Stopping distance = reaction distance + braking distance
 
 **What is the maximum speed you are allowed to drive after turning?**
 
+![Question Image](images/2_2_03-026-M.png)
+
+[Video: videos/2_2_03-026-M.mp4](videos/2_2_03-026-M.mp4)
+
 **Options:**
 
 **Correct Answer(s):**
-- 50
+- 50 
 
 **Explanation:**
 Unless otherwise indicated, the maximum speed in urban areas is 50 km/h. The 30 km/h of the previous priority road no longer applies here.
@@ -23529,7 +24349,7 @@ Unless otherwise indicated, the maximum speed in urban areas is 50 km/h. The 30 
 **Options:**
 
 **Correct Answer(s):**
-- 50
+- 50 
 
 **Explanation:**
 With snow chains, the maximum speed is 50 km/h. If that speed is exceeded, the driving stability is impaired and the road gets damaged.
@@ -23545,7 +24365,7 @@ With snow chains, the maximum speed is 50 km/h. If that speed is exceeded, the d
 **Options:**
 
 **Correct Answer(s):**
-- 100
+- 100 
 
 **Explanation:**
 For vehicles up to 3.5 tonnes of gross vehicle weight and without trailer, the maximum speed limit is 100 km/h.
@@ -23561,7 +24381,7 @@ For vehicles up to 3.5 tonnes of gross vehicle weight and without trailer, the m
 **Options:**
 
 **Correct Answer(s):**
-- 100
+- 100 
 
 **Explanation:**
 For vehicles up to 3.5 tonnes of gross vehicle weight and without trailer, the maximum speed limit is 100 km/h.
@@ -23577,7 +24397,7 @@ For vehicles up to 3.5 tonnes of gross vehicle weight and without trailer, the m
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 For vehicles up to 3.5 tonnes of gross vehicle weight and without trailer, the maximum speed limit is 80 km/h.
@@ -23612,7 +24432,7 @@ The car driver must comply with the maximum speed limit when driving with winter
 **Options:**
 
 **Correct Answer(s):**
-- 60
+- 60 
 
 **Explanation:**
 With your truck of 5.5 t permissible gross weight and a trailer 2 t you must on a highway highest 60 km / h drive.
@@ -23628,7 +24448,7 @@ With your truck of 5.5 t permissible gross weight and a trailer 2 t you must on 
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 The maximum speed for vehicle combinations up to 3.5 tonnes gross vehicle weight rating with trailer is 80 km/h outside built-up areas.
@@ -23644,7 +24464,7 @@ The maximum speed for vehicle combinations up to 3.5 tonnes gross vehicle weight
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 The maximum permissible speed on federal roads is 80 km/h. You are only allowed to drive 100 km/h on motorways and designated motorways if your trailer has the necessary approval.
@@ -23660,7 +24480,7 @@ The maximum permissible speed on federal roads is 80 km/h. You are only allowed 
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 With your truck of 4.0 t permissible gross weight allowed to you on the highway more than 80 km / h drive.
@@ -23676,7 +24496,7 @@ With your truck of 4.0 t permissible gross weight allowed to you on the highway 
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 Coming soon...
@@ -23692,7 +24512,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 Coming soon...
@@ -23708,7 +24528,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 100
+- 100 
 
 **Explanation:**
 Coming soon...
@@ -23724,7 +24544,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 Coming soon...
@@ -23740,7 +24560,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 60
+- 60 
 
 **Explanation:**
 Coming soon...
@@ -23756,7 +24576,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 80
+- 80 
 
 **Explanation:**
 With your truck of 40 t you must go h on the highway 80 km /.
@@ -23891,7 +24711,7 @@ Outside built-up areas, the distance to the vehicle in front must be at least ha
 **Options:**
 
 **Correct Answer(s):**
-- 50
+- 50 
 
 **Explanation:**
 In order to be able to brake in time, you should keep the safety distance equal to the half of the speed in meters.
@@ -23946,7 +24766,7 @@ Trains which are longer than 7 meters must keep a distance from the vehicle in f
 **Options:**
 
 **Correct Answer(s):**
-- 7
+- 7 
 
 **Explanation:**
 StVO § 4 Abs.2: "Motor vehicles subject to a special speed restriction and vehicules longer than 7 meters must keep a fixed distance from other vehicles in front of them so they can be overtaken by other passing vehicles. ..) "
@@ -24045,7 +24865,7 @@ The additional weight changes the driving characteristics of the car. The brakes
 **Options:**
 
 **Correct Answer(s):**
-- 7
+- 7 
 
 **Explanation:**
 If the length of the vehicle combination is more than 7 meters, you must keep a longer distance from the vehicle in front outside built-up areas. This gives overtaking vehicles the opportunity to pull in in front of you.
@@ -24079,7 +24899,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 50
+- 50 
 
 **Explanation:**
 Coming soon...
@@ -24156,7 +24976,7 @@ With your truck (12 t permissible total weight) should be at a speed on the high
 **Options:**
 
 **Correct Answer(s):**
-- 3,5
+- 3,5 
 
 **Explanation:**
 Trucks over 3.5 t permissible mass should have such a large distance from the preceding vehicle, an overtaking vehicle that can Reeve.
@@ -24172,7 +24992,7 @@ Trucks over 3.5 t permissible mass should have such a large distance from the pr
 **Options:**
 
 **Correct Answer(s):**
-- 50
+- 50 
 
 **Explanation:**
 At least 50 m you should adhere to when you pass a vehicle that is of 4 t maximum permissible weight on a highway at 60 km / h run.
@@ -24286,6 +25106,10 @@ You must finish the overtaking process at the latest before the restriction on o
 
 **For what reason do you have to switch to the right-hand lane now?**
 
+![Question Image](images/2_2_05-010.png)
+
+[Video: videos/2_2_05-010.mp4](videos/2_2_05-010.mp4)
+
 **Options:**
 - A. Because of the rule on using the right-hand lane unless overtaking etc
 - B. Because of the red car
@@ -24306,6 +25130,10 @@ After you have overtaken the green van, you have to merge right again due to the
 
 **What is the right thing to do in this situation?**
 
+![Question Image](images/2_2_05-011.png)
+
+[Video: videos/2_2_05-011.mp4](videos/2_2_05-011.mp4)
+
 **Options:**
 - A. I cease the overtaking manoeuvre and move into the right-hand lane
 - B. I accelerate and continue the overtaking manoeuvre
@@ -24324,6 +25152,10 @@ You may drive on the lane of the oncoming traffic if you intend to overtake. To 
 **Points:** 5 Points
 
 **What must you be prepared for now?**
+
+![Question Image](images/2_2_05-012.png)
+
+[Video: videos/2_2_05-012.mp4](videos/2_2_05-012.mp4)
 
 **Options:**
 - A. - blue car begins overtaking
@@ -24345,6 +25177,10 @@ You may have to be prepared for the fact that you cannot overtake now because th
 
 **To whom must you pay particularly close attention in this situation?**
 
+![Question Image](images/2_2_05-013.png)
+
+[Video: videos/2_2_05-013.mp4](videos/2_2_05-013.mp4)
+
 **Options:**
 - A. - cyclist
 - B. - red car
@@ -24364,6 +25200,10 @@ In this situation, as a car driver you have to pay attention to the cyclist who 
 
 **Why do you have to slow down here?**
 
+![Question Image](images/2_2_05-014-M.png)
+
+[Video: videos/2_2_05-014-M.mp4](videos/2_2_05-014-M.mp4)
+
 **Options:**
 - A. - motorbike
 - B. - tractor
@@ -24382,6 +25222,10 @@ The overtaking motorcyclist represents a danger to you. He will meet you in your
 **Points:** 4 Points
 
 **You are driving a truck with a gross vehicle weight rating in excess of 3.5 t. What should you do now?**
+
+![Question Image](images/2_2_05-015.png)
+
+[Video: videos/2_2_05-015.mp4](videos/2_2_05-015.mp4)
 
 **Options:**
 - A. I refrain from overtaking
@@ -24403,6 +25247,10 @@ You should keep to the correct distance and not overtake and reduce the speed.
 
 **You want to overtake. What should you do now?**
 
+![Question Image](images/2_2_05-016-M.png)
+
+[Video: videos/2_2_05-016-M.mp4](videos/2_2_05-016-M.mp4)
+
 **Options:**
 - A. I do not overtake yet, because the [blue car] could overtake
 - B. I follow right behind the [blue car] if it overtakes
@@ -24421,6 +25269,10 @@ You must wait with overtaking until the driver driving in front of you has finis
 **Points:** 3 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_2_05-017.png)
+
+[Video: videos/2_2_05-017.mp4](videos/2_2_05-017.mp4)
 
 **Options:**
 - A. - do not overtake the tram
@@ -24461,6 +25313,10 @@ If you want to overtake a truck with a trailer, you should take into account the
 
 **Why are you not permitted to now overtake the bus driving ahead of you?**
 
+![Question Image](images/2_2_05-019.png)
+
+[Video: videos/2_2_05-019.mp4](videos/2_2_05-019.mp4)
+
 **Options:**
 - A. Because the hazard lights of the bus are switched on
 - B. Because of the motorbike
@@ -24480,6 +25336,10 @@ The bus has turned on the warning lights and is still driving to the bus stop. I
 **Points:** 3 Points
 
 **You want to overtake the vehicle driving up ahead of you. What is necessary to allow you to do so?**
+
+![Question Image](images/2_2_05-020-M.png)
+
+[Video: videos/2_2_05-020-M.mp4](videos/2_2_05-020-M.mp4)
 
 **Options:**
 - A. - considerably increase my speed
@@ -24503,6 +25363,10 @@ Just make sure that you do not exceed the permissible maximum speed.
 
 **What is the right course of action now?**
 
+![Question Image](images/2_2_05-021-M.png)
+
+[Video: videos/2_2_05-021-M.mp4](videos/2_2_05-021-M.mp4)
+
 **Options:**
 - A. I remain behind the tractor
 - B. I anticipate that the tractor may turn off the road
@@ -24523,6 +25387,10 @@ The tractor seems to want to turn onto the dirt track on the right. Stay behind 
 
 **You want to overtake [the blue car]. What is the right course of action?**
 
+![Question Image](images/2_2_05-102-M.png)
+
+[Video: videos/2_2_05-102-M.mp4](videos/2_2_05-102-M.mp4)
+
 **Options:**
 - A. - overtake at a substantially higher speed
 - B. - overtake while maintaining the speed driven
@@ -24541,6 +25409,10 @@ Wait for the bike to leave the blind spot. Note that the car driver who is overt
 **Points:** 4 Points
 
 **What could make this situation become hazardous?**
+
+![Question Image](images/2_2_05-103-M.png)
+
+[Video: videos/2_2_05-103-M.mp4](videos/2_2_05-103-M.mp4)
 
 **Options:**
 - A. Oncoming traffic
@@ -24621,6 +25493,10 @@ Coming soon...
 
 **What should you do now?**
 
+![Question Image](images/2_2_05-402-M.png)
+
+[Video: videos/2_2_05-402-M.mp4](videos/2_2_05-402-M.mp4)
+
 **Options:**
 - A. I pull into the bus stop on the right, and stop there
 - B. I increase my speed
@@ -24643,6 +25519,10 @@ In this situation, you should pull into the bus stop and let the car behind over
 
 **What is the right course of action now?**
 
+![Question Image](images/2_2_06-001.png)
+
+[Video: videos/2_2_06-001.mp4](videos/2_2_06-001.mp4)
+
 **Options:**
 - A. I stop and wait ahead of the constricted point until the oncoming car has passed through
 - B. I pass through the constricted point by carefully driving between the oncoming car and the construction site barrier
@@ -24661,6 +25541,10 @@ The bottleneck is in your lane. Therefore, you must stop before the bottleneck a
 **Points:** 5 Points
 
 **What is the right course of action here?**
+
+![Question Image](images/2_2_06-101-M.png)
+
+[Video: videos/2_2_06-101-M.mp4](videos/2_2_06-101-M.mp4)
 
 **Options:**
 - A. I slow down and wait
@@ -24706,7 +25590,7 @@ You should always wait in line behind the last car in your lane and not try to p
 **Options:**
 
 **Correct Answer(s):**
-- 3,5
+- 3,5 
 
 **Explanation:**
 In Germany, the legal driving requirement applies. Vehicles up to 3.5 tons are excluded from the right-hand drive requirement within built-up areas and can freely choose their lane.
@@ -24718,6 +25602,10 @@ In Germany, the legal driving requirement applies. Vehicles up to 3.5 tons are e
 **Points:** 3 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_2_07-004.png)
+
+[Video: videos/2_2_07-004.mp4](videos/2_2_07-004.mp4)
 
 **Options:**
 - A. I move into the right-hand lane
@@ -24738,6 +25626,10 @@ In Germany, you must drive on the right. As there is no vehicle in front of you 
 
 **How could a dangerous situation arise?**
 
+![Question Image](images/2_2_07-005.png)
+
+[Video: videos/2_2_07-005.mp4](videos/2_2_07-005.mp4)
+
 **Options:**
 - A. - yellow truck
 - B. - green truck
@@ -24756,6 +25648,10 @@ The fast driving style of the yellow truck suggests that he will overtake the bl
 **Points:** 4 Points
 
 **What should you do now?**
+
+![Question Image](images/2_2_07-006.png)
+
+[Video: videos/2_2_07-006.mp4](videos/2_2_07-006.mp4)
 
 **Options:**
 - A. I let the blue car merge in front of me
@@ -24776,6 +25672,10 @@ Since the driver of the car on the right of the acceleration lane increases its 
 
 **What should you do?**
 
+![Question Image](images/2_2_07-007.png)
+
+[Video: videos/2_2_07-007.mp4](videos/2_2_07-007.mp4)
+
 **Options:**
 - A. I stay in the middle lane and slow down
 - B. I move to the right-hand lane and slow down
@@ -24794,6 +25694,10 @@ Stay on the middle lane and delay. The leading car will also delay soon to let t
 **Points:** 5 Points
 
 **What is the right course of action?**
+
+![Question Image](images/2_2_07-008.png)
+
+[Video: videos/2_2_07-008.mp4](videos/2_2_07-008.mp4)
 
 **Options:**
 - A. I reduce my speed
@@ -24814,6 +25718,10 @@ You drive on the middle lane and in this situation you have to stay on the lane 
 
 **What must you anticipate in this situation?**
 
+![Question Image](images/2_2_07-009.png)
+
+[Video: videos/2_2_07-009.mp4](videos/2_2_07-009.mp4)
+
 **Options:**
 - A. - grey car will move into the middle lane
 - B. - yellow truck will pull out in front of me to overtake
@@ -24832,6 +25740,10 @@ Since the vehicle drives very fast from the right onto the freeway, you have to 
 **Points:** 5 Points
 
 **What is the right course of action?**
+
+![Question Image](images/2_2_07-010.png)
+
+[Video: videos/2_2_07-010.mp4](videos/2_2_07-010.mp4)
 
 **Options:**
 - A. I reduce my speed and stay in the middle lane
@@ -24914,6 +25826,10 @@ The hard shoulder may not be used regularly. You can only use it in case of a br
 
 **What is the right behaviour now?**
 
+![Question Image](images/2_2_07-014-M.png)
+
+[Video: videos/2_2_07-014-M.mp4](videos/2_2_07-014-M.mp4)
+
 **Options:**
 - A. I reduce my speed
 - B. I let the [blue] car in front of me move over
@@ -24979,6 +25895,10 @@ You may not turn your vehicle on freeways or motorways. Reverse driving is stric
 
 **Why do you have to wait before the left turn?**
 
+![Question Image](images/2_2_09-002-M.png)
+
+[Video: videos/2_2_09-002-M.mp4](videos/2_2_09-002-M.mp4)
+
 **Options:**
 - A. - motorbike
 - B. - car
@@ -24997,6 +25917,10 @@ As a left-turning driver, you generally have to give priority to oncoming traffi
 **Points:** 5 Points
 
 **What is the right course of action?**
+
+![Question Image](images/2_2_09-003-M.png)
+
+[Video: videos/2_2_09-003-M.mp4](videos/2_2_09-003-M.mp4)
 
 **Options:**
 - A. - once the [red] vehicle has overtaken me
@@ -25017,6 +25941,10 @@ If you want to turn left and a car wants to overtake you from the left, you have
 
 **You want to turn left. What is the right course of action?**
 
+![Question Image](images/2_2_09-004-M.png)
+
+[Video: videos/2_2_09-004-M.mp4](videos/2_2_09-004-M.mp4)
+
 **Options:**
 - A. I stop at the farm track and wait
 - B. I accelerate and swiftly take the turn
@@ -25035,6 +25963,10 @@ Since you are currently being overtaken, it is not possible to turn left. You mu
 **Points:** 5 Points
 
 **In this situation, why do you have to wait before the left turn?**
+
+![Question Image](images/2_2_09-005-M.png)
+
+[Video: videos/2_2_09-005-M.mp4](videos/2_2_09-005-M.mp4)
 
 **Options:**
 - A. - motorbike
@@ -25055,6 +25987,10 @@ In this situation, you need to wait for the motorbike behind the car to pass bef
 
 **What is the right course of action in this situation?**
 
+![Question Image](images/2_2_09-006-M.png)
+
+[Video: videos/2_2_09-006-M.mp4](videos/2_2_09-006-M.mp4)
+
 **Options:**
 - A. - after [the red car] has overtaken me
 - B. - now, so as not to impede the truck behind me
@@ -25073,6 +26009,10 @@ In this situation, you should first wait for the motorcycle to overtake you befo
 **Points:** 5 Points
 
 **Why are you not allowed to turn off the road now?**
+
+![Question Image](images/2_2_09-007-M.png)
+
+[Video: videos/2_2_09-007-M.mp4](videos/2_2_09-007-M.mp4)
 
 **Options:**
 - A. - [red car]
@@ -25541,7 +26481,7 @@ In this case, the red car has right of way. He has reached the parking space fir
 **Options:**
 
 **Correct Answer(s):**
-- 2,8
+- 2,8 
 
 **Explanation:**
 Vehicles with a maximum permissible gross vehicle weight of up to 2.8 tonnes may be parked on specially marked sidewalks.
@@ -25557,7 +26497,7 @@ Vehicles with a maximum permissible gross vehicle weight of up to 2.8 tonnes may
 **Options:**
 
 **Correct Answer(s):**
-- 10
+- 10 
 
 **Explanation:**
 A minimum distance of 10 meters must be maintained so that the view of light signals is not obscured.
@@ -25610,6 +26550,10 @@ Please note that you may not leave your vehicle trailers on regular parking spac
 
 **You want to park on the right-hand edge of the road. What should you do in this situation?**
 
+![Question Image](images/2_2_12-107-M.png)
+
+[Video: videos/2_2_12-107-M.mp4](videos/2_2_12-107-M.mp4)
+
 **Options:**
 - A. I forego the parking space, even though I have priority
 - B. I park now, because I have priority
@@ -25627,6 +26571,10 @@ You signalled first and therefore have priority to the parking space. To avoid a
 **Points:** 3 Points
 
 **You want to park on the right-hand edge of the road. Who has priority in this situation?**
+
+![Question Image](images/2_2_12-108-M.png)
+
+[Video: videos/2_2_12-108-M.mp4](videos/2_2_12-108-M.mp4)
 
 **Options:**
 - A. The [blue] car has priority
@@ -25732,7 +26680,7 @@ In front of signs such as the diagonal crosses, light signals or the sign "Stop!
 **Options:**
 
 **Correct Answer(s):**
-- 3
+- 3 
 
 **Explanation:**
 If a minimum distance of 3 meters to the lane boundary line is observed when parking, the parked car will not present an obstacle.
@@ -26130,6 +27078,10 @@ As a car driver you must take the necessary measures to avoid accidents or traff
 **Points:** 4 Points
 
 **Why may you not exit now?**
+
+![Question Image](images/2_2_14-107-M.png)
+
+[Video: videos/2_2_14-107-M.mp4](videos/2_2_14-107-M.mp4)
 
 **Options:**
 - A. Because [of the cyclist]
@@ -27219,7 +28171,7 @@ On the freeway/autobahn, a motorcycle has to behave like a regular car. It can s
 **Options:**
 
 **Correct Answer(s):**
-- 130
+- 130 
 
 **Explanation:**
 On motorways cars and motorcycles have to keep an advisory speed limit of 130 km/h. In addition, driving on a freeway is only permitted to vehicles exceeding 60 km/h.
@@ -27295,7 +28247,7 @@ You may only enter at intersections or T-junctions on motorways. Turning on moto
 **Options:**
 
 **Correct Answer(s):**
-- 60
+- 60 
 
 **Explanation:**
 A highway or freeway was built for high-speed traffic. That's why only vehicles that can reach a speed of more than 60 km/h are allowed to drive here. If you’re not entirely sure if own vehicle can drive that fast, it is noted in the car documents.
@@ -27347,6 +28299,10 @@ On an acceleration lane it is allowed to drive faster on the right than on the c
 
 **What must you do now?**
 
+![Question Image](images/2_2_18-013.png)
+
+[Video: videos/2_2_18-013.mp4](videos/2_2_18-013.mp4)
+
 **Options:**
 - A. - as far to the right as possible
 - B. - as far to the left as possible
@@ -27365,6 +28321,10 @@ You approach the end of a traffic jam on the freeway. Turn on the hazard light. 
 **Points:** 4 Points
 
 **What should you do?**
+
+![Question Image](images/2_2_18-014.png)
+
+[Video: videos/2_2_18-014.mp4](videos/2_2_18-014.mp4)
 
 **Options:**
 - A. I continue driving
@@ -27406,6 +28366,10 @@ Any car driver must cooperate in forming an alley in the middle of the road for 
 
 **What is the right course of action now?**
 
+![Question Image](images/2_2_18-016-M.png)
+
+[Video: videos/2_2_18-016-M.mp4](videos/2_2_18-016-M.mp4)
+
 **Options:**
 - A. I warn the driver by sounding my horn and flashing my lights
 - B. I drive over to the right-side as far as possible
@@ -27426,6 +28390,10 @@ You meet a wrong-way driver on the freeway exit. By driving as far to the right 
 **Points:** 3 Points
 
 **What should you do now?**
+
+![Question Image](images/2_2_18-017-M.png)
+
+[Video: videos/2_2_18-017-M.mp4](videos/2_2_18-017-M.mp4)
 
 **Options:**
 - A. I accelerate and merge in front of the [truck]
@@ -27506,6 +28474,10 @@ Warn following traffic by switching on the hazard warning lights and close up ca
 
 **What is the right course of action now?**
 
+![Question Image](images/2_2_18-021-M.png)
+
+[Video: videos/2_2_18-021-M.mp4](videos/2_2_18-021-M.mp4)
+
 **Options:**
 - A. I stay in the middle lane
 - B. I move into the left-hand lane
@@ -27525,6 +28497,10 @@ In the right lane, a motorbike is coming onto the motorway from the slip road. I
 **Points:** 4 Points
 
 **You want to leave the motorway at the next exit. What is the correct course of action in this situation?**
+
+![Question Image](images/2_2_18-022.png)
+
+[Video: videos/2_2_18-022.mp4](videos/2_2_18-022.mp4)
 
 **Options:**
 - A. I observe the traffic behind me
@@ -27547,6 +28523,10 @@ Always keep a close eye on the traffic behind you when driving on the motorway. 
 
 **What should you do now?**
 
+![Question Image](images/2_2_18-023-M.png)
+
+[Video: videos/2_2_18-023-M.mp4](videos/2_2_18-023-M.mp4)
+
 **Options:**
 - A. I reduce my speed
 - B. I accelerate
@@ -27566,6 +28546,10 @@ Reduce your speed and allow the blue car to join the motorway while keeping a sa
 
 **What can you expect now?**
 
+![Question Image](images/2_2_18-024-M.png)
+
+[Video: videos/2_2_18-024-M.mp4](videos/2_2_18-024-M.mp4)
+
 **Options:**
 - A. - brake
 - B. - stay in the middle lane
@@ -27576,7 +28560,7 @@ Reduce your speed and allow the blue car to join the motorway while keeping a sa
 - B. - stay in the middle lane
 
 **Explanation:**
-You should expect the truck in front of you to slow down because the other truck in the right lane is already slowing down and has its hazard lights on. You also have to expect that the truck will stay in the middle lane because it doesn't have enough space to get into the right lane.
+You should expect the truck in front of you to slow down because the other truck in the right lane is already slowing down and has its hazard lights on. You also have to expect that the truck will stay in the middle lane because it doesn't have enough space to get into the right lane. 
 If a dangerous situation is identified on the motorway, the hazard warning lights may be switched on in order to warn all following vehicles in good time. Dangerous situations usually include accidents, traffic jams or slow traffic.
 
 ---
@@ -27770,7 +28754,7 @@ Since your total mass of a total of 7.5 is your truck (freight) t, including tra
 **Options:**
 
 **Correct Answer(s):**
-- 7,5
+- 7,5 
 
 **Explanation:**
 The toll is t from a maximum mass of 7.5 to be paid.
@@ -27904,7 +28888,7 @@ The toll rates are based on the weight classes, so you must account are rolling 
 **Options:**
 
 **Correct Answer(s):**
-- 7,5
+- 7,5 
 
 ---
 
@@ -27937,7 +28921,7 @@ Both the driver and the owner of a vehicle are responsible for paying the toll p
 **Options:**
 
 **Correct Answer(s):**
-- 3,5
+- 3,5 
 
 **Explanation:**
 Motor vehicles or vehicle combinations with a technically permissible total mass of more than 3.5 tonnes must pay a toll.
@@ -28231,7 +29215,7 @@ You should also be aware that the additional weight can make your overtaking dis
 - C. - make sure that the child’s feet cannot get caught in the wheels
 
 **Explanation:**
-It is required by law that you must be at least 16 years old if you want to take a child under 7 years old with you on the moped.
+It is required by law that you must be at least 16 years old if you want to take a child under 7 years old with you on the moped. 
 Since the child is under 7 years old, you must be able to attach a special child seat to the moped. The child's height and body control are not yet sufficient to hold on to the moped safely and independently. You also need to make sure that the child's feet cannot get caught in the wheels. There are special protective devices for this, such as: B. Footrests.
 
 ---
@@ -29136,7 +30120,7 @@ The maximum height for attaching the lamp is 1.5 meters. This is to ensure that 
 **Options:**
 
 **Correct Answer(s):**
-- 2,5
+- 2,5 
 
 **Explanation:**
 The red lamp, which marks the rear projecting cargo, may be installed at a maximum height of 2.50 m. If it were higher, other road users might oversee it. To prevent a hazard, a maximum height of 2.50 m is set.
@@ -29492,7 +30476,7 @@ In the event of an accident or breakdown, the warning triangle should always be 
 **Options:**
 
 **Correct Answer(s):**
-- 1,5
+- 1,5 
 
 **Explanation:**
 For distances up to 100 Kilometers, the load is allowed to overhang up to 3 meters. For distances over 100 Kilometers, the load is allowed to overhang up to 1.50 meters to the rear.
@@ -29860,7 +30844,7 @@ This prevents the load from slipping.
 - C. The available lashing points
 
 **Explanation:**
-Among other things, the face and shape of the load are decisive for the selection of suitable and necessary lashing equipment.
+Among other things, the face and shape of the load are decisive for the selection of suitable and necessary lashing equipment. 
 Equally important are the requirements of the vehicle, such as the permissible payload and the attachment points.
 
 ---
@@ -31315,7 +32299,7 @@ Phone use is prohibited if it distracts you too much from the traffic. This inev
 
 **Explanation:**
 You should check your tyres at regular intervals, because wear, damage or incorrectly adjusted air pressure as well as insufficient tread depth represent a major safety risk.
-A minimum tread depth of 1.6 mm applies.
+A minimum tread depth of 1.6 mm applies. 
 The headlights should also be checked for defects and their correct setting. For example, headlights that are set too high can dazzle oncoming traffic. 
 A clear view should be ensured on every journey. This includes not only ensuring that the windscreen is free of dirt, but also that there is still sufficient windscreen washer fluid.
 
@@ -31377,7 +32361,7 @@ By increasing the air circulation on the windscreen, you can prevent the windscr
 - C. - remove snow from the lighting equipment
 
 **Explanation:**
-Before you drive off, you must remove the snow from the entire vehicle as it could fall while driving and endanger other road users. In addition, the snow could slide onto your windshield when you brake, blocking your visibility and making you completely unable to act. Also remove the snow from the lighting equipment so that other road users can see you in good time and you have adequate visibility even in dark lighting conditions.
+Before you drive off, you must remove the snow from the entire vehicle as it could fall while driving and endanger other road users. In addition, the snow could slide onto your windshield when you brake, blocking your visibility and making you completely unable to act.  Also remove the snow from the lighting equipment so that other road users can see you in good time and you have adequate visibility even in dark lighting conditions. 
 Also make sure that no snow covers your license plates. If the license plates are illegible, you risk an administrative offense and a fine.
 
 ---
@@ -31624,7 +32608,7 @@ After ending a break, you should make sure that there are no loose objects in th
 - C. By pressing against the tarpaulin structure from the inside with a suitable implement (e.g. a broom)
 
 **Explanation:**
-When de-icing the vehicle, it is essential to use suitable aids such as de-icing bridges or de-icing ladders with sufficient fall protection to minimize the risk of falls. Pressing against the tarpaulin structure from the inside with a suitable tool makes it possible to loosen ice and snow without having to climb onto the roof, which also reduces the risk of accidents.
+When de-icing the vehicle, it is essential to use suitable aids such as de-icing bridges or de-icing ladders with sufficient fall protection to minimize the risk of falls.  Pressing against the tarpaulin structure from the inside with a suitable tool makes it possible to loosen ice and snow without having to climb onto the roof, which also reduces the risk of accidents.
 
 ---
 
@@ -32050,7 +33034,7 @@ With a special permit, you can with a support vehicle was which prescribed drive
 **Options:**
 
 **Correct Answer(s):**
-- 0
+- 0 
 
 **Explanation:**
 The driving ban, for trucks over 7.5t gross vehicle weight and for all trucks regardless of their gross vehicle weight, which carries a trailer, is valid on Sundays and public holidays from 0 to 22 o'clock.
@@ -32126,7 +33110,7 @@ The Holiday Travel Regulation applies to trucks for the commercial or paid trans
 **Options:**
 
 **Correct Answer(s):**
-- 7
+- 7 
 
 **Explanation:**
 On all Saturdays in July and August from 7 to 20, you are subject to the driving ban from the Holiday Travel Ordinance. This is added to the Sunday driving ban.
@@ -32142,7 +33126,7 @@ On all Saturdays in July and August from 7 to 20, you are subject to the driving
 **Options:**
 
 **Correct Answer(s):**
-- 0
+- 0 
 
 **Explanation:**
 For the paid transport of goods or business trips, the driving ban applies to the trucks with a permissible total weight of 18 t between midnight and 10 p.m.
@@ -32342,6 +33326,10 @@ Clean up the area and mark it visibly to eliminate a hazard.
 
 **What is the right course of action in this situation?**
 
+![Question Image](images/2_2_34-001-M.png)
+
+[Video: videos/2_2_34-001-M.mp4](videos/2_2_34-001-M.mp4)
+
 **Options:**
 - A. I continue driving as before
 - B. I brake hard immediately
@@ -32360,6 +33348,10 @@ It can be seen that the accident scene has already been adequately secured. For 
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_2_34-002-M.png)
+
+[Video: videos/2_2_34-002-M.mp4](videos/2_2_34-002-M.mp4)
 
 **Options:**
 - A. I reduce my speed
@@ -32380,6 +33372,10 @@ On the right lane there was an accident and you drive towards the still unsecure
 **Points:** 4 Points
 
 **What is the right course of action now?**
+
+![Question Image](images/2_2_34-003-M.png)
+
+[Video: videos/2_2_34-003-M.mp4](videos/2_2_34-003-M.mp4)
 
 **Options:**
 - A. I reduce my speed further
@@ -33085,6 +34081,10 @@ The left lane is closed. You may not use it under any circumstances. Not even if
 
 **What is the right behaviour now?**
 
+![Question Image](images/2_4_41-005-M.png)
+
+[Video: videos/2_4_41-005-M.mp4](videos/2_4_41-005-M.mp4)
+
 **Options:**
 - A. I accelerate
 - B. I maintain my speed
@@ -33131,7 +34131,7 @@ This traffic sign indicates that the following route can only be used with snow 
 **Options:**
 
 **Correct Answer(s):**
-- 2
+- 2 
 
 **Explanation:**
 As a car driver you should note that this traffic sign can be read in two ways. On the one hand, t 'stands for tons and thus refers to the actual weight. However, the traffic sign may also refer to the permissible total weight if the 't' is additionally marked by a white symbol.
@@ -33149,7 +34149,7 @@ As a car driver you should note that this traffic sign can be read in two ways. 
 **Options:**
 
 **Correct Answer(s):**
-- 1
+- 1 
 
 **Explanation:**
 If the symbol 't' for tons is in the traffic sign, it refers to the actual weight. The actual weight is calculated from the empty weight of the vehicle plus the current load. The empty weight of the vehicle is noted in the vehicle documents. As a car driver, you are required to know the weight of your vehicle.
@@ -33492,7 +34492,7 @@ As a driver of a truck with a maximum permissible mass of over 3.5 tonnes or as 
 - B. Motor vehicles with trailers with a maximum permissible speed of 25 km/h
 
 **Explanation:**
-This road sign describes a driving ban for tractors with a design-related maximum speed up to 25 km / h, as well as for motor vehicles with a trailer with a permissible maximum speed up to 25 km / h.
+This road sign describes a driving ban for tractors with a design-related maximum speed up to 25 km / h, as well as for motor vehicles with a trailer with a permissible maximum speed up to 25 km / h. 
 This does not apply to tractors with a maximum design speed of more than 40 km/h.
 
 ---
@@ -34193,7 +35193,7 @@ Be aware that fast, high-speed driving results in high fuel consumption and high
 - A. By only using permissible exhaust systems
 
 **Explanation:**
-Improper exhaust systems lead to higher noise pollution.
+Improper exhaust systems lead to higher noise pollution. 
 Uneven driving, such as frequent braking and then accelerating hard again, leads to unnecessary noise.
 High-speed starting leads to unnecessary noise.
 
@@ -34638,7 +35638,7 @@ The driver's ability to react deteriorates due to the loud music and the resulti
 - A. The speed travelled
 
 **Explanation:**
-The faster you drive, the greater the air resistance acting on your vehicle. Doubling your speed results in 4 times the air resistance.
+The faster you drive, the greater the air resistance acting on your vehicle. Doubling your speed results in 4 times the air resistance. 
 The tread depth of the tyres has a major effect on the rolling resistance of the tyres.
 The number of passengers does not directly affect the air resistance.
 
@@ -34720,7 +35720,7 @@ Recuperation means "recovery". Just as electrical energy was converted into kine
 - B. - noise pollution
 
 **Explanation:**
-The automatic start-stop system automatically switches off the engine when you come to a standstill and restarts it as soon as you press one of the pedals.
+The automatic start-stop system automatically switches off the engine when you come to a standstill and restarts it as soon as you press one of the pedals. 
 By switching off the engine, for example at traffic lights, the automatic start-stop system can reduce noise pollution and also save up to 15% fuel.
 
 ---
@@ -34741,7 +35741,7 @@ By switching off the engine, for example at traffic lights, the automatic start-
 - B. I use the electric drive through my driving style
 
 **Explanation:**
-By driving proactively - with gentle acceleration and timely braking - you can reduce your vehicle's fuel consumption. The electric motor is often used in this driving style.
+By driving proactively - with gentle acceleration and timely braking - you can reduce your vehicle's fuel consumption. The electric motor is often used in this driving style. 
 You can also reduce fuel consumption by regularly charging the battery of your plug-in hybrid on the power grid or minimize it by driving purely electrically.
 
 ---
@@ -35079,7 +36079,7 @@ Even if you have parked your caravan on a campsite, you must meet the deadline f
 **Options:**
 
 **Correct Answer(s):**
-- 24
+- 24 
 
 **Explanation:**
 The first general inspection of a passenger car takes place after three years, each subsequent general inspection takes place every 2 years.
@@ -35095,7 +36095,7 @@ The first general inspection of a passenger car takes place after three years, e
 **Options:**
 
 **Correct Answer(s):**
-- 12
+- 12 
 
 **Explanation:**
 You have your trucks with a gross vehicle mass exceeding 3,5 t bring every 12 months for the main study.
@@ -35111,7 +36111,7 @@ You have your trucks with a gross vehicle mass exceeding 3,5 t bring every 12 mo
 **Options:**
 
 **Correct Answer(s):**
-- 12
+- 12 
 
 **Explanation:**
 Coming soon...
@@ -35227,7 +36227,7 @@ When you are presented to a security check next time have to, you realize the SP
 **Options:**
 
 **Correct Answer(s):**
-- 12
+- 12 
 
 **Explanation:**
 Buses and coaches drive a lot and transport people, which is why buses and coaches have to undergo a general inspection every 12 months.
@@ -35364,7 +36364,7 @@ A motorized bicycle has to be insured to cover for third party damages in case o
 **Options:**
 
 **Correct Answer(s):**
-- 15
+- 15 
 
 **Explanation:**
 You must be at least 15 years old to drive a motorized bicycle
@@ -35846,7 +36846,7 @@ From 1 March 2023, the new insurance licence plates will become invalid. In orde
 - B. - push the bike on a pavement
 
 **Explanation:**
-It is forbidden to use a two-wheeler on public roads without a valid insurance license plate. The law requires compulsory insurance so that possible accident costs are covered.
+It is forbidden to use a two-wheeler on public roads without a valid insurance license plate. The law requires compulsory insurance so that possible accident costs are covered. 
 You are allowed to push your two-wheeler on a sidewalk without a valid insurance license plate, as this does not count as “driving”.
 
 ---
@@ -35955,7 +36955,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 5
+- 5 
 
 **Explanation:**
 Coming soon...
@@ -36563,7 +37563,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 1
+- 1 
 
 **Explanation:**
 Only one trailer may be carried behind motor vehicles (class B). However, none for passenger transport (bus trailer).
@@ -36735,7 +37735,7 @@ By reducing the speed, you can prevent skidding.
 **Options:**
 
 **Correct Answer(s):**
-- 1
+- 1 
 
 **Explanation:**
 According to StVZO § 32 a Carrying trailers: Only one trailer may be carried behind vehicles, but not for passenger transport (bus trailer).
@@ -36916,7 +37916,7 @@ The towable behind a truck must not be greater than 1.5 times the maximum mass o
 **Options:**
 
 **Correct Answer(s):**
-- 22,5
+- 22,5 
 
 **Explanation:**
 The trailer load must not weigh more than 22.5 t, when you drive a truck with a gross vehicle weight of 15 tonnes.
@@ -36991,7 +37991,7 @@ If you want to Hitch a multiaxial trailer, you need the trailer from rolling awa
 **Options:**
 
 **Correct Answer(s):**
-- 2
+- 2 
 
 **Explanation:**
 Coming soon...
@@ -37007,7 +38007,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 25
+- 25 
 
 **Explanation:**
 Coming soon...
@@ -37061,7 +38061,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 1
+- 1 
 
 **Explanation:**
 Coming soon...
@@ -37116,7 +38116,7 @@ To increase the transport capacity, two trailers can be driven behind one tracto
 **Options:**
 
 **Correct Answer(s):**
-- 2
+- 2 
 
 **Explanation:**
 To increase the transport capacity, two trailers can be driven behind one tractor. The maximum permitted speed must not exceed 25 km/h and the trailers must be marked with a speed sign "25".
@@ -37287,7 +38287,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 90
+- 90 
 
 **Explanation:**
 Coming soon...
@@ -37380,7 +38380,7 @@ For you as a driver of your truck with a maximum authorized mass of 6 tonnes in 
 **Options:**
 
 **Correct Answer(s):**
-- 45
+- 45 
 
 ---
 
@@ -37393,7 +38393,7 @@ For you as a driver of your truck with a maximum authorized mass of 6 tonnes in 
 **Options:**
 
 **Correct Answer(s):**
-- 4,5
+- 4,5 
 
 ---
 
@@ -37413,7 +38413,7 @@ For you as a driver of your truck with a maximum authorized mass of 6 tonnes in 
 - B. - spent travelling as a passenger
 
 **Explanation:**
-A break from driving is time that the driver spends recovering. During this time, the driver is not behind the steering wheel of the vehicle and does not carry out any driving activities. Work such as loading and unloading the vehicle is also forbidden during this time.
+A break from driving is time that the driver spends recovering. During this time, the driver is not behind the steering wheel of the vehicle and does not carry out any driving activities. Work such as loading and unloading the vehicle is also forbidden during this time. 
 Time spent by the driver in the passenger seat is also a break from driving.
 
 ---
@@ -37446,7 +38446,7 @@ As a driver in commercial freight or passenger transport, you must compensate fo
 **Options:**
 
 **Correct Answer(s):**
-- 45
+- 45 
 
 **Explanation:**
 The regulation requires drivers to have a regular rest period of at least 45 hours. It serves to increase road safety, protect the health of drivers and ensure a level playing field.
@@ -37462,7 +38462,7 @@ The regulation requires drivers to have a regular rest period of at least 45 hou
 **Options:**
 
 **Correct Answer(s):**
-- 2,8
+- 2,8 
 
 **Explanation:**
 The driving and rest times apply to drivers of vehicles over 2.8 tonnes; these regulations serve to protect drivers and general road safety.
@@ -37689,7 +38689,7 @@ The driving period interruption is your recovery. 45 minutes and if you advance 
 **Options:**
 
 **Correct Answer(s):**
-- 45
+- 45 
 
 **Explanation:**
 After 4 1/2 hours of continuous driving, you need to take a break of 45 minutes.
@@ -37705,7 +38705,7 @@ After 4 1/2 hours of continuous driving, you need to take a break of 45 minutes.
 **Options:**
 
 **Correct Answer(s):**
-- 4,5
+- 4,5 
 
 ---
 
@@ -37935,7 +38935,7 @@ The permissible payload - i.e. the weight you can load - is unfortunately not to
 **Options:**
 
 **Correct Answer(s):**
-- 18
+- 18 
 
 **Explanation:**
 Without a load, your car can be up to 18.00 m long.
@@ -37958,7 +38958,7 @@ Without a load, your car can be up to 18.00 m long.
 - B. - determine the actual height of loads that extend above the top of the vehicle
 
 **Explanation:**
-You must find out about your exact vehicle height in the registration restriction part 1, the so-called vehicle registration document. In this way, you prevent dangerous situations on road sections with limited height and violations of the permissible overall height.
+You must find out about your exact vehicle height in the registration restriction part 1, the so-called vehicle registration document. In this way, you prevent dangerous situations on road sections with limited height and violations of the permissible overall height. 
 If the load extends beyond the outline of the vehicle, you will need to determine the actual height of your vehicle with the load in question. This way you can ensure that the permitted total height is not exceeded.
 
 ---
@@ -38308,7 +39308,7 @@ The operation of this combination is permitted if you t at least three renounce 
 **Options:**
 
 **Correct Answer(s):**
-- 20,75
+- 20,75 
 
 **Explanation:**
 Your train consisting of a truck and two-axle, and its load may be more than 20,75 meters long.
@@ -38346,7 +39346,7 @@ Maximum authorised mass of the towing vehicle plus the maximum authorised mass o
 **Options:**
 
 **Correct Answer(s):**
-- 3,0
+- 3,0 
 
 **Explanation:**
 Coming soon...
@@ -38406,7 +39406,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 20,75
+- 20,75 
 
 **Explanation:**
 Coming soon...
@@ -38424,7 +39424,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 2,75
+- 2,75 
 
 **Explanation:**
 Coming soon...
@@ -38442,7 +39442,7 @@ Coming soon...
 **Options:**
 
 **Correct Answer(s):**
-- 3
+- 3 
 
 **Explanation:**
 Coming soon...
@@ -40026,7 +41026,7 @@ Slippage" is the sudden increase in the speed of a drive wheel when it loses gri
 - B. I reduce my speed
 
 **Explanation:**
-If you have estimated the cornering radius to be larger, you should reduce your speed; by reducing your speed, you can drive a smaller cornering radius.
+If you have estimated the cornering radius to be larger, you should reduce your speed; by reducing your speed, you can drive a smaller cornering radius. 
 You can also increase the lean angle in the bend so that you can take tighter bends.
 
 ---
@@ -40090,7 +41090,7 @@ This is because the tyres cannot apply the same force to the road and you lose g
 - B. I avoid accelerating to high speeds between bends in the road
 
 **Explanation:**
-Avoid speeding up between bends, because speeding up would put even more strain on the brakes. Therefore, ride downhill without speeding up.
+Avoid speeding up between bends, because speeding up would put even more strain on the brakes. Therefore, ride downhill without speeding up. 
 Use the front and rear brakes evenly and try to use the braking effect of the motor to relieve the brakes. The higher the engine speed, the greater the braking effect.
 
 ---
@@ -41051,7 +42051,7 @@ Weather conditions can affect the sensors of the lane departure warning system. 
 - A. Where there are clear road markings
 
 **Explanation:**
-The lane keeping assistant works best with clear lane markings.
+The lane keeping assistant works best with clear lane markings. 
 Poor or additional markings in roadworks will not allow the lane departure warning system to intervene, as it will most likely not be detected correctly.
 Weather conditions can affect the sensors of the lane departure warning system. In addition, snow can distort the markings.
 
@@ -41073,7 +42073,7 @@ Weather conditions can affect the sensors of the lane departure warning system. 
 - B. The autonomous emergency brake
 
 **Explanation:**
-The Autonomous Emergency Brake Assist constantly detects the traffic in front of the vehicle. If a hazard is imminent, the Emergency Brake Assist can carry out an emergency braking manoeuvre.
+The Autonomous Emergency Brake Assist constantly detects the traffic in front of the vehicle. If a hazard is imminent, the Emergency Brake Assist can carry out an emergency braking manoeuvre. 
 Braking too late or too timidly are often causes of traffic accidents. Brake assistants usually react faster than humans and thus offer more safety.
 
 ---
@@ -41459,7 +42459,7 @@ The hill assist can make it easier for you to start off on a hill by releasing t
 - B. I must override the driver assistance system immediately in the event of a malfunction
 
 **Explanation:**
-Before using the driver assistance system, you should understand the system's limitations. This way you know exactly which dangerous situations and malfunctions you need to pay more attention to.
+Before using the driver assistance system, you should understand the system's limitations. This way you know exactly which dangerous situations and malfunctions you need to pay more attention to. 
 If you notice a driver assistance system malfunction, you should oversteer as quickly as possible. Through targeted oversteering, any errors in the driver assistance system during longitudinal and lateral guidance can be responded to manually. Oversteering can usually be triggered by gently pressing the accelerator and brake or by carefully counter-steering.
 
 ---
@@ -42872,7 +43872,7 @@ One cause of an excessive brake cylinder stroke is a worn out bearing of the tra
 **Options:**
 
 **Correct Answer(s):**
-- 1,6
+- 1,6 
 
 **Explanation:**
 Reifen von Krafträder und PKW müssen eine Profiltiefe von mindesten 1,6 mm aufweisen.
@@ -43240,7 +44240,7 @@ Stop as quickly as possible at a suitable location and switch off the engine to 
 - C. There is a perforation in the radiator system
 
 **Explanation:**
-The reason for an excessively high coolant temperature can be sediment and dirt, as they reduce heat dissipation.
+The reason for an excessively high coolant temperature can be sediment and dirt, as they reduce heat dissipation. 
 Coolant can escape through leaks or defective seals. If you have less coolant, it heats up faster. Check your vehicle for visible leaks and have them repaired if necessary.
 If the radiator fan is defective, the temperature will rise quickly. Check the radiator fan for blockages and have it replaced by a specialist if necessary.
 
@@ -43720,7 +44720,7 @@ Further journeys would entail too much risk. You would be putting yourself and o
 - C. The shock absorbers
 
 **Explanation:**
-There are several reasons for unevenly worn tyres. You should check the tyre pressure.
+There are several reasons for unevenly worn tyres. You should check the tyre pressure. 
 A defective shock absorber or also an incorrect suspension setting can lead to uneven wear. Both should be checked at a specialist garage.
 
 ---
@@ -44312,7 +45312,7 @@ You should also check the lubrication of the chain regularly and re-lubricate it
 - B. The directional stability of the rear wheel must be secured
 
 **Explanation:**
-Follow the manufacturer's instructions for all work on your motorbike or have it carried out by specialists.
+Follow the manufacturer's instructions for all work on your motorbike or have it carried out by specialists. 
 When tensioning the chain, make sure that the rear wheel remains correctly aligned. This ensures greater directional stability and avoids unnecessary tyre wear.
 The slack of the chain is important and must comply with the manufacturer's specifications.
 
@@ -44850,7 +45850,7 @@ You should check the tyre pressure regularly when the tyres are cold and immedia
 **Options:**
 
 **Correct Answer(s):**
-- 1,0
+- 1,0 
 
 **Explanation:**
 The tread depth of your moped must be 1 mm.
@@ -44969,7 +45969,7 @@ Damage to the tire by e.g. a nail or similar foreign bodies can lead to the loss
 **Options:**
 
 **Correct Answer(s):**
-- 1,6
+- 1,6 
 
 **Explanation:**
 The legally regulated minimum profile depth for tyres is 1.6 mm.
@@ -45127,7 +46127,7 @@ However, a lot can also go wrong with the tyre pressure sensors if you have rece
 **Options:**
 
 **Correct Answer(s):**
-- 1,6
+- 1,6 
 
 **Explanation:**
 The legally regulated minimum profile depth for tyres is 1.6 mm. The main tread features are the grooves in the centre tread areas.
@@ -45940,6 +46940,10 @@ It also brakes when it detects vehicles ahead. It does not slow down if it canno
 
 **While driving, you use the adaptive cruise control (ACC). The speed is set to 100 km/h. What must you be prepared for before entering a bend in the road?**
 
+![Question Image](images/2_7_06-118-M.png)
+
+[Video: videos/2_7_06-118-M.mp4](videos/2_7_06-118-M.mp4)
+
 **Options:**
 - A. The ACC may cause my vehicle to accelerate
 - B. I have to adjust my speed to the situation
@@ -45950,7 +46954,7 @@ It also brakes when it detects vehicles ahead. It does not slow down if it canno
 - B. I have to adjust my speed to the situation
 
 **Explanation:**
-The adaptive cruise control system automatically maintains the speed you have set while keeping the correct distance from vehicles in front.
+The adaptive cruise control system automatically maintains the speed you have set while keeping the correct distance from vehicles in front. 
 You have set the speed of the AGR to 100 km/h. Because the vehicle in front is now out of sight, the AGR will accelerate. Set a lower speed to safely negotiate the bend.
 
 ---
@@ -47895,7 +48899,7 @@ You have all the moving parts (drawbar & slewing ring) wait on the trailer.
 **Options:**
 
 **Correct Answer(s):**
-- 2,55
+- 2,55 
 
 **Explanation:**
 The width of thy vehicle (except vehicles agricultural or forestry products and refrigerated vehicles) including cargo, should be 2.55 m at most.
@@ -47911,7 +48915,7 @@ The width of thy vehicle (except vehicles agricultural or forestry products and 
 **Options:**
 
 **Correct Answer(s):**
-- 4
+- 4 
 
 **Explanation:**
 The amount of your vehicle, including cargo (except vehicles agricultural or forestry products) must be at most 4 m.

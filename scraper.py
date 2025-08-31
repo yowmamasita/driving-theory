@@ -28,6 +28,8 @@ class DrivingTheoryScraper:
         self.delay = delay
         self.images_dir = Path("images")
         self.images_dir.mkdir(exist_ok=True)
+        self.videos_dir = Path("videos")
+        self.videos_dir.mkdir(exist_ok=True)
         self.data = []
         
     def fetch_page(self, url: str) -> Optional[BeautifulSoup]:
@@ -58,6 +60,28 @@ class DrivingTheoryScraper:
             return str(filepath)
         except Exception as e:
             print(f"Error downloading image {image_url}: {e}")
+            return None
+    
+    def download_video(self, video_url: str, question_id: str) -> Optional[str]:
+        """Download video and return local path"""
+        try:
+            response = self.session.get(video_url, stream=True)
+            response.raise_for_status()
+            
+            # Extract extension from URL
+            ext = os.path.splitext(urlparse(video_url).path)[1] or '.mp4'
+            filename = f"{question_id.replace('.', '_')}{ext}"
+            filepath = self.videos_dir / filename
+            
+            # Download in chunks to handle large files
+            with open(filepath, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    if chunk:
+                        f.write(chunk)
+            
+            return str(filepath)
+        except Exception as e:
+            print(f"Error downloading video {video_url}: {e}")
             return None
     
     def scrape_themes(self) -> List[Dict[str, str]]:
@@ -239,18 +263,37 @@ class DrivingTheoryScraper:
             if comment_div:
                 comment = comment_div.text.strip()
             
-            # Check for images
+            # Check for images and videos
             image_urls = []
             local_image_paths = []
+            video_urls = []
+            local_video_paths = []
             
-            # Look for images in multiple places
-            # 1. Check media div
-            media_div = soup.find('div', class_='media')
-            if media_div:
-                for img in media_div.find_all('img'):
+            # Look for images and videos in multiple places
+            # 1. Check media div and image div (both can contain media)
+            media_containers = soup.find_all('div', class_=['media', 'image'])
+            for container in media_containers:
+                # Check for images
+                for img in container.find_all('img'):
                     img_src = img.get('src')
                     if img_src and 'storage.googleapis.com' in img_src:
-                        image_urls.append(img_src)
+                        if img_src not in image_urls:
+                            image_urls.append(img_src)
+                
+                # Check for videos
+                for video in container.find_all('video'):
+                    video_src = video.get('src')
+                    if video_src and video_src not in video_urls:
+                        video_urls.append(video_src)
+                    # Also check source tags inside video
+                    for source in video.find_all('source'):
+                        source_src = source.get('src')
+                        if source_src and source_src not in video_urls:
+                            video_urls.append(source_src)
+                    # Also capture poster image if available
+                    poster = video.get('poster')
+                    if poster and 'storage.googleapis.com' in poster and poster not in image_urls:
+                        image_urls.append(poster)
             
             # 2. Check all img tags that might contain question images
             for img in soup.find_all('img'):
@@ -266,11 +309,48 @@ class DrivingTheoryScraper:
                     if not any(cls in str(parent_classes) for cls in ['breadcrumb', 'menu', 'nav', 'header', 'footer']):
                         image_urls.append(img_src)
             
+            # 3. Check all video tags in the page
+            for video in soup.find_all('video'):
+                video_src = video.get('src')
+                if video_src and video_src not in video_urls:
+                    video_urls.append(video_src)
+                # Check source tags
+                for source in video.find_all('source'):
+                    source_src = source.get('src')
+                    if source_src and source_src not in video_urls:
+                        video_urls.append(source_src)
+            
+            # 4. Look for video URLs in data attributes or JavaScript
+            # Sometimes videos are loaded dynamically
+            for elem in soup.find_all(attrs={'data-video-src': True}):
+                video_src = elem.get('data-video-src')
+                if video_src and video_src not in video_urls:
+                    video_urls.append(video_src)
+            
+            # Check for videos in script tags (common for dynamic loading)
+            for script in soup.find_all('script'):
+                if script.string:
+                    # Look for video URLs in JavaScript
+                    video_pattern = r'["\'](https?://[^"\']*\.mp4[^"\']*)["\']'
+                    video_matches = re.findall(video_pattern, script.string)
+                    for match in video_matches:
+                        if match not in video_urls:
+                            video_urls.append(match)
+            
             # Download all found images
             for img_url in image_urls:
                 local_path = self.download_image(img_url, question_id)
                 if local_path:
                     local_image_paths.append(local_path)
+            
+            # Download all found videos
+            for video_url in video_urls:
+                # Make sure URL is absolute
+                if not video_url.startswith('http'):
+                    video_url = urljoin(self.base_url, video_url)
+                local_path = self.download_video(video_url, question_id)
+                if local_path:
+                    local_video_paths.append(local_path)
             
             # Compile all data
             question_data = {
@@ -287,6 +367,8 @@ class DrivingTheoryScraper:
                 'comment': comment,
                 'image_urls': image_urls,
                 'local_image_paths': local_image_paths,
+                'video_urls': video_urls,
+                'local_video_paths': local_video_paths,
                 'url': question_url
             }
             
@@ -346,6 +428,7 @@ class DrivingTheoryScraper:
                 'correct_answers': '; '.join([f"{ans['letter']} {ans['text']}" for ans in item['correct_answers']]),
                 'comment': item['comment'],
                 'image_paths': '; '.join(item['local_image_paths']),
+                'video_paths': '; '.join(item.get('local_video_paths', [])),
                 'url': item['url']
             }
             flattened_data.append(row)
@@ -382,6 +465,11 @@ class DrivingTheoryScraper:
                 if item['local_image_paths']:
                     for img_path in item['local_image_paths']:
                         f.write(f"![Question Image]({img_path})\n\n")
+                
+                # Videos
+                if item.get('local_video_paths'):
+                    for video_path in item.get('local_video_paths', []):
+                        f.write(f"[Video: {video_path}]({video_path})\n\n")
                 
                 # Options
                 f.write("**Options:**\n")

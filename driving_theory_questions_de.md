@@ -769,6 +769,10 @@ Da sich Kinder sowohl links, als auch rechts auf der Straße befinden, solltest 
 
 **Wie verhalten Sie sich in dieser Situation?**
 
+![Question Image](images/1_1_02-049.png)
+
+[Video: videos/1_1_02-049.mp4](videos/1_1_02-049.mp4)
+
 **Optionen:**
 - A. Ich führe eine Gefahrenbremsung durch
 - B. Ich hupe und fahre weiter
@@ -787,6 +791,10 @@ Führen Sie sofort eine Gefahrenbremsung durch, um einen Zusammenstoß mit dem v
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie hier langsam und bremsbereit fahren?**
+
+![Question Image](images/1_1_02-050-M.png)
+
+[Video: videos/1_1_02-050-M.mp4](videos/1_1_02-050-M.mp4)
 
 **Optionen:**
 - A. Weil die Verkehrssituation unübersichtlich ist
@@ -997,6 +1005,10 @@ In dieser Situation solltest du dich auf die Gefahr einstellen, dass der Hund au
 
 **Müssen Sie hier langsam und bremsbereit fahren?**
 
+![Question Image](images/1_1_02-115.png)
+
+[Video: videos/1_1_02-115.mp4](videos/1_1_02-115.mp4)
+
 **Optionen:**
 - A. Ja, da Fahrgäste vor dem Bus die Fahrbahn überqueren könnten
 - B. Ja, da Personen, die nicht aus dem Bus kommen, die Fahrbahn überqueren könnten
@@ -1038,6 +1050,10 @@ An einer haltenden Straßenbahn dürfen Sie vorsichtig mit Schrittgeschwindigkei
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie hier verzögern?**
+
+![Question Image](images/1_1_02-117.png)
+
+[Video: videos/1_1_02-117.mp4](videos/1_1_02-117.mp4)
 
 **Optionen:**
 - A. - des Kindes
@@ -1381,6 +1397,10 @@ Erblicken Sie am Straßenrand eine Person, die eine gelbe Armbinde mit drei schw
 
 **Warum müssen Sie hier die Geschwindigkeit verringern?**
 
+![Question Image](images/1_1_02-134-M.png)
+
+[Video: videos/1_1_02-134-M.mp4](videos/1_1_02-134-M.mp4)
+
 **Optionen:**
 - A. - Kindes
 - B. - Motorrads
@@ -1421,6 +1441,10 @@ Wenn ein Fußgänger die Fahrbahn überquert, ist es nicht sicher, ob er diese H
 
 **Warum müssen Sie jetzt langsam und bremsbereit fahren?**
 
+![Question Image](images/1_1_02-136-M.png)
+
+[Video: videos/1_1_02-136-M.mp4](videos/1_1_02-136-M.mp4)
+
 **Optionen:**
 - A. Wegen des Fußgängers
 - B. Weil der Bus anfährt
@@ -1440,6 +1464,10 @@ Du musst langsam und bremsbereit fahren, da Fahrgäste vor dem Bus die Fahrbahn 
 
 **Warum müssen Sie hier bremsen?**
 
+![Question Image](images/1_1_02-137-M.png)
+
+[Video: videos/1_1_02-137-M.mp4](videos/1_1_02-137-M.mp4)
+
 **Optionen:**
 - A. - Kindes
 - B. - Radfahrers
@@ -1458,6 +1486,10 @@ Ein Kind befindet sich hinter dem parkenden Fahrzeug und wird höchstwahrscheinl
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/1_1_02-138-M.png)
+
+[Video: videos/1_1_02-138-M.mp4](videos/1_1_02-138-M.mp4)
 
 **Optionen:**
 - A. Ich reduziere meine Geschwindigkeit
@@ -1479,6 +1511,10 @@ Da der Hund, höchstwahrscheinlich, von der linken Seite aus auf die Straße ren
 
 **Warum müssen Sie hier anhalten?**
 
+![Question Image](images/1_1_02-201-M.png)
+
+[Video: videos/1_1_02-201-M.mp4](videos/1_1_02-201-M.mp4)
+
 **Optionen:**
 - A. Weil [eine Fußgängerin] die Fahrbahn von links überqueren möchte
 - B. Weil ein Fußgänger die Fahrbahn von rechts überqueren möchte
@@ -1498,6 +1534,10 @@ Du solltest hier anhalten, weil sich 2 Fußgänger vor dem Bus befinden und die 
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie jetzt bremsen?**
+
+![Question Image](images/1_1_02-202-M.png)
+
+[Video: videos/1_1_02-202-M.mp4](videos/1_1_02-202-M.mp4)
 
 **Optionen:**
 - A. Wegen des Kindes
@@ -1842,6 +1882,10 @@ Vor Ihnen liegt eine lang gestreckte Kurve, deren Ende Sie nicht einsehen könne
 
 **Sie wollen die Autobahn verlassen, worauf müssen Sie besonders achten?**
 
+![Question Image](images/1_1_03-115.png)
+
+[Video: videos/1_1_03-115.mp4](videos/1_1_03-115.mp4)
+
 **Optionen:**
 - A. Auf das rote Motorrad
 - B. Auf den gelben Lkw
@@ -1905,6 +1949,10 @@ Rechts sehen Sie das Hinweisschild auf einen Parkplatz. Rechnen Sie mit Fußgän
 **Punkte:** 5 Punkte
 
 **Was müssen Sie beachten?**
+
+![Question Image](images/1_1_03-118.png)
+
+[Video: videos/1_1_03-118.mp4](videos/1_1_03-118.mp4)
 
 **Optionen:**
 - A. - die Nebelschlussleuchte einschalten
@@ -2212,6 +2260,10 @@ Bereits vor einer engen Kurve sollten Sie Ihre Geschwindigkeit verringern und er
 
 **Was müssen Sie beachten?**
 
+![Question Image](images/1_1_05-103.png)
+
+[Video: videos/1_1_05-103.mp4](videos/1_1_05-103.mp4)
+
 **Optionen:**
 - A. Personen könnten die Fahrbahn überqueren
 - B. Ich darf am Bus mit Schrittgeschwindigkeit vorbeifahren
@@ -2231,6 +2283,10 @@ An einem Bus, der mit eingeschaltetem Warnblinklicht an einer Haltestelle steht,
 **Punkte:** 5 Punkte
 
 **Was müssen Sie in dieser Situation beachten?**
+
+![Question Image](images/1_1_05-105.png)
+
+[Video: videos/1_1_05-105.mp4](videos/1_1_05-105.mp4)
 
 **Optionen:**
 - A. Ich schaue auf Personen, die auf die Fahrbahn treten könnten
@@ -2428,6 +2484,10 @@ Auf gerader Strecke können Sie zwar den entgegenkommenden Verkehr schon von Wei
 
 **Wie verhalten Sie sich in dieser Situation?**
 
+![Question Image](images/1_1_06-113.png)
+
+[Video: videos/1_1_06-113.mp4](videos/1_1_06-113.mp4)
+
 **Optionen:**
 - A. Ich bleibe hinter dem Radfahrer
 - B. Ich überhole den Radfahrer
@@ -2446,6 +2506,10 @@ Sie dürfen den Fahrradfahrer nicht überholen: Die durchgehende Mittellinie dar
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich?**
+
+![Question Image](images/1_1_06-114.png)
+
+[Video: videos/1_1_06-114.mp4](videos/1_1_06-114.mp4)
 
 **Optionen:**
 - A. Ich breche den Überholvorgang ab
@@ -2572,6 +2636,10 @@ Wenn Sie einen Radfahrer überholen möchten, müssen Sie hinsichtlich des Seite
 
 **Wie verhalten Sie sich richtig?**
 
+![Question Image](images/1_1_06-127-M.png)
+
+[Video: videos/1_1_06-127-M.mp4](videos/1_1_06-127-M.mp4)
+
 **Optionen:**
 - A. - nach der Kurve
 - B. - vor Erreichen des [Lkws]
@@ -2655,6 +2723,10 @@ Durch falsches Einschätzen der Geschwindigkeit und Entfernung eines entgegenkom
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/1_1_06-131-M.png)
+
+[Video: videos/1_1_06-131-M.mp4](videos/1_1_06-131-M.mp4)
+
 **Optionen:**
 - A. Ich verringere die Geschwindigkeit
 - B. Ich fahre nach rechts auf den Parkstreifen
@@ -2673,6 +2745,10 @@ Das dich überholende Fahrzeug hat seinen Überholweg zu kurz eingeschätzt. Du 
 **Punkte:** 4 Punkte
 
 **Warum dürfen Sie in dieser Situation nicht überholen?**
+
+![Question Image](images/1_1_06-201-M.png)
+
+[Video: videos/1_1_06-201-M.mp4](videos/1_1_06-201-M.mp4)
 
 **Optionen:**
 - A. Weil der Überholweg nicht einsehbar ist
@@ -2693,6 +2769,10 @@ Durch die Radfahrer und den Streckenverlauf ist der Überholweg nicht einsehbar.
 **Punkte:** 4 Punkte
 
 **Warum dürfen Sie jetzt nicht überholen?**
+
+![Question Image](images/1_1_06-202-M.png)
+
+[Video: videos/1_1_06-202-M.mp4](videos/1_1_06-202-M.mp4)
 
 **Optionen:**
 - A. Weil [der Radfahrer] nach links abbiegen könnte
@@ -2945,6 +3025,10 @@ Der Fahrer des aus der Ausfahrt kommenden Fahrzeugs kann den Querverkehr nicht e
 
 **Warum müssen Sie vor dem Rechtsabbiegen warten?**
 
+![Question Image](images/1_1_07-016.png)
+
+[Video: videos/1_1_07-016.mp4](videos/1_1_07-016.mp4)
+
 **Optionen:**
 - A. - des Fußgängers
 - B. - des Radfahrers
@@ -2964,6 +3048,10 @@ Wenn Sie rechts abbiegen möchten, müssen Sie Fahrzeugen und Fußgängern die I
 **Punkte:** 5 Punkte
 
 **Worauf stellen Sie sich in dieser Situation ein?**
+
+![Question Image](images/1_1_07-017.png)
+
+[Video: videos/1_1_07-017.mp4](videos/1_1_07-017.mp4)
 
 **Optionen:**
 - A. - ausscheren und die Straßenmitte überfahren
@@ -3029,6 +3117,10 @@ Sie können erkennen, dass der Radweg unmittelbar vor Ihnen endet. Die Radfahrer
 
 **Worauf müssen Sie hier beim Rechtsabbiegen achten?**
 
+![Question Image](images/1_1_07-021.png)
+
+[Video: videos/1_1_07-021.mp4](videos/1_1_07-021.mp4)
+
 **Optionen:**
 - A. Auf den Radfahrer
 - B. Auf den Gegenverkehr
@@ -3047,6 +3139,10 @@ Bevor Sie hier rechts abbiegen können, müssen Sie den geradeaus fahrenden Radf
 **Punkte:** 3 Punkte
 
 **Wie sollten Sie sich verhalten?**
+
+![Question Image](images/1_1_07-022.png)
+
+[Video: videos/1_1_07-022.mp4](videos/1_1_07-022.mp4)
 
 **Optionen:**
 - A. Ich halte an
@@ -3439,6 +3535,10 @@ Folgende Verhaltensregeln sind in allen Tunneln Pflicht: Es gilt auf der gesamte
 
 **Weshalb müssen Sie hier warten?**
 
+![Question Image](images/1_1_07-132.png)
+
+[Video: videos/1_1_07-132.mp4](videos/1_1_07-132.mp4)
+
 **Optionen:**
 - A. - des Transporters
 - B. - des Fußgängers
@@ -3458,6 +3558,10 @@ Sie wollen links abbiegen. Ein Transporter, der von der Gegenfahrbahn naht, will
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich jetzt?**
+
+![Question Image](images/1_1_07-136.png)
+
+[Video: videos/1_1_07-136.mp4](videos/1_1_07-136.mp4)
 
 **Optionen:**
 - A. Verzögern und bremsbereit sein
@@ -3667,6 +3771,10 @@ Wenn Sie Ihr Fahrzeug aufgrund eines Feuers in einem Tunnel abstellen müssen, s
 
 **Womit müssen Sie rechnen?**
 
+![Question Image](images/1_1_07-146.png)
+
+[Video: videos/1_1_07-146.mp4](videos/1_1_07-146.mp4)
+
 **Optionen:**
 - A. - weiter ausschwenkt
 - B. - plötzlich stehen bleibt
@@ -3686,6 +3794,10 @@ Sie sehen, dass der Lkw vor Ihnen abbiegen will. Das Fahrzeug verdeckt die Sicht
 **Punkte:** 4 Punkte
 
 **Worauf müssen Sie jetzt achten?**
+
+![Question Image](images/1_1_07-147.png)
+
+[Video: videos/1_1_07-147.mp4](videos/1_1_07-147.mp4)
 
 **Optionen:**
 - A. Auf den vorausfahrenden Pkw
@@ -3707,6 +3819,10 @@ Sie wollen rechts abbiegen, der Ihnen vorausfahrende Pkw-Fahrer ebenso. Die Fuß
 
 **Weshalb müssen Sie hier warten?**
 
+![Question Image](images/1_1_07-148.png)
+
+[Video: videos/1_1_07-148.mp4](videos/1_1_07-148.mp4)
+
 **Optionen:**
 - A. Wegen der Radfahrerin
 - B. Wegen des grünen Pkws
@@ -3725,6 +3841,10 @@ Der Radfahrerin ist Vorfahrt zu gewähren, weil sie sich auf der Vorfahrtstraße
 **Punkte:** 5 Punkte
 
 **Weshalb müssen Sie hier warten?**
+
+![Question Image](images/1_1_07-149.png)
+
+[Video: videos/1_1_07-149.mp4](videos/1_1_07-149.mp4)
 
 **Optionen:**
 - A. Wegen des roten Pkws
@@ -3745,6 +3865,10 @@ Der Verkehr auf der Vorfahrtstraße staut sich. Der rote Pkw umfährt die stehen
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/1_1_07-150.png)
+
+[Video: videos/1_1_07-150.mp4](videos/1_1_07-150.mp4)
+
 **Optionen:**
 - A. Ich halte das Lenkrad gerade und fest
 - B. Ich weiche nach links aus
@@ -3763,6 +3887,10 @@ Wenn ein Tier von rechts kommend auf die Fahrbahn läuft, ist ein Ausweichmanöv
 **Punkte:** 3 Punkte
 
 **Wie sollten Sie sich jetzt verhalten?**
+
+![Question Image](images/1_1_07-151.png)
+
+[Video: videos/1_1_07-151.mp4](videos/1_1_07-151.mp4)
 
 **Optionen:**
 - A. Ich führe eine Gefahrenbremsung durch
@@ -3783,6 +3911,10 @@ Sie sehen, dass das Tier im Begriff ist, auf die Fahrbahn zu laufen. Durch Hupen
 **Punkte:** 5 Punkte
 
 **Worauf müssen Sie beim Umschalten der Ampel auf „Grün“ achten?**
+
+![Question Image](images/1_1_07-152-M.png)
+
+[Video: videos/1_1_07-152-M.mp4](videos/1_1_07-152-M.mp4)
 
 **Optionen:**
 - A. Auf [den Fußgänger]
@@ -3847,6 +3979,10 @@ Bei einer Tunneldurchfahrt verhalten Sie sich wie folgt: Achten Sie auf die Einh
 
 **Worauf müssen Sie jetzt achten?**
 
+![Question Image](images/1_1_07-155-M.png)
+
+[Video: videos/1_1_07-155-M.mp4](videos/1_1_07-155-M.mp4)
+
 **Optionen:**
 - A. Auf [den Radfahrer] links
 - B. Auf [die Radfahrerin] rechts
@@ -3867,6 +4003,10 @@ Sie beabsichtigen, links abzubiegen. In gleicher Richtung bewegen sich zwei Fahr
 
 **Wie sollten Sie sich jetzt verhalten?**
 
+![Question Image](images/1_1_07-156-M.png)
+
+[Video: videos/1_1_07-156-M.mp4](videos/1_1_07-156-M.mp4)
+
 **Optionen:**
 - A. Ich führe eine Gefahrbremsung durch
 - B. Ich halte das Lenkrad gerade und fest
@@ -3886,6 +4026,10 @@ Da der Hund (von rechts) auf die Straße zu laufen scheint, führe bitte eine Ge
 **Punkte:** 4 Punkte
 
 **Worauf sollten Sie sich in dieser Situation einstellen?**
+
+![Question Image](images/1_1_07-157-M.png)
+
+[Video: videos/1_1_07-157-M.mp4](videos/1_1_07-157-M.mp4)
 
 **Optionen:**
 - A. Der Bus schwenkt beim Anfahren kurz auf meinen Fahrstreifen aus
@@ -3951,6 +4095,10 @@ Das Verkehrszeichen deutet auf einen Wandererparkplatz hin, das heißt es könne
 
 **Warum müssen Sie jetzt anhalten?**
 
+![Question Image](images/1_1_07-160-M.png)
+
+[Video: videos/1_1_07-160-M.mp4](videos/1_1_07-160-M.mp4)
+
 **Optionen:**
 - A. Wegen [des Radfahrers]
 - B. Weil die Verkehrssituation unübersichtlich ist
@@ -3970,6 +4118,10 @@ Da Sie die Verkehrssituation nicht vollständig einsehen können und dem Radfahr
 **Punkte:** 5 Punkte
 
 **Sie möchten geradeaus weiterfahren. Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_1_07-161-M.png)
+
+[Video: videos/1_1_07-161-M.mp4](videos/1_1_07-161-M.mp4)
 
 **Optionen:**
 - A. Ich lasse das [rote] Fahrzeug abbiegen
@@ -4037,6 +4189,10 @@ Eine unübersichtliche Verkehrssituation liegt vor, mit plötzlichen Bremsmanöv
 
 **Worauf müssen Sie hier beim Rechtsabbiegen achten?**
 
+![Question Image](images/1_1_07-164-M.png)
+
+[Video: videos/1_1_07-164-M.mp4](videos/1_1_07-164-M.mp4)
+
 **Optionen:**
 - A. Auf [den Radfahrer]
 - B. Auf den Gegenverkehr
@@ -4055,6 +4211,10 @@ Beim Rechtsabbiegen musst du immer darauf achten, ob sich Fußgänger oder Radfa
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/1_1_07-165-M.png)
+
+[Video: videos/1_1_07-165-M.mp4](videos/1_1_07-165-M.mp4)
 
 **Optionen:**
 - A. Ich führe eine Gefahrbremsung durch
@@ -4119,6 +4279,10 @@ Durch die unterschiedliche Beleuchtung, die Lichter der anderen Verkehrsteilnehm
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/1_1_07-168-M.png)
+
+[Video: videos/1_1_07-168-M.mp4](videos/1_1_07-168-M.mp4)
+
 **Optionen:**
 - A. Ich bremse ab
 - B. Ich weiche nach links aus
@@ -4137,6 +4301,10 @@ Das noch parkende Fahrzeug möchte auf die Straße einfahren und hat dich offens
 **Punkte:** 4 Punkte
 
 **Womit müssen Sie jetzt rechnen?**
+
+![Question Image](images/1_1_07-169-M.png)
+
+[Video: videos/1_1_07-169-M.mp4](videos/1_1_07-169-M.mp4)
 
 **Optionen:**
 - A. Der Fahrer des [gelben] Fahrzeugs öffnet die Fahrertür
@@ -4179,6 +4347,10 @@ Du solltest besonders in Kurven und vor Kuppen besonders aufmerksam fahren, da d
 
 **Warum müssen Sie jetzt anhalten?**
 
+![Question Image](images/1_1_07-171.png)
+
+[Video: videos/1_1_07-171.mp4](videos/1_1_07-171.mp4)
+
 **Optionen:**
 - A. Wegen der Radfahrerin
 - B. Wegen der Fußgänger
@@ -4197,6 +4369,10 @@ Das "Vorfahrt gewähren" Zeichen in Kombination mit dem Fahrrad Zusatzzeichen ze
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_1_07-172-M.png)
+
+[Video: videos/1_1_07-172-M.mp4](videos/1_1_07-172-M.mp4)
 
 **Optionen:**
 - A. Ich führe eine Gefahrbremsung durch
@@ -4237,6 +4413,10 @@ Ein Reh ist sehr unberechenbar, vielleicht läuft es zurück in den Wald, vielle
 
 **Wie verhalten Sie sich richtig?**
 
+![Question Image](images/1_1_07-174-M.png)
+
+[Video: videos/1_1_07-174-M.mp4](videos/1_1_07-174-M.mp4)
+
 **Optionen:**
 - A. Ich bremse weiter ab
 - B. Ich bleibe zunächst auf meinem Fahrstreifen
@@ -4256,6 +4436,10 @@ Da der LKW vor dir rückwärts einparkt, musst du weiter abbremsen. Ein Fahrstre
 **Punkte:** 4 Punkte
 
 **Worauf stellen Sie sich in dieser Situation ein?**
+
+![Question Image](images/1_1_07-175-M.png)
+
+[Video: videos/1_1_07-175-M.mp4](videos/1_1_07-175-M.mp4)
 
 **Optionen:**
 - A. [Der gelbe Pkw] biegt nach links ab
@@ -4278,6 +4462,10 @@ Der gelbe Pkw blinkt und wird nach links abbiegen. Obwohl er keine Vorfahrt hat,
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/1_1_07-176-M.png)
+
+[Video: videos/1_1_07-176-M.mp4](videos/1_1_07-176-M.mp4)
+
 **Optionen:**
 - A. Ich bremse ab
 - B. Ich weiche nach links aus
@@ -4298,6 +4486,10 @@ Du musst in dieser Situation also abbremsen, um eine Kollision mit dem überhole
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
+![Question Image](images/1_1_07-201-M.png)
+
+[Video: videos/1_1_07-201-M.mp4](videos/1_1_07-201-M.mp4)
+
 **Optionen:**
 - A. Ich bremse sehr stark ab
 - B. Ich hupe und fahre weiter
@@ -4317,6 +4509,10 @@ Der Radfahrer von links scheint nicht zu bremsen, deswegen bremse stark ab.
 
 **Warum müssen Sie jetzt bremsen?**
 
+![Question Image](images/1_1_07-202-M.png)
+
+[Video: videos/1_1_07-202-M.mp4](videos/1_1_07-202-M.mp4)
+
 **Optionen:**
 - A. Wegen [des Radfahrers]
 - B. Wegen [des roten Fahrzeugs]
@@ -4335,6 +4531,10 @@ Weil der Radfahrer auf deinen Fahrstreifen möchte, bremse wegen des Radfahrers.
 **Punkte:** 4 Punkte
 
 **Worauf müssen Sie jetzt achten?**
+
+![Question Image](images/1_1_07-203-M.png)
+
+[Video: videos/1_1_07-203-M.mp4](videos/1_1_07-203-M.mp4)
 
 **Optionen:**
 - A. Auf [den Radfahrer] links
@@ -4356,6 +4556,10 @@ Der rechte Radfahrer fährt auf die Fahrbahn. Links fährt ein Radfahrer den wir
 
 **Womit sollten Sie in dieser Situation rechnen?**
 
+![Question Image](images/1_1_07-204-M.png)
+
+[Video: videos/1_1_07-204-M.mp4](videos/1_1_07-204-M.mp4)
+
 **Optionen:**
 - A. Der Fahrer des [gelben] Pkws übersieht mich
 - B. Auf der Fahrbahn befindet sich Rollsplitt
@@ -4375,6 +4579,10 @@ Da Sie hinter einem großen Fahrzeug fahren, kann es schnell passieren, dass Sie
 **Punkte:** 5 Punkte
 
 **Sie fahren außerorts. Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_1_07-205-M.png)
+
+[Video: videos/1_1_07-205-M.mp4](videos/1_1_07-205-M.mp4)
 
 **Optionen:**
 - A. Ich fahre erst weiter, nachdem ich mich überzeugt habe, dass die Straße frei ist
@@ -4397,6 +4605,10 @@ Das Überqueren der Straße muss dennoch durch dich abgesichert werden.
 
 **Warum sollten Sie jetzt bremsbereit sein?**
 
+![Question Image](images/1_1_07-206-M.png)
+
+[Video: videos/1_1_07-206-M.mp4](videos/1_1_07-206-M.mp4)
+
 **Optionen:**
 - A. Weil der Fahrer des braunen Fahrzeugs aussteigen könnte
 - B. Weil [die Fußgängerin] auf die Straße laufen könnte
@@ -4415,6 +4627,10 @@ Das braune Fahrzeug hat gerade angehalten, die Gefahr ist hoch, dass im nächste
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_1_07-207-M.png)
+
+[Video: videos/1_1_07-207-M.mp4](videos/1_1_07-207-M.mp4)
 
 **Optionen:**
 - A. Ich führe eine Gefahrbremsung durch
@@ -5101,6 +5317,10 @@ Langsam fahrende Fahrzeuge wie Traktoren, Mopeds müssen den Seitenstreifen benu
 
 **Wie sollten Sie sich in dieser Situation verhalten?**
 
+![Question Image](images/1_2_02-107.png)
+
+[Video: videos/1_2_02-107.mp4](videos/1_2_02-107.mp4)
+
 **Optionen:**
 - A. - in die Lücke, um den Entgegenkommenden vorbeizulassen
 - B. - weiter, weil der Entgegenkommende zurückfahren muss
@@ -5418,6 +5638,10 @@ Der Abstand zum Vorderfahrzeug ist von der Geschwindigkeit sowie den Sicht- und 
 
 **Wie verhalten Sie sich richtig?**
 
+![Question Image](images/1_2_04-102.png)
+
+[Video: videos/1_2_04-102.mp4](videos/1_2_04-102.mp4)
+
 **Optionen:**
 - A. Ich bremse ab
 - B. Ich vergrößere den Abstand zum Einscherenden
@@ -5437,6 +5661,10 @@ Wenn ein Fahrer vor Ihnen plötzlich einschert und den Sicherheitsabstand zwisch
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich richtig?**
+
+![Question Image](images/1_2_04-103.png)
+
+[Video: videos/1_2_04-103.mp4](videos/1_2_04-103.mp4)
 
 **Optionen:**
 - A. Ich verringere die Geschwindigkeit
@@ -5913,6 +6141,10 @@ Durch das Pendeln der Radfahrer ist ein größerer Mindestabstand empfehlenswert
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
+![Question Image](images/1_2_05-126-M.png)
+
+[Video: videos/1_2_05-126-M.mp4](videos/1_2_05-126-M.mp4)
+
 **Optionen:**
 - A. Ich bleibe hinter [dem Radfahrer]
 - B. Ich überhole [den Radfahrer] mit ausreichendem Seitenabstand
@@ -5974,6 +6206,10 @@ Wenn Sie an einem parkenden Auto oder an einer Absperrung auf Ihrer Straßenseit
 
 **Warum sollten Sie hier besonders langsam fahren?**
 
+![Question Image](images/1_2_06-004.png)
+
+[Video: videos/1_2_06-004.mp4](videos/1_2_06-004.mp4)
+
 **Optionen:**
 - A. - der Lkw die Fahrspur verengt
 - B. - Personen die Fahrbahn betreten
@@ -5994,6 +6230,10 @@ Vor Ihnen verengt ein haltender Lkw die Fahrbahn. Die Sicht aufs Verkehrsgescheh
 
 **Wie verhalten Sie sich richtig?**
 
+![Question Image](images/1_2_06-005.png)
+
+[Video: videos/1_2_06-005.mp4](videos/1_2_06-005.mp4)
+
 **Optionen:**
 - A. Warten, weil der Seitenabstand zum Radfahrer sonst zu gering ist
 - B. Mit mäßiger Geschwindigkeit weiterfahren, weil der Seitenabstand zum Radfahrer sehr gering ist
@@ -6012,6 +6252,10 @@ Sie wollen die am rechten Fahrbahnrand abgestellten Fahrzeuge umfahren. Doch das
 **Punkte:** 5 Punkte
 
 **Wie sollten Sie sich jetzt verhalten?**
+
+![Question Image](images/1_2_06-006.png)
+
+[Video: videos/1_2_06-006.mp4](videos/1_2_06-006.mp4)
 
 **Optionen:**
 - A. - wenn zu erkennen ist, dass kein Gegenverkehr kommt
@@ -6115,6 +6359,10 @@ In einem Tunnel mit Gegenverkehr müssen Sie sich wie folgt verhalten: Orientier
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
+![Question Image](images/1_2_07-105-M.png)
+
+[Video: videos/1_2_07-105-M.mp4](videos/1_2_07-105-M.mp4)
+
 **Optionen:**
 - A. Ich wechsle in etwa 200 m auf den rechten Fahrstreifen
 - B. Ich darf die auf dem rechten Fahrstreifen fahrenden Fahrzeuge überholen
@@ -6174,6 +6422,10 @@ Sie müssen dem an der Weiterfahrt gehinderten Fahrzeugführer auf dem endenden 
 
 **Sie möchten geradeaus weiterfahren. Wie sollten Sie sich verhalten?**
 
+![Question Image](images/1_2_07-115.png)
+
+[Video: videos/1_2_07-115.mp4](videos/1_2_07-115.mp4)
+
 **Optionen:**
 - A. Ich wechsle erst unmittelbar vor der Fahrbahnverengung den Fahrstreifen
 - B. Ich ordne mich jetzt rechts ein
@@ -6191,6 +6443,10 @@ Endet eine Fahrspur, sollen sich Fahrzeuge erst unmittelbar vor Beginn der Veren
 **Punkte:** 4 Punkte
 
 **Sie möchten an der Kreuzung nach rechts abbiegen. Wie verhalten Sie sich richtig?**
+
+![Question Image](images/1_2_07-116.png)
+
+[Video: videos/1_2_07-116.mp4](videos/1_2_07-116.mp4)
 
 **Optionen:**
 - A. Ich verzichte auf das Rechtsabbiegen und bleibe in meinem Fahrstreifen
@@ -6389,6 +6645,10 @@ Verwenden Sie die rechte Fahrlinie. Die linke Fahrlinie ist für den Gegenverkeh
 **Punkte:** 5 Punkte
 
 **Welchem Verkehrsteilnehmer müssen Sie hier Vorrang gewähren?**
+
+![Question Image](images/1_2_09-020-M.png)
+
+[Video: videos/1_2_09-020-M.mp4](videos/1_2_09-020-M.mp4)
 
 **Optionen:**
 - A. [Der Fußgängerin]
@@ -6666,6 +6926,10 @@ Der Blinker muss generell immer dann betätigt werden, sobald sich die Fahrtrich
 
 **Warum müssen Sie jetzt warten?**
 
+![Question Image](images/1_2_09-119.png)
+
+[Video: videos/1_2_09-119.mp4](videos/1_2_09-119.mp4)
+
 **Optionen:**
 - A. - Radfahrers
 - B. - grünen Fahrzeugs
@@ -6790,6 +7054,10 @@ Beim Linksabbiegen müssen einander entgegenkommende Fahrzeuge voreinander abbie
 
 **Warum müssen Sie jetzt anhalten?**
 
+![Question Image](images/1_2_09-125.png)
+
+[Video: videos/1_2_09-125.mp4](videos/1_2_09-125.mp4)
+
 **Optionen:**
 - A. Wegen der Straßenbahn
 - B. Wegen des Radfahrers
@@ -6808,6 +7076,10 @@ Sie befinden sich auf einer Vorfahrtsstraße und haben deshalb Vorrang gegenübe
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich hier richtig?**
+
+![Question Image](images/1_2_09-126.png)
+
+[Video: videos/1_2_09-126.mp4](videos/1_2_09-126.mp4)
 
 **Optionen:**
 - A. - nicht vor dem Bahnübergang überholen
@@ -6828,6 +7100,10 @@ Sie dürfen das Mofa nicht vor dem Bahnübergang überholen. Generell dürfen an
 
 **Warum müssen Sie jetzt bremsen?**
 
+![Question Image](images/1_2_09-127.png)
+
+[Video: videos/1_2_09-127.mp4](videos/1_2_09-127.mp4)
+
 **Optionen:**
 - A. Wegen des Motorrads
 - B. Wegen des Transporters
@@ -6846,6 +7122,10 @@ Der Motorradfahrer kommt mit hoher Geschwindigkeit von links. Wahrscheinlich hat
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie vor dem Rechtsabbiegen warten?**
+
+![Question Image](images/1_2_09-128-M.png)
+
+[Video: videos/1_2_09-128-M.mp4](videos/1_2_09-128-M.mp4)
 
 **Optionen:**
 - A. Wegen [der Fußgängerin]
@@ -6866,6 +7146,10 @@ Wenn Sie abbiegen möchten, müssen Sie den Verkehrsteilnehmern, die geradeaus u
 **Punkte:** 3 Punkte
 
 **Was müssen Sie hier beachten?**
+
+![Question Image](images/1_2_09-129.png)
+
+[Video: videos/1_2_09-129.mp4](videos/1_2_09-129.mp4)
 
 **Optionen:**
 - A. - weiter abbremsen
@@ -6928,6 +7212,10 @@ Fahrzeuge, die abbiegen möchten, haben Fahrräder, die in eigener Fahrtrichtung
 
 **Warum müssen Sie in dieser Situation mit dem Abbiegen warten?**
 
+![Question Image](images/1_2_09-132-M.png)
+
+[Video: videos/1_2_09-132-M.mp4](videos/1_2_09-132-M.mp4)
+
 **Optionen:**
 - A. Wegen des Motorrads
 - B. Wegen des Lkws
@@ -6970,6 +7258,10 @@ Sie und der blaue Pkw ändern die Fahrrichtung aus diesem Grund müssen Sie die 
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/1_2_09-134-M.png)
+
+[Video: videos/1_2_09-134-M.mp4](videos/1_2_09-134-M.mp4)
+
 **Optionen:**
 - A. Ich bremse ab
 - B. Ich bleibe zunächst auf dem rechten Fahrstreifen
@@ -6990,6 +7282,10 @@ Das Motorrad hinter dir hat bereits auf den linken Fahrstreifen gewechselt und w
 
 **Warum dürfen Sie jetzt nicht abbiegen?**
 
+![Question Image](images/1_2_09-135-M.png)
+
+[Video: videos/1_2_09-135-M.mp4](videos/1_2_09-135-M.mp4)
+
 **Optionen:**
 - A. - [gelben] Pkws
 - B. - [roten] Fahrzeugs
@@ -7008,6 +7304,10 @@ Auf einer Kreuzung haben Geradeausfahrer Vorfahrt. Du musst mit dem Abbiegen war
 **Punkte:** 5 Punkte
 
 **Womit müssen Sie in dieser Situation rechnen?**
+
+![Question Image](images/1_2_09-136-M.png)
+
+[Video: videos/1_2_09-136-M.mp4](videos/1_2_09-136-M.mp4)
 
 **Optionen:**
 - A. [Der blaue Pkw] fährt geradeaus
@@ -7028,6 +7328,10 @@ Der blaue Pkw fährt an dem haltenden Bus vorbei und will eventuell gerade aus w
 
 **Warum müssen Sie jetzt anhalten?**
 
+![Question Image](images/1_2_09-137-M.png)
+
+[Video: videos/1_2_09-137-M.mp4](videos/1_2_09-137-M.mp4)
+
 **Optionen:**
 - A. Wegen des Elektrorollers
 - B. Wegen der Fußgänger
@@ -7046,6 +7350,10 @@ Im tote Winkel befindet sich ein Elektroroller, daher musst du anhalten, um ihn 
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/1_2_09-138-M.png)
+
+[Video: videos/1_2_09-138-M.mp4](videos/1_2_09-138-M.mp4)
 
 **Optionen:**
 - A. Ich lasse [den Radfahrer] durchfahren
@@ -7067,6 +7375,10 @@ Der Geradeausverkehr hat immer Vorrang, egal ob der Fahrradfahrer auf der Straß
 
 **Warum müssen Sie jetzt warten?**
 
+![Question Image](images/1_2_09-201-M.png)
+
+[Video: videos/1_2_09-201-M.mp4](videos/1_2_09-201-M.mp4)
+
 **Optionen:**
 - A. Wegen der Straßenbahn
 - B. Wegen [des Radfahrers]
@@ -7085,6 +7397,10 @@ Weil du nach links abbiegen möchtest, solltest du wegen der Straßenbahn warten
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie in dieser Situation mit dem Rechtsabbiegen warten?**
+
+![Question Image](images/1_2_09-202-M.png)
+
+[Video: videos/1_2_09-202-M.mp4](videos/1_2_09-202-M.mp4)
 
 **Optionen:**
 - A. Wegen [der Fußgängerin]
@@ -7106,6 +7422,10 @@ Beim Abbiegen müssen Sie dem Längsverkehr Vorrang gewähren, aus diesem Grund 
 
 **Warum dürfen Sie jetzt nicht abbiegen?**
 
+![Question Image](images/1_2_09-203-M.png)
+
+[Video: videos/1_2_09-203-M.mp4](videos/1_2_09-203-M.mp4)
+
 **Optionen:**
 - A. - [roten] Pkws
 - B. - [gelben] Lkws
@@ -7124,6 +7444,10 @@ Der rote Pkw befindet sich noch in seinem Überholvorgang und hat eine deutlich 
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?**
+
+![Question Image](images/1_2_09-204-M.png)
+
+[Video: videos/1_2_09-204-M.mp4](videos/1_2_09-204-M.mp4)
 
 **Optionen:**
 - A. Wegen der Straßenbahn
@@ -7144,6 +7468,10 @@ Sie ändern die Fahrtrichtung, daher müssen Sie der Straßenbahn Vorrang gewäh
 
 **Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?**
 
+![Question Image](images/1_2_09-205-M.png)
+
+[Video: videos/1_2_09-205-M.mp4](videos/1_2_09-205-M.mp4)
+
 **Optionen:**
 - A. Wegen des Motorrads
 - B. Wegen des [roten] Pkws
@@ -7162,6 +7490,10 @@ Ein Motorrad fährt hinter dem roten Pkw, aufgrund Ihrer Fahrtrichtungsänderung
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie jetzt warten?**
+
+![Question Image](images/1_2_09-206-M.png)
+
+[Video: videos/1_2_09-206-M.mp4](videos/1_2_09-206-M.mp4)
 
 **Optionen:**
 - A. - Radfahrers
@@ -7204,6 +7536,10 @@ Bei einem abgesenkten Bordstein (wie in Wohngebieten häufig) gilt die Regel „
 **Punkte:** 3 Punkte
 
 **Sie möchten aus [der Tankstelle] ausfahren. Was ist richtig?**
+
+![Question Image](images/1_2_10-006-M.png)
+
+[Video: videos/1_2_10-006-M.mp4](videos/1_2_10-006-M.mp4)
 
 **Optionen:**
 - A. Ich muss querenden Fußgängern Vorrang gewähren
@@ -7494,6 +7830,10 @@ Der vorausfahrende Pkw behindert Sie auf Ihrer Fahrspur. Trotzdem sollten Sie vo
 
 **Wie verhalten Sie sich?**
 
+![Question Image](images/1_2_11-104.png)
+
+[Video: videos/1_2_11-104.mp4](videos/1_2_11-104.mp4)
+
 **Optionen:**
 - A. Vor dem Linksabbiegen warten und den Bereich der Mittelinsel frei halten
 - B. Flüssig abbiegen, um die Nachfolgenden nicht zu behindern
@@ -7513,6 +7853,10 @@ Führen Straßenbahnschienen durch die Linksabbiegerspur und Sie wollen bei hera
 
 **Welches Verhalten ist richtig?**
 
+![Question Image](images/1_2_11-105.png)
+
+[Video: videos/1_2_11-105.mp4](videos/1_2_11-105.mp4)
+
 **Optionen:**
 - A. Verzögern
 - B. Beschleunigen
@@ -7531,6 +7875,10 @@ Fährt vor Ihnen ein Fahrradfahrer, der nach links ausscheren wird, dürfen Sie 
 **Punkte:** 2 Punkte
 
 **Welches Verhalten ist richtig?**
+
+![Question Image](images/1_2_11-107.png)
+
+[Video: videos/1_2_11-107.mp4](videos/1_2_11-107.mp4)
 
 **Optionen:**
 - A. Verzögern
@@ -7591,6 +7939,10 @@ Bei stockendem Verkehr dürfen Sie auch bei grüner Ampel oder Vorfahrt nur dann
 
 **Warum müssen Sie hier verzögern und bremsbereit sein?**
 
+![Question Image](images/1_2_11-110-M.png)
+
+[Video: videos/1_2_11-110-M.mp4](videos/1_2_11-110-M.mp4)
+
 **Optionen:**
 - A. - Radfahrers
 - B. - [grünen] Fahrzeugs
@@ -7609,6 +7961,10 @@ Wegen des Fußgängers müssen Sie nicht langsamer fahren, er ist weit genug von
 **Punkte:** 4 Punkte
 
 **Warum müssen Sie weiterhin bremsen?**
+
+![Question Image](images/1_2_11-111.png)
+
+[Video: videos/1_2_11-111.mp4](videos/1_2_11-111.mp4)
 
 **Optionen:**
 - A. - Müllfahrzeugs
@@ -7630,6 +7986,10 @@ Dem blauen Lkw kommt ein Müllauto entgegen und zwingt ihn zum Anhalten. Da das 
 
 **Sie möchten geradeaus fahren. Wie sollten Sie sich verhalten?**
 
+![Question Image](images/1_2_11-112.png)
+
+[Video: videos/1_2_11-112.mp4](videos/1_2_11-112.mp4)
+
 **Optionen:**
 - A. - an der Haltlinie
 - B. - zwischen dem gelben und dem blauen Fahrzeug
@@ -7648,6 +8008,10 @@ Bei stockendem Verkehr dürfen Sie trotz grüner Ampel oder Vortritt keine Kreuz
 **Punkte:** 3 Punkte
 
 **Wann dürfen Sie losfahren?**
+
+![Question Image](images/1_2_11-113-M.png)
+
+[Video: videos/1_2_11-113-M.mp4](videos/1_2_11-113-M.mp4)
 
 **Optionen:**
 - A. Nachdem der Lkw-Fahrer mit Handzeichen eindeutig auf seine Vorfahrt verzichtet hat
@@ -7668,6 +8032,10 @@ Der Lkw hat per Lichthupe signalisiert, dass er auf seine Vorfahrt verzichtet. D
 **Punkte:** 3 Punkte
 
 **Wann dürfen Sie abbiegen?**
+
+![Question Image](images/1_2_11-114-M.png)
+
+[Video: videos/1_2_11-114-M.mp4](videos/1_2_11-114-M.mp4)
 
 **Optionen:**
 - A. Erst, wenn der Lkw-Fahrer mit Handzeichen eindeutig auf seine Vorfahrt verzichtet hat
@@ -7710,6 +8078,10 @@ Du solltest hier warten und den Lkw losfahren lassen und gegebenenfalls Warnzeic
 **Punkte:** 4 Punkte
 
 **Sie möchten geradeaus fahren. Wo sollten Sie sich in dieser Situation positionieren?**
+
+![Question Image](images/1_2_11-202-M.png)
+
+[Video: videos/1_2_11-202-M.mp4](videos/1_2_11-202-M.mp4)
 
 **Optionen:**
 - A. Rechts hinter dem Lkw
@@ -8808,6 +9180,10 @@ Die Verkehrszeichenkombination zeigt Ihnen einen Bahnübergang an. Der/die Kfz-F
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/1_2_19-114.png)
+
+[Video: videos/1_2_19-114.mp4](videos/1_2_19-114.mp4)
+
 **Optionen:**
 - A. Ich warte vor dem Andreaskreuz
 - B. Ich überquere vorsichtig die Schienen
@@ -8886,6 +9262,10 @@ Auch bei geöffneten Schranken musst du dich Bahnübergängen immer mit Vorsicht
 **Punkte:** 3 Punkte
 
 **Wie müssen Sie sich jetzt verhalten?**
+
+![Question Image](images/1_2_19-118-M.png)
+
+[Video: videos/1_2_19-118-M.mp4](videos/1_2_19-118-M.mp4)
 
 **Optionen:**
 - A. - vor dem Andreaskreuz anhalten
@@ -9009,6 +9389,10 @@ Es ist damit zu rechnen, dass Passanten unachtsam und ohne auf den Verkehr zu ac
 
 **Welches Verhalten ist jetzt richtig?**
 
+![Question Image](images/1_2_20-102.png)
+
+[Video: videos/1_2_20-102.mp4](videos/1_2_20-102.mp4)
+
 **Optionen:**
 - A. Ich bleibe zunächst hinter dem Bus
 - B. Ich überhole den Bus mit mäßiger Geschwindigkeit
@@ -9070,6 +9454,10 @@ Sie dürfen an einem Linienbus, einer Straßenbahn oder einem gekennzeichneten S
 
 **Worauf müssen Sie sich einstellen?**
 
+![Question Image](images/1_2_20-105.png)
+
+[Video: videos/1_2_20-105.mp4](videos/1_2_20-105.mp4)
+
 **Optionen:**
 - A. Entgegenkommende Fahrzeuge weichen auf meine Fahrbahnseite aus
 - B. Der Bus schwenkt beim Anfahren auf meine Fahrbahnseite
@@ -9110,6 +9498,10 @@ Hier gilt die Verkehrsregel „rechts vor links“ und jeder/jede Kfz-FahrerIn m
 **Punkte:** 3 Punkte
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_2_20-107-M.png)
+
+[Video: videos/1_2_20-107-M.mp4](videos/1_2_20-107-M.mp4)
 
 **Optionen:**
 - A. Ich bleibe hinter der Straßenbahn
@@ -9152,6 +9544,10 @@ Da Fahrgäste einfach auf die Straße treten könnten, solltest du deine Aufmerk
 
 **Was müssen Sie in dieser Situation beachten?**
 
+![Question Image](images/1_2_20-109-M.png)
+
+[Video: videos/1_2_20-109-M.mp4](videos/1_2_20-109-M.mp4)
+
 **Optionen:**
 - A. Personen könnten die Fahrbahn überqueren
 - B. Ich darf mit Schrittgeschwindigkeit am Bus vorbeifahren
@@ -9173,6 +9569,10 @@ Achte daher auf Personen, werde langsamer und halte gegebenenfalls an.
 
 **Was ist in dieser Situation richtig?**
 
+![Question Image](images/1_2_20-110-M.png)
+
+[Video: videos/1_2_20-110-M.mp4](videos/1_2_20-110-M.mp4)
+
 **Optionen:**
 - A. Ich darf höchstens mit Schrittgeschwindigkeit an dem Bus vorbeifahren
 - B. Der [blaue] Pkw muss anhalten
@@ -9191,6 +9591,10 @@ Wenn sich Busse mit eingeschaltetem Warnblinklicht im Straßenverkehr bewegen, m
 **Punkte:** 5 Punkte
 
 **Was müssen Sie in dieser Situation beachten?**
+
+![Question Image](images/1_2_20-111-M.png)
+
+[Video: videos/1_2_20-111-M.mp4](videos/1_2_20-111-M.mp4)
 
 **Optionen:**
 - A. Personen könnten die Fahrbahn überqueren
@@ -9211,6 +9615,10 @@ Busse an Haltestellen dürfen in Schrittgeschwindigkeit überholt werden, wenn d
 **Punkte:** 3 Punkte
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_2_20-201-M.png)
+
+[Video: videos/1_2_20-201-M.mp4](videos/1_2_20-201-M.mp4)
 
 **Optionen:**
 - A. Ich bleibe hinter der Straßenbahn
@@ -9515,6 +9923,10 @@ Vor und auf Zebrastreifen herrscht striktes Überholverbot. Das gilt, damit Sie 
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich richtig?**
+
+![Question Image](images/1_2_26-007.png)
+
+[Video: videos/1_2_26-007.mp4](videos/1_2_26-007.mp4)
 
 **Optionen:**
 - A. Ich halte an, weil ein Mann den Fußgängerüberweg überqueren möchte
@@ -9861,6 +10273,10 @@ Nach Hinterlassen der persönlichen Daten am beschädigten Fahrzeug haben Sie ei
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/1_2_34-004.png)
+
+[Video: videos/1_2_34-004.mp4](videos/1_2_34-004.mp4)
 
 **Optionen:**
 - A. - lasse beim Verlassen den Zündschlüssel oder Transponder im Fahrzeug
@@ -10660,6 +11076,10 @@ Wenn eine Ampel Rot zeigt, müssen Kfz-FahrerInnen, die geradeaus oder nach link
 
 **Wie verhalten Sie sich?**
 
+![Question Image](images/1_2_37-013.png)
+
+[Video: videos/1_2_37-013.mp4](videos/1_2_37-013.mp4)
+
 **Optionen:**
 - A. Weiterfahren
 - B. Abbremsen
@@ -10721,6 +11141,10 @@ Dank des Grünpfeilschildes dürfen Sie an dieser Ampel auch bei rotem Licht abb
 
 **Wie sollten Sie sich verhalten?**
 
+![Question Image](images/1_2_37-017.png)
+
+[Video: videos/1_2_37-017.mp4](videos/1_2_37-017.mp4)
+
 **Optionen:**
 - A. Abbremsen
 - B. Weiterfahren
@@ -10738,6 +11162,10 @@ Vor sich sehen Sie eine von Grün auf Gelb wechselnde Ampel. Sie fahren mit 40 k
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/1_2_37-018.png)
+
+[Video: videos/1_2_37-018.mp4](videos/1_2_37-018.mp4)
 
 **Optionen:**
 - A. Ich gewähre möglichem Querverkehr die Vorfahrt
@@ -10821,6 +11249,10 @@ An ampelgeregelten Kreuzungen mit diesem Zusatzzeichen dürfen nur Radfahrer, au
 
 **Die Ampel zeigt schon längere Zeit „Grün“ für Ihre Richtung. Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/1_2_37-022-M.png)
+
+[Video: videos/1_2_37-022-M.mp4](videos/1_2_37-022-M.mp4)
+
 **Optionen:**
 - A. Ich fahre bremsbereit weiter, da die Ampel auf „Gelb“ umschalten kann
 - B. Ich beobachte die Ampel aufmerksam
@@ -10882,6 +11314,10 @@ Aufgrund der durchgezogenen Linie dürfen Sie die Fahrspur hier nicht mehr wechs
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/1_2_37-104.png)
+
+[Video: videos/1_2_37-104.mp4](videos/1_2_37-104.mp4)
+
 **Optionen:**
 - A. - jetzt los
 - B. - erst los, wenn der Lkw weiterfährt
@@ -10900,6 +11336,10 @@ Da es sich in dieser Situation um eine Zwei-Phasen-Ampel handelt, gibt es kein g
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/1_2_37-201-M.png)
+
+[Video: videos/1_2_37-201-M.mp4](videos/1_2_37-201-M.mp4)
 
 **Optionen:**
 - A. Ich gewähre möglichem Querverkehr die Vorfahrt
@@ -11023,6 +11463,10 @@ Ein blaues Blinklicht ohne Einsatzhorn weist auf Unfall- oder andere Einsatzstel
 **Punkte:** 4 Punkte
 
 **Hinter Ihnen fährt ein Rettungswagen mit blauem Blinklicht und Einsatzhorn. Wie verhalten Sie sich?**
+
+![Question Image](images/1_2_38-104.png)
+
+[Video: videos/1_2_38-104.mp4](videos/1_2_38-104.mp4)
 
 **Optionen:**
 - A. Ich schaffe, ohne andere zu gefährden, sofort freie Bahn
@@ -12168,6 +12612,10 @@ An Kreuzungen und Einmündungen hat die Vorfahrt, wer von rechts kommt.
 **Punkte:** 5 Punkte
 
 **Was ist in dieser Situation richtig?**
+
+![Question Image](images/1_3_01-130-M.png)
+
+[Video: videos/1_3_01-130-M.mp4](videos/1_3_01-130-M.mp4)
 
 **Optionen:**
 - A. Ich muss warten
@@ -15346,6 +15794,10 @@ An Kreuzungen und Einmündungen mit “rechts vor links” Regelung wird hin und
 
 **Was gilt in dieser Situation aufgrund der Fahrbahnmarkierung?**
 
+![Question Image](images/1_4_42-010-M.png)
+
+[Video: videos/1_4_42-010-M.mp4](videos/1_4_42-010-M.mp4)
+
 **Optionen:**
 - A. - mich der Kreuzung vorsichtig nähern
 - B. - dem [roten Fahrzeug] Vorfahrt gewähren
@@ -17253,6 +17705,10 @@ Fahren Sie mit geöffnetem Visier kann Ihnen jederzeit ein Insekt hineinfliegen.
 
 **Wie sollten Sie sich jetzt verhalten?**
 
+![Question Image](images/2_1_01-007-M.png)
+
+[Video: videos/2_1_01-007-M.mp4](videos/2_1_01-007-M.mp4)
+
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit, damit der Überholende sich vor mir einordnen kann
 - B. Ich beschleunige, damit der Überholende sich hinter mir einordnen kann
@@ -17271,6 +17727,10 @@ Der Überholende kann wahrscheinlich seinen Überholvorgang nicht wie geplant ab
 **Punkte:** 4 Punkte
 
 **Warum sollten Sie dem Lkw den Fahrstreifenwechsel ermöglichen?**
+
+![Question Image](images/2_1_01-008-M.png)
+
+[Video: videos/2_1_01-008-M.mp4](videos/2_1_01-008-M.mp4)
 
 **Optionen:**
 - A. Weil der Fahrer des Lkws mich übersehen kann
@@ -17418,6 +17878,10 @@ Bei dieser Frage müssen Sie zuerst den Reaktionsweg und den Gefahrenbremsweg be
 
 **Warum müssen Sie bremsen?**
 
+![Question Image](images/2_1_02-003.png)
+
+[Video: videos/2_1_02-003.mp4](videos/2_1_02-003.mp4)
+
 **Optionen:**
 - A. Weil eine Person auf die Straße läuft
 - B. Weil Fahrgäste aus der Straßenbahn steigen
@@ -17436,6 +17900,10 @@ Im Video ist zu sehen wie eine Person (von rechts) auf die Straße läuft. Achte
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_02-004.png)
+
+[Video: videos/2_1_02-004.mp4](videos/2_1_02-004.mp4)
 
 **Optionen:**
 - A. Ich halte an
@@ -17478,6 +17946,10 @@ Außerdem musst du damit rechnen, dass Personen zur Fahrbahnseite aussteigen.
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_02-006-M.png)
+
+[Video: videos/2_1_02-006-M.mp4](videos/2_1_02-006-M.mp4)
 
 **Optionen:**
 - A. Ich halte an
@@ -17936,6 +18408,10 @@ Die Fahrbahn ist meist sehr schmal. Zudem ist sie häufig auch stark gewölbt, u
 
 **Wie verhalten Sie sich richtig?**
 
+![Question Image](images/2_1_03-028.png)
+
+[Video: videos/2_1_03-028.mp4](videos/2_1_03-028.mp4)
+
 **Optionen:**
 - A. Ich bremse
 - B. Ich fahre möglichst weit rechts
@@ -17956,6 +18432,10 @@ Während des Überholens eines Radfahrers gerät der entgegenkommende Lkw zum Te
 
 **Warum sollten Sie jetzt bremsen?**
 
+![Question Image](images/2_1_03-029.png)
+
+[Video: videos/2_1_03-029.mp4](videos/2_1_03-029.mp4)
+
 **Optionen:**
 - A. - grünen Pkws
 - B. - blauen Pkws
@@ -17974,6 +18454,10 @@ Von rechts ist, wenn auch nur sehr schwer ein grünes Auto zu sehen. Bremse bitt
 **Punkte:** 3 Punkte
 
 **Warum müssen Sie sich hier darauf einstellen, anhalten zu müssen?**
+
+![Question Image](images/2_1_03-030.png)
+
+[Video: videos/2_1_03-030.mp4](videos/2_1_03-030.mp4)
 
 **Optionen:**
 - A. Wegen des Lkws
@@ -18034,6 +18518,10 @@ Auf dem geraden unerwarteten Abschnitt mit Rollsplitt solltest du deine Geschwin
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_03-033.png)
+
+[Video: videos/2_1_03-033.mp4](videos/2_1_03-033.mp4)
 
 **Optionen:**
 - A. Ich reduziere meine Geschwindigkeit
@@ -18598,6 +19086,10 @@ Nasse Markierungen sind ähnlich wie Straßenbahnschienen rutschig. Man sollte s
 
 **Wie verhalten Sie sich richtig?**
 
+![Question Image](images/2_1_03-115.png)
+
+[Video: videos/2_1_03-115.mp4](videos/2_1_03-115.mp4)
+
 **Optionen:**
 - A. Ich verzögere weiter
 - B. Ich warte vor dem Hindernis
@@ -18640,6 +19132,10 @@ Hier solltest du aufgrund der mangelnden Sicht die Geschwindigkeit stark reduzie
 
 **Sie fahren auf der Autobahn. Was ist in dieser Situation richtig?**
 
+![Question Image](images/2_1_03-117.png)
+
+[Video: videos/2_1_03-117.mp4](videos/2_1_03-117.mp4)
+
 **Optionen:**
 - A. - die Nebelschlussleuchte einschalten
 - B. - höchstens 50 km/h fahren
@@ -18659,6 +19155,10 @@ Durch die stark eingeschränkte Sicht auf der Autobahn darfst du deine Nebelschl
 **Punkte:** 3 Punkte
 
 **Die Anzeige für das Elektronische Stabilitätsprogramm (ESP) hat mehrfach geleuchtet. Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/2_1_03-118.png)
+
+[Video: videos/2_1_03-118.mp4](videos/2_1_03-118.mp4)
 
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit, da sie zu hoch ist
@@ -18723,6 +19223,10 @@ Die geringe Breite der Fahrbahn und ihre oft gewölbte Form durch Baumwurzeln zw
 **Punkte:** 3 Punkte
 
 **Die Anzeige für die Fahrdynamikregelung (ESC) hat mehrfach geleuchtet. Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/2_1_03-121.png)
+
+[Video: videos/2_1_03-121.mp4](videos/2_1_03-121.mp4)
 
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit, da sie zu hoch ist
@@ -19203,6 +19707,10 @@ Beim Befahren von Alleen mit geringer Fahrbahnbreite müssen Sie bei der Wahl Ih
 
 **Warum sollten Sie jetzt verzögern?**
 
+![Question Image](images/2_1_05-102.png)
+
+[Video: videos/2_1_05-102.mp4](videos/2_1_05-102.mp4)
+
 **Optionen:**
 - A. Wegen des Tieres
 - B. Wegen des Traktors
@@ -19242,6 +19750,10 @@ Sie müssen mit plötzlich auftretenden, gefährlichen Situationen rechnen, wenn
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie hier Ihre Geschwindigkeit verringern?**
+
+![Question Image](images/2_1_05-104-M.png)
+
+[Video: videos/2_1_05-104-M.mp4](videos/2_1_05-104-M.mp4)
 
 **Optionen:**
 - A. Wegen des überholenden Kraftfahrzeugs
@@ -19284,6 +19796,10 @@ Da die Sichtweite stark eingeschränkt ist, achte bitte auf den Gegenverkehr, de
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie hier Ihre Geschwindigkeit verringern und äußerst rechts fahren?**
+
+![Question Image](images/2_1_05-106-M.png)
+
+[Video: videos/2_1_05-106-M.mp4](videos/2_1_05-106-M.mp4)
 
 **Optionen:**
 - A. Wegen des [roten Pkws]
@@ -19413,6 +19929,10 @@ Der/die Kfz-FahrerIn sollte die Geschwindigkeit reduzieren. Ansonsten besteht di
 
 **Sie möchten überholen. Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_06-007-M.png)
+
+[Video: videos/2_1_06-007-M.mp4](videos/2_1_06-007-M.mp4)
+
 **Optionen:**
 - A. Ich verzichte auf das Überholen
 - B. Ich beschleunige
@@ -19431,6 +19951,10 @@ Da das Fahrzeug hinter dir den Überholvorgang bereits gestartet hat, solltest d
 **Punkte:** 4 Punkte
 
 **Sie möchten überholen. Was sollten Sie beachten?**
+
+![Question Image](images/2_1_06-008-M.png)
+
+[Video: videos/2_1_06-008-M.mp4](videos/2_1_06-008-M.mp4)
 
 **Optionen:**
 - A. - nur, wenn ich die dafür erforderliche Strecke übersehen kann
@@ -19493,6 +20017,10 @@ Sie müssen abbremsen und äußerst rechts fahren, damit der/die überholende Kf
 
 **Warum müssen Sie jetzt stark bremsen?**
 
+![Question Image](images/2_1_06-011.png)
+
+[Video: videos/2_1_06-011.mp4](videos/2_1_06-011.mp4)
+
 **Optionen:**
 - A. Wegen des Pkws
 - B. Wegen des Lkws
@@ -19511,6 +20039,10 @@ Da der blaue Pkw allem Anschein nach auf Ihren Fahrstreifen kommen wird, müssen
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich richtig?**
+
+![Question Image](images/2_1_06-012-M.png)
+
+[Video: videos/2_1_06-012-M.mp4](videos/2_1_06-012-M.mp4)
 
 **Optionen:**
 - A. Ich überhole [den blauen Pkw] und wechsle dann in den mittleren Fahrstreifen
@@ -19531,6 +20063,10 @@ Als der/die Kfz-FahrerIn müssen Sie nicht auf die mittlere Spur ausweichen, wen
 
 **Sie möchten überholen. Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_06-013.png)
+
+[Video: videos/2_1_06-013.mp4](videos/2_1_06-013.mp4)
+
 **Optionen:**
 - A. Ich breche den Überholvorgang ab und bleibe hinter dem Lkw
 - B. Ich beschleunige und setze den Überholvorgang zügig fort
@@ -19549,6 +20085,10 @@ Sie haben den Blinker bereits gesetzt und möchten den Lkw überholen. Im Rücks
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich richtig?**
+
+![Question Image](images/2_1_06-014.png)
+
+[Video: videos/2_1_06-014.mp4](videos/2_1_06-014.mp4)
 
 **Optionen:**
 - A. Ich setze den Überholvorgang zügig fort
@@ -19569,6 +20109,10 @@ Bei sich schnell annährenden Fahrzeugen von hinten gilt es sich nicht aus der R
 
 **Wie verhalten Sie sich richtig?**
 
+![Question Image](images/2_1_06-015.png)
+
+[Video: videos/2_1_06-015.mp4](videos/2_1_06-015.mp4)
+
 **Optionen:**
 - A. Ich überhole den Transporter und wechsle dann auf den mittleren Fahrstreifen
 - B. Ich wechsle sofort auf den Fahrstreifen nach rechts
@@ -19587,6 +20131,10 @@ Ein/eine Pkw-FahrerIn fährt auf dem linken Fahrstreifen gefährlich dicht zu Ih
 **Punkte:** 5 Punkte
 
 **Wie sollten Sie sich jetzt verhalten?**
+
+![Question Image](images/2_1_06-016-M.png)
+
+[Video: videos/2_1_06-016-M.mp4](videos/2_1_06-016-M.mp4)
 
 **Optionen:**
 - A. Ich verzögere
@@ -19608,6 +20156,10 @@ Da sich ein Fahrzeug von vorne nähert und ein Wagen hinter dir (rot) überholen
 
 **Warum müssen Sie hier verzögern?**
 
+![Question Image](images/2_1_06-017-M.png)
+
+[Video: videos/2_1_06-017-M.mp4](videos/2_1_06-017-M.mp4)
+
 **Optionen:**
 - A. Wegen des überholenden Pkws
 - B. Weil maximal 80 km/h erlaubt sind
@@ -19626,6 +20178,10 @@ Der entgegenkommende Pkw überholt trotz Gegenverkehr ca. 250 m vor Ihnen. Sie m
 **Punkte:** 5 Punkte
 
 **Wie sollten Sie sich jetzt verhalten?**
+
+![Question Image](images/2_1_06-018-M.png)
+
+[Video: videos/2_1_06-018-M.mp4](videos/2_1_06-018-M.mp4)
 
 **Optionen:**
 - A. Ich verzögere
@@ -19647,6 +20203,10 @@ Wenn Sie ein Fahrzeug trotz Gegenverkehr überholt, sollten Sie verzögern und v
 
 **Warum dürfen Sie in dieser Situation nicht überholen?**
 
+![Question Image](images/2_1_06-019-M.png)
+
+[Video: videos/2_1_06-019-M.mp4](videos/2_1_06-019-M.mp4)
+
 **Optionen:**
 - A. Weil das Motorrad mich überholen könnte
 - B. Weil mein Überholweg zu lang ist
@@ -19666,6 +20226,10 @@ Sie dürfen nicht überholen, da das Motorrad mit einer hohen Geschwindigkeit hi
 **Punkte:** 5 Punkte
 
 **Wie sollten Sie sich jetzt verhalten?**
+
+![Question Image](images/2_1_06-020-M.png)
+
+[Video: videos/2_1_06-020-M.mp4](videos/2_1_06-020-M.mp4)
 
 **Optionen:**
 - A. Ich verzögere
@@ -19687,6 +20251,10 @@ Da der Lastwagen, der Sie überholt, ankommenden Verkehr hat, sollten Sie langsa
 
 **Sie möchten überholen. Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_06-021-M.png)
+
+[Video: videos/2_1_06-021-M.mp4](videos/2_1_06-021-M.mp4)
+
 **Optionen:**
 - A. Ich überhole den Lkw nicht, da ich die dafür erforderliche Strecke nicht einsehen kann
 - B. Ich folge dem Motorrad, da der Lkw durch Blinken eine Überholmöglichkeit signalisiert
@@ -19705,6 +20273,10 @@ Du solltest den Lkw nicht überholen, da du die dafür erforderliche Strecke nic
 **Punkte:** 4 Punkte
 
 **Warum müssen Sie den Überholvorgang abbrechen?**
+
+![Question Image](images/2_1_06-022-M.png)
+
+[Video: videos/2_1_06-022-M.mp4](videos/2_1_06-022-M.mp4)
 
 **Optionen:**
 - A. Weil der Traktor nach links abbiegen möchte
@@ -19725,6 +20297,10 @@ Du solltest den Überholvorgang abbrechen, weil der Traktor nach links abbiegen 
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_06-023-M.png)
+
+[Video: videos/2_1_06-023-M.mp4](videos/2_1_06-023-M.mp4)
 
 **Optionen:**
 - A. - nicht, da der Traktor nach links ausscheren wird
@@ -19789,6 +20365,10 @@ Da sich ein Fahrzeug auf deinem Fahrstreifen befindet, solltest du sofort bremse
 
 **Warum dürfen Sie jetzt nicht überholen?**
 
+![Question Image](images/2_1_06-026-M.png)
+
+[Video: videos/2_1_06-026-M.mp4](videos/2_1_06-026-M.mp4)
+
 **Optionen:**
 - A. - Motorrads
 - B. - Straßenverlaufs
@@ -19808,6 +20388,10 @@ Wegen des Motorrads (Gegenverkehr) und des Straßenverlaufs und der daraus resul
 **Punkte:** 4 Punkte
 
 **Warum dürfen Sie jetzt nicht überholen?**
+
+![Question Image](images/2_1_06-027-M.png)
+
+[Video: videos/2_1_06-027-M.mp4](videos/2_1_06-027-M.mp4)
 
 **Optionen:**
 - A. - Motorrads
@@ -19893,6 +20477,10 @@ Die Allee ist von Bäumen umrahmt. Daher kommt es durch den Licht und Schatten w
 
 **Warum müssen Sie den Überholvorgang jetzt abbrechen?**
 
+![Question Image](images/2_1_06-031-M.png)
+
+[Video: videos/2_1_06-031-M.mp4](videos/2_1_06-031-M.mp4)
+
 **Optionen:**
 - A. Weil der Traktor nach links abbiegen wird
 - B. Weil das Motorrad mich überholen wird
@@ -19934,6 +20522,10 @@ Dadurch, dass ein geschlossener Verband aus mehreren Fahrzeugen besteht, kannst 
 
 **Warum ist ein Überholen in dieser Situation zu gefährlich?**
 
+![Question Image](images/2_1_06-033-M.png)
+
+[Video: videos/2_1_06-033-M.mp4](videos/2_1_06-033-M.mp4)
+
 **Optionen:**
 - A. Weil vorausfahrende Fahrzeuge ausscheren könnten
 - B. Weil ich die zum Überholen notwendige Strecke nicht weit genug einsehen kann
@@ -19955,6 +20547,10 @@ In der Linkskurve kannst du die Überholstrecke nicht ausreichend einsehen. Wahr
 **Punkte:** 4 Punkte
 
 **Warum dürfen Sie in dieser Situation nicht überholen?**
+
+![Question Image](images/2_1_06-034-M.png)
+
+[Video: videos/2_1_06-034-M.mp4](videos/2_1_06-034-M.mp4)
 
 **Optionen:**
 - A. Weil das Motorrad mich überholen könnte
@@ -19999,6 +20595,10 @@ Du darfst vor der Kurve nicht überholen da dein Überholweg zu lang ist, um bei
 
 **Weshalb müssen Sie jetzt auf den rechten Fahrstreifen wechseln?**
 
+![Question Image](images/2_1_06-103-M.png)
+
+[Video: videos/2_1_06-103-M.mp4](videos/2_1_06-103-M.mp4)
+
 **Optionen:**
 - A. - [roten] Pkws
 - B. - [blauen] Pkws
@@ -20019,6 +20619,10 @@ Der Fahrstreifen wird durch die Verengung in den Gegenverkehr geführt, daher m
 
 **Wie verhalten Sie sich hier richtig?**
 
+![Question Image](images/2_1_06-104-M.png)
+
+[Video: videos/2_1_06-104-M.mp4](videos/2_1_06-104-M.mp4)
+
 **Optionen:**
 - A. Ich überhole die [Radfahrerinnen] vorerst nicht
 - B. Ich überhole die [Radfahrerinnen]
@@ -20037,6 +20641,10 @@ Du solltest vorerst nicht überholen, da ihr nebeneinander fahrt und nicht genü
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_06-105.png)
+
+[Video: videos/2_1_06-105.mp4](videos/2_1_06-105.mp4)
 
 **Optionen:**
 - A. Ich bremse auf Schrittgeschwindigkeit ab
@@ -20058,6 +20666,10 @@ In einer solchen Situation musst du auf Schrittgeschwindigkeit abbremsen und dic
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_06-106-M.png)
+
+[Video: videos/2_1_06-106-M.mp4](videos/2_1_06-106-M.mp4)
+
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit
 - B. Ich behalte meine Geschwindigkeit bei
@@ -20076,6 +20688,10 @@ Du musst deine Geschwindigkeit verringern da der Seitenabstand zum Radfahrer nic
 **Punkte:** 4 Punkte
 
 **Warum sollten Sie den Mofafahrer in dieser Situation nicht überholen?**
+
+![Question Image](images/2_1_06-107-M.png)
+
+[Video: videos/2_1_06-107-M.mp4](videos/2_1_06-107-M.mp4)
 
 **Optionen:**
 - A. Weil der Mofafahrer dann stürzen könnte
@@ -20099,6 +20715,10 @@ Wegen der Enge der Fahrbahn kannst du nicht den erforderlichen Seitenabstand ein
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich hier richtig?**
+
+![Question Image](images/2_1_06-201-M.png)
+
+[Video: videos/2_1_06-201-M.mp4](videos/2_1_06-201-M.mp4)
 
 **Optionen:**
 - A. Ich überhole [den Radfahrer] vorerst nicht
@@ -20187,6 +20807,10 @@ Außerhalb von geschlossenen Ortschaften fahren langsame Fahrzeuge wie Traktoren
 
 **Womit sollten Sie in dieser Situation rechnen?**
 
+![Question Image](images/2_1_07-007-M.png)
+
+[Video: videos/2_1_07-007-M.mp4](videos/2_1_07-007-M.mp4)
+
 **Optionen:**
 - A. Dass der Fahrer des [gelben Pkws] mich übersieht
 - B. Dass sich Rollsplitt auf der Fahrbahn befindet
@@ -20228,6 +20852,10 @@ Der weiße Pkw möchte nach links abbiegen und da du nicht weist, ob dieser anha
 **Punkte:** 4 Punkte
 
 **Warum müssen Sie jetzt bremsen?**
+
+![Question Image](images/2_1_07-009-M.png)
+
+[Video: videos/2_1_07-009-M.mp4](videos/2_1_07-009-M.mp4)
 
 **Optionen:**
 - A. - [grünen Fahrzeugs]
@@ -20271,6 +20899,10 @@ Fahrzeuge können den Parkplatz verlassen, achten Sie auf ausparkende Fahrzeuge.
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_07-011-M.png)
+
+[Video: videos/2_1_07-011-M.mp4](videos/2_1_07-011-M.mp4)
+
 **Optionen:**
 - A. Ich fahre so weit wie möglich rechts
 - B. Ich bremse ab
@@ -20290,6 +20922,10 @@ Der Pkw wird wahrscheinlich den Fahrradfahrer überholen. Bremsen Sie sicherheit
 **Punkte:** 4 Punkte
 
 **Warum sollten Sie in dieser Situation bremsbereit sein?**
+
+![Question Image](images/2_1_07-012-M.png)
+
+[Video: videos/2_1_07-012-M.mp4](videos/2_1_07-012-M.mp4)
 
 **Optionen:**
 - A. Wegen des Traktors
@@ -20330,6 +20966,10 @@ Fahren Sie versetzt um Auffahrunfälle durch plötzliches Bremsen zu vermeiden. 
 
 **Womit sollten Sie in dieser Situation rechnen?**
 
+![Question Image](images/2_1_07-014-M.png)
+
+[Video: videos/2_1_07-014-M.mp4](videos/2_1_07-014-M.mp4)
+
 **Optionen:**
 - A. Der Fahrer des [roten] Fahrzeugs übersieht mich
 - B. Der [grüne] Lkw wendet
@@ -20348,6 +20988,10 @@ Aufgrund des abbiegenden Lkws könnte der Transporter Sie übersehen. Seien Sie 
 **Punkte:** 5 Punkte
 
 **Warum sollten Sie hier die Geschwindigkeit weiter verringern?**
+
+![Question Image](images/2_1_07-015-M.png)
+
+[Video: videos/2_1_07-015-M.mp4](videos/2_1_07-015-M.mp4)
 
 **Optionen:**
 - A. Weil der [rote] Pkw auf meinen Fahrstreifen ausweichen könnte
@@ -20371,6 +21015,10 @@ Eventuell wird der stehende Pkw durch den Busch verdeckt oder es wurde kein Warn
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_07-016-M.png)
+
+[Video: videos/2_1_07-016-M.mp4](videos/2_1_07-016-M.mp4)
+
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit
 - B. Ich fahre auf meinem Fahrstreifen möglichst weit rechts
@@ -20390,6 +21038,10 @@ Der Liegenbleiber blockiert den Fahrstreifen des anderen Fahrzeugs und schränkt
 **Punkte:** 5 Punkte
 
 **Warum sollten Sie hier weiter verzögern?**
+
+![Question Image](images/2_1_07-017.png)
+
+[Video: videos/2_1_07-017.mp4](videos/2_1_07-017.mp4)
 
 **Optionen:**
 - A. Weil das rote Fahrzeug auf meinen Fahrstreifen ausweichen könnte
@@ -20411,6 +21063,10 @@ Auf dem linken Fahrstreifen hat ein Pkw eine Panne und ist liegen geblieben. Vor
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_07-018.png)
+
+[Video: videos/2_1_07-018.mp4](videos/2_1_07-018.mp4)
+
 **Optionen:**
 - A. Ich bremse weiter ab
 - B. Ich wechsle auf den linken Fahrstreifen
@@ -20429,6 +21085,10 @@ Da sich ein Auto hinter dir befindet, welches auf der Spur der Straßenbahn fäh
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_07-019-M.png)
+
+[Video: videos/2_1_07-019-M.mp4](videos/2_1_07-019-M.mp4)
 
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit
@@ -20450,6 +21110,10 @@ Der Motorradfahrer nähert sich dir mit hoher Geschwindigkeit. Er könnte dich �
 
 **Wie sollten Sie sich jetzt verhalten?**
 
+![Question Image](images/2_1_07-020.png)
+
+[Video: videos/2_1_07-020.mp4](videos/2_1_07-020.mp4)
+
 **Optionen:**
 - A. Ich fahre so weit wie möglich nach rechts
 - B. Ich bremse
@@ -20470,6 +21134,10 @@ Der gelbe Pkw kommt Ihnen als Falschfahrer auf der Autobahn entgegen. Fahren Sie
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_07-021-M.png)
+
+[Video: videos/2_1_07-021-M.mp4](videos/2_1_07-021-M.mp4)
+
 **Optionen:**
 - A. Ich halte hinter dem Taxi
 - B. Ich wechsle auf den linken Fahrstreifen
@@ -20488,6 +21156,10 @@ Da der Verkehr auf der linken Linie hinter Ihnen liegt, sollten Sie langsamer we
 **Punkte:** 3 Punkte
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/2_1_07-022-M.png)
+
+[Video: videos/2_1_07-022-M.mp4](videos/2_1_07-022-M.mp4)
 
 **Optionen:**
 - A. - die Geschwindigkeit weiter verringern
@@ -20510,6 +21182,10 @@ Eine Gefahrenbremsung könnte zu einem Auffahrunfall führen, wenn das Fahrzeug 
 
 **Warum sollten Sie jetzt die Geschwindigkeit verringern?**
 
+![Question Image](images/2_1_07-023-M.png)
+
+[Video: videos/2_1_07-023-M.mp4](videos/2_1_07-023-M.mp4)
+
 **Optionen:**
 - A. Wegen des Tieres
 - B. Wegen des [roten Pkws]
@@ -20528,6 +21204,10 @@ Auch wenn du die hier zulässige Höchstgeschwindigkeit von 60 km/h einhältst, 
 **Punkte:** 3 Punkte
 
 **Was müssen Sie in dieser Situation beachten?**
+
+![Question Image](images/2_1_07-024-M.png)
+
+[Video: videos/2_1_07-024-M.mp4](videos/2_1_07-024-M.mp4)
 
 **Optionen:**
 - A. Der Fahrer des [gelben Pkws] könnte mich übersehen
@@ -20550,6 +21230,10 @@ Außerdem solltest du darauf achten möglichst nicht auf dem Rollsplitt zu fahre
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_07-025-M.png)
+
+[Video: videos/2_1_07-025-M.mp4](videos/2_1_07-025-M.mp4)
+
 **Optionen:**
 - A. Ich bremse stark ab
 - B. Ich verzichte auf meine Vorfahrt
@@ -20569,6 +21253,10 @@ Da der blaue PKW voraussichtlich ohne Beachtung der Vorfahrtsregeln die Straße 
 **Punkte:** 3 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_07-026-M.png)
+
+[Video: videos/2_1_07-026-M.mp4](videos/2_1_07-026-M.mp4)
 
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit weiter
@@ -20590,6 +21278,10 @@ Der Traktor signalisiert durch Blinken, dass er wieder auf den Fahrstreifen wech
 
 **Was ist in dieser Situation richtig?**
 
+![Question Image](images/2_1_07-027-M.png)
+
+[Video: videos/2_1_07-027-M.mp4](videos/2_1_07-027-M.mp4)
+
 **Optionen:**
 - A. Ich muss nötigenfalls anhalten
 - B. Ich muss vorsorglich nach rechts auf das Feld ausweichen
@@ -20608,6 +21300,10 @@ Auf der engen Landstraße ist es möglich, dass du und der Traktor nicht ohne we
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_07-028-M.png)
+
+[Video: videos/2_1_07-028-M.mp4](videos/2_1_07-028-M.mp4)
 
 **Optionen:**
 - A. Ich vergrößere den Abstand zum vorausfahrenden [Pkw]
@@ -20650,6 +21346,10 @@ In Kurven könnte deine Sicht auf die Fahrbahn nach der Kurve eingeschränkt sei
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_07-030-M.png)
+
+[Video: videos/2_1_07-030-M.mp4](videos/2_1_07-030-M.mp4)
 
 **Optionen:**
 - A. Ich halte hinter dem Taxi an
@@ -20810,6 +21510,10 @@ Halten Sie außerhalb geschlossener Ortschaften einen Sicherheitsabstand zum vor
 
 **Warum müssen Sie in dieser Situation bremsbereit sein?**
 
+![Question Image](images/2_1_07-111.png)
+
+[Video: videos/2_1_07-111.mp4](videos/2_1_07-111.mp4)
+
 **Optionen:**
 - A. Weil das andere Fahrzeug weiterfahren könnte
 - B. Weil der Straßenverlauf dies erfordert
@@ -20828,6 +21532,10 @@ Sie sehen, dass ein Fahrzeug von rechts auf die Fahrbahn auffahren will. Da es a
 **Punkte:** 5 Punkte
 
 **Warum sollten Sie jetzt Ihre Geschwindigkeit verringern?**
+
+![Question Image](images/2_1_07-112.png)
+
+[Video: videos/2_1_07-112.mp4](videos/2_1_07-112.mp4)
 
 **Optionen:**
 - A. Weil ich für andere Verkehrsteilnehmer schlecht zu sehen bin
@@ -20848,6 +21556,10 @@ Grundsätzlich haben Sie Vorfahrt, da Sie sich auf einer Vorfahrtsstraße befind
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
+![Question Image](images/2_1_07-113-M.png)
+
+[Video: videos/2_1_07-113-M.mp4](videos/2_1_07-113-M.mp4)
+
 **Optionen:**
 - A. Ich verzögere
 - B. Ich beschleunige
@@ -20866,6 +21578,10 @@ Da sich die linke Fahrspur verengt und das Fahrzeug links neben dir auf dieser b
 **Punkte:** 5 Punkte
 
 **Womit sollten Sie in dieser Situation rechnen?**
+
+![Question Image](images/2_1_07-114-M.png)
+
+[Video: videos/2_1_07-114-M.mp4](videos/2_1_07-114-M.mp4)
 
 **Optionen:**
 - A. - Motorradfahrer abbremst
@@ -20887,6 +21603,10 @@ Obgleich Sie sich auf der Vorfahrtsstraße befinden, müssen Sie jederzeit damit
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
+![Question Image](images/2_1_07-115.png)
+
+[Video: videos/2_1_07-115.mp4](videos/2_1_07-115.mp4)
+
 **Optionen:**
 - A. Ich behalte die Geschwindigkeit bei und fahre unverändert weiter
 - B. Ich beschleunige, um einen ausreichenden Sicherheitsabstand herzustellen
@@ -20905,6 +21625,10 @@ In dieser Situation solltest du die Geschwindigkeit beibehalten und unverändert
 **Punkte:** 5 Punkte
 
 **Wie müssen Sie sich verhalten?**
+
+![Question Image](images/2_1_07-116.png)
+
+[Video: videos/2_1_07-116.mp4](videos/2_1_07-116.mp4)
 
 **Optionen:**
 - A. Ich bremse sofort stark ab
@@ -20926,6 +21650,10 @@ Da du nicht sehen kannst, was sich vor dir befindet, bremse sofort stark ab, abe
 
 **Worauf müssen Sie beim Einbiegen nach rechts achten?**
 
+![Question Image](images/2_1_07-117-M.png)
+
+[Video: videos/2_1_07-117-M.mp4](videos/2_1_07-117-M.mp4)
+
 **Optionen:**
 - A. Auf das Motorrad
 - B. Auf von links kommende Fahrzeuge
@@ -20945,6 +21673,10 @@ Allen Kfz-FahrerInnen, die auf der Vorfahrtsstraße fahren, müssen Sie Vorfahrt
 **Punkte:** 3 Punkte
 
 **Sie möchten auf der Vorfahrtstraße bleiben. Womit müssen Sie jetzt rechnen?**
+
+![Question Image](images/2_1_07-118-M.png)
+
+[Video: videos/2_1_07-118-M.mp4](videos/2_1_07-118-M.mp4)
 
 **Optionen:**
 - A. Dass der [rote Pkw] mich übersieht
@@ -20986,6 +21718,10 @@ Ist ein Zusammenstoß mit einem Tier nicht mehr vermeidbar, ist die Fahrtrichtun
 
 **Die Geschwindigkeitsregelanlage (Tempomat) Ihres Kraftfahrzeugs ist auf 130 km/h eingestellt. Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_07-120-M.png)
+
+[Video: videos/2_1_07-120-M.mp4](videos/2_1_07-120-M.mp4)
+
 **Optionen:**
 - A. - den Sicherheitsabstand durch Bremsen wiederherstellen
 - B. - das Motorrad überholen
@@ -21004,6 +21740,10 @@ Sie müssen die Geschwindigkeitsregelanlage (Tempomat) durch Abbremsen unterbrec
 **Punkte:** 5 Punkte
 
 **Wie müssen Sie sich in dieser Situation verhalten?**
+
+![Question Image](images/2_1_07-121-M.png)
+
+[Video: videos/2_1_07-121-M.mp4](videos/2_1_07-121-M.mp4)
 
 **Optionen:**
 - A. Ich bremse sofort stark ab
@@ -21046,6 +21786,10 @@ Auf kurvigen Straße können Motorradfahrer die Kurven schneiden oder wegen ihre
 
 **Wie sollten Sie sich jetzt verhalten?**
 
+![Question Image](images/2_1_07-123-M.png)
+
+[Video: videos/2_1_07-123-M.mp4](videos/2_1_07-123-M.mp4)
+
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit
 - B. Ich bleibe zunächst hinter dem [roten] Fahrzeug
@@ -21065,6 +21809,10 @@ Der Fahrer des roten Fahrzeugs schneidet die Kurve. Bremse ab und bleibe so lang
 **Punkte:** 3 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_07-124-M.png)
+
+[Video: videos/2_1_07-124-M.mp4](videos/2_1_07-124-M.mp4)
 
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit
@@ -21086,6 +21834,10 @@ Du solltest außerdem so weit wie möglich rechts fahren, um eine Kollision mit 
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich?**
+
+![Question Image](images/2_1_07-202.png)
+
+[Video: videos/2_1_07-202.mp4](videos/2_1_07-202.mp4)
 
 **Optionen:**
 - A. Geschwindigkeit verringern, bremsbereit sein
@@ -21266,6 +22018,10 @@ Hier musst du mit einer gefährlichen Linkskurve und einem Hindernis hinter der 
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_07-211-M.png)
+
+[Video: videos/2_1_07-211-M.mp4](videos/2_1_07-211-M.mp4)
+
 **Optionen:**
 - A. Ich bleibe auf dem mittleren Fahrstreifen
 - B. Ich wechsle auf den linken Fahrstreifen
@@ -21373,6 +22129,10 @@ Bei Steigungen auf Autobahnen, solltest du mit langsam fahrenden Lkws auf dem re
 
 **Wie müssen Sie sich verhalten?**
 
+![Question Image](images/2_1_08-011.png)
+
+[Video: videos/2_1_08-011.mp4](videos/2_1_08-011.mp4)
+
 **Optionen:**
 - A. Verzögern und Fahrstreifen beibehalten
 - B. Auf den linken Fahrstreifen wechseln
@@ -21452,6 +22212,10 @@ Wenn Sie als Kfz-FahrerIn nach längerer Fahrt mit etwa 120 km/h die Autobahn ve
 
 **Wie sollten Sie sich jetzt verhalten?**
 
+![Question Image](images/2_1_08-016.png)
+
+[Video: videos/2_1_08-016.mp4](videos/2_1_08-016.mp4)
+
 **Optionen:**
 - A. Ich bremse mein Fahrzeug ab
 - B. Ich schalte das Warnblinklicht ein
@@ -21516,6 +22280,10 @@ Die Kurve ist für den/die Kfz-FahrerIn schlecht einsehbar. Es könnten sich and
 
 **Warum müssen Sie jetzt verzögern?**
 
+![Question Image](images/2_1_08-019.png)
+
+[Video: videos/2_1_08-019.mp4](videos/2_1_08-019.mp4)
+
 **Optionen:**
 - A. Wegen des Lkws
 - B. Wegen der Geschwindigkeitsbeschränkung
@@ -21534,6 +22302,10 @@ Die fahrbare Absperrtafel mit Blinkpfeil im rechten Fahrstreifen zwingt den/die 
 **Punkte:** 4 Punkte
 
 **Warum müssen Sie jetzt die Geschwindigkeit verringern?**
+
+![Question Image](images/2_1_08-020.png)
+
+[Video: videos/2_1_08-020.mp4](videos/2_1_08-020.mp4)
 
 **Optionen:**
 - A. Wegen des blauen Pkws
@@ -21596,6 +22368,10 @@ Der weiße Pkw auf dem linken Fahrstreifen darf nicht rechts überholt werden. H
 
 **Sie fahren einen Lkw. Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_1_08-023.png)
+
+[Video: videos/2_1_08-023.mp4](videos/2_1_08-023.mp4)
+
 **Optionen:**
 - A. Ich vergrößere den Abstand zum Vorausfahrenden
 - B. Ich behalte meine Geschwindigkeit bei
@@ -21614,6 +22390,10 @@ Bitte vergrößere den Abstand zum Vorausfahrenden und halte somit den erforderl
 **Punkte:** 3 Punkte
 
 **Wie sollten Sie sich jetzt verhalten?**
+
+![Question Image](images/2_1_08-024-M.png)
+
+[Video: videos/2_1_08-024-M.mp4](videos/2_1_08-024-M.mp4)
 
 **Optionen:**
 - A. - den Fahrstreifen nicht, da [der rote Pkw] bereits wechselt
@@ -21652,6 +22432,10 @@ Du solltest dich für Linie 3 entscheiden. 1&2 sind nicht richtig.
 
 **Worauf sollten Sie sich jetzt einstellen?**
 
+![Question Image](images/2_1_08-026-M.png)
+
+[Video: videos/2_1_08-026-M.mp4](videos/2_1_08-026-M.mp4)
+
 **Optionen:**
 - A. [Der gelbe Pkw] verlässt die Autobahn
 - B. Das Motorrad verlässt die Autobahn
@@ -21671,6 +22455,10 @@ In dieser Situation lässt sich kein Stau ausmachen. Da das Motorrad links fähr
 
 **Sie möchten die Autobahn verlassen. Wodurch ergibt sich hier eine gefährliche Situation?**
 
+![Question Image](images/2_1_08-027-M.png)
+
+[Video: videos/2_1_08-027-M.mp4](videos/2_1_08-027-M.mp4)
+
 **Optionen:**
 - A. Durch das Motorrad
 - B. Durch [den gelben Lkw]
@@ -21689,6 +22477,10 @@ Durch das hinter dir fahrende Motorrad (siehe rechter Außenspiegel) ergibt sich
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_1_08-028-M.png)
+
+[Video: videos/2_1_08-028-M.mp4](videos/2_1_08-028-M.mp4)
 
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit
@@ -21710,6 +22502,10 @@ Fährst du unverändert weiter, könnte es zu einem Zusammenstoß mit dem Lkw ko
 **Punkte:** 4 Punkte
 
 **Warum müssen Sie jetzt die Geschwindigkeit verringern?**
+
+![Question Image](images/2_1_08-029-M.png)
+
+[Video: videos/2_1_08-029-M.mp4](videos/2_1_08-029-M.mp4)
 
 **Optionen:**
 - A. Wegen des Lkws
@@ -21775,6 +22571,10 @@ Je höher die Geschwindigkeit ist, desto länger werden auch Reaktionsweg, Brems
 
 **Womit müssen Sie jetzt rechnen?**
 
+![Question Image](images/2_1_08-032-M.png)
+
+[Video: videos/2_1_08-032-M.mp4](videos/2_1_08-032-M.mp4)
+
 **Optionen:**
 - A. Der Fahrer des [gelben Lkws] sieht das Stauende zu spät
 - B. Das Motorrad fährt zwischen den Fahrzeugreihen durch
@@ -21817,6 +22617,10 @@ Ein Warndreieck weist auf ein nahes Hindernis, wie z.B. Menschen, ein defektes F
 **Punkte:** 4 Punkte
 
 **Warum sollten Sie es vermeiden, im Baustellenbereich zu überholen?**
+
+![Question Image](images/2_1_08-102.png)
+
+[Video: videos/2_1_08-102.mp4](videos/2_1_08-102.mp4)
 
 **Optionen:**
 - A. Die Zeitersparnis ist oft gering
@@ -22247,6 +23051,10 @@ Ein guter Fahrzeugführer achtet immer darauf sich partnerschaftlich zu verhalte
 
 **Der [rote] Pkw vor Ihnen fährt schon längere Zeit langsam. Wie verhalten Sie sich in dieser Situation richtig?**
 
+![Question Image](images/2_1_11-014-M.png)
+
+[Video: videos/2_1_11-014-M.mp4](videos/2_1_11-014-M.mp4)
+
 **Optionen:**
 - A. Ich behalte meine Geschwindigkeit bei
 - B. Ich überhole, da die Straße frei ist
@@ -22669,6 +23477,10 @@ Das dichte, aggressive Auffahren des nachfolgenden Fahrzeuges gefährdet alle Ve
 
 **Sie wollen überholen. Was steht dem entgegen?**
 
+![Question Image](images/2_1_11-125.png)
+
+[Video: videos/2_1_11-125.mp4](videos/2_1_11-125.mp4)
+
 **Optionen:**
 - A. Der Gegenverkehr
 - B. Der Straßenverlauf
@@ -22990,6 +23802,10 @@ Demnächst...
 **Punkte:** 3 Punkte
 
 **Sie möchten nach rechts abbiegen. Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_2_02-009-M.png)
+
+[Video: videos/2_2_02-009-M.mp4](videos/2_2_02-009-M.mp4)
 
 **Optionen:**
 - A. Ich bleibe hinter dem [blauen Pkw]
@@ -23521,6 +24337,10 @@ Anhalteweg = Reaktionsweg + Bremsweg
 **Punkte:** 3 Punkte
 
 **Wie schnell dürfen Sie nach dem Abbiegen höchstens fahren?**
+
+![Question Image](images/2_2_03-026-M.png)
+
+[Video: videos/2_2_03-026-M.mp4](videos/2_2_03-026-M.mp4)
 
 **Optionen:**
 
@@ -24298,6 +25118,10 @@ Sie müssen den Überholvorgang spätestens vor dem Überholverbot beenden. Das 
 
 **Weshalb müssen Sie jetzt auf den rechten Fahrstreifen wechseln?**
 
+![Question Image](images/2_2_05-010.png)
+
+[Video: videos/2_2_05-010.mp4](videos/2_2_05-010.mp4)
+
 **Optionen:**
 - A. Wegen des Rechtsfahrgebots
 - B. Wegen des roten Pkws
@@ -24318,6 +25142,10 @@ Nachdem Sie den grünen Transporter überholt haben, müssen Sie sich wegen des 
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
+![Question Image](images/2_2_05-011.png)
+
+[Video: videos/2_2_05-011.mp4](videos/2_2_05-011.mp4)
+
 **Optionen:**
 - A. Ich breche den Überholvorgang ab und ordne mich rechts ein
 - B. Ich beschleunige und setze den Überholvorgang fort
@@ -24336,6 +25164,10 @@ Sie dürfen auf den Fahrstreifen der Gegenfahrbahn fahren, wenn Sie eine Überho
 **Punkte:** 5 Punkte
 
 **Worauf müssen Sie sich jetzt einstellen?**
+
+![Question Image](images/2_2_05-012.png)
+
+[Video: videos/2_2_05-012.mp4](videos/2_2_05-012.mp4)
 
 **Optionen:**
 - A. - blaue Pkw zum Überholen ansetzt
@@ -24357,6 +25189,10 @@ Sie müssen sich ggf. darauf einstellen, dass Sie jetzt nicht überholen können
 
 **Auf wen müssen Sie in dieser Situation besonders achten?**
 
+![Question Image](images/2_2_05-013.png)
+
+[Video: videos/2_2_05-013.mp4](videos/2_2_05-013.mp4)
+
 **Optionen:**
 - A. - Radfahrer
 - B. - roten Pkw
@@ -24376,6 +25212,10 @@ In dieser Situation müssen Sie als Kfz-FahrerIn auf den Radfahrer achten, der s
 
 **Warum müssen Sie jetzt verzögern?**
 
+![Question Image](images/2_2_05-014-M.png)
+
+[Video: videos/2_2_05-014-M.mp4](videos/2_2_05-014-M.mp4)
+
 **Optionen:**
 - A. - Motorrads
 - B. - Traktors
@@ -24394,6 +25234,10 @@ Der/die überholende MotorradfahrerIn stellt für Sie eine Gefahr dar. Er kommt 
 **Punkte:** 4 Punkte
 
 **Sie fahren einen Lkw mit einer zulässigen Gesamtmasse von mehr als 3,5 t. Wie sollten Sie sich jetzt verhalten?**
+
+![Question Image](images/2_2_05-015.png)
+
+[Video: videos/2_2_05-015.mp4](videos/2_2_05-015.mp4)
 
 **Optionen:**
 - A. Ich überhole nicht
@@ -24415,6 +25259,10 @@ Du solltest den korrekten Abstand einhalten und nicht überholen und die Geschwi
 
 **Sie möchten überholen. Wie sollten Sie sich jetzt verhalten?**
 
+![Question Image](images/2_2_05-016-M.png)
+
+[Video: videos/2_2_05-016-M.mp4](videos/2_2_05-016-M.mp4)
+
 **Optionen:**
 - A. Ich überhole noch nicht, da der [blaue Pkw] überholen könnte
 - B. Ich folge dem [blauen Pkw] unmittelbar, falls dieser überholt
@@ -24433,6 +25281,10 @@ Sie müssen mit dem Überholvorgang warten, bis der/die vor Ihnen fahrende Fahrz
 **Punkte:** 3 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_2_05-017.png)
+
+[Video: videos/2_2_05-017.mp4](videos/2_2_05-017.mp4)
 
 **Optionen:**
 - A. - nicht
@@ -24473,6 +25325,10 @@ Wenn du einen Lkw mit Anhänger überholen möchtest, solltest du den erforderli
 
 **Warum dürfen Sie den vor Ihnen fahrenden Bus jetzt nicht überholen?**
 
+![Question Image](images/2_2_05-019.png)
+
+[Video: videos/2_2_05-019.mp4](videos/2_2_05-019.mp4)
+
 **Optionen:**
 - A. Wegen des eingeschalteten Warnblinklichts am Bus
 - B. Wegen des Motorrads
@@ -24492,6 +25348,10 @@ Der Bus hat das Warnblinklicht eingeschaltet und befindet sich noch in der Anfah
 **Punkte:** 3 Punkte
 
 **Sie möchten das vor Ihnen fahrende Fahrzeug überholen. Was ist hierfür erforderlich?**
+
+![Question Image](images/2_2_05-020-M.png)
+
+[Video: videos/2_2_05-020-M.mp4](videos/2_2_05-020-M.mp4)
 
 **Optionen:**
 - A. - meine Geschwindigkeit wesentlich erhöhen
@@ -24515,6 +25375,10 @@ Achte nur darauf, dass du die zulässige Höchstgeschwindigkeit nicht überschre
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_2_05-021-M.png)
+
+[Video: videos/2_2_05-021-M.mp4](videos/2_2_05-021-M.mp4)
+
 **Optionen:**
 - A. Ich bleibe hinter dem Traktor
 - B. Ich rechne mit einem Abbiegen des Traktors
@@ -24535,6 +25399,10 @@ Der Traktor scheint auf den Feldweg auf der rechten Seite abbiegen zu wollen. Bl
 
 **Sie möchten [den blauen Pkw] überholen. Wie verhalten Sie sich richtig?**
 
+![Question Image](images/2_2_05-102-M.png)
+
+[Video: videos/2_2_05-102-M.mp4](videos/2_2_05-102-M.mp4)
+
 **Optionen:**
 - A. - mit wesentlich höherer Geschwindigkeit
 - B. - unter Beibehaltung der gefahrenen Geschwindigkeit
@@ -24553,6 +25421,10 @@ Warten Sie, bis das Motorrad den toten Winkel verlässt. Beachten Sie, dass der/
 **Punkte:** 4 Punkte
 
 **Wodurch kann diese Situation gefährlich werden?**
+
+![Question Image](images/2_2_05-103-M.png)
+
+[Video: videos/2_2_05-103-M.mp4](videos/2_2_05-103-M.mp4)
 
 **Optionen:**
 - A. Durch Gegenverkehr
@@ -24633,6 +25505,10 @@ Demnächst...
 
 **Wie sollten Sie sich jetzt verhalten?**
 
+![Question Image](images/2_2_05-402-M.png)
+
+[Video: videos/2_2_05-402-M.mp4](videos/2_2_05-402-M.mp4)
+
 **Optionen:**
 - A. Ich fahre nach rechts in die Haltestelle und halte an
 - B. Ich erhöhe meine Geschwindigkeit
@@ -24655,6 +25531,10 @@ In dieser Situation sollten Sie in die Bushaltestelle einfahren und sich vom nac
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_2_06-001.png)
+
+[Video: videos/2_2_06-001.mp4](videos/2_2_06-001.mp4)
+
 **Optionen:**
 - A. Ich warte vor der Engstelle, bis der entgegenkommende Pkw durchgefahren ist
 - B. Ich fahre vorsichtig zwischen dem entgegenkommenden Pkw und der Baustellenabsperrung durch die Engstelle
@@ -24673,6 +25553,10 @@ Die Engstelle befindet sich auf deiner Fahrspur. Daher musst du vor der Engstell
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich hier richtig?**
+
+![Question Image](images/2_2_06-101-M.png)
+
+[Video: videos/2_2_06-101-M.mp4](videos/2_2_06-101-M.mp4)
 
 **Optionen:**
 - A. Ich bremse ab und warte
@@ -24732,6 +25616,10 @@ Kraftfahrzeuge bis 3,5t zul. Gesamtmasse sind innerhalb geschlossener Ortschafte
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_2_07-004.png)
+
+[Video: videos/2_2_07-004.mp4](videos/2_2_07-004.mp4)
+
 **Optionen:**
 - A. Ich wechsle auf den rechten Fahrstreifen
 - B. Ich bleibe auf dem mittleren Fahrstreifen
@@ -24750,6 +25638,10 @@ In Deutschland gilt das Rechtsfahrgebot. Da kein Fahrzeug vor dir ist, das langs
 **Punkte:** 5 Punkte
 
 **Wodurch könnte eine gefährliche Situation entstehen?**
+
+![Question Image](images/2_2_07-005.png)
+
+[Video: videos/2_2_07-005.mp4](videos/2_2_07-005.mp4)
 
 **Optionen:**
 - A. - gelben Lkws
@@ -24770,6 +25662,10 @@ Der schnelle Fahrstil des gelben Lkw lässt vermuten, dass er auch den vor ihm f
 
 **Wie sollten Sie sich jetzt verhalten?**
 
+![Question Image](images/2_2_07-006.png)
+
+[Video: videos/2_2_07-006.mp4](videos/2_2_07-006.mp4)
+
 **Optionen:**
 - A. Ich lasse den blauen Pkw vor mir einfädeln
 - B. Ich beschleunige
@@ -24788,6 +25684,10 @@ Da der/die Kfz-FahrerIn des Pkw auf dem Einfädelungsstreifen rechts seine Gesch
 **Punkte:** 2 Punkte
 
 **Wie sollten Sie sich verhalten?**
+
+![Question Image](images/2_2_07-007.png)
+
+[Video: videos/2_2_07-007.mp4](videos/2_2_07-007.mp4)
 
 **Optionen:**
 - A. Ich bleibe auf dem mittleren Fahrstreifen und verzögere
@@ -24808,6 +25708,10 @@ Bleiben Sie weiterhin auf dem mittleren Fahrstreifen und verzögern Sie. Der vor
 
 **Wie verhalten Sie sich richtig?**
 
+![Question Image](images/2_2_07-008.png)
+
+[Video: videos/2_2_07-008.mp4](videos/2_2_07-008.mp4)
+
 **Optionen:**
 - A. Ich reduziere meine Geschwindigkeit
 - B. Ich fahre mit unveränderter Geschwindigkeit weiter
@@ -24827,6 +25731,10 @@ Sie befahren den mittleren Fahrstreifen und müssen in dieser Situation auf dem 
 
 **Womit müssen Sie in dieser Situation rechnen?**
 
+![Question Image](images/2_2_07-009.png)
+
+[Video: videos/2_2_07-009.mp4](videos/2_2_07-009.mp4)
+
 **Optionen:**
 - A. - graue Pkw auf den mittleren Fahrstreifen wechseln wird
 - B. - gelbe Lkw vor mir zum Überholen ausscheren wird
@@ -24845,6 +25753,10 @@ Da das Fahrzeug sehr schnell von rechts auf die Autobahn auffährt, müssen Sie 
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich richtig?**
+
+![Question Image](images/2_2_07-010.png)
+
+[Video: videos/2_2_07-010.mp4](videos/2_2_07-010.mp4)
 
 **Optionen:**
 - A. Ich reduziere die Geschwindigkeit und bleibe auf dem mittleren Fahrstreifen
@@ -24927,6 +25839,10 @@ Der Seitenstreifen darf nicht regulär benutzt werden. Du darfst ihn nur im Fall
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_2_07-014-M.png)
+
+[Video: videos/2_2_07-014-M.mp4](videos/2_2_07-014-M.mp4)
+
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit
 - B. Ich lasse den [blauen] Pkw vor mir einscheren
@@ -24992,6 +25908,10 @@ Sie dürfen weder auf Autobahnen noch auf Kraftfahrstraßen Ihr Fahrzeug wenden.
 
 **Warum müssen Sie vor dem Linksabbiegen warten?**
 
+![Question Image](images/2_2_09-002-M.png)
+
+[Video: videos/2_2_09-002-M.mp4](videos/2_2_09-002-M.mp4)
+
 **Optionen:**
 - A. - Motorrads
 - B. - Pkws
@@ -25010,6 +25930,10 @@ Als Linksabbieger haben Sie generell allen in Ihrer Fahrtrichtung oder Ihnen Ent
 **Punkte:** 5 Punkte
 
 **Wie verhalten Sie sich richtig?**
+
+![Question Image](images/2_2_09-003-M.png)
+
+[Video: videos/2_2_09-003-M.mp4](videos/2_2_09-003-M.mp4)
 
 **Optionen:**
 - A. - ab, nachdem mich das [rote] Fahrzeug überholt hat
@@ -25030,6 +25954,10 @@ Wenn Sie nach links abbiegen möchten und ein Pkw Sie von links überholen will,
 
 **Sie möchten nach links abbiegen. Wie verhalten Sie sich richtig?**
 
+![Question Image](images/2_2_09-004-M.png)
+
+[Video: videos/2_2_09-004-M.mp4](videos/2_2_09-004-M.mp4)
+
 **Optionen:**
 - A. Ich halte auf Höhe des Feldweges und warte
 - B. Ich beschleunige und biege zügig ab
@@ -25048,6 +25976,10 @@ Der Motorradfahrer hinter dir (linke Spur) ist bereits sehr dicht. Halte bitte a
 **Punkte:** 5 Punkte
 
 **Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?**
+
+![Question Image](images/2_2_09-005-M.png)
+
+[Video: videos/2_2_09-005-M.mp4](videos/2_2_09-005-M.mp4)
 
 **Optionen:**
 - A. - Motorrads
@@ -25068,6 +26000,10 @@ In dieser Situation müssen Sie darauf warten, dass das Motorrad hinter dem Auto
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
+![Question Image](images/2_2_09-006-M.png)
+
+[Video: videos/2_2_09-006-M.mp4](videos/2_2_09-006-M.mp4)
+
 **Optionen:**
 - A. - ab, nachdem [der rote Pkw] mich überholt hat
 - B. - jetzt ab, um den nachfolgenden Lkw nicht zu behindern
@@ -25086,6 +26022,10 @@ In dieser Situation sollten Sie zunächst warten, bis das Motorrad Sie überholt
 **Punkte:** 5 Punkte
 
 **Warum dürfen Sie jetzt nicht abbiegen?**
+
+![Question Image](images/2_2_09-007-M.png)
+
+[Video: videos/2_2_09-007-M.mp4](videos/2_2_09-007-M.mp4)
 
 **Optionen:**
 - A. - [roten Pkws]
@@ -25623,6 +26563,10 @@ Beachten Sie, dass Sie Kraftfahrzeuganhänger, die über kein Zugfahrzeug verfü
 
 **Sie möchten am rechten Fahrbahnrand parken. Wie sollten Sie sich in dieser Situation verhalten?**
 
+![Question Image](images/2_2_12-107-M.png)
+
+[Video: videos/2_2_12-107-M.mp4](videos/2_2_12-107-M.mp4)
+
 **Optionen:**
 - A. Ich verzichte auf den Parkplatz, obwohl ich Vorrang habe
 - B. Ich parke jetzt ein, weil ich Vorrang habe
@@ -25640,6 +26584,10 @@ Du hast zuerst geblinkt und deshalb Vorrang auf den Parkplatz. Um einem Konflikt
 **Punkte:** 3 Punkte
 
 **Sie möchten am rechten Fahrbahnrand parken. Wer hat in dieser Situation Vorrang?**
+
+![Question Image](images/2_2_12-108-M.png)
+
+[Video: videos/2_2_12-108-M.mp4](videos/2_2_12-108-M.mp4)
 
 **Optionen:**
 - A. Der [blaue] Pkw hat Vorrang
@@ -26144,6 +27092,10 @@ Als Kfz-Fahrer/In müssen Sie die nötigen Maßnahmen treffen, um Unfälle oder 
 **Punkte:** 4 Punkte
 
 **Warum dürfen Sie jetzt nicht aussteigen?**
+
+![Question Image](images/2_2_14-107-M.png)
+
+[Video: videos/2_2_14-107-M.mp4](videos/2_2_14-107-M.mp4)
 
 **Optionen:**
 - A. Wegen [des Radfahrers]
@@ -27362,6 +28314,10 @@ Auf einem Einfädelungsstreifen, vormals Beschleunigungsstreifen genannt, ist es
 
 **Wie müssen Sie sich jetzt verhalten?**
 
+![Question Image](images/2_2_18-013.png)
+
+[Video: videos/2_2_18-013.mp4](videos/2_2_18-013.mp4)
+
 **Optionen:**
 - A. - weit nach rechts
 - B. - weit nach links
@@ -27380,6 +28336,10 @@ Sie nähern sich auf der Autobahn dem Ende eines Staus. Schalten Sie das Warnbli
 **Punkte:** 4 Punkte
 
 **Wie sollten Sie sich verhalten?**
+
+![Question Image](images/2_2_18-014.png)
+
+[Video: videos/2_2_18-014.mp4](videos/2_2_18-014.mp4)
 
 **Optionen:**
 - A. Ich fahre weiter
@@ -27421,6 +28381,10 @@ Jeder/Jede Kfz-FahrerIn muss im Fall der Staubildung auf Autobahnen und auf auß
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_2_18-016-M.png)
+
+[Video: videos/2_2_18-016-M.mp4](videos/2_2_18-016-M.mp4)
+
 **Optionen:**
 - A. Ich warne den Fahrer mit Schall- und Leuchtzeichen
 - B. Ich fahre möglichst weit rechts
@@ -27441,6 +28405,10 @@ Achtung Geisterfahrer! Du solltest den Autofahrer mit Schall (Hupe) und Leuchtze
 **Punkte:** 3 Punkte
 
 **Wie sollten Sie sich jetzt verhalten?**
+
+![Question Image](images/2_2_18-017-M.png)
+
+[Video: videos/2_2_18-017-M.mp4](videos/2_2_18-017-M.mp4)
 
 **Optionen:**
 - A. Ich beschleunige und fädele vor dem [Lkw] ein
@@ -27521,6 +28489,10 @@ Warnen Sie den nachfolgenden Verkehr durch das Einschalten des Warnblinklichts u
 
 **Wie verhalten Sie sich jetzt richtig?**
 
+![Question Image](images/2_2_18-021-M.png)
+
+[Video: videos/2_2_18-021-M.mp4](videos/2_2_18-021-M.mp4)
+
 **Optionen:**
 - A. Ich bleibe auf dem mittleren Fahrstreifen
 - B. Ich wechsle auf den linken Fahrstreifen
@@ -27540,6 +28512,10 @@ Auf dem rechten Fahrstreifen kommt ein Motorrad von der Autobahnauffahrt auf die
 **Punkte:** 4 Punkte
 
 **Sie möchten die Autobahn an der nächsten Ausfahrt verlassen. Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/2_2_18-022.png)
+
+[Video: videos/2_2_18-022.mp4](videos/2_2_18-022.mp4)
 
 **Optionen:**
 - A. Ich beobachte den nachfolgenden Verkehr
@@ -27562,6 +28538,10 @@ Beobachte bei Autobahnfahrten immer aufmerksam den nachfolgenden Verkehr. Achte 
 
 **Wie sollten Sie sich jetzt verhalten?**
 
+![Question Image](images/2_2_18-023-M.png)
+
+[Video: videos/2_2_18-023-M.mp4](videos/2_2_18-023-M.mp4)
+
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit
 - B. Ich beschleunige
@@ -27580,6 +28560,10 @@ Verringere deine Geschwindigkeit und ermögliche dem blauen Pkw, auf die Autobah
 **Punkte:** 4 Punkte
 
 **Womit müssen Sie jetzt rechnen?**
+
+![Question Image](images/2_2_18-024-M.png)
+
+[Video: videos/2_2_18-024-M.mp4](videos/2_2_18-024-M.mp4)
 
 **Optionen:**
 - A. - abbremsen
@@ -32359,6 +33343,10 @@ Bereinigen Sie den Bereich und markieren Sie ihn sichtbar um eine Gefährdung au
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
+![Question Image](images/2_2_34-001-M.png)
+
+[Video: videos/2_2_34-001-M.mp4](videos/2_2_34-001-M.mp4)
+
 **Optionen:**
 - A. Ich fahre unverändert weiter
 - B. Ich bremse sofort stark ab
@@ -32377,6 +33365,10 @@ Die Unfallstelle ist bereits gesichert und die Polizei und Krankenwagen sind vor
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_2_34-002-M.png)
+
+[Video: videos/2_2_34-002-M.mp4](videos/2_2_34-002-M.mp4)
 
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit
@@ -32397,6 +33389,10 @@ Auf dem rechten Fahrstreifen gab es einen Unfall und Sie fahren auf die noch ung
 **Punkte:** 4 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_2_34-003-M.png)
+
+[Video: videos/2_2_34-003-M.mp4](videos/2_2_34-003-M.mp4)
 
 **Optionen:**
 - A. Ich verringere meine Geschwindigkeit weiter
@@ -33102,6 +34098,10 @@ Der linke Fahrstreifen ist gesperrt. Ihn darfst du in keinem Fall befahren. Auch
 **Punkte:** 3 Punkte
 
 **Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/2_4_41-005-M.png)
+
+[Video: videos/2_4_41-005-M.mp4](videos/2_4_41-005-M.mp4)
 
 **Optionen:**
 - A. Ich beschleunige
@@ -45960,6 +46960,10 @@ Außerdem bremst es ab, wenn es vorausfahrende Fahrzeuge erkennt. Es bremst nich
 **Punkte:** 3 Punkte
 
 **Sie nutzen während der Fahrt die Adaptive Geschwindigkeitsregelanlage (AGR). Die Geschwindigkeit ist auf 100 km/h eingestellt. Worauf müssen Sie sich vor der Kurve einstellen?**
+
+![Question Image](images/2_7_06-118-M.png)
+
+[Video: videos/2_7_06-118-M.mp4](videos/2_7_06-118-M.mp4)
 
 **Optionen:**
 - A. Durch die AGR kann mein Fahrzeug nun beschleunigt werden
