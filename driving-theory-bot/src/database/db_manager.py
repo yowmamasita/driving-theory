@@ -1,35 +1,60 @@
-import aiosqlite
-from pathlib import Path
+import asyncio
 from datetime import datetime, timedelta
 from typing import Optional, List, Dict, Any
+from functools import lru_cache
 import logging
+import json
+
+from .db_pool import DatabasePool
 
 logger = logging.getLogger(__name__)
 
 
 class DatabaseManager:
-    def __init__(self, db_path: str = "driving_theory_bot.db"):
-        self.db_path = db_path
-        self.connection: Optional[aiosqlite.Connection] = None
-
+    """
+    Optimized database manager for handling thousands of concurrent users.
+    Uses connection pooling, caching, and batch operations.
+    """
+    
+    def __init__(self, db_path: str = "driving_theory_bot.db", pool_size: int = 20):
+        self.pool = DatabasePool(db_path, pool_size)
+        self._user_cache = {}  # Simple cache for user data
+        self._cache_lock = asyncio.Lock()
+        self._batch_queue = []
+        self._batch_lock = asyncio.Lock()
+        self._batch_task = None
+    
     async def connect(self):
-        self.connection = await aiosqlite.connect(self.db_path)
-        self.connection.row_factory = aiosqlite.Row
+        """Initialize database pool and create tables"""
+        await self.pool.initialize()
         await self.initialize_database()
-
+        
+        # Start batch processor
+        self._batch_task = asyncio.create_task(self._process_batch_writes())
+    
     async def close(self):
-        if self.connection:
-            await self.connection.close()
-
+        """Close database connections and cleanup"""
+        if self._batch_task:
+            self._batch_task.cancel()
+            try:
+                await self._batch_task
+            except asyncio.CancelledError:
+                pass
+        
+        # Process any remaining batch writes
+        await self._flush_batch()
+        await self.pool.close()
+    
     async def initialize_database(self):
-        async with self.connection.executescript("""
+        """Create database tables with optimized schema"""
+        schema = """
             CREATE TABLE IF NOT EXISTS users (
                 telegram_id INTEGER PRIMARY KEY,
                 username TEXT,
                 preferred_language TEXT NOT NULL DEFAULT 'english',
                 created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
                 total_questions_answered INTEGER DEFAULT 0
-            );
+            ) WITHOUT ROWID;
 
             CREATE TABLE IF NOT EXISTS question_attempts (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -64,42 +89,62 @@ class DatabaseManager:
                 awaiting_answer BOOLEAN DEFAULT 1,
                 updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
                 FOREIGN KEY (user_telegram_id) REFERENCES users(telegram_id)
-            );
+            ) WITHOUT ROWID;
 
-            CREATE INDEX IF NOT EXISTS idx_attempts_user ON question_attempts(user_telegram_id);
+            -- Optimized indexes for concurrent access
+            CREATE INDEX IF NOT EXISTS idx_attempts_user_time ON question_attempts(user_telegram_id, attempted_at DESC);
             CREATE INDEX IF NOT EXISTS idx_attempts_question ON question_attempts(question_id);
-            CREATE INDEX IF NOT EXISTS idx_spaced_user ON spaced_repetition(user_telegram_id);
-            CREATE INDEX IF NOT EXISTS idx_spaced_next_review ON spaced_repetition(next_review);
-        """) as cursor:
-            pass
-        await self.connection.commit()
-
+            CREATE INDEX IF NOT EXISTS idx_spaced_user_review ON spaced_repetition(user_telegram_id, next_review);
+            CREATE INDEX IF NOT EXISTS idx_sessions_updated ON user_sessions(updated_at DESC);
+        """
+        
+        async with self.pool.acquire() as conn:
+            await conn.executescript(schema)
+            await conn.commit()
+    
     async def get_or_create_user(self, telegram_id: int, username: Optional[str] = None) -> Dict[str, Any]:
-        async with self.connection.execute(
-            "SELECT * FROM users WHERE telegram_id = ?", (telegram_id,)
-        ) as cursor:
-            user = await cursor.fetchone()
-            
+        """Get or create user with caching"""
+        # Check cache first
+        async with self._cache_lock:
+            if telegram_id in self._user_cache:
+                return self._user_cache[telegram_id]
+        
+        # Check database
+        user = await self.pool.fetchone(
+            "SELECT * FROM users WHERE telegram_id = ?", 
+            (telegram_id,)
+        )
+        
         if not user:
-            await self.connection.execute(
+            await self.pool.execute(
                 "INSERT INTO users (telegram_id, username) VALUES (?, ?)",
                 (telegram_id, username)
             )
-            await self.connection.commit()
-            async with self.connection.execute(
-                "SELECT * FROM users WHERE telegram_id = ?", (telegram_id,)
-            ) as cursor:
-                user = await cursor.fetchone()
+            user = await self.pool.fetchone(
+                "SELECT * FROM users WHERE telegram_id = ?",
+                (telegram_id,)
+            )
         
-        return dict(user)
-
+        user_dict = dict(user)
+        
+        # Update cache
+        async with self._cache_lock:
+            self._user_cache[telegram_id] = user_dict
+        
+        return user_dict
+    
     async def update_user_language(self, telegram_id: int, language: str):
-        await self.connection.execute(
+        """Update user language preference"""
+        await self.pool.execute(
             "UPDATE users SET preferred_language = ? WHERE telegram_id = ?",
             (language, telegram_id)
         )
-        await self.connection.commit()
-
+        
+        # Update cache
+        async with self._cache_lock:
+            if telegram_id in self._user_cache:
+                self._user_cache[telegram_id]['preferred_language'] = language
+    
     async def record_question_attempt(
         self, 
         user_telegram_id: int, 
@@ -108,34 +153,76 @@ class DatabaseManager:
         is_correct: bool,
         time_taken_seconds: Optional[int] = None
     ):
-        await self.connection.execute(
-            """INSERT INTO question_attempts 
-               (user_telegram_id, question_id, language, is_correct, time_taken_seconds) 
-               VALUES (?, ?, ?, ?, ?)""",
-            (user_telegram_id, question_id, language, is_correct, time_taken_seconds)
-        )
+        """Queue question attempt for batch processing"""
+        async with self._batch_lock:
+            self._batch_queue.append({
+                'type': 'attempt',
+                'user_telegram_id': user_telegram_id,
+                'question_id': question_id,
+                'language': language,
+                'is_correct': is_correct,
+                'time_taken_seconds': time_taken_seconds,
+                'timestamp': datetime.now()
+            })
+    
+    async def _process_batch_writes(self):
+        """Process batch writes periodically"""
+        while True:
+            try:
+                await asyncio.sleep(2)  # Process every 2 seconds
+                await self._flush_batch()
+            except asyncio.CancelledError:
+                break
+            except Exception as e:
+                logger.error(f"Error in batch processor: {e}")
+    
+    async def _flush_batch(self):
+        """Flush batch queue to database"""
+        async with self._batch_lock:
+            if not self._batch_queue:
+                return
+            
+            batch = self._batch_queue[:]
+            self._batch_queue.clear()
         
-        await self.connection.execute(
-            "UPDATE users SET total_questions_answered = total_questions_answered + 1 WHERE telegram_id = ?",
-            (user_telegram_id,)
-        )
+        # Group by type for efficient batch inserts
+        attempts = [b for b in batch if b['type'] == 'attempt']
         
-        await self.connection.commit()
-
+        if attempts:
+            await self.pool.executemany(
+                """INSERT INTO question_attempts 
+                   (user_telegram_id, question_id, language, is_correct, time_taken_seconds, attempted_at) 
+                   VALUES (?, ?, ?, ?, ?, ?)""",
+                [(a['user_telegram_id'], a['question_id'], a['language'], 
+                  a['is_correct'], a['time_taken_seconds'], a['timestamp']) for a in attempts]
+            )
+            
+            # Update user totals
+            user_updates = {}
+            for a in attempts:
+                user_id = a['user_telegram_id']
+                user_updates[user_id] = user_updates.get(user_id, 0) + 1
+            
+            for user_id, count in user_updates.items():
+                await self.pool.execute(
+                    "UPDATE users SET total_questions_answered = total_questions_answered + ? WHERE telegram_id = ?",
+                    (count, user_id)
+                )
+    
     async def get_user_statistics(self, telegram_id: int) -> Dict[str, Any]:
-        async with self.connection.execute(
+        """Get user statistics with optimized query"""
+        result = await self.pool.fetchone(
             """SELECT 
                 COUNT(*) as total_attempts,
                 SUM(CASE WHEN is_correct THEN 1 ELSE 0 END) as correct_answers,
-                AVG(CASE WHEN is_correct THEN 1 ELSE 0 END) * 100 as accuracy_percentage
+                AVG(CASE WHEN is_correct THEN 1.0 ELSE 0.0 END) * 100 as accuracy_percentage
                FROM question_attempts 
                WHERE user_telegram_id = ?""",
             (telegram_id,)
-        ) as cursor:
-            stats = await cursor.fetchone()
+        )
         
-        return dict(stats) if stats else {}
-
+        return dict(result) if result else {}
+    
     async def update_spaced_repetition(
         self,
         user_telegram_id: int,
@@ -143,25 +230,26 @@ class DatabaseManager:
         language: str,
         is_correct: bool
     ):
-        async with self.connection.execute(
+        """Update spaced repetition data"""
+        sr_data = await self.pool.fetchone(
             """SELECT * FROM spaced_repetition 
                WHERE user_telegram_id = ? AND question_id = ? AND language = ?""",
             (user_telegram_id, question_id, language)
-        ) as cursor:
-            sr_data = await cursor.fetchone()
+        )
         
         if not sr_data:
             next_review = datetime.now() + timedelta(days=1)
-            await self.connection.execute(
+            await self.pool.execute(
                 """INSERT INTO spaced_repetition 
                    (user_telegram_id, question_id, language, next_review, last_reviewed) 
                    VALUES (?, ?, ?, ?, ?)""",
                 (user_telegram_id, question_id, language, next_review, datetime.now())
             )
         else:
-            ease_factor = dict(sr_data)['ease_factor']
-            interval_days = dict(sr_data)['interval_days']
-            repetition_count = dict(sr_data)['repetition_count']
+            sr_dict = dict(sr_data)
+            ease_factor = sr_dict['ease_factor']
+            interval_days = sr_dict['interval_days']
+            repetition_count = sr_dict['repetition_count']
             
             if is_correct:
                 ease_factor = min(ease_factor + 0.1, 3.0)
@@ -174,7 +262,7 @@ class DatabaseManager:
             
             next_review = datetime.now() + timedelta(days=interval_days)
             
-            await self.connection.execute(
+            await self.pool.execute(
                 """UPDATE spaced_repetition 
                    SET ease_factor = ?, interval_days = ?, repetition_count = ?, 
                        next_review = ?, last_reviewed = ?
@@ -182,35 +270,35 @@ class DatabaseManager:
                 (ease_factor, interval_days, repetition_count, next_review, datetime.now(),
                  user_telegram_id, question_id, language)
             )
-        
-        await self.connection.commit()
-
+    
     async def get_next_question_for_review(
         self, 
         user_telegram_id: int, 
         language: str
     ) -> Optional[str]:
-        async with self.connection.execute(
+        """Get next question for spaced repetition review"""
+        result = await self.pool.fetchone(
             """SELECT question_id FROM spaced_repetition 
                WHERE user_telegram_id = ? AND language = ? AND next_review <= ?
                ORDER BY next_review ASC LIMIT 1""",
             (user_telegram_id, language, datetime.now())
-        ) as cursor:
-            result = await cursor.fetchone()
+        )
         
         return dict(result)['question_id'] if result else None
-
+    
     async def get_attempted_questions(
         self, 
         user_telegram_id: int, 
         language: str
     ) -> List[str]:
-        async with self.connection.execute(
+        """Get list of attempted questions"""
+        results = await self.pool.fetchall(
             """SELECT DISTINCT question_id FROM question_attempts 
-               WHERE user_telegram_id = ? AND language = ?""",
+               WHERE user_telegram_id = ? AND language = ?
+               ORDER BY attempted_at DESC
+               LIMIT 1000""",  # Limit for performance
             (user_telegram_id, language)
-        ) as cursor:
-            results = await cursor.fetchall()
+        )
         
         return [dict(r)['question_id'] for r in results]
     
@@ -222,36 +310,38 @@ class DatabaseManager:
         question_start_time: Optional[datetime] = None,
         awaiting_answer: bool = True
     ):
-        await self.connection.execute(
+        """Save user session"""
+        await self.pool.execute(
             """INSERT OR REPLACE INTO user_sessions 
                (user_telegram_id, current_question_id, language, question_start_time, awaiting_answer, updated_at)
                VALUES (?, ?, ?, ?, ?, ?)""",
             (user_telegram_id, current_question_id, language, question_start_time, awaiting_answer, datetime.now())
         )
-        await self.connection.commit()
     
     async def get_user_session(self, user_telegram_id: int) -> Optional[Dict[str, Any]]:
-        async with self.connection.execute(
+        """Get user session"""
+        session = await self.pool.fetchone(
             "SELECT * FROM user_sessions WHERE user_telegram_id = ?",
             (user_telegram_id,)
-        ) as cursor:
-            session = await cursor.fetchone()
+        )
         
         return dict(session) if session else None
     
     async def clear_user_session(self, user_telegram_id: int):
-        await self.connection.execute(
+        """Clear user session"""
+        await self.pool.execute(
             "DELETE FROM user_sessions WHERE user_telegram_id = ?",
             (user_telegram_id,)
         )
-        await self.connection.commit()
     
     async def get_all_active_sessions(self) -> List[Dict[str, Any]]:
-        async with self.connection.execute(
+        """Get all active sessions within last 24 hours"""
+        sessions = await self.pool.fetchall(
             """SELECT * FROM user_sessions 
                WHERE awaiting_answer = 1 
-               AND datetime(updated_at) > datetime('now', '-24 hours')"""
-        ) as cursor:
-            sessions = await cursor.fetchall()
+               AND datetime(updated_at) > datetime('now', '-24 hours')
+               ORDER BY updated_at DESC
+               LIMIT 10000""",  # Limit for safety
+        )
         
         return [dict(s) for s in sessions]
