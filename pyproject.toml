@@ -10,3 +10,8 @@ dependencies = [
     "pandas>=2.0.3",
     "requests>=2.32.3",
 ]
+
+[tool.uv.workspace]
+members = [
+    "driving-theory-bot",
+]

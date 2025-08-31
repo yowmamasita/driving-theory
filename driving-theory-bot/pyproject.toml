@@ -1,0 +1,10 @@
+[project]
+name = "driving-theory-bot"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.8"
+dependencies = [
+    "aiosqlite>=0.20.0",
+    "python-dotenv>=1.0.1",
+    "python-telegram-bot>=21.6",
+]
