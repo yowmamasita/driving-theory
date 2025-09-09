@@ -48,8 +48,8 @@ class DrivingTheoryBot:
         # Use optimized components with connection pooling
         self.db_manager = DatabaseManager(pool_size=20)
         
-        # Get the parent directory of the driving-theory-bot folder
-        questions_dir = Path(__file__).parent.parent.parent
+        # Questions are now in the same directory level
+        questions_dir = Path(__file__).parent.parent
         self.question_loader = QuestionLoader(questions_dir)
         
         # Rate limiter: 10 requests per minute per user, burst of 15

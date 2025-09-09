@@ -18,4 +18,4 @@ echo "- Memory caching: Enabled"
 echo "- Concurrent processing: Enabled"
 echo ""
 
-cd src && uv run python main.py
+uv run python src/main.py
