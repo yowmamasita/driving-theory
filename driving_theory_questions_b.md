@@ -1645,6 +1645,57 @@ Since the dog, most likely, will run onto the street from the left, you have to 
 
 ---
 
+#### Question 1.1.02-201-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**Why are you required to stop here?**
+
+![Question Image](images/1_1_02-201-M.png)
+
+[Video: videos/1_1_02-201-M.mp4](videos/1_1_02-201-M.mp4)
+
+**Options:**
+- A. Because [a pedestrian] wants to cross the road from the left
+- B. Because a pedestrian wants to cross the road from the right
+- C. Because [a cyclist] wants to cross the road from the left
+
+**Correct Answer(s):**
+- A. Because [a pedestrian] wants to cross the road from the left
+- B. Because a pedestrian wants to cross the road from the right
+
+**Explanation:**
+You should stop here because there are 2 pedestrians in front of the bus and they want to cross the road. One from the right and one from the left.
+
+---
+
+#### Question 1.1.02-202-M
+
+**Points:** 5 Points
+
+**Licenses:** GM classes
+
+**Why are you required to brake now?**
+
+![Question Image](images/1_1_02-202-M.png)
+
+[Video: videos/1_1_02-202-M.mp4](videos/1_1_02-202-M.mp4)
+
+**Options:**
+- A. Because of the child
+- B. Because of the [green] car
+- C. Because of [the cyclist]
+
+**Correct Answer(s):**
+- A. Because of the child
+
+**Explanation:**
+The child could run onto the roadway at any moment. Brake to avoid an accident.
+
+---
+
 ### 1.1.03 Chapter Road And Weather Conditions
 
 
@@ -2938,6 +2989,57 @@ If you misjudge the speed and distance of an oncoming vehicle, your overtaking d
 
 **Explanation:**
 The vehicle overtaking you has estimated its overtaking path too short. You should reduce your speed so that the overtaking person can re-enter earlier and that the risk of an accident is reduced.
+
+---
+
+#### Question 1.1.06-201-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**Why may you not overtake in this situation?**
+
+![Question Image](images/1_1_06-201-M.png)
+
+[Video: videos/1_1_06-201-M.mp4](videos/1_1_06-201-M.mp4)
+
+**Options:**
+- A. Because the overtaking distance is obscured
+- B. Because I am travelling only a little faster than the cyclists
+- C. Because there is a no-overtaking sign
+
+**Correct Answer(s):**
+- A. Because the overtaking distance is obscured
+- B. Because I am travelling only a little faster than the cyclists
+
+**Explanation:**
+The overtaking lane is not visible due to the cyclists and the course of the road. If you cannot see the overtaking lane, you must not overtake. As you cannot go much faster than the cyclists, the overtaking lane becomes much longer and therefore more dangerous.
+
+---
+
+#### Question 1.1.06-202-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**Why are you not allowed to overtake now?**
+
+![Question Image](images/1_1_06-202-M.png)
+
+[Video: videos/1_1_06-202-M.mp4](videos/1_1_06-202-M.mp4)
+
+**Options:**
+- A. Because [the cyclist] could turn off to the left
+- B. Because it will impede oncoming traffic
+- C. Because there is a no-overtaking sign
+
+**Correct Answer(s):**
+- A. Because [the cyclist] could turn off to the left
+
+**Explanation:**
+The cyclist swings to the left and looks over his shoulder. He will probably turn left. Reduce your speed to give the cyclist enough space and ensure that he does not feel pressurised. In this way, you will also avoid endangering the cyclist in the event of an abrupt braking manoeuvre and possible rear-end collisions due to a lack of distance.
 
 ---
 
@@ -4787,6 +4889,185 @@ In this situation you have to brake to avoid a collision with the overtaking car
 
 ---
 
+#### Question 1.1.07-201-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**What is the right course of action in this situation?**
+
+![Question Image](images/1_1_07-201-M.png)
+
+[Video: videos/1_1_07-201-M.mp4](videos/1_1_07-201-M.mp4)
+
+**Options:**
+- A. I brake very sharply
+- B. I sound my horn and continue driving
+- C. I steer to the right
+
+**Correct Answer(s):**
+- A. I brake very sharply
+
+**Explanation:**
+The cyclist from the left does not seem to slow down, so brake sharply.
+
+---
+
+#### Question 1.1.07-202-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**Why must you brake now?**
+
+![Question Image](images/1_1_07-202-M.png)
+
+[Video: videos/1_1_07-202-M.mp4](videos/1_1_07-202-M.mp4)
+
+**Options:**
+- A. Because of [the cyclist]
+- B. Because of [the red vehicle]
+- C. Because of the bus stop
+
+**Correct Answer(s):**
+- A. Because of [the cyclist]
+
+**Explanation:**
+Because the cyclist wants to be in your lane, brake because of the cyclist.
+
+---
+
+#### Question 1.1.07-203-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**What must you watch out for now?**
+
+![Question Image](images/1_1_07-203-M.png)
+
+[Video: videos/1_1_07-203-M.mp4](videos/1_1_07-203-M.mp4)
+
+**Options:**
+- A. For [the cyclist] on the left
+- B. For [the cyclist] on the right
+- C. For the [blue] car
+
+**Correct Answer(s):**
+- A. For [the cyclist] on the left
+- B. For [the cyclist] on the right
+
+**Explanation:**
+The cyclist on the right is riding on the roadway. There is a cyclist on the left whom we must let go first as a result of our turning procedure.
+
+---
+
+#### Question 1.1.07-204-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**What should you anticipate in this situation?**
+
+![Question Image](images/1_1_07-204-M.png)
+
+[Video: videos/1_1_07-204-M.mp4](videos/1_1_07-204-M.mp4)
+
+**Options:**
+- A. The driver of the [yellow] car fails to see me
+- B. There are loose chippings on the roadway
+- C. The tractor in front of me, will turn right
+
+**Correct Answer(s):**
+- A. The driver of the [yellow] car fails to see me
+- B. There are loose chippings on the roadway
+
+**Explanation:**
+As you are driving behind a large vehicle, it can quickly happen that you are overlooked by oncoming traffic. The danger sign warns of rolling gravel on the road.
+
+---
+
+#### Question 1.1.07-205-M
+
+**Points:** 5 Points
+
+**Licenses:** GM classes
+
+**You are driving outside of a built-up area. What is the correct course of action in this situation?**
+
+![Question Image](images/1_1_07-205-M.png)
+
+[Video: videos/1_1_07-205-M.mp4](videos/1_1_07-205-M.mp4)
+
+**Options:**
+- A. I only continue driving once I have reassured myself that the road is clear
+- B. I do not have to reassure myself that the road is clear, because [the cyclist] is moving
+- C. I may no longer continue using the cycle path
+
+**Correct Answer(s):**
+- A. I only continue driving once I have reassured myself that the road is clear
+
+**Explanation:**
+This is not a protected cycle path. You may therefore continue to use the cycle path.
+When entering another road, you must make sure that the road is clear. There is a "Give way" sign here. This means that the cyclists on the other side of the road have the right of way and you must wait. You should check for yourself that the road is clear.
+You must still make sure that the road is clear for crossing.
+
+---
+
+#### Question 1.1.07-206-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**Why should you be ready to brake now?**
+
+![Question Image](images/1_1_07-206-M.png)
+
+[Video: videos/1_1_07-206-M.mp4](videos/1_1_07-206-M.mp4)
+
+**Options:**
+- A. Because the driver of the brown vehicle could exit the vehicle
+- B. Because [the pedestrian] could walk out onto the road
+- C. Because the bus could move across onto my lane
+
+**Correct Answer(s):**
+- A. Because the driver of the brown vehicle could exit the vehicle
+
+**Explanation:**
+The brown vehicle has just stopped, there is a high risk that a person will get out hastily and carelessly in the next moment. Therefore, you must be ready to brake.
+
+---
+
+#### Question 1.1.07-207-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**What is the right thing to do in this situation?**
+
+![Question Image](images/1_1_07-207-M.png)
+
+[Video: videos/1_1_07-207-M.mp4](videos/1_1_07-207-M.mp4)
+
+**Options:**
+- A. I perform an emergency braking manoeuvre
+- B. I continue driving, ready to brake
+- C. I move towards the right
+
+**Correct Answer(s):**
+- A. I perform an emergency braking manoeuvre
+
+**Explanation:**
+The cyclist is obviously crossing the road without paying attention to the traffic situation and without braking. Use emergency braking to avoid a collision.
+
+---
+
 ### 1.1.09 Chapter Alcohol Drugs Medication
 
 
@@ -5625,6 +5906,29 @@ When crossing a priority road, you must keep in mind: 1. the width of the priori
 
 **Explanation:**
 According to the German Road Traffic Regulations (Straßenverkehrsordnung - StVO), motorways may only be used by vehicles with a maximum design speed of more than 60 km / h.
+
+---
+
+#### Question 1.2.02-201
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**You are driving in a built-up area on a cycle path on which mopeds are permitted. What should you anticipate?**
+
+**Options:**
+- A. - the doors of parked vehicles will be suddenly opened
+- B. - vehicles turning into another street may not be able to see me
+- C. - pedestrians will walk on the cycle path
+
+**Correct Answer(s):**
+- A. - the doors of parked vehicles will be suddenly opened
+- B. - vehicles turning into another street may not be able to see me
+- C. - pedestrians will walk on the cycle path
+
+**Explanation:**
+If you ride on a bike path in town, you should expect everything. Doors of parked cars can be opened suddenly, turning vehicles can overlook you and pedestrians can use the bike path.
 
 ---
 
@@ -7748,6 +8052,158 @@ The straight ahead traffic always has priority, whether the cyclist is riding on
 
 ---
 
+#### Question 1.2.09-201-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**Why are you required to stop now?**
+
+![Question Image](images/1_2_09-201-M.png)
+
+[Video: videos/1_2_09-201-M.mp4](videos/1_2_09-201-M.mp4)
+
+**Options:**
+- A. Because of the tram
+- B. Because of [the cyclist]
+- C. Because of the [yellow] car
+
+**Correct Answer(s):**
+- A. Because of the tram
+
+**Explanation:**
+Because you want to turn left, you should wait for the tram before turning.
+
+---
+
+#### Question 1.2.09-202-M
+
+**Points:** 5 Points
+
+**Licenses:** GM classes
+
+**In this situation, why do you have to wait before turning right?**
+
+![Question Image](images/1_2_09-202-M.png)
+
+[Video: videos/1_2_09-202-M.mp4](videos/1_2_09-202-M.mp4)
+
+**Options:**
+- A. Because of [the pedestrian]
+- B. Because of the [cyclist]
+- C. Because of the [blue car]
+
+**Correct Answer(s):**
+- A. Because of [the pedestrian]
+- B. Because of the [cyclist]
+
+**Explanation:**
+When turning, you must give priority to longitudinal traffic, for this reason you must wait for pedestrians and cyclists to pass.
+
+---
+
+#### Question 1.2.09-203-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**Why can you not turn off the road here?**
+
+![Question Image](images/1_2_09-203-M.png)
+
+[Video: videos/1_2_09-203-M.mp4](videos/1_2_09-203-M.mp4)
+
+**Options:**
+- A. - [red] car
+- B. - [yellow] truck
+- C. - [blue] tractor
+
+**Correct Answer(s):**
+- A. - [red] car
+
+**Explanation:**
+The red car is still overtaking you and is travelling at a much higher speed than you. Wait for the red car to pass.
+
+---
+
+#### Question 1.2.09-204-M
+
+**Points:** 5 Points
+
+**Licenses:** GM classes
+
+**In this situation, why do you have to wait before turning left?**
+
+![Question Image](images/1_2_09-204-M.png)
+
+[Video: videos/1_2_09-204-M.mp4](videos/1_2_09-204-M.mp4)
+
+**Options:**
+- A. Because of the tram
+- B. Because of the [red car]
+- C. Because of the [yellow vehicle]
+
+**Correct Answer(s):**
+- A. Because of the tram
+
+**Explanation:**
+You are changing the direction of travel, so you must give the tram priority.
+
+---
+
+#### Question 1.2.09-205-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**In this situation, why do you have to wait before turning left?**
+
+![Question Image](images/1_2_09-205-M.png)
+
+[Video: videos/1_2_09-205-M.mp4](videos/1_2_09-205-M.mp4)
+
+**Options:**
+- A. Because of the motorbike
+- B. Because of the [red] car
+- C. Because of the [cyclist]
+
+**Correct Answer(s):**
+- A. Because of the motorbike
+
+**Explanation:**
+A motorbike is driving behind a red car; due to your change of direction, you must give the motorcyclist priority.
+
+---
+
+#### Question 1.2.09-206-M
+
+**Points:** 5 Points
+
+**Licenses:** GM classes
+
+**Why are you required to wait now?**
+
+![Question Image](images/1_2_09-206-M.png)
+
+[Video: videos/1_2_09-206-M.mp4](videos/1_2_09-206-M.mp4)
+
+**Options:**
+- A. - cyclist
+- B. - [blue] vehicle
+- C. - [yellow] car
+
+**Correct Answer(s):**
+- A. - cyclist
+- B. - [blue] vehicle
+
+**Explanation:**
+The blue car and the cyclist are both going straight ahead, so they have the right of way, even if the cyclist is riding on the pavement.
+
+---
+
 ### 1.2.10 Chapter Entering And Starting
 
 
@@ -8337,6 +8793,55 @@ The truck was signaled by flasher that he waives his right of way. Therefore, is
 
 **Explanation:**
 As you want to turn left, oncoming traffic has priority. Only when the lorry driver gives up his right of way with a clear hand signal can you pass with due regard for oncoming traffic. Flashing your lights is not sufficient here.
+
+---
+
+#### Question 1.2.11-201-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**You want to drive straight ahead. What should you do if the [red] truck immediately drives off on “green”?**
+
+![Question Image](images/1_2_11-201-M.png)
+
+**Options:**
+- A. I wait and allow the truck to move off
+- B. I give a warning signal if necessary
+- C. I also drive off immediately
+
+**Correct Answer(s):**
+- A. I wait and allow the truck to move off
+- B. I give a warning signal if necessary
+
+**Explanation:**
+You should wait here and let the truck move off, giving warning signs if necessary as it appears to be turning right. (Turn signal right)
+
+---
+
+#### Question 1.2.11-202-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**You want to drive straight ahead. Where should you position yourself in this situation?**
+
+![Question Image](images/1_2_11-202-M.png)
+
+[Video: videos/1_2_11-202-M.mp4](videos/1_2_11-202-M.mp4)
+
+**Options:**
+- A. On the right behind the truck
+- B. On the left behind the truck
+- C. Directly behind the motorbike
+
+**Correct Answer(s):**
+- A. On the right behind the truck
+
+**Explanation:**
+The truck swerves to turn right, wait until the turn is completed. Then you can drive straight ahead.
 
 ---
 
@@ -9999,6 +10504,31 @@ When buses move in traffic with their hazard lights on, other vehicles must alwa
 
 **Explanation:**
 Buses at stops may be overtaken at walking speed if they are stationary and have their hazard lights on. However, it is always important to be particularly considerate when driving past buses in order to be able to react in a timely manner to dangerous situations, such as people suddenly stepping onto the road.
+
+---
+
+#### Question 1.2.20-201-M
+
+**Points:** 3 Points
+
+**Licenses:** GM classes
+
+**What is the right course of action in this situation?**
+
+![Question Image](images/1_2_20-201-M.png)
+
+[Video: videos/1_2_20-201-M.mp4](videos/1_2_20-201-M.mp4)
+
+**Options:**
+- A. I remain behind the tram
+- B. I drive past the tram on the right-side
+- C. I overtake the tram on the left
+
+**Correct Answer(s):**
+- A. I remain behind the tram
+
+**Explanation:**
+You must not obstruct or endanger passengers. Therefore, stay behind the tram until you can drive on without endangering the passengers.
 
 ---
 
@@ -11861,6 +12391,31 @@ Due to the solid line, you must not change the lane here. Follow only the arrows
 
 **Explanation:**
 Since this situation is a two-phase traffic light, there is no green signal. After the red light is off, you can catch up with the truck. If there was no space left behind the truck to the exit on the right, you would have to wait at the traffic lights until there was enough space to stop.
+
+---
+
+#### Question 1.2.37-201-M
+
+**Points:** 4 Points
+
+**Licenses:** GM classes
+
+**What is the right course of action now?**
+
+![Question Image](images/1_2_37-201-M.png)
+
+[Video: videos/1_2_37-201-M.mp4](videos/1_2_37-201-M.mp4)
+
+**Options:**
+- A. I allow any cross traffic the right of way
+- B. I wait at the stop line for the next set of green lights
+- C. I drive through the junction quickly, because "yellow" is displayed
+
+**Correct Answer(s):**
+- A. I allow any cross traffic the right of way
+
+**Explanation:**
+The traffic lights are out of order, therefore the right-of-way traffic signs apply. You must give way.
 
 ---
 
@@ -18632,6 +19187,27 @@ Unnecessary standing with the engine running unnecessarily pollutes the environm
 
 **Explanation:**
 The centrifugal force can throw your vehicle out of the curve. When doubling the speed, the centrifugal force quadruples. In addition, the curve radius influences this force as well. The tighter the curve, the more the centrifugal force increases. Therefore, you must brake early in tight corners.
+
+---
+
+#### Question 1.7.01-006
+
+**Points:** 3 Points
+
+**Licenses:** GM classes
+
+**Wet conditions can impair the effectiveness of drum brakes. What should you do?**
+
+**Options:**
+- A. I carefully drive to dry the brakes
+- B. I apply the brakes repeatedly while stationary
+- C. I refill the brake fluid
+
+**Correct Answer(s):**
+- A. I carefully drive to dry the brakes
+
+**Explanation:**
+The drum brake can run dry. For that you as the car driver brake cautiously. The drum brake heats up and the water can evaporate. Of course, you brake only when the traffic flow allows it. A rear-end collision must be avoided at all costs. Keep an eye on the traffic behind you.
 
 ---
 

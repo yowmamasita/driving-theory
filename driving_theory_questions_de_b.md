@@ -1645,6 +1645,57 @@ Da der Hund, höchstwahrscheinlich, von der linken Seite aus auf die Straße ren
 
 ---
 
+#### Frage 1.1.02-201-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum müssen Sie hier anhalten?**
+
+![Question Image](images/1_1_02-201-M.png)
+
+[Video: videos/1_1_02-201-M.mp4](videos/1_1_02-201-M.mp4)
+
+**Optionen:**
+- A. Weil [eine Fußgängerin] die Fahrbahn von links überqueren möchte
+- B. Weil ein Fußgänger die Fahrbahn von rechts überqueren möchte
+- C. Weil [eine Radfahrerin] die Fahrbahn von links überqueren möchte
+
+**Richtige Antwort(en):**
+- A. Weil [eine Fußgängerin] die Fahrbahn von links überqueren möchte
+- B. Weil ein Fußgänger die Fahrbahn von rechts überqueren möchte
+
+**Erklärung:**
+Du solltest hier anhalten, weil sich 2 Fußgänger vor dem Bus befinden und die Fahrbahn überqueren möchten. Einer von rechts und eine Fußgängerin von links.
+
+---
+
+#### Frage 1.1.02-202-M
+
+**Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum müssen Sie jetzt bremsen?**
+
+![Question Image](images/1_1_02-202-M.png)
+
+[Video: videos/1_1_02-202-M.mp4](videos/1_1_02-202-M.mp4)
+
+**Optionen:**
+- A. Wegen des Kindes
+- B. Wegen des [grünen] Pkws
+- C. Wegen [des Radfahrers]
+
+**Richtige Antwort(en):**
+- A. Wegen des Kindes
+
+**Erklärung:**
+Das Kind könnte jeden Moment auf die Fahrbahn laufen. Bremsen Sie um einen Unfall zu vermeiden.
+
+---
+
 ### 1.1.03 Kapitel Fahrbahn Und Witterungsverhaeltnisse
 
 
@@ -2938,6 +2989,57 @@ Durch falsches Einschätzen der Geschwindigkeit und Entfernung eines entgegenkom
 
 **Erklärung:**
 Das dich überholende Fahrzeug hat seinen Überholweg zu kurz eingeschätzt. Du solltest deine Geschwindigkeit verringern, dass der Überholende früher wieder einscheren kann und dass die Gefahr eines Unfalls verringert wird.
+
+---
+
+#### Frage 1.1.06-201-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum dürfen Sie in dieser Situation nicht überholen?**
+
+![Question Image](images/1_1_06-201-M.png)
+
+[Video: videos/1_1_06-201-M.mp4](videos/1_1_06-201-M.mp4)
+
+**Optionen:**
+- A. Weil der Überholweg nicht einsehbar ist
+- B. Weil ich nur unwesentlich schneller als die Radfahrer fahren kann
+- C. Weil ein Überholverbot ausgeschildert ist
+
+**Richtige Antwort(en):**
+- A. Weil der Überholweg nicht einsehbar ist
+- B. Weil ich nur unwesentlich schneller als die Radfahrer fahren kann
+
+**Erklärung:**
+Durch die Radfahrer und den Streckenverlauf ist der Überholweg nicht einsehbar. Wenn du den Überholweg nicht einsehen kannst, darfst du nicht überholen. Da du nicht viel schneller als die Radfahrer fahren kannst, wird der Überholweg wesentlich länger und dadurch gefährlicher.
+
+---
+
+#### Frage 1.1.06-202-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum dürfen Sie jetzt nicht überholen?**
+
+![Question Image](images/1_1_06-202-M.png)
+
+[Video: videos/1_1_06-202-M.mp4](videos/1_1_06-202-M.mp4)
+
+**Optionen:**
+- A. Weil [der Radfahrer] nach links abbiegen könnte
+- B. Weil der Gegenverkehr behindert wird
+- C. Weil ein Überholverbot ausgeschildert ist
+
+**Richtige Antwort(en):**
+- A. Weil [der Radfahrer] nach links abbiegen könnte
+
+**Erklärung:**
+Der Radfahrer schwenkt nach links und macht einen Schulterblick. Wahrscheinlich wird er nach links abbiegen. Reduziere dein Tempo, um dem Radfahrer genügend Raum zu geben und sicherzustellen, dass er sich nicht bedrängt fühlt. So vermeidest du auch eine Gefährdung bei einem abrupten Bremsmanöver des Radfahrers und mögliche Auffahrunfälle wegen fehlendem Abstand.
 
 ---
 
@@ -4788,6 +4890,185 @@ Du musst in dieser Situation also abbremsen, um eine Kollision mit dem überhole
 
 ---
 
+#### Frage 1.1.07-201-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_1_07-201-M.png)
+
+[Video: videos/1_1_07-201-M.mp4](videos/1_1_07-201-M.mp4)
+
+**Optionen:**
+- A. Ich bremse sehr stark ab
+- B. Ich hupe und fahre weiter
+- C. Ich weiche nach rechts aus
+
+**Richtige Antwort(en):**
+- A. Ich bremse sehr stark ab
+
+**Erklärung:**
+Der Radfahrer von links scheint nicht zu bremsen, deswegen bremse stark ab.
+
+---
+
+#### Frage 1.1.07-202-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum müssen Sie jetzt bremsen?**
+
+![Question Image](images/1_1_07-202-M.png)
+
+[Video: videos/1_1_07-202-M.mp4](videos/1_1_07-202-M.mp4)
+
+**Optionen:**
+- A. Wegen [des Radfahrers]
+- B. Wegen [des roten Fahrzeugs]
+- C. Wegen der Haltestelle
+
+**Richtige Antwort(en):**
+- A. Wegen [des Radfahrers]
+
+**Erklärung:**
+Weil der Radfahrer auf deinen Fahrstreifen möchte, bremse wegen des Radfahrers.
+
+---
+
+#### Frage 1.1.07-203-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Worauf müssen Sie jetzt achten?**
+
+![Question Image](images/1_1_07-203-M.png)
+
+[Video: videos/1_1_07-203-M.mp4](videos/1_1_07-203-M.mp4)
+
+**Optionen:**
+- A. Auf [den Radfahrer] links
+- B. Auf [die Radfahrerin] rechts
+- C. Auf den [blauen] Pkw
+
+**Richtige Antwort(en):**
+- A. Auf [den Radfahrer] links
+- B. Auf [die Radfahrerin] rechts
+
+**Erklärung:**
+Der rechte Radfahrer fährt auf die Fahrbahn. Links fährt ein Radfahrer den wir infolge unseres Abbiegevorgangs zuerst fahren lassen müssen.
+
+---
+
+#### Frage 1.1.07-204-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Womit sollten Sie in dieser Situation rechnen?**
+
+![Question Image](images/1_1_07-204-M.png)
+
+[Video: videos/1_1_07-204-M.mp4](videos/1_1_07-204-M.mp4)
+
+**Optionen:**
+- A. Der Fahrer des [gelben] Pkws übersieht mich
+- B. Auf der Fahrbahn befindet sich Rollsplitt
+- C. Der Traktor vor mir biegt nach rechts ab
+
+**Richtige Antwort(en):**
+- A. Der Fahrer des [gelben] Pkws übersieht mich
+- B. Auf der Fahrbahn befindet sich Rollsplitt
+
+**Erklärung:**
+Da Sie hinter einem großen Fahrzeug fahren, kann es schnell passieren, dass Sie vom Gegenverkehr übersehen werden. Das Gefahrzeichen warnt vor Rollsplitt auf der Fahrbahn.
+
+---
+
+#### Frage 1.1.07-205-M
+
+**Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Sie fahren außerorts. Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_1_07-205-M.png)
+
+[Video: videos/1_1_07-205-M.mp4](videos/1_1_07-205-M.mp4)
+
+**Optionen:**
+- A. Ich fahre erst weiter, nachdem ich mich überzeugt habe, dass die Straße frei ist
+- B. Ich muss mich nicht erst überzeugen, dass die Straße frei ist, da [die Radfahrerin] fährt
+- C. Ich darf den Radweg nicht weiter benutzen
+
+**Richtige Antwort(en):**
+- A. Ich fahre erst weiter, nachdem ich mich überzeugt habe, dass die Straße frei ist
+
+**Erklärung:**
+Es handelt sich hierbei um keinen geschützten Radweg. Somit darfst du den Radweg weiter benutzen.
+Beim Auffahren auf eine andere Straße, musst du dich überzeugen, dass diese frei ist. Hier ist ein "Vorfahrt gewähren"-Schild. Die Verkehrsteilnehmer auf der Querstraße haben also Vorfahrt und du musst warten. Du solltest dich selbst davon überzeugen, dass die Straße frei ist.
+Das Überqueren der Straße muss dennoch durch dich abgesichert werden.
+
+---
+
+#### Frage 1.1.07-206-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum sollten Sie jetzt bremsbereit sein?**
+
+![Question Image](images/1_1_07-206-M.png)
+
+[Video: videos/1_1_07-206-M.mp4](videos/1_1_07-206-M.mp4)
+
+**Optionen:**
+- A. Weil der Fahrer des braunen Fahrzeugs aussteigen könnte
+- B. Weil [die Fußgängerin] auf die Straße laufen könnte
+- C. Weil der Bus auf meinen Fahrstreifen fahren könnte
+
+**Richtige Antwort(en):**
+- A. Weil der Fahrer des braunen Fahrzeugs aussteigen könnte
+
+**Erklärung:**
+Das braune Fahrzeug hat gerade angehalten, die Gefahr ist hoch, dass im nächsten Moment eine Person eilig und unvorsichtig aussteigt. Deshalb musst du bremsbereit sein.
+
+---
+
+#### Frage 1.1.07-207-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_1_07-207-M.png)
+
+[Video: videos/1_1_07-207-M.mp4](videos/1_1_07-207-M.mp4)
+
+**Optionen:**
+- A. Ich führe eine Gefahrbremsung durch
+- B. Ich fahre bremsbereit weiter
+- C. Ich weiche nach rechts aus
+
+**Richtige Antwort(en):**
+- A. Ich führe eine Gefahrbremsung durch
+
+**Erklärung:**
+Der Radfahrer fährt offensichtlich ohne Beachten der Verkehrssituation und ohne zu bremsen über die Straße. Führe eine Gefahrenbremsung durch, um eine Kollision zu vermeiden.
+
+---
+
 ### 1.1.09 Kapitel Alkohol Drogen Medikamente
 
 
@@ -5626,6 +5907,29 @@ Beim Überqueren einer Vorfahrtstraße müssen Sie beachten: 1. die Breite der V
 
 **Erklärung:**
 In der Zulassungsbescheinigung Teil I oder der Betriebserlaubnis muss eine bauartbedingte Höchstgeschwindigkeit von mehr als 60 km/h eingetragen sein.
+
+---
+
+#### Frage 1.2.02-201
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Sie fahren innerorts auf einem Radweg, der für Mofas freigegeben ist. Womit sollten Sie rechnen?**
+
+**Optionen:**
+- A. - Türen parkender Fahrzeuge plötzlich geöffnet werden
+- B. - abbiegende Fahrzeuge mich übersehen
+- C. - Fußgänger den Radweg benutzen
+
+**Richtige Antwort(en):**
+- A. - Türen parkender Fahrzeuge plötzlich geöffnet werden
+- B. - abbiegende Fahrzeuge mich übersehen
+- C. - Fußgänger den Radweg benutzen
+
+**Erklärung:**
+Wenn du innerorts auf einem Radweg fährst, solltest du mit allem rechnen. Türen parkender Autos können plötzlich geöffnet werden, abbiegende Fahrzeuge können dich übersehen und Fußgänger können den Radweg benutzen.
 
 ---
 
@@ -7749,6 +8053,158 @@ Der Geradeausverkehr hat immer Vorrang, egal ob der Fahrradfahrer auf der Straß
 
 ---
 
+#### Frage 1.2.09-201-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum müssen Sie jetzt warten?**
+
+![Question Image](images/1_2_09-201-M.png)
+
+[Video: videos/1_2_09-201-M.mp4](videos/1_2_09-201-M.mp4)
+
+**Optionen:**
+- A. Wegen der Straßenbahn
+- B. Wegen [des Radfahrers]
+- C. Wegen des [gelben] Pkws
+
+**Richtige Antwort(en):**
+- A. Wegen der Straßenbahn
+
+**Erklärung:**
+Weil du nach links abbiegen möchtest, solltest du wegen der Straßenbahn warten, bevor du abbiegst.
+
+---
+
+#### Frage 1.2.09-202-M
+
+**Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum müssen Sie in dieser Situation mit dem Rechtsabbiegen warten?**
+
+![Question Image](images/1_2_09-202-M.png)
+
+[Video: videos/1_2_09-202-M.mp4](videos/1_2_09-202-M.mp4)
+
+**Optionen:**
+- A. Wegen [der Fußgängerin]
+- B. Wegen [der Radfahrerin]
+- C. Wegen des [blauen Pkws]
+
+**Richtige Antwort(en):**
+- A. Wegen [der Fußgängerin]
+- B. Wegen [der Radfahrerin]
+
+**Erklärung:**
+Beim Abbiegen müssen Sie dem Längsverkehr Vorrang gewähren, aus diesem Grund müssen Sie auf das Vorbeifahren/-gehen ds Fußgängers und Radfahrers warten.
+
+---
+
+#### Frage 1.2.09-203-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum dürfen Sie jetzt nicht abbiegen?**
+
+![Question Image](images/1_2_09-203-M.png)
+
+[Video: videos/1_2_09-203-M.mp4](videos/1_2_09-203-M.mp4)
+
+**Optionen:**
+- A. - [roten] Pkws
+- B. - [gelben] Lkws
+- C. - [blauen] Traktors
+
+**Richtige Antwort(en):**
+- A. - [roten] Pkws
+
+**Erklärung:**
+Der rote Pkw befindet sich noch in seinem Überholvorgang und hat eine deutlich höhere Geschwindigkeit als Sie selbst. Warten Sie bis auf das Vorbeifahren des roten Pkws.
+
+---
+
+#### Frage 1.2.09-204-M
+
+**Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?**
+
+![Question Image](images/1_2_09-204-M.png)
+
+[Video: videos/1_2_09-204-M.mp4](videos/1_2_09-204-M.mp4)
+
+**Optionen:**
+- A. Wegen der Straßenbahn
+- B. Wegen des [roten Pkws]
+- C. Wegen des [gelben Fahrzeugs]
+
+**Richtige Antwort(en):**
+- A. Wegen der Straßenbahn
+
+**Erklärung:**
+Sie ändern die Fahrtrichtung, daher müssen Sie der Straßenbahn Vorrang gewähren.
+
+---
+
+#### Frage 1.2.09-205-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?**
+
+![Question Image](images/1_2_09-205-M.png)
+
+[Video: videos/1_2_09-205-M.mp4](videos/1_2_09-205-M.mp4)
+
+**Optionen:**
+- A. Wegen des Motorrads
+- B. Wegen des [roten] Pkws
+- C. Wegen [der Radfahrerin]
+
+**Richtige Antwort(en):**
+- A. Wegen des Motorrads
+
+**Erklärung:**
+Ein Motorrad fährt hinter dem roten Pkw, aufgrund Ihrer Fahrtrichtungsänderung müssen Sie dem Motorradfahrer Vorrang gewähren.
+
+---
+
+#### Frage 1.2.09-206-M
+
+**Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Warum müssen Sie jetzt warten?**
+
+![Question Image](images/1_2_09-206-M.png)
+
+[Video: videos/1_2_09-206-M.mp4](videos/1_2_09-206-M.mp4)
+
+**Optionen:**
+- A. - Radfahrers
+- B. - [blauen] Fahrzeugs
+- C. - [gelben] Pkws
+
+**Richtige Antwort(en):**
+- A. - Radfahrers
+- B. - [blauen] Fahrzeugs
+
+**Erklärung:**
+Der blaue Pkw und der Radfahrer fahren beide geradeaus, somit haben sie Vorfahrt, auch wenn der Radfahrer auf dem Gehweg fährt.
+
+---
+
 ### 1.2.10 Kapitel Einfahren Und Anfahren
 
 
@@ -8338,6 +8794,55 @@ Der Lkw hat per Lichthupe signalisiert, dass er auf seine Vorfahrt verzichtet. D
 
 **Erklärung:**
 Da du nach links abbiegen möchtest hat der Gegenverkehr Vorrang. Erst wenn der Lkw-Fahrer mit eindeutigen Handzeichen auf seine Vorfahrt verzichtet, kannst du unter Beachtung des Querverkehrs passieren. Die Lichthupe reicht hier nicht aus.
+
+---
+
+#### Frage 1.2.11-201-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Sie möchten geradeaus fahren. Wie sollten Sie sich verhalten, wenn der [rote] Lkw bei „Grün“ sofort losfährt?**
+
+![Question Image](images/1_2_11-201-M.png)
+
+**Optionen:**
+- A. Ich warte und lasse den Lkw losfahren
+- B. Ich gebe gegebenenfalls Warnzeichen
+- C. Ich fahre auch sofort los
+
+**Richtige Antwort(en):**
+- A. Ich warte und lasse den Lkw losfahren
+- B. Ich gebe gegebenenfalls Warnzeichen
+
+**Erklärung:**
+Du solltest hier warten und den Lkw losfahren lassen und gegebenenfalls Warnzeichen geben da er nach rechts abzubiegen scheint. (Blinker rechts)
+
+---
+
+#### Frage 1.2.11-202-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Sie möchten geradeaus fahren. Wo sollten Sie sich in dieser Situation positionieren?**
+
+![Question Image](images/1_2_11-202-M.png)
+
+[Video: videos/1_2_11-202-M.mp4](videos/1_2_11-202-M.mp4)
+
+**Optionen:**
+- A. Rechts hinter dem Lkw
+- B. Links hinter dem Lkw
+- C. Direkt hinter dem Motorrad
+
+**Richtige Antwort(en):**
+- A. Rechts hinter dem Lkw
+
+**Erklärung:**
+Der Lkw schert aus zum Rechtabbiegen, warten Sie bis der Abbiegevorgang abgeschlossen ist. Danach können Sie geradeausfahren.
 
 ---
 
@@ -10000,6 +10505,31 @@ Wenn sich Busse mit eingeschaltetem Warnblinklicht im Straßenverkehr bewegen, m
 
 **Erklärung:**
 Busse an Haltestellen dürfen in Schrittgeschwindigkeit überholt werden, wenn diese stillstehen und ihr Warnblinklicht eingeschaltet haben. Beim Vorbeifahren an Bussen gilt es allerdings immer besondere Rücksicht zu nehmen, um auf Gefahrensituationen, wie Personen, die plötzlich auf die Fahrbahn treten, rechtzeitig reagieren zu können.
+
+---
+
+#### Frage 1.2.20-201-M
+
+**Punkte:** 3 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Wie verhalten Sie sich in dieser Situation richtig?**
+
+![Question Image](images/1_2_20-201-M.png)
+
+[Video: videos/1_2_20-201-M.mp4](videos/1_2_20-201-M.mp4)
+
+**Optionen:**
+- A. Ich bleibe hinter der Straßenbahn
+- B. Ich fahre rechts an der Straßenbahn vorbei
+- C. Ich überhole die Straßenbahn links
+
+**Richtige Antwort(en):**
+- A. Ich bleibe hinter der Straßenbahn
+
+**Erklärung:**
+Sie dürfen Passagiere weder behindern noch gefährden. Bleiben Sie deswegen hinter der Straßenbahn bis Sie weiterfahren können ohne die Passagiere zu gefährden.
 
 ---
 
@@ -11862,6 +12392,31 @@ Aufgrund der durchgezogenen Linie dürfen Sie die Fahrspur hier nicht mehr wechs
 
 **Erklärung:**
 Da es sich in dieser Situation um eine Zwei-Phasen-Ampel handelt, gibt es kein grünes Signal. Nachdem das rote Licht aus ist, darfst du zum Lkw aufschließen. Wäre hinter dem Lkw kein Platz mehr bis zur Ausfahrt auf der rechten Seite, müsstest du an der Ampel warten, bis genügend Platz zum Halten ist.
+
+---
+
+#### Frage 1.2.37-201-M
+
+**Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Wie verhalten Sie sich jetzt richtig?**
+
+![Question Image](images/1_2_37-201-M.png)
+
+[Video: videos/1_2_37-201-M.mp4](videos/1_2_37-201-M.mp4)
+
+**Optionen:**
+- A. Ich gewähre möglichem Querverkehr die Vorfahrt
+- B. Ich warte an der Haltlinie auf die nächste Grünphase
+- C. Ich überquere die Kreuzung zügig, da „Gelb“ angezeigt wird
+
+**Richtige Antwort(en):**
+- A. Ich gewähre möglichem Querverkehr die Vorfahrt
+
+**Erklärung:**
+Die Ampel ist außer Betrieb, daher gelten die Vorfahrtregelnden Verkehrszeichen. Sie müssen Vorfahrt gewähren.
 
 ---
 
@@ -18632,6 +19187,27 @@ Unnötiges stehen bei laufendem Motor belastet unnötig die Umwelt. Starten Sie 
 
 **Erklärung:**
 Die Fliehkraft kann Ihr Fahrzeug aus der Kurve schleudern. Bei der Verdopplung der Geschwindigkeit vervierfacht sich die Fliehkraft. Zusätzlich beeinflusst der Kurvenradius diese. Je enger die Kurve ist, desto stärker erhöht sich die Fliehkraft. Daher müssen Sie bei engen Kurven frühzeitig abbremsen.
+
+---
+
+#### Frage 1.7.01-006
+
+**Punkte:** 3 Punkte
+
+**Klassen:** Führerscheinklasse GM
+
+**Nässe kann die Wirkung von Trommelbremsen beeinträchtigen. Was sollten Sie dann tun?**
+
+**Optionen:**
+- A. Ich fahre die Bremse vorsichtig trocken
+- B. Ich betätige die Bremse mehrfach im Stand
+- C. Ich fülle Bremsflüssigkeit nach
+
+**Richtige Antwort(en):**
+- A. Ich fahre die Bremse vorsichtig trocken
+
+**Erklärung:**
+Die Trommelbremse kann trocken gefahren werden. Dafür bremsen Sie als der/die Kfz-FahrerIn vorsichtig. Dabei erwärmt sich die Trommelbremse und das Wasser kann verdunsten. Natürlich bremsen Sie nur, wenn der Verkehrsfluss es zulässt. Ein Auffahrunfall muss unbedingt vermieden werden. Behalten Sie daher den rückwärtigen Verkehr im Blick.
 
 ---
 

@@ -3244,6 +3244,104 @@
   {
     "theme_number": "Thema 1.1.",
     "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.02 Kapitel",
+    "chapter_name": "Verhalten Gegenueber Fussgaengern",
+    "question_id": "1.1.02-201-M",
+    "question_number": "1.1.02-201-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum müssen Sie hier anhalten?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Weil [eine Fußgängerin] die Fahrbahn von links überqueren möchte"
+      },
+      {
+        "letter": "B.",
+        "text": "Weil ein Fußgänger die Fahrbahn von rechts überqueren möchte"
+      },
+      {
+        "letter": "C.",
+        "text": "Weil [eine Radfahrerin] die Fahrbahn von links überqueren möchte"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Weil [eine Fußgängerin] die Fahrbahn von links überqueren möchte"
+      },
+      {
+        "letter": "B.",
+        "text": "Weil ein Fußgänger die Fahrbahn von rechts überqueren möchte"
+      }
+    ],
+    "comment": "Du solltest hier anhalten, weil sich 2 Fußgänger vor dem Bus befinden und die Fahrbahn überqueren möchten. Einer von rechts und eine Fußgängerin von links.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-201-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_02-201-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-201-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_02-201-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.02-verhalten-gegenueber-fussgaengern/1.1.02-201-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.02 Kapitel",
+    "chapter_name": "Verhalten Gegenueber Fussgaengern",
+    "question_id": "1.1.02-202-M",
+    "question_number": "1.1.02-202-M",
+    "points": "5 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum müssen Sie jetzt bremsen?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wegen des Kindes"
+      },
+      {
+        "letter": "B.",
+        "text": "Wegen des [grünen] Pkws"
+      },
+      {
+        "letter": "C.",
+        "text": "Wegen [des Radfahrers]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wegen des Kindes"
+      }
+    ],
+    "comment": "Das Kind könnte jeden Moment auf die Fahrbahn laufen. Bremsen Sie um einen Unfall zu vermeiden.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-202-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_02-202-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.02-202-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_02-202-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.02-verhalten-gegenueber-fussgaengern/1.1.02-202-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
     "chapter_number": "1.1.03 Kapitel",
     "chapter_name": "Fahrbahn Und Witterungsverhaeltnisse",
     "question_id": "1.1.03-001",
@@ -5781,6 +5879,104 @@
       "videos/1_1_06-131-M.mp4"
     ],
     "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.06-ueberholen/1.1.06-131-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.06 Kapitel",
+    "chapter_name": "Ueberholen",
+    "question_id": "1.1.06-201-M",
+    "question_number": "1.1.06-201-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum dürfen Sie in dieser Situation nicht überholen?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Weil der Überholweg nicht einsehbar ist"
+      },
+      {
+        "letter": "B.",
+        "text": "Weil ich nur unwesentlich schneller als die Radfahrer fahren kann"
+      },
+      {
+        "letter": "C.",
+        "text": "Weil ein Überholverbot ausgeschildert ist"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Weil der Überholweg nicht einsehbar ist"
+      },
+      {
+        "letter": "B.",
+        "text": "Weil ich nur unwesentlich schneller als die Radfahrer fahren kann"
+      }
+    ],
+    "comment": "Durch die Radfahrer und den Streckenverlauf ist der Überholweg nicht einsehbar. Wenn du den Überholweg nicht einsehen kannst, darfst du nicht überholen. Da du nicht viel schneller als die Radfahrer fahren kannst, wird der Überholweg wesentlich länger und dadurch gefährlicher.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.1.06-201-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_06-201-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.1.06-201-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_06-201-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.06-ueberholen/1.1.06-201-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.06 Kapitel",
+    "chapter_name": "Ueberholen",
+    "question_id": "1.1.06-202-M",
+    "question_number": "1.1.06-202-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum dürfen Sie jetzt nicht überholen?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Weil [der Radfahrer] nach links abbiegen könnte"
+      },
+      {
+        "letter": "B.",
+        "text": "Weil der Gegenverkehr behindert wird"
+      },
+      {
+        "letter": "C.",
+        "text": "Weil ein Überholverbot ausgeschildert ist"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Weil [der Radfahrer] nach links abbiegen könnte"
+      }
+    ],
+    "comment": "Der Radfahrer schwenkt nach links und macht einen Schulterblick. Wahrscheinlich wird er nach links abbiegen. Reduziere dein Tempo, um dem Radfahrer genügend Raum zu geben und sicherzustellen, dass er sich nicht bedrängt fühlt. So vermeidest du auch eine Gefährdung bei einem abrupten Bremsmanöver des Radfahrers und mögliche Auffahrunfälle wegen fehlendem Abstand.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/1.1.06-202-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_06-202-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/1.1.06-202-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_06-202-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.06-ueberholen/1.1.06-202-M"
   },
   {
     "theme_number": "Thema 1.1.",
@@ -9401,6 +9597,343 @@
   {
     "theme_number": "Thema 1.1.",
     "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.07 Kapitel",
+    "chapter_name": "Besondere Verkehrssituationen",
+    "question_id": "1.1.07-201-M",
+    "question_number": "1.1.07-201-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Wie verhalten Sie sich in dieser Situation richtig?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Ich bremse sehr stark ab"
+      },
+      {
+        "letter": "B.",
+        "text": "Ich hupe und fahre weiter"
+      },
+      {
+        "letter": "C.",
+        "text": "Ich weiche nach rechts aus"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Ich bremse sehr stark ab"
+      }
+    ],
+    "comment": "Der Radfahrer von links scheint nicht zu bremsen, deswegen bremse stark ab.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-201-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_07-201-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-201-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_07-201-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.07-besondere-verkehrssituationen/1.1.07-201-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.07 Kapitel",
+    "chapter_name": "Besondere Verkehrssituationen",
+    "question_id": "1.1.07-202-M",
+    "question_number": "1.1.07-202-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum müssen Sie jetzt bremsen?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wegen [des Radfahrers]"
+      },
+      {
+        "letter": "B.",
+        "text": "Wegen [des roten Fahrzeugs]"
+      },
+      {
+        "letter": "C.",
+        "text": "Wegen der Haltestelle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wegen [des Radfahrers]"
+      }
+    ],
+    "comment": "Weil der Radfahrer auf deinen Fahrstreifen möchte, bremse wegen des Radfahrers.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-202-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_07-202-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-202-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_07-202-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.07-besondere-verkehrssituationen/1.1.07-202-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.07 Kapitel",
+    "chapter_name": "Besondere Verkehrssituationen",
+    "question_id": "1.1.07-203-M",
+    "question_number": "1.1.07-203-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Worauf müssen Sie jetzt achten?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Auf [den Radfahrer] links"
+      },
+      {
+        "letter": "B.",
+        "text": "Auf [die Radfahrerin] rechts"
+      },
+      {
+        "letter": "C.",
+        "text": "Auf den [blauen] Pkw"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Auf [den Radfahrer] links"
+      },
+      {
+        "letter": "B.",
+        "text": "Auf [die Radfahrerin] rechts"
+      }
+    ],
+    "comment": "Der rechte Radfahrer fährt auf die Fahrbahn. Links fährt ein Radfahrer den wir infolge unseres Abbiegevorgangs zuerst fahren lassen müssen.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-203-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_07-203-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-203-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_07-203-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.07-besondere-verkehrssituationen/1.1.07-203-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.07 Kapitel",
+    "chapter_name": "Besondere Verkehrssituationen",
+    "question_id": "1.1.07-204-M",
+    "question_number": "1.1.07-204-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Womit sollten Sie in dieser Situation rechnen?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Der Fahrer des [gelben] Pkws übersieht mich"
+      },
+      {
+        "letter": "B.",
+        "text": "Auf der Fahrbahn befindet sich Rollsplitt"
+      },
+      {
+        "letter": "C.",
+        "text": "Der Traktor vor mir biegt nach rechts ab"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Der Fahrer des [gelben] Pkws übersieht mich"
+      },
+      {
+        "letter": "B.",
+        "text": "Auf der Fahrbahn befindet sich Rollsplitt"
+      }
+    ],
+    "comment": "Da Sie hinter einem großen Fahrzeug fahren, kann es schnell passieren, dass Sie vom Gegenverkehr übersehen werden. Das Gefahrzeichen warnt vor Rollsplitt auf der Fahrbahn.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-204-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_07-204-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.07-204-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_07-204-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.07-besondere-verkehrssituationen/1.1.07-204-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.07 Kapitel",
+    "chapter_name": "Besondere Verkehrssituationen",
+    "question_id": "1.1.07-205-M",
+    "question_number": "1.1.07-205-M",
+    "points": "5 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Sie fahren außerorts. Wie verhalten Sie sich in dieser Situation richtig?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Ich fahre erst weiter, nachdem ich mich überzeugt habe, dass die Straße frei ist"
+      },
+      {
+        "letter": "B.",
+        "text": "Ich muss mich nicht erst überzeugen, dass die Straße frei ist, da [die Radfahrerin] fährt"
+      },
+      {
+        "letter": "C.",
+        "text": "Ich darf den Radweg nicht weiter benutzen"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Ich fahre erst weiter, nachdem ich mich überzeugt habe, dass die Straße frei ist"
+      }
+    ],
+    "comment": "Es handelt sich hierbei um keinen geschützten Radweg. Somit darfst du den Radweg weiter benutzen.\nBeim Auffahren auf eine andere Straße, musst du dich überzeugen, dass diese frei ist. Hier ist ein \"Vorfahrt gewähren\"-Schild. Die Verkehrsteilnehmer auf der Querstraße haben also Vorfahrt und du musst warten. Du solltest dich selbst davon überzeugen, dass die Straße frei ist.\nDas Überqueren der Straße muss dennoch durch dich abgesichert werden.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/1.1.07-205-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_07-205-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/1.1.07-205-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_07-205-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.07-besondere-verkehrssituationen/1.1.07-205-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.07 Kapitel",
+    "chapter_name": "Besondere Verkehrssituationen",
+    "question_id": "1.1.07-206-M",
+    "question_number": "1.1.07-206-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum sollten Sie jetzt bremsbereit sein?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Weil der Fahrer des braunen Fahrzeugs aussteigen könnte"
+      },
+      {
+        "letter": "B.",
+        "text": "Weil [die Fußgängerin] auf die Straße laufen könnte"
+      },
+      {
+        "letter": "C.",
+        "text": "Weil der Bus auf meinen Fahrstreifen fahren könnte"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Weil der Fahrer des braunen Fahrzeugs aussteigen könnte"
+      }
+    ],
+    "comment": "Das braune Fahrzeug hat gerade angehalten, die Gefahr ist hoch, dass im nächsten Moment eine Person eilig und unvorsichtig aussteigt. Deshalb musst du bremsbereit sein.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.1.07-206-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_07-206-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.1.07-206-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_07-206-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.07-besondere-verkehrssituationen/1.1.07-206-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
+    "chapter_number": "1.1.07 Kapitel",
+    "chapter_name": "Besondere Verkehrssituationen",
+    "question_id": "1.1.07-207-M",
+    "question_number": "1.1.07-207-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Wie verhalten Sie sich in dieser Situation richtig?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Ich führe eine Gefahrbremsung durch"
+      },
+      {
+        "letter": "B.",
+        "text": "Ich fahre bremsbereit weiter"
+      },
+      {
+        "letter": "C.",
+        "text": "Ich weiche nach rechts aus"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Ich führe eine Gefahrbremsung durch"
+      }
+    ],
+    "comment": "Der Radfahrer fährt offensichtlich ohne Beachten der Verkehrssituation und ohne zu bremsen über die Straße. Führe eine Gefahrenbremsung durch, um eine Kollision zu vermeiden.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/1.1.07-207-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_07-207-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/1.1.07-207-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_07-207-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.1.-gefahrenlehre/1.1.07-besondere-verkehrssituationen/1.1.07-207-M"
+  },
+  {
+    "theme_number": "Thema 1.1.",
+    "theme_name": "Gefahrenlehre",
     "chapter_number": "1.1.09 Kapitel",
     "chapter_name": "Alkohol Drogen Medikamente",
     "question_id": "1.1.09-001",
@@ -11033,6 +11566,53 @@
     "video_urls": [],
     "local_video_paths": [],
     "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.02-strassenbenutzung/1.2.02-111"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.02 Kapitel",
+    "chapter_name": "Strassenbenutzung",
+    "question_id": "1.2.02-201",
+    "question_number": "1.2.02-201",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Sie fahren innerorts auf einem Radweg, der für Mofas freigegeben ist. Womit sollten Sie rechnen?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- Türen parkender Fahrzeuge plötzlich geöffnet werden"
+      },
+      {
+        "letter": "B.",
+        "text": "- abbiegende Fahrzeuge mich übersehen"
+      },
+      {
+        "letter": "C.",
+        "text": "- Fußgänger den Radweg benutzen"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- Türen parkender Fahrzeuge plötzlich geöffnet werden"
+      },
+      {
+        "letter": "B.",
+        "text": "- abbiegende Fahrzeuge mich übersehen"
+      },
+      {
+        "letter": "C.",
+        "text": "- Fußgänger den Radweg benutzen"
+      }
+    ],
+    "comment": "Wenn du innerorts auf einem Radweg fährst, solltest du mit allem rechnen. Türen parkender Autos können plötzlich geöffnet werden, abbiegende Fahrzeuge können dich übersehen und Fußgänger können den Radweg benutzen.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.02-strassenbenutzung/1.2.02-201"
   },
   {
     "theme_number": "Thema 1.2.",
@@ -15059,6 +15639,296 @@
   {
     "theme_number": "Thema 1.2.",
     "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.09 Kapitel",
+    "chapter_name": "Abbiegen Wenden Und Rueckwaertsfahren",
+    "question_id": "1.2.09-201-M",
+    "question_number": "1.2.09-201-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum müssen Sie jetzt warten?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wegen der Straßenbahn"
+      },
+      {
+        "letter": "B.",
+        "text": "Wegen [des Radfahrers]"
+      },
+      {
+        "letter": "C.",
+        "text": "Wegen des [gelben] Pkws"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wegen der Straßenbahn"
+      }
+    ],
+    "comment": "Weil du nach links abbiegen möchtest, solltest du wegen der Straßenbahn warten, bevor du abbiegst.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-201-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_09-201-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-201-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_09-201-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.09-abbiegen-wenden-und-rueckwaertsfahren/1.2.09-201-M"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.09 Kapitel",
+    "chapter_name": "Abbiegen Wenden Und Rueckwaertsfahren",
+    "question_id": "1.2.09-202-M",
+    "question_number": "1.2.09-202-M",
+    "points": "5 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum müssen Sie in dieser Situation mit dem Rechtsabbiegen warten?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wegen [der Fußgängerin]"
+      },
+      {
+        "letter": "B.",
+        "text": "Wegen [der Radfahrerin]"
+      },
+      {
+        "letter": "C.",
+        "text": "Wegen des [blauen Pkws]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wegen [der Fußgängerin]"
+      },
+      {
+        "letter": "B.",
+        "text": "Wegen [der Radfahrerin]"
+      }
+    ],
+    "comment": "Beim Abbiegen müssen Sie dem Längsverkehr Vorrang gewähren, aus diesem Grund müssen Sie auf das Vorbeifahren/-gehen ds Fußgängers und Radfahrers warten.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-202-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_09-202-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-202-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_09-202-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.09-abbiegen-wenden-und-rueckwaertsfahren/1.2.09-202-M"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.09 Kapitel",
+    "chapter_name": "Abbiegen Wenden Und Rueckwaertsfahren",
+    "question_id": "1.2.09-203-M",
+    "question_number": "1.2.09-203-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum dürfen Sie jetzt nicht abbiegen?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- [roten] Pkws"
+      },
+      {
+        "letter": "B.",
+        "text": "- [gelben] Lkws"
+      },
+      {
+        "letter": "C.",
+        "text": "- [blauen] Traktors"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- [roten] Pkws"
+      }
+    ],
+    "comment": "Der rote Pkw befindet sich noch in seinem Überholvorgang und hat eine deutlich höhere Geschwindigkeit als Sie selbst. Warten Sie bis auf das Vorbeifahren des roten Pkws.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-203-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_09-203-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-203-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_09-203-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.09-abbiegen-wenden-und-rueckwaertsfahren/1.2.09-203-M"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.09 Kapitel",
+    "chapter_name": "Abbiegen Wenden Und Rueckwaertsfahren",
+    "question_id": "1.2.09-204-M",
+    "question_number": "1.2.09-204-M",
+    "points": "5 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wegen der Straßenbahn"
+      },
+      {
+        "letter": "B.",
+        "text": "Wegen des [roten Pkws]"
+      },
+      {
+        "letter": "C.",
+        "text": "Wegen des [gelben Fahrzeugs]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wegen der Straßenbahn"
+      }
+    ],
+    "comment": "Sie ändern die Fahrtrichtung, daher müssen Sie der Straßenbahn Vorrang gewähren.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-204-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_09-204-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-204-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_09-204-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.09-abbiegen-wenden-und-rueckwaertsfahren/1.2.09-204-M"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.09 Kapitel",
+    "chapter_name": "Abbiegen Wenden Und Rueckwaertsfahren",
+    "question_id": "1.2.09-205-M",
+    "question_number": "1.2.09-205-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wegen des Motorrads"
+      },
+      {
+        "letter": "B.",
+        "text": "Wegen des [roten] Pkws"
+      },
+      {
+        "letter": "C.",
+        "text": "Wegen [der Radfahrerin]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wegen des Motorrads"
+      }
+    ],
+    "comment": "Ein Motorrad fährt hinter dem roten Pkw, aufgrund Ihrer Fahrtrichtungsänderung müssen Sie dem Motorradfahrer Vorrang gewähren.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-205-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_09-205-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.09-205-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_09-205-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.09-abbiegen-wenden-und-rueckwaertsfahren/1.2.09-205-M"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.09 Kapitel",
+    "chapter_name": "Abbiegen Wenden Und Rueckwaertsfahren",
+    "question_id": "1.2.09-206-M",
+    "question_number": "1.2.09-206-M",
+    "points": "5 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Warum müssen Sie jetzt warten?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- Radfahrers"
+      },
+      {
+        "letter": "B.",
+        "text": "- [blauen] Fahrzeugs"
+      },
+      {
+        "letter": "C.",
+        "text": "- [gelben] Pkws"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- Radfahrers"
+      },
+      {
+        "letter": "B.",
+        "text": "- [blauen] Fahrzeugs"
+      }
+    ],
+    "comment": "Der blaue Pkw und der Radfahrer fahren beide geradeaus, somit haben sie Vorfahrt, auch wenn der Radfahrer auf dem Gehweg fährt.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.2.09-206-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_09-206-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/1.2.09-206-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_09-206-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.09-abbiegen-wenden-und-rueckwaertsfahren/1.2.09-206-M"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
     "chapter_number": "1.2.10 Kapitel",
     "chapter_name": "Einfahren Und Anfahren",
     "question_id": "1.2.10-005",
@@ -16195,6 +17065,100 @@
       "videos/1_2_11-114-M.mp4"
     ],
     "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.11-besondere-verkehrslagen/1.2.11-114-M"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.11 Kapitel",
+    "chapter_name": "Besondere Verkehrslagen",
+    "question_id": "1.2.11-201-M",
+    "question_number": "1.2.11-201-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Sie möchten geradeaus fahren. Wie sollten Sie sich verhalten, wenn der [rote] Lkw bei „Grün“ sofort losfährt?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Ich warte und lasse den Lkw losfahren"
+      },
+      {
+        "letter": "B.",
+        "text": "Ich gebe gegebenenfalls Warnzeichen"
+      },
+      {
+        "letter": "C.",
+        "text": "Ich fahre auch sofort los"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Ich warte und lasse den Lkw losfahren"
+      },
+      {
+        "letter": "B.",
+        "text": "Ich gebe gegebenenfalls Warnzeichen"
+      }
+    ],
+    "comment": "Du solltest hier warten und den Lkw losfahren lassen und gegebenenfalls Warnzeichen geben da er nach rechts abzubiegen scheint. (Blinker rechts)",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-201-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-201-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.11-besondere-verkehrslagen/1.2.11-201-M"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.11 Kapitel",
+    "chapter_name": "Besondere Verkehrslagen",
+    "question_id": "1.2.11-202-M",
+    "question_number": "1.2.11-202-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Sie möchten geradeaus fahren. Wo sollten Sie sich in dieser Situation positionieren?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Rechts hinter dem Lkw"
+      },
+      {
+        "letter": "B.",
+        "text": "Links hinter dem Lkw"
+      },
+      {
+        "letter": "C.",
+        "text": "Direkt hinter dem Motorrad"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Rechts hinter dem Lkw"
+      }
+    ],
+    "comment": "Der Lkw schert aus zum Rechtabbiegen, warten Sie bis der Abbiegevorgang abgeschlossen ist. Danach können Sie geradeausfahren.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-202-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-202-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-202-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-202-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.11-besondere-verkehrslagen/1.2.11-202-M"
   },
   {
     "theme_number": "Thema 1.2.",
@@ -19274,6 +20238,53 @@
       "videos/1_2_20-111-M.mp4"
     ],
     "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.20-oeffentliche-verkehrsmittel-und-schulbusse/1.2.20-111-M"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.20 Kapitel",
+    "chapter_name": "Oeffentliche Verkehrsmittel Und Schulbusse",
+    "question_id": "1.2.20-201-M",
+    "question_number": "1.2.20-201-M",
+    "points": "3 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Wie verhalten Sie sich in dieser Situation richtig?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Ich bleibe hinter der Straßenbahn"
+      },
+      {
+        "letter": "B.",
+        "text": "Ich fahre rechts an der Straßenbahn vorbei"
+      },
+      {
+        "letter": "C.",
+        "text": "Ich überhole die Straßenbahn links"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Ich bleibe hinter der Straßenbahn"
+      }
+    ],
+    "comment": "Sie dürfen Passagiere weder behindern noch gefährden. Bleiben Sie deswegen hinter der Straßenbahn bis Sie weiterfahren können ohne die Passagiere zu gefährden.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-201-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-201-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-201-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_20-201-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.20-oeffentliche-verkehrsmittel-und-schulbusse/1.2.20-201-M"
   },
   {
     "theme_number": "Thema 1.2.",
@@ -22837,6 +23848,53 @@
       "videos/1_2_37-104.mp4"
     ],
     "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.37-wechsellichtzeichen-und-dauerlichtzeichen/1.2.37-104"
+  },
+  {
+    "theme_number": "Thema 1.2.",
+    "theme_name": "Verhalten Im Strassenverkehr",
+    "chapter_number": "1.2.37 Kapitel",
+    "chapter_name": "Wechsellichtzeichen Und Dauerlichtzeichen",
+    "question_id": "1.2.37-201-M",
+    "question_number": "1.2.37-201-M",
+    "points": "4 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Wie verhalten Sie sich jetzt richtig?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Ich gewähre möglichem Querverkehr die Vorfahrt"
+      },
+      {
+        "letter": "B.",
+        "text": "Ich warte an der Haltlinie auf die nächste Grünphase"
+      },
+      {
+        "letter": "C.",
+        "text": "Ich überquere die Kreuzung zügig, da „Gelb“ angezeigt wird"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Ich gewähre möglichem Querverkehr die Vorfahrt"
+      }
+    ],
+    "comment": "Die Ampel ist außer Betrieb, daher gelten die Vorfahrtregelnden Verkehrszeichen. Sie müssen Vorfahrt gewähren.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.37-201-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_37-201-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.37-201-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_37-201-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.2.-verhalten-im-strassenverkehr/1.2.37-wechsellichtzeichen-und-dauerlichtzeichen/1.2.37-201-M"
   },
   {
     "theme_number": "Thema 1.2.",
@@ -35807,6 +36865,45 @@
     "video_urls": [],
     "local_video_paths": [],
     "url": "https://www.clickclickdrive.de/fragenkatalog/1.7.-technik/1.7.01-fahrbetrieb-fahrphysik-fahrtechnik/1.7.01-003"
+  },
+  {
+    "theme_number": "Thema 1.7.",
+    "theme_name": "Technik",
+    "chapter_number": "1.7.01 Kapitel",
+    "chapter_name": "Fahrbetrieb Fahrphysik Fahrtechnik",
+    "question_id": "1.7.01-006",
+    "question_number": "1.7.01-006",
+    "points": "3 Punkte",
+    "licenses": [
+      "Führerscheinklasse GM"
+    ],
+    "question_text": "Nässe kann die Wirkung von Trommelbremsen beeinträchtigen. Was sollten Sie dann tun?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Ich fahre die Bremse vorsichtig trocken"
+      },
+      {
+        "letter": "B.",
+        "text": "Ich betätige die Bremse mehrfach im Stand"
+      },
+      {
+        "letter": "C.",
+        "text": "Ich fülle Bremsflüssigkeit nach"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Ich fahre die Bremse vorsichtig trocken"
+      }
+    ],
+    "comment": "Die Trommelbremse kann trocken gefahren werden. Dafür bremsen Sie als der/die Kfz-FahrerIn vorsichtig. Dabei erwärmt sich die Trommelbremse und das Wasser kann verdunsten. Natürlich bremsen Sie nur, wenn der Verkehrsfluss es zulässt. Ein Auffahrunfall muss unbedingt vermieden werden. Behalten Sie daher den rückwärtigen Verkehr im Blick.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/1.7.-technik/1.7.01-fahrbetrieb-fahrphysik-fahrtechnik/1.7.01-006"
   },
   {
     "theme_number": "Thema 1.8.",

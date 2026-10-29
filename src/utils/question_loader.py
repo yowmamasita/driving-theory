@@ -7,15 +7,11 @@ from functools import lru_cache
 import asyncio
 
 
-# Labels the site uses for the basic material (Grundstoff) shared by all classes
-BASIC_LABELS = {'Basic material', 'Grundstoff'}
-
-
 def in_class(q: Dict[str, Any], license_class: str) -> bool:
     """True if the question belongs to the pool of the given licence class, e.g. 'B'"""
-    # ponytail: Mofa's basic set is labelled GM, not Basic material; filtering for Mofa needs that label too
-    licenses = q.get('licenses', [])
-    return license_class in licenses or bool(BASIC_LABELS & set(licenses))
+    # Part 1 (Grundstoff, ids 1.x) is asked in every class per the Prüfungsrichtlinie
+    # ponytail: Mofa only gets the Grundstoff questions marked Mofa; filtering for Mofa needs that check
+    return q['question_id'].startswith('1.') or license_class in q.get('licenses', [])
 
 
 class QuestionLoader:
