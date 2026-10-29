@@ -11,6 +11,8 @@
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was versteht man unter defensivem Fahren?**
 
 **Optionen:**
@@ -30,6 +32,8 @@ Defensives Fahren bedeutet, dass Sie im Straßenverkehr einerseits nicht auf Ihr
 #### Frage 1.1.01-002
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was kann zu Auffahrunfällen führen?**
 
@@ -52,6 +56,8 @@ Es gibt mehrere mögliche Szenarien, die zu Auffahrunfällen führen. Bremst jem
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist beispielhaft für „Vorausschauendes Fahren“?**
 
 **Optionen:**
@@ -71,6 +77,8 @@ Vorausschauend zu fahren ist wesentlich, wenn es um die Sicherheit im Straßenve
 #### Frage 1.1.01-004
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie sollen ein Ihnen unbekanntes Kraftfahrzeug fahren. Warum müssen Sie dabei zunächst besonders vorsichtig sein?**
 
@@ -93,6 +101,8 @@ Jeder Fahrer ist an Fahrverhalten und Eigenschaften seines Kraftfahrzeugs gewöh
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren innerorts hinter einem Fahrzeug mit ortsfremdem Kennzeichen. Was könnte geschehen?**
 
 **Optionen:**
@@ -113,6 +123,8 @@ Sollten Sie anhand des Kennzeichens einen ortsfremden Verkehrsteilnehmer identif
 #### Frage 1.1.01-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was sind vermeidbare Behinderungen im fließenden Verkehr?**
 
@@ -135,6 +147,8 @@ Eine vermeidbare Behinderung des Straßenverkehrs ist zum einen das Abwürgen de
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum darf man nicht unnötig langsam fahren?**
 
 **Optionen:**
@@ -156,6 +170,8 @@ Die Straßenverkehrsordnung verbietet unnötiges Langsamfahren, da es den Verkeh
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wodurch kann eine Gefährdung entstehen?**
 
 **Optionen:**
@@ -176,6 +192,8 @@ Zu Sicherheitsrisiken zählen falsch eingestellte Scheinwerfer. Sind sie zu tief
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Anzeichen warnen während der Fahrt vor aufkommender Müdigkeit?**
 
 **Optionen:**
@@ -195,6 +213,8 @@ Müdigkeit führt während der Autofahrt zu verlängerten Reaktionszeiten sowie 
 #### Frage 1.1.01-108
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Welche Folgen kann die Missachtung von Müdigkeitsanzeichen nach sich ziehen?**
 
@@ -217,6 +237,8 @@ Erste Anzeichen von Müdigkeit wie zum Beispiel schwindende Konzentrationsfähig
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was ist zu tun, wenn Sie während der Fahrt Anzeichen von Müdigkeit spüren?**
 
 **Optionen:**
@@ -236,6 +258,8 @@ Da Müdigkeit während der Autofahrt zu gefährlichen Situationen führen kann, 
 #### Frage 1.1.01-110
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie wirkt sich Müdigkeit beim Fahren aus?**
 
@@ -258,6 +282,8 @@ Durch Müdigkeit am Steuer steigt das Unfallrisiko aus folgenden Gründen: Mit d
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wodurch kann eine gefährliche Situation entstehen?**
 
 **Optionen:**
@@ -277,6 +303,8 @@ Ein Hauptgrund für eine Gefährdung im Straßenverkehr ist zu schnelles Fahren.
 #### Frage 1.1.01-112
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was kann zum Abkommen von der Fahrbahn führen?**
 
@@ -298,6 +326,8 @@ Häufig kommen Fahrer durch Unaufmerksamkeit oder Unkonzentriertheit von der Fah
 #### Frage 1.1.01-113
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was führt häufig zu schweren Unfällen?**
 
@@ -323,6 +353,8 @@ Schwere Unfälle resultieren häufig: durch riskante Überholmanöver und Auffah
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit ist zu rechnen, wenn man sich Kindern nähert?**
 
 **Optionen:**
@@ -341,6 +373,8 @@ Kinder können sich jederzeit unüberlegt verhalten und sind aus diesem Grund vo
 #### Frage 1.1.02-005
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Mit welchem Verhalten von Kindern müssen Sie an Zebrastreifen rechnen?**
 
@@ -361,6 +395,8 @@ Kinder haben grundsätzlich nicht die nötige Ausbildung, um sich im Straßenver
 #### Frage 1.1.02-009-B
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie müssen Sie sich verhalten?**
 
@@ -383,6 +419,8 @@ Wenn plötzlich ein Kind über die Straße rennt, ohne auf den Verkehr zu achten
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit ist zu rechnen, wenn Kinder an einer Ampel warten?**
 
 **Optionen:**
@@ -404,6 +442,8 @@ Aufgrund mangelnder Lebenserfahrung sowie unzureichender Ausbildung verhalten si
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Ein Radweg, auf dem eine Gruppe von Kindern fährt, endet. Womit muss gerechnet werden?**
 
 **Optionen:**
@@ -423,6 +463,8 @@ Insbesondere Kinder, die mit den Verkehrsregeln grundsätzlich nicht übermäßi
 #### Frage 1.1.02-024-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was ist hier richtig?**
 
@@ -444,6 +486,8 @@ Wenn Sie die ein- oder aussteigenden Fahrgäste nicht behindern oder gefährden,
 #### Frage 1.1.02-026-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was müssen Sie in dieser Situation beachten?**
 
@@ -467,6 +511,8 @@ Wenn ein Linienbus oder Schulbus die Warnblinkanlage eingeschaltet hat und noch 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit müssen Sie rechnen, wenn ältere Personen mit Gehhilfe die Fahrbahn überqueren?**
 
 **Optionen:**
@@ -488,6 +534,8 @@ Wenn ältere Personen mit Gehhilfe die Straße überqueren, gilt für Sie erhöh
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Trotz vorhandenen Gehweges auf der rechten Straßenseite fährt eine Person im Rollstuhl auf der Straße. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -507,6 +555,8 @@ Behinderte und ältere Personen verhalten sich aufgrund körperlicher Einschrän
 #### Frage 1.1.02-029
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Eine Person im Rollstuhl schafft es nach dem Überqueren der Straße nicht, mit dem Rollstuhl den Bordstein zu überwinden, um den Gehweg zu erreichen. Wie verhalten Sie sich?**
 
@@ -528,6 +578,8 @@ Sie sollten der Person helfen. Dafür dürfen Sie anhalten und die Warnblinkanla
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Bei welcher Person müssen Sie mit einer schweren Sehbehinderung rechnen?**
 
 ![Question Image](images/1_1_02-032.png)
@@ -548,6 +600,8 @@ Bei Personen mit folgenden Kennzeichen müssen Sie mit einer schweren Sehbehinde
 #### Frage 1.1.02-036
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich?**
 
@@ -571,6 +625,8 @@ Sehbehinderte Fußgänger tragen häufig eine Armbinde und haben einen Blindenhu
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit müssen Sie rechnen?**
 
 ![Question Image](images/1_1_02-037.png)
@@ -593,6 +649,8 @@ Wo Busse oder Straßenbahnen an Haltestellen warten, müssen Sie stets davon aus
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Mit welchen Gefahren müssen Sie rechnen?**
 
 ![Question Image](images/1_1_02-038-M.png)
@@ -613,6 +671,8 @@ Fahrradfahrer verhalten sich nicht immer verkehrsgerecht. Hier könnte das Kind,
 #### Frage 1.1.02-039-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich?**
 
@@ -636,6 +696,8 @@ Reduzieren Sie die Geschwindigkeit und beobachten Sie die beiden Kinder sehr gen
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit müssen Sie rechnen?**
 
 ![Question Image](images/1_1_02-040-M.png)
@@ -657,6 +719,8 @@ Es ist immer möglich, dass sich Radfahrer nicht verkehrsgerecht verhalten. Ein 
 #### Frage 1.1.02-041-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Mit welchen Gefahren müssen Sie rechnen?**
 
@@ -680,6 +744,8 @@ Liegt ein Ball auf der Straße, ist davon auszugehen, dass ein Kind ihn holen ko
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/1_1_02-042-M.png)
@@ -701,6 +767,8 @@ Hier gilt: Geschwindigkeit sofort reduzieren, bremsbereit sein und langsam an de
 #### Frage 1.1.02-043-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie müssen Sie sich verhalten?**
 
@@ -724,6 +792,8 @@ Höchstwahrscheinlich wird dem Ball hinterher ein Kind auf die Straße gerannt k
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Fahrzeuge dürfen hier nur mit Schrittgeschwindigkeit und unter Ausschluss jeglicher Gefährdung der Fahrgäste vorbeifahren?**
 
 ![Question Image](images/1_1_02-046-M.png)
@@ -744,6 +814,8 @@ Wenn an einer Haltestelle die Warnblinkanlage eines Busses angeschaltet ist, mü
 #### Frage 1.1.02-048-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -767,6 +839,8 @@ Da sich Kinder sowohl links, als auch rechts auf der Straße befinden, solltest 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich in dieser Situation?**
 
 ![Question Image](images/1_1_02-049.png)
@@ -789,6 +863,8 @@ Führen Sie sofort eine Gefahrenbremsung durch, um einen Zusammenstoß mit dem v
 #### Frage 1.1.02-050-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie hier langsam und bremsbereit fahren?**
 
@@ -814,6 +890,8 @@ Das Kind hinter dem links stehenden Transporter läuft in Richtung Fahrbahn. Sie
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/1_1_02-051-M.png)
@@ -834,6 +912,8 @@ Der Mann, trägt eine gelbe Armbinde und führt einen Blindenhund mit sich. Er i
 #### Frage 1.1.02-052
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Warum müssen Sie damit rechnen, dass Kinder sich im Straßenverkehr unvorhersehbar verhalten?**
 
@@ -857,6 +937,8 @@ Neben der Richtungswahrnehmung ist auch die Wahrnehmung von Entfernungen, Gesch
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Auf dem Gehweg läuft ein Kind mit einem Hund an der Leine. Kann hieraus eine Gefahr entstehen?**
 
 **Optionen:**
@@ -876,6 +958,8 @@ Hier können gefährliche Situationen entstehen. Der Hund könnte sich losreiße
 #### Frage 1.1.02-108-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie in dieser Situation beachten?**
 
@@ -899,6 +983,8 @@ Wenn Linien- und Schulbussen an einer Haltestelle stehen und ihre Warnblinkanlag
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was ist in dieser Situation richtig?**
 
 ![Question Image](images/1_1_02-109-B.png)
@@ -920,6 +1006,8 @@ Aus beiden Richtungen kommende Fahrzeuge dürfen nur vorsichtig an Linienbussen,
 #### Frage 1.1.02-110-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist in dieser Situation richtig?**
 
@@ -943,6 +1031,8 @@ Wenn ein Bus in der Haltestelle steht und seine Warnblinkanlage eingeschaltet is
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **In einem Wohngebiet rollt ein Ball vor Ihr Fahrzeug. Wie müssen Sie reagieren?**
 
 **Optionen:**
@@ -962,6 +1052,8 @@ Wenn ein Ball in einem Wohngebiet vor Ihr Fahrzeug rollt, müssen Sie damit rech
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie nähern sich Kindern, die auf dem Gehweg spielen. Wie müssen Sie sich verhalten?**
 
 **Optionen:**
@@ -980,6 +1072,8 @@ Kinder, die auf dem Gehweg spielen, könnten unerwartet auf die Fahrbahn laufen.
 #### Frage 1.1.02-114
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf sollten Sie sich in dieser Situation einstellen?**
 
@@ -1002,6 +1096,8 @@ In dieser Situation solltest du dich auf die Gefahr einstellen, dass der Hund au
 #### Frage 1.1.02-115
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Müssen Sie hier langsam und bremsbereit fahren?**
 
@@ -1027,6 +1123,8 @@ Da der Bus an der Haltestelle steht und rechts blinkt, sollten Sie nur sehr vors
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Die Straßenbahn ist an der Haltestelle gerade zum Stehen gekommen. Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_1_02-116.png)
@@ -1048,6 +1146,8 @@ An einer haltenden Straßenbahn dürfen Sie vorsichtig mit Schrittgeschwindigkei
 #### Frage 1.1.02-117
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Warum müssen Sie hier verzögern?**
 
@@ -1072,6 +1172,8 @@ Es ist unklar, was das Kind machen wird. Möglich wäre, dass das Kind auf die F
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/1_1_02-119.png)
@@ -1094,6 +1196,8 @@ Gegenüber Kindern ist im Straßenverkehr immer besondere Vorsicht geboten. Sie 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/1_1_02-120-M.png)
@@ -1114,6 +1218,8 @@ An Fußgängerüberwegen haben Fußgänger stets absoluten Vorrang. Bremsen Sie 
 #### Frage 1.1.02-121-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie müssen Sie sich verhalten?**
 
@@ -1136,6 +1242,8 @@ Wenn Fußgänger an einem Zebrastreifen warten, um die Straße zu überqueren, h
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Mit welchem Verhalten müssen Sie an solchen Haltestellen rechnen?**
 
 ![Question Image](images/1_1_02-122.png)
@@ -1157,6 +1265,8 @@ Fußgänger sind an solchen Verkehrsinseln wartepflichtig. Das Vorbeifahren an d
 #### Frage 1.1.02-123-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie wollen rechts abbiegen. Worauf müssen Sie sich einstellen?**
 
@@ -1181,6 +1291,8 @@ Wenn Sie rechts abbiegen möchten, haben Verkehrsteilnehmer, die hier in gerader
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Worauf müssen Sie sich einstellen?**
 
 ![Question Image](images/1_1_02-124-M.png)
@@ -1203,6 +1315,8 @@ Wo viele Autos parken, sollten Sie stets vorsichtig und rücksichtsvoll fahren. 
 #### Frage 1.1.02-125-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Womit sollten Sie rechnen?**
 
@@ -1227,6 +1341,8 @@ Das auf der rechten Seite zu sehende Gefahrzeichen „Kinder“ macht deutlich, 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum sind ältere Fußgänger im Verkehr mehr gefährdet als jüngere?**
 
 **Optionen:**
@@ -1248,6 +1364,8 @@ Das auf der rechten Seite zu sehende Gefahrzeichen „Kinder“ macht deutlich, 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit müssen Sie in Wohnvierteln mit geringem Verkehr rechnen?**
 
 **Optionen:**
@@ -1267,6 +1385,8 @@ In Wohnvierteln gibt ein geringer Verkehr Kindern und Erwachsenen oft ein Gefüh
 #### Frage 1.1.02-128
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Mit welchem Verhalten muss bei Personen am Fußgängerüberweg gerechnet werden?**
 
@@ -1289,6 +1409,8 @@ Zebrastreifen haben eine Schutzfunktion für Fußgänger. Sie räumen ihnen Vorr
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Ein Fußgänger mit einem weißen Stock möchte vor Ihnen die Fahrbahn überqueren. Wie müssen Sie sich verhalten?**
 
 **Optionen:**
@@ -1307,6 +1429,8 @@ Der weiße Stock zeigt Ihnen, dass dieser Verkehrsteilnehmer blind oder zumindes
 #### Frage 1.1.02-130-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Womit müssen Sie rechnen?**
 
@@ -1329,6 +1453,8 @@ Das rechts stehende Gefahrzeichen „Kinder“ mahnt hier zu erhöhter Vorsicht.
 #### Frage 1.1.02-131
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Womit müssen Sie rechnen?**
 
@@ -1353,6 +1479,8 @@ In einer Verkehrssituation mit mehreren parkenden Fahrzeugen und unterschiedlich
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie schätzen Sie die Situation ein?**
 
 ![Question Image](images/1_1_02-132.png)
@@ -1375,6 +1503,8 @@ An der wartenden Fußgängerin am Straßenrand sollten Sie nur mit einem angemes
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Eine Person am Straßenrand trägt eine gelbe Armbinde mit drei schwarzen Punkten. Worauf weist diese Armbinde hin?**
 
 **Optionen:**
@@ -1394,6 +1524,8 @@ Erblicken Sie am Straßenrand eine Person, die eine gelbe Armbinde mit drei schw
 #### Frage 1.1.02-134-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie hier die Geschwindigkeit verringern?**
 
@@ -1418,6 +1550,8 @@ Wenn ein Transporter vor einem Haus parkt und aus diesem Haus ein Kind herauslä
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit müssen Sie rechnen, wenn Fußgänger die Fahrbahn überqueren?**
 
 **Optionen:**
@@ -1438,6 +1572,8 @@ Wenn ein Fußgänger die Fahrbahn überquert, ist es nicht sicher, ob er diese H
 #### Frage 1.1.02-136-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie jetzt langsam und bremsbereit fahren?**
 
@@ -1462,6 +1598,8 @@ Du musst langsam und bremsbereit fahren, da Fahrgäste vor dem Bus die Fahrbahn 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum müssen Sie hier bremsen?**
 
 ![Question Image](images/1_1_02-137-M.png)
@@ -1484,6 +1622,8 @@ Ein Kind befindet sich hinter dem parkenden Fahrzeug und wird höchstwahrscheinl
 #### Frage 1.1.02-138-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -1509,6 +1649,8 @@ Da der Hund, höchstwahrscheinlich, von der linken Seite aus auf die Straße ren
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Warum müssen Sie hier anhalten?**
 
 ![Question Image](images/1_1_02-201-M.png)
@@ -1532,6 +1674,8 @@ Du solltest hier anhalten, weil sich 2 Fußgänger vor dem Bus befinden und die 
 #### Frage 1.1.02-202-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Warum müssen Sie jetzt bremsen?**
 
@@ -1559,6 +1703,8 @@ Das Kind könnte jeden Moment auf die Fahrbahn laufen. Bremsen Sie um einen Unfa
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wo müssen Sie besonders mit starker Fahrbahnverschmutzung und Rutschgefahr rechnen?**
 
 **Optionen:**
@@ -1578,6 +1724,8 @@ An Einmündungen von Feldwegen und an Baustellen ist mit einer starken Verschmut
 #### Frage 1.1.03-002
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Warum müssen Sie bei Nässe einen erheblich größeren Sicherheitsabstand einhalten als bei trockener Fahrbahn?**
 
@@ -1600,6 +1748,8 @@ Bei nasser Fahrbahn ist die Haftung zwischen Reifen und Fahrbahn durch den Wasse
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wo müssen Sie besonders mit Fahrbahnvereisung rechnen?**
 
 **Optionen:**
@@ -1620,6 +1770,8 @@ Mit verstärkter Fahrbahnvereisung müssen Sie in folgenden Bereichen rechnen: i
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Besonderheiten ergeben sich in der kalten Jahreszeit beim Befahren von Alleen?**
 
 **Optionen:**
@@ -1639,6 +1791,8 @@ Die Besonderheiten beim Befahren von Alleen in der kalten Jahreszeit ergeben sic
 #### Frage 1.1.03-005
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Auf der Fahrbahn befindet sich Öl. Wie sollten Sie sich jetzt verhalten?**
 
@@ -1661,6 +1815,8 @@ Bei Öl auf der Fahrbahn ist ruckartiges Lenken und starkes Bremsen zu vermeiden
 #### Frage 1.1.03-006-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Worauf müssen Sie sich hier einstellen?**
 
@@ -1685,6 +1841,8 @@ Du musst dich Aufgrund des Wetters und den entsprechenden Verhältnissen auf der
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie fahren nach Starkregen. Was sollten Sie in dieser Situation beachten?**
 
 ![Question Image](images/1_1_03-007-M.png)
@@ -1707,6 +1865,8 @@ Bei Regen verschlechtert sich deine Sicht. Daher solltest du deinen Sicherheitsa
 #### Frage 1.1.03-102-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie auf dieser Straße besonders aufmerksam fahren?**
 
@@ -1731,6 +1891,8 @@ Auf den Schienen kann Ihnen eine Straßenbahn entgegenkommen, dann wird die Fahr
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Die Straße ist auf einem kurzen Stück vereist. Was sollen Sie hier möglichst vermeiden?**
 
 **Optionen:**
@@ -1752,6 +1914,8 @@ Bei vereister Fahrbahn haften Ihre Reifen nicht so gut wie sonst. Daher sollten 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie können Sie beim Fahren gefahrlos feststellen, ob die Fahrbahn vereist ist?**
 
 **Optionen:**
@@ -1770,6 +1934,8 @@ Testen Sie durch vorsichtiges Bremsen bei geringer Geschwindigkeit den Zustand d
 #### Frage 1.1.03-108-B
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie hier besonders vorsichtig fahren?**
 
@@ -1794,6 +1960,8 @@ Schnee macht die Straße glatt. Vor Ihnen liegt eine schwer einsehbare Kurve, in
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wo müssen Sie besonders mit plötzlich auftretendem Nebel rechnen?**
 
 **Optionen:**
@@ -1815,6 +1983,8 @@ Feuchte bei geringen Temperaturen begünstigt Nebelbildung. Daher tritt Nebel ve
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was müssen Sie tun, wenn vor Ihnen ein Nebelfeld die Sicht stark behindert?**
 
 **Optionen:**
@@ -1834,6 +2004,8 @@ Passen Sie Geschwindigkeit und Fahrweise den Sichtverhältnissen an. Stellen Sie
 #### Frage 1.1.03-112-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich hier richtig?**
 
@@ -1856,6 +2028,8 @@ Auch wenn die Fahrbahnmarkierung nicht sichtbar ist, zeigen die Verkehrzeichen d
 #### Frage 1.1.03-114-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie hier besonders aufmerksam sein?**
 
@@ -1880,6 +2054,8 @@ Vor Ihnen liegt eine lang gestreckte Kurve, deren Ende Sie nicht einsehen könne
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie wollen die Autobahn verlassen, worauf müssen Sie besonders achten?**
 
 ![Question Image](images/1_1_03-115.png)
@@ -1902,6 +2078,8 @@ Im Video sehen Sie ein rotes Motorrad auf dem Ausfädelungsstreifen. Später ist
 #### Frage 1.1.03-116
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum kann hier das Rechtsabbiegen gefährlich werden?**
 
@@ -1926,6 +2104,8 @@ Die winterliche Witterung macht die Fahrbahn rutschig und verlängert den Bremsw
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren auf dieser Straße außerhalb geschlossener Ortschaften. Worauf stellen Sie sich ein?**
 
 ![Question Image](images/1_1_03-117.png)
@@ -1947,6 +2127,8 @@ Rechts sehen Sie das Hinweisschild auf einen Parkplatz. Rechnen Sie mit Fußgän
 #### Frage 1.1.03-118
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie beachten?**
 
@@ -1972,6 +2154,8 @@ Der Nebel ist hier so dicht, dass Sie nicht weiter als 50 Meter sehen können. B
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum ist hier ein größerer Sicherheitsabstand zum vorausfahrenden Fahrzeug erforderlich?**
 
 ![Question Image](images/1_1_03-119-M.png)
@@ -1995,6 +2179,8 @@ Auf nasser Straße besteht Aquaplaning-Gefahr. Der Bremsweg ist länger als bei 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/1_1_03-120.png)
@@ -2016,6 +2202,8 @@ Fahren Sie vorsichtig, langsam und vermeiden abruptes Lenken oder Bremsen, weil 
 #### Frage 1.1.03-121
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Während der Fahrt regnet es plötzlich stark. Wie sollten Sie sich verhalten?**
 
@@ -2040,6 +2228,8 @@ Beim Fahren mit starkem Regen ist besondere Vorsicht walten zu lassen. Dazu ge
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie biegen von einer hell erleuchteten in eine dunkle Straße ein. Was müssen Sie dabei berücksichtigen?**
 
 **Optionen:**
@@ -2059,6 +2249,8 @@ Pupillen sind bei Helligkeit zusammengezogen und bei Dunkelheit weit geöffnet. 
 #### Frage 1.1.04-103-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie hier tun, wenn Sie geblendet werden?**
 
@@ -2081,6 +2273,8 @@ Wenn Sie durch ein Fernlicht oder falsch eingestellte Scheinwerfer geblendet wer
 #### Frage 1.1.04-107
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie hier rechnen?**
 
@@ -2105,6 +2299,8 @@ Die zahlreichen Leuchtreklamen lenken vom Verkehrsgeschehen und insbesondere den
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum kann das Befahren dieser Straße gefährlich werden?**
 
 ![Question Image](images/1_1_04-108.png)
@@ -2126,6 +2322,8 @@ Wenn Sie sich auf einer beleuchteten Fahrbahn mit dunklen Teilabschnitten befind
 #### Frage 1.1.04-109
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Weshalb ist es möglich, dass Fahrzeugführer das Zeichen "Vorfahrt gewähren." nicht wahrnehmen?**
 
@@ -2150,6 +2348,8 @@ Auch wenn die bessere Beleuchtung Sie zur Annahme verleitet, gegenüber der schl
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf müssen Sie achten, wenn Sie in eine Tiefgarage fahren?**
 
 **Optionen:**
@@ -2170,6 +2370,8 @@ Bei der Einfahrt in eine Tiefgarage macht Fahrern der Wechsel von Tageslicht zu 
 #### Frage 1.1.04-111
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie sollten Sie sich bei diesen Sichtverhältnissen verhalten?**
 
@@ -2196,6 +2398,8 @@ Bei schlechten Sichtverhältnissen müssen Sie zunächst Ihr Tempo drosseln. Wen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wo führt schnelles Fahren häufig zu Unfällen?**
 
 **Optionen:**
@@ -2216,6 +2420,8 @@ Zu hohe Geschwindigkeit ist eine der Hauptursachen für Unfälle. Je schneller S
 #### Frage 1.1.05-002
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wo ist zu schnelles Fahren besonders gefährlich?**
 
@@ -2238,6 +2444,8 @@ In unübersichtlichen Kurven ist schnelles Fahren besonders gefährlich, weil pl
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie durchfahren Sie enge Kurven?**
 
 **Optionen:**
@@ -2257,6 +2465,8 @@ Bereits vor einer engen Kurve sollten Sie Ihre Geschwindigkeit verringern und er
 #### Frage 1.1.05-103
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie beachten?**
 
@@ -2282,6 +2492,8 @@ An einem Bus, der mit eingeschaltetem Warnblinklicht an einer Haltestelle steht,
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Was müssen Sie in dieser Situation beachten?**
 
 ![Question Image](images/1_1_05-105.png)
@@ -2305,6 +2517,8 @@ Steht ein Bus an einer Haltestelle, müssen Sie sich immer vorsichtig nähern. S
 #### Frage 1.1.05-107-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Womit müssen Sie hier rechnen?**
 
@@ -2332,6 +2546,8 @@ Sie durchqueren ein Wohngebiet. Die Straße ist breit und verlockt zum schnellen
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Ist es leichtsinnig, noch kurz vor einer Kreuzung einen Lastzug zu überholen?**
 
 **Optionen:**
@@ -2351,6 +2567,8 @@ Kurz vor einer Kreuzung sollten Sie keinesfalls einen Überholvorgang beginnen. 
 #### Frage 1.1.06-005-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Warum dürfen Sie jetzt nicht überholen?**
 
@@ -2374,6 +2592,8 @@ Du darfst nicht überholen, da die Radfahrerin abbiegen könnte und der Gegenver
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Fehler machen das Überholen auch auf übersichtlichen und geraden Fahrbahnen gefährlich?**
 
 **Optionen:**
@@ -2393,6 +2613,8 @@ Du darfst nicht überholen, da die Radfahrerin abbiegen könnte und der Gegenver
 #### Frage 1.1.06-104
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wann wird ein Überholender gefährdet?**
 
@@ -2414,6 +2636,8 @@ Wenn Sie bemerken, dass das hinter Ihnen fahrende Fahrzeug Sie überholen möcht
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **In welchen Fällen muss das Überholen abgebrochen werden?**
 
 **Optionen:**
@@ -2433,6 +2657,8 @@ Plötzlicher Gegenverkehr erfordert es, dass ein Überholvorgang sofort abgebroc
 #### Frage 1.1.06-106
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wann ist das Überholen verboten?**
 
@@ -2462,6 +2688,8 @@ Bevor Sie zum Überholen ansetzen, vergewissern Sie sich, dass Sie andere Verkeh
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum kann Überholen auch auf übersichtlichen und geraden Fahrbahnen gefährlich sein?**
 
 **Optionen:**
@@ -2481,6 +2709,8 @@ Auf gerader Strecke können Sie zwar den entgegenkommenden Verkehr schon von Wei
 #### Frage 1.1.06-113
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich in dieser Situation?**
 
@@ -2505,6 +2735,8 @@ Sie dürfen den Fahrradfahrer nicht überholen: Die durchgehende Mittellinie dar
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich?**
 
 ![Question Image](images/1_1_06-114.png)
@@ -2528,6 +2760,8 @@ Sie wollen gerade zum Überholen des Radfahrers ansetzen, da fährt der blaue Pk
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Womit müssen Sie in dieser Situation rechnen?**
 
 ![Question Image](images/1_1_06-121-M.png)
@@ -2549,6 +2783,8 @@ Ihre Fahrbahn wird von einem haltenden Fahrzeug blockiert. Sie müssen auf die G
 #### Frage 1.1.06-122
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie rechnen, wenn Sie überholen wollen?**
 
@@ -2573,6 +2809,8 @@ Auf schneebedeckter Fahrbahn verlängert sich der Brems- und Anhalteweg, auch be
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten überholen. Worauf stellen Sie sich ein?**
 
 ![Question Image](images/1_1_06-123.png)
@@ -2595,6 +2833,8 @@ Ein Radfahrer könnte ins Schwanken geraten, da das Fahren mit einer Hand und di
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten in einer schmalen Straße Radfahrer überholen. Wegen der Straßenbreite ist ein Seitenabstand zu ihnen von höchstens 50 cm möglich. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -2613,6 +2853,8 @@ Zur Gefahrenvermeidung müssen Sie als Fahrzeugführer beim Überholen von Fahrr
 #### Frage 1.1.06-125
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie möchten Radfahrer überholen. Was ist bei der Wahl des Seitenabstandes zu berücksichtigen?**
 
@@ -2633,6 +2875,8 @@ Wenn Sie einen Radfahrer überholen möchten, müssen Sie hinsichtlich des Seite
 #### Frage 1.1.06-127-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich richtig?**
 
@@ -2657,6 +2901,8 @@ Der Fahrradfahrer wird den Lkw überholen und dafür ausscheren. Es ist zu gefä
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **In welcher Situation ist das Überholen unzulässig?**
 
 **Optionen:**
@@ -2677,6 +2923,8 @@ Hier gilt Überholverbot, weil Sie in diesen Situationen als Überholender das U
 #### Frage 1.1.06-129-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten überholen. Worauf sollten Sie sich jetzt einstellen?**
 
@@ -2700,6 +2948,8 @@ Der Radfahrer direkt vor Ihnen möchte auf den Fußgängerweg, um den Bordstein 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Weshalb kann Überholen auch auf übersichtlichen und geraden Fahrbahnen gefährlich sein?**
 
 **Optionen:**
@@ -2720,6 +2970,8 @@ Durch falsches Einschätzen der Geschwindigkeit und Entfernung eines entgegenkom
 #### Frage 1.1.06-131-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -2744,6 +2996,8 @@ Das dich überholende Fahrzeug hat seinen Überholweg zu kurz eingeschätzt. Du 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Warum dürfen Sie in dieser Situation nicht überholen?**
 
 ![Question Image](images/1_1_06-201-M.png)
@@ -2767,6 +3021,8 @@ Durch die Radfahrer und den Streckenverlauf ist der Überholweg nicht einsehbar.
 #### Frage 1.1.06-202-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Warum dürfen Sie jetzt nicht überholen?**
 
@@ -2794,6 +3050,8 @@ Der Radfahrer schwenkt nach links und macht einen Schulterblick. Wahrscheinlich 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit müssen Sie rechnen, wenn vor Ihnen ein Lastzug in eine enge Straße nach rechts abbiegen will?**
 
 **Optionen:**
@@ -2814,6 +3072,8 @@ Halten Sie einen großen Abstand zu dem Lkw und überholen Sie keinesfalls auf d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Worauf müssen Sie innerorts an Kreuzungen und Einmündungen besonders achten?**
 
 **Optionen:**
@@ -2832,6 +3092,8 @@ Durch das Befahren einer breiten und gut ausgebauten Straße sind Sie nicht auto
 #### Frage 1.1.07-005-B
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Worauf müssen Sie sich einstellen?**
 
@@ -2855,6 +3117,8 @@ Durch das nasse Laub auf der Fahrbahn verlängert sich der Bremsweg Ihres Fahrze
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Warum müssen Sie hier besonders vorsichtig sein?**
 
 ![Question Image](images/1_1_07-006-B.png)
@@ -2877,6 +3141,8 @@ Das nasse Laub auf der Straße hat einen verlängerten Bremsweg und eine hohe Ru
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie wollen aus einer Reihe parkender Fahrzeuge in den fließenden Verkehr einfahren. Hinter Ihnen parkt ein Lastzug. Wie beurteilen Sie diese Situation?**
 
 **Optionen:**
@@ -2897,6 +3163,8 @@ Wegen des Lkws können Sie den Verkehr hinter sich nur schwer einsehen. Er verde
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie nähern sich einer Schule. Kinder verlassen das Schulgelände. Womit müssen Sie rechnen?**
 
 **Optionen:**
@@ -2916,6 +3184,8 @@ Im Bereich von Schulen müssen Sie immer mit Kindern rechnen, die unvermittelt d
 #### Frage 1.1.07-010
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Worauf kann Warnblinklicht hinweisen?**
 
@@ -2938,6 +3208,8 @@ Die Benutzung der Warnblinkanlage unterliegt strengen Regeln. Das Warnblinklicht
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Vor Ihnen will ein großer Mähdrescher nach rechts abbiegen. Was ist richtig?**
 
 **Optionen:**
@@ -2958,6 +3230,8 @@ Der Mähdrescher wird zum Abbiegen weit ausholen müssen und daher ausschwenken,
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie fahren hinter einem landwirtschaftlichen Fahrzeug mit hoch beladenem Anhänger. Womit müssen Sie rechnen?**
 
 **Optionen:**
@@ -2977,6 +3251,8 @@ Wenn Sie hinter einem landwirtschaftlichen Fahrzeug mit hoch beladenem Anhänger
 #### Frage 1.1.07-014-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Womit müssen Sie rechnen?**
 
@@ -3001,6 +3277,8 @@ Sie müssen damit rechnen, beim Abbiegen vor der Kreuzung anhalten zu müssen. Z
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich in dieser Situation?**
 
 ![Question Image](images/1_1_07-015-M.png)
@@ -3022,6 +3300,8 @@ Der Fahrer des aus der Ausfahrt kommenden Fahrzeugs kann den Querverkehr nicht e
 #### Frage 1.1.07-016
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie vor dem Rechtsabbiegen warten?**
 
@@ -3047,6 +3327,8 @@ Wenn Sie rechts abbiegen möchten, müssen Sie Fahrzeugen und Fußgängern die I
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf stellen Sie sich in dieser Situation ein?**
 
 ![Question Image](images/1_1_07-017.png)
@@ -3069,6 +3351,8 @@ Da das Ihnen entgegenkommende Fahrzeug durch ein Fahrrad ausgebremst wird, sollt
 #### Frage 1.1.07-019-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie möchten an der Kreuzung nach rechts abbiegen. Was ist richtig?**
 
@@ -3093,6 +3377,8 @@ Du darfst den Schutzstreifen nur zum Spurwechseln, zum Ausweichen  oder zum Abbi
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wann kann es hier zu einer gefährlichen Situation kommen?**
 
 ![Question Image](images/1_1_07-020-M.png)
@@ -3114,6 +3400,8 @@ Sie können erkennen, dass der Radweg unmittelbar vor Ihnen endet. Die Radfahrer
 #### Frage 1.1.07-021
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf müssen Sie hier beim Rechtsabbiegen achten?**
 
@@ -3138,6 +3426,8 @@ Bevor Sie hier rechts abbiegen können, müssen Sie den geradeaus fahrenden Radf
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/1_1_07-022.png)
@@ -3161,6 +3451,8 @@ Da sich links von Ihnen im toten Winkel ein Pkw befindet und auf der anderen Sei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was sollten Sie bei Elektrofahrrädern (E-Bikes) im Straßenverkehr beachten?**
 
 **Optionen:**
@@ -3180,6 +3472,8 @@ E-Bikes sind ähnlich geräuscharm wie klassische Fahrräder und werden daher of
 #### Frage 1.1.07-025-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -3203,6 +3497,8 @@ Du solltest bremsbereit sein und den Fahrradfahrer aufmerksam beobachten, da der
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie wollen eine landwirtschaftliche Zugmaschine mit nach hinten herausragendem Anbaugerät überholen. Was ist zu beachten?**
 
 **Optionen:**
@@ -3222,6 +3518,8 @@ Von einem Überholmanöver sollten Sie grundsätzlich absehen, wenn die Zugmasch
 #### Frage 1.1.07-103-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie hinter dieser Straßenkuppe rechnen?**
 
@@ -3246,6 +3544,8 @@ Aufgrund der Höhe der Kuppe ist nicht einsehbar, was sich hinter ihr befindet. 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich?**
 
 ![Question Image](images/1_1_07-105-B.png)
@@ -3265,6 +3565,8 @@ Wenn ein Lkw einen Radfahrer überholt und dabei die durchgezogene Linie überqu
 #### Frage 1.1.07-107-B
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf müssen Sie sich einstellen?**
 
@@ -3288,6 +3590,8 @@ Im Bereich einer Baustelle müssen Sie vorsichtig fahren und die Geschwindigkeit
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf stellen Sie sich ein?**
 
 ![Question Image](images/1_1_07-109-B.png)
@@ -3310,6 +3614,8 @@ Aufgrund der Witterung und des Schneematsches müssen Sie hier mit glatter Fahrb
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie warten an einer Ampel und wollen nach rechts abbiegen. Worauf müssen Sie achten?**
 
 **Optionen:**
@@ -3328,6 +3634,8 @@ Befinden sich neben Ihnen andere Verkehrsteilnehmer, müssen Sie diesen Vorrang 
 #### Frage 1.1.07-113
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie fahren auf einer neu angelegten Straße durch bewaldetes Gebiet. Womit müssen Sie rechnen?**
 
@@ -3349,6 +3657,8 @@ Werden Straßen in bewaldeten Gebieten neu angelegt, führen sie häufig durch d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Vor Ihrem Fahrzeug flüchten mehrere Rehe über die Straße. Womit müssen Sie rechnen?**
 
 **Optionen:**
@@ -3369,6 +3679,8 @@ Wenn vor Ihrem Fahrzeug mehrere Rehe über die Straße flüchten, müssen Sie mi
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Zu welcher Tageszeit ist mit verstärktem Wildwechsel zu rechnen?**
 
 **Optionen:**
@@ -3388,6 +3700,8 @@ Mit verstärktem Wildwechsel müssen Sie während der morgendlichen und abendlic
 #### Frage 1.1.07-118
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Mit welchen Gefahren müssen Sie vor allem in ländlichen Gebieten rechnen?**
 
@@ -3410,6 +3724,8 @@ Wo Landwirtschaft betrieben wird, verkehren Trecker und andere landwirtschaftlic
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **In der Dämmerung kommt Ihnen eine landwirtschaftliche Zugmaschine mit eingeschalteter Beleuchtung entgegen. Womit müssen Sie rechnen?**
 
 **Optionen:**
@@ -3431,6 +3747,8 @@ Bei landwirtschaftlichen Fahrzeugen ist die Beleuchtung manchmal defekt. Auch Sc
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was müssen Sie beachten, bevor Sie in einen Tunnel einfahren?**
 
 **Optionen:**
@@ -3450,6 +3768,8 @@ Bevor Sie in einen Tunnel einfahren, müssen Sie Folgendes beachten: In einem Tu
 #### Frage 1.1.07-121
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie müssen Sie sich bei einem Stau im Tunnel verhalten?**
 
@@ -3471,6 +3791,8 @@ Halten Sie bei einem Stau in einem Tunnel an und stellen Sie den Motor aus. Durc
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wodurch kann die Aufmerksamkeit bei einer Tunneldurchfahrt beeinträchtigt werden?**
 
 **Optionen:**
@@ -3490,6 +3812,8 @@ Bei einer Tunneldurchfahrt können folgende Faktoren Ihre Aufmerksamkeit beeintr
 #### Frage 1.1.07-123
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist bei einer Tunneldurchfahrt besonders zu beachten?**
 
@@ -3512,6 +3836,8 @@ Durch den Widerhall der Tunnelwände sind Fahrgeräusche in einem Tunnel erhebli
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche grundlegenden Verhaltensregeln müssen Sie im Tunnel beachten?**
 
 **Optionen:**
@@ -3532,6 +3858,8 @@ Folgende Verhaltensregeln sind in allen Tunneln Pflicht: Es gilt auf der gesamte
 #### Frage 1.1.07-132
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Weshalb müssen Sie hier warten?**
 
@@ -3557,6 +3885,8 @@ Sie wollen links abbiegen. Ein Transporter, der von der Gegenfahrbahn naht, will
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich jetzt?**
 
 ![Question Image](images/1_1_07-136.png)
@@ -3580,6 +3910,8 @@ Die weißen Rückfahrscheinwerfer des vor Ihnen abgebogenen Fahrzeugs zeigen an,
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie wollen nach rechts abbiegen. Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/1_1_07-137.png)
@@ -3601,6 +3933,8 @@ Bevor Sie abbiegen können, müssen Sie im Rückspiegel überprüfen, ob die Fah
 #### Frage 1.1.07-138
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie rechnen?**
 
@@ -3625,6 +3959,8 @@ Auf diese Situation können die anderen Verkehrsteilnehmer mit allen beschrieben
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Vor dem Motorrad möchte ein Pkw auf die Fahrbahn zurücksetzen. Womit müssen Sie rechnen?**
 
 ![Question Image](images/1_1_07-139.png)
@@ -3648,6 +3984,8 @@ Pkw-Fahrer unterschätzen häufig die Geschwindigkeit herannahender Motorradfahr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren zügig auf einer Landstraße und sehen ein Reh in einiger Entfernung in der Nähe zur Fahrbahn. Wie müssen Sie sich verhalten?**
 
 **Optionen:**
@@ -3667,6 +4005,8 @@ Wenn sich das Reh noch nicht auf der Fahrbahn befindet, sollten Sie unter keinen
 #### Frage 1.1.07-141
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Warum sind Sie besonders gefährdet, wenn Sie ein Zweirad fahren?**
 
@@ -3689,6 +4029,8 @@ Insbesondere bei einschränkenden Sichtverhältnissen wie Nebel und Dunkelheit f
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Auf einer stark befahrenen Straße mit mehreren Fahrstreifen haben Sie sich zum Linksabbiegen eingeordnet. Sie möchten nun stattdessen nach rechts abbiegen. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -3707,6 +4049,8 @@ Ein Spurwechsel oder das Rechtsabbiegen wären aufgrund des starken Verkehrs mit
 #### Frage 1.1.07-143
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Auf meiner Fahrtroute befindet sich ein Tunnel. Was sollte ich wissen?**
 
@@ -3727,6 +4071,8 @@ Wenn sich auf Ihrer Fahrtstrecke ein Tunnel befindet, sollten Sie die entspreche
 #### Frage 1.1.07-144
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Während der Fahrt in einem Tunnel bemerken Sie ein Feuer in Ihrem Fahrzeug. Das Verlassen des Tunnels ist nicht mehr möglich. Wie verhalten Sie sich?**
 
@@ -3749,6 +4095,8 @@ Wenn Sie ein Feuer in Ihrem Fahrzeug am Verlassen eines Tunnels hindert: Stellen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Während der Fahrt in einem Tunnel haben Sie Ihr Fahrzeug wegen eines Feuers noch im Tunnel abstellen müssen. Wie verhalten Sie sich jetzt?**
 
 **Optionen:**
@@ -3768,6 +4116,8 @@ Wenn Sie Ihr Fahrzeug aufgrund eines Feuers in einem Tunnel abstellen müssen, s
 #### Frage 1.1.07-146
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie rechnen?**
 
@@ -3793,6 +4143,8 @@ Sie sehen, dass der Lkw vor Ihnen abbiegen will. Das Fahrzeug verdeckt die Sicht
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf müssen Sie jetzt achten?**
 
 ![Question Image](images/1_1_07-147.png)
@@ -3817,6 +4169,8 @@ Sie wollen rechts abbiegen, der Ihnen vorausfahrende Pkw-Fahrer ebenso. Die Fuß
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Weshalb müssen Sie hier warten?**
 
 ![Question Image](images/1_1_07-148.png)
@@ -3839,6 +4193,8 @@ Der Radfahrerin ist Vorfahrt zu gewähren, weil sie sich auf der Vorfahrtstraße
 #### Frage 1.1.07-149
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Weshalb müssen Sie hier warten?**
 
@@ -3863,6 +4219,8 @@ Der Verkehr auf der Vorfahrtstraße staut sich. Der rote Pkw umfährt die stehen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/1_1_07-150.png)
@@ -3885,6 +4243,8 @@ Wenn ein Tier von rechts kommend auf die Fahrbahn läuft, ist ein Ausweichmanöv
 #### Frage 1.1.07-151
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -3910,6 +4270,8 @@ Sie sehen, dass das Tier im Begriff ist, auf die Fahrbahn zu laufen. Durch Hupen
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf müssen Sie beim Umschalten der Ampel auf „Grün“ achten?**
 
 ![Question Image](images/1_1_07-152-M.png)
@@ -3934,6 +4296,8 @@ Während Sie an der roten Ampel warten, drängt sich ein Motorradfahrer an den s
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Worauf müssen Sie sich in dieser Situation einstellen?**
 
 ![Question Image](images/1_1_07-153-M.png)
@@ -3957,6 +4321,8 @@ Der Lkw blockiert Ihre Sicht. Sie können daher weder den Gegenverkehr noch Verk
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich bei einer Tunneldurchfahrt richtig?**
 
 **Optionen:**
@@ -3976,6 +4342,8 @@ Bei einer Tunneldurchfahrt verhalten Sie sich wie folgt: Achten Sie auf die Einh
 #### Frage 1.1.07-155-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf müssen Sie jetzt achten?**
 
@@ -4001,6 +4369,8 @@ Sie beabsichtigen, links abzubiegen. In gleicher Richtung bewegen sich zwei Fahr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie sollten Sie sich jetzt verhalten?**
 
 ![Question Image](images/1_1_07-156-M.png)
@@ -4024,6 +4394,8 @@ Da der Hund (von rechts) auf die Straße zu laufen scheint, führe bitte eine Ge
 #### Frage 1.1.07-157-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf sollten Sie sich in dieser Situation einstellen?**
 
@@ -4049,6 +4421,8 @@ Bitte stellte dich darauf ein, dass Personen hinter dem Bus die Fahrbahn betrete
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Mit welchem Verhalten von Radfahrern müssen Sie rechnen?**
 
 **Optionen:**
@@ -4069,6 +4443,8 @@ Alle 3 Antworten sind richtig. Radfahrer benutzen Einbahnstraßen in beide Richt
 #### Frage 1.1.07-159-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf müssen Sie sich hier einstellen?**
 
@@ -4093,6 +4469,8 @@ Das Verkehrszeichen deutet auf einen Wandererparkplatz hin, das heißt es könne
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum müssen Sie jetzt anhalten?**
 
 ![Question Image](images/1_1_07-160-M.png)
@@ -4116,6 +4494,8 @@ Da Sie die Verkehrssituation nicht vollständig einsehen können und dem Radfahr
 #### Frage 1.1.07-161-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten geradeaus weiterfahren. Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -4142,6 +4522,8 @@ Der Elektroroller hat keine Vorfahrt, um einen Unfall zu vermeiden, solltest d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten ausparken. Wie beurteilen Sie die Situation richtig?**
 
 ![Question Image](images/1_1_07-162-M.png)
@@ -4163,6 +4545,8 @@ Da das hinter dir parkende Fahrzeug sehr groß ist, wirst du von hinten komme Fa
 #### Frage 1.1.07-163
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum ist das Vorbeifahren an dieser Unfallsituation gefährlich?**
 
@@ -4187,6 +4571,8 @@ Eine unübersichtliche Verkehrssituation liegt vor, mit plötzlichen Bremsmanöv
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf müssen Sie hier beim Rechtsabbiegen achten?**
 
 ![Question Image](images/1_1_07-164-M.png)
@@ -4209,6 +4595,8 @@ Beim Rechtsabbiegen musst du immer darauf achten, ob sich Fußgänger oder Radfa
 #### Frage 1.1.07-165-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -4233,6 +4621,8 @@ Der Roller nimmt dir die Vorfahrt. Um einen Unfall zu vermeiden, musst du sofort
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Womit müssen Sie in dieser Situation rechnen?**
 
 ![Question Image](images/1_1_07-166-M.png)
@@ -4254,6 +4644,8 @@ Da das Hindernis auf deiner Seite ist, musst du in diesem Fall warten. Zudem wir
 #### Frage 1.1.07-167
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie fahren durch einen Tunnel. Welche Besonderheit besteht dabei?**
 
@@ -4277,6 +4669,8 @@ Durch die unterschiedliche Beleuchtung, die Lichter der anderen Verkehrsteilnehm
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/1_1_07-168-M.png)
@@ -4299,6 +4693,8 @@ Das noch parkende Fahrzeug möchte auf die Straße einfahren und hat dich offens
 #### Frage 1.1.07-169-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie jetzt rechnen?**
 
@@ -4325,6 +4721,8 @@ Das [gelben] Fahrzeug wird Anhalten, du musst also damit rechnen das der Fahrer 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie befahren einen Straßenabschnitt, für den ein Stau gemeldet wurde. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -4344,6 +4742,8 @@ Du solltest besonders in Kurven und vor Kuppen besonders aufmerksam fahren, da d
 #### Frage 1.1.07-171
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie jetzt anhalten?**
 
@@ -4368,6 +4768,8 @@ Das "Vorfahrt gewähren" Zeichen in Kombination mit dem Fahrrad Zusatzzeichen ze
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/1_1_07-172-M.png)
@@ -4391,6 +4793,8 @@ Da plötzlich von links ein Radfahrer kommt, musst du eine Gefahrenbremsung durc
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Während der Fahrt überquert vor Ihrem Fahrzeug ein Reh die Fahrbahn. Was sollten Sie beachten?**
 
 **Optionen:**
@@ -4410,6 +4814,8 @@ Ein Reh ist sehr unberechenbar, vielleicht läuft es zurück in den Wald, vielle
 #### Frage 1.1.07-174-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich richtig?**
 
@@ -4434,6 +4840,8 @@ Da der LKW vor dir rückwärts einparkt, musst du weiter abbremsen. Ein Fahrstre
 #### Frage 1.1.07-175-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf stellen Sie sich in dieser Situation ein?**
 
@@ -4460,6 +4868,8 @@ Der gelbe Pkw blinkt und wird nach links abbiegen. Obwohl er keine Vorfahrt hat,
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/1_1_07-176-M.png)
@@ -4484,6 +4894,8 @@ Du musst in dieser Situation also abbremsen, um eine Kollision mit dem überhole
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/1_1_07-201-M.png)
@@ -4507,6 +4919,8 @@ Der Radfahrer von links scheint nicht zu bremsen, deswegen bremse stark ab.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Warum müssen Sie jetzt bremsen?**
 
 ![Question Image](images/1_1_07-202-M.png)
@@ -4529,6 +4943,8 @@ Weil der Radfahrer auf deinen Fahrstreifen möchte, bremse wegen des Radfahrers.
 #### Frage 1.1.07-203-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Worauf müssen Sie jetzt achten?**
 
@@ -4554,6 +4970,8 @@ Der rechte Radfahrer fährt auf die Fahrbahn. Links fährt ein Radfahrer den wir
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Womit sollten Sie in dieser Situation rechnen?**
 
 ![Question Image](images/1_1_07-204-M.png)
@@ -4577,6 +4995,8 @@ Da Sie hinter einem großen Fahrzeug fahren, kann es schnell passieren, dass Sie
 #### Frage 1.1.07-205-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Sie fahren außerorts. Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -4603,6 +5023,8 @@ Das Überqueren der Straße muss dennoch durch dich abgesichert werden.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Warum sollten Sie jetzt bremsbereit sein?**
 
 ![Question Image](images/1_1_07-206-M.png)
@@ -4625,6 +5047,8 @@ Das braune Fahrzeug hat gerade angehalten, die Gefahr ist hoch, dass im nächste
 #### Frage 1.1.07-207-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -4652,6 +5076,8 @@ Der Radfahrer fährt offensichtlich ohne Beachten der Verkehrssituation und ohne
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Ein Kraftfahrer hat zu viel Alkohol getrunken und darf deshalb nicht mehr fahren. Wie kann er seine Fahrtüchtigkeit kurzfristig nicht wiederherstellen?**
 
 **Optionen:**
@@ -4673,6 +5099,8 @@ Kurzfristig können Sie Ihre Fahrtüchtigkeit nach starkem Konsum von Alkohol ni
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Mittel können die Fahrtüchtigkeit ähnlich beeinträchtigen wie Alkohol?**
 
 **Optionen:**
@@ -4691,6 +5119,8 @@ Vor allem Drogen verändern die Wahrnehmung und beeinträchtigen die Fähigkeit,
 #### Frage 1.1.09-004
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wodurch kann die Fahrtüchtigkeit herabgesetzt werden?**
 
@@ -4713,6 +5143,8 @@ Alles, was die Sinnesorgane negativ beeinflusst, kann die Fahrtüchtigkeit herab
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie lange dauert es im Allgemeinen, bis 1,0 Promille Alkohol im Blut abgebaut ist?**
 
 **Optionen:**
@@ -4731,6 +5163,8 @@ Die Faustregel gilt: Pro Stunde baut der menschliche Körper etwa 0,1 Promille A
 #### Frage 1.1.09-007
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was kann die berauschende Wirkung von Alkohol verstärken?**
 
@@ -4753,6 +5187,8 @@ Die Wirkung von Alkohol wird durch Medikamente verstärkt. Besonders große Meng
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wozu können bereits geringe Mengen Alkohol führen?**
 
 **Optionen:**
@@ -4774,6 +5210,8 @@ Bereits geringe Alkoholmengen wirken auf Ihr zentrales Nervensystem und verschle
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was können Drogen bewirken?**
 
 **Optionen:**
@@ -4793,6 +5231,8 @@ Wirkstoffe von Drogen beeinträchtigen das zentrale Nervensystem und verfälsche
 #### Frage 1.1.09-010
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Bei welchen Drogen kann schon einmaliger Konsum zu vorübergehender Fahruntüchtigkeit führen?**
 
@@ -4815,6 +5255,8 @@ Schon der Drogenkonsum in kleinen Mengen führt zur vorübergehenden Fahruntüch
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wann ist ein Drogenabhängiger zum Führen von Kraftfahrzeugen wieder geeignet?**
 
 **Optionen:**
@@ -4834,6 +5276,8 @@ Wer beim Autofahren unter Drogen erwischt wurde, muss seinen Führerschein abgeb
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie wird der berauschende Wirkstoff von Haschisch im Körper abgebaut?**
 
 **Optionen:**
@@ -4852,6 +5296,8 @@ Drogen wie Haschisch werden im Körper nicht gleichmäßig abgebaut - im Untersc
 #### Frage 1.1.09-017
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welche Folgen kann es haben, wenn man unter Einwirkung von Drogen (wie z. B. Haschisch, Heroin, Kokain) ein Kraftfahrzeug führt?**
 
@@ -4874,6 +5320,8 @@ Das Führen eines Fahrzeuges unter Einwirkung von Drogen wie Haschisch, Kokain o
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was kann Haschischkonsum bewirken?**
 
 **Optionen:**
@@ -4893,6 +5341,8 @@ Der Konsum von Haschisch führt zu Rauschzuständen, in welchen das Gefühl für
 #### Frage 1.1.09-019
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welche Auswirkungen kann Haschischkonsum haben?**
 
@@ -4915,6 +5365,8 @@ Der Konsum von Haschisch versetzt den Anwender in einen Rauschzustand, in welche
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Für wen besteht ein Alkoholverbot beim Führen von Kraftfahrzeugen?**
 
 **Optionen:**
@@ -4935,6 +5387,8 @@ In der Probezeit oder vor Vollendung des 21. Lebensjahres gilt für Sie vor jede
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Dürfen Kraftfahrer beim Führen von Kraftfahrzeugen während der Probezeit unter der Wirkung alkoholischer Getränke stehen?**
 
 **Optionen:**
@@ -4953,6 +5407,8 @@ Während der Probezeit dürfen Sie keinerlei Alkohol trinken, wenn Sie ein Kraft
 #### Frage 1.1.09-024
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Warum kann die Fahrtüchtigkeit bereits durch geringe Mengen Alkohol beeinträchtigt werden?**
 
@@ -4974,6 +5430,8 @@ Bereits geringe Mengen Alkohol wirken sich negativ auf das Sehvermögen, die Rea
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Auswirkung kann der Konsum von Cannabisprodukten auf das Fahrverhalten haben?**
 
 **Optionen:**
@@ -4993,6 +5451,8 @@ Der Konsum von Cannabisprodukten ist kontraproduktiv für die Fahrtüchtigkeit. 
 #### Frage 1.1.09-026
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Warum ist bereits der einmalige Konsum von Drogen für die Teilnahme am Straßenverkehr gefährlich?**
 
@@ -5015,6 +5475,8 @@ Drogen haben in der Regel Wahrnehmungsstörungen zur Folge. Bereits der einmalig
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie lange sind Cannabis und dessen Abbauprodukte im Urin nachweisbar?**
 
 **Optionen:**
@@ -5033,6 +5495,8 @@ Cannabis und dessen Abbauprodukte sind im Urin bis zu einem Zeitraum zwischen ze
 #### Frage 1.1.09-028
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Warum ist man nach dem Konsum der Droge „Crystal Meth“ fahruntauglich?**
 
@@ -5055,6 +5519,8 @@ Cannabis und dessen Abbauprodukte sind im Urin bis zu einem Zeitraum zwischen ze
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wodurch lässt sich die Fahrtüchtigkeit nach übermäßigem Alkoholkonsum kurzfristig wiederherstellen?**
 
 **Optionen:**
@@ -5073,6 +5539,8 @@ Da sich Alkohol im Körper sehr langsam abbaut, kannst du die Fahrtüchtigkeit k
 #### Frage 1.1.09-030
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was kann die Fahrtüchtigkeit ähnlich beeinträchtigen wie Alkohol?**
 
@@ -5094,6 +5562,8 @@ Alkohol, Drogen und Medikamente wirken sich negativ auf unsere Reaktionszeit, He
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Auswirkung kann der Konsum von Cannabisprodukten auf den Fahrer haben?**
 
 **Optionen:**
@@ -5113,6 +5583,8 @@ Nach dem Cannabiskonsum ist Ihre Wahrnehmung getrübt und Ihre Konzentrationsfä
 #### Frage 1.1.09-032
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was kann der Konsum von Drogen bewirken?**
 
@@ -5135,6 +5607,8 @@ Des Weiteren kann es zu einer Erhöhung der Risikobereitschaft kommen, da es seh
 #### Frage 1.1.09-033
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Bei welcher Substanz kann der Konsum vor oder während der Fahrt zu Fahruntüchtigkeit führen?**
 
@@ -5161,6 +5635,8 @@ Drogen und Alkohol am Steuer führen zu einer erheblichen Gefährdung des Straß
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Bei hohen Außentemperaturen lässt die Konzentration bei langen Fahrten nach und die Unfallzahlen steigen. Welche Maßnahme ist empfehlenswert, damit Sie auch im Hochsommer aufmerksam und sicher fahren?**
 
 **Optionen:**
@@ -5180,6 +5656,8 @@ Bei hohen Temperaturen solltest du ausreichend Flüssigkeit zu dir nehmen und re
 #### Frage 1.1.10-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Bei welchem körperlichen Anzeichen sollten Sie kein Kraftfahrzeug führen?**
 
@@ -5209,6 +5687,8 @@ Schwindel, Übelkeit und Fieber beeinträchtigen unter anderem deine Konzentrati
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Die Teilnahme am Straßenverkehr erfordert ständige Vorsicht und gegenseitige Rücksicht. Was bedeutet das für Sie?**
 
 **Optionen:**
@@ -5228,6 +5708,8 @@ Rechnen Sie stets mit den Fehlern anderer wie auch mit Ihren eigenen. Fahren Sie
 #### Frage 1.2.01-003
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Gegenüber welchen Verkehrsteilnehmern müssen Sie sich besonders vorsichtig verhalten?**
 
@@ -5252,6 +5734,8 @@ Sie müssen sich gegenüber folgenden Verkehrsteilnehmern besonders vorsichtig v
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wozu darf der rechte Seitenstreifen benutzt werden?**
 
 ![Question Image](images/1_2_02-101-B.png)
@@ -5274,6 +5758,8 @@ Der rechte Seitenstreifen darf in folgenden Fällen benutzt werden: 1. zum Halte
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie haben sich irrtümlich links eingeordnet, möchten aber nach rechts abbiegen. Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/1_2_02-104-M.png)
@@ -5295,6 +5781,8 @@ Bei einer durchgezogenen Linie als Fahrstreifenbegrenzung dürfen Sie auf keinen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Kraftfahrzeuge müssen auf einer Landstraße möglichst den befestigten Seitenstreifen benutzen?**
 
 **Optionen:**
@@ -5314,6 +5802,8 @@ Langsam fahrende Fahrzeuge wie Traktoren, Mopeds müssen den Seitenstreifen benu
 #### Frage 1.2.02-107
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie sollten Sie sich in dieser Situation verhalten?**
 
@@ -5338,6 +5828,8 @@ In einer Straße, in der an beiden Seiten Fahrzeuge parken, ist der Bewegungsrad
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Ihnen kommt eine Pferdekutsche entgegen. Wie sollten Sie sich verhalten?**
 
 **Optionen:**
@@ -5357,6 +5849,8 @@ Fahren Sie möglichst weit rechts, wenn Sie einer Pferdekutsche begegnen. Hupen 
 #### Frage 1.2.02-109
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was ist in dieser Situation richtig?**
 
@@ -5379,6 +5873,8 @@ Beim Verkehrszeichen „Kreuzung oder Einmündung mit Vorfahrt von rechts” mü
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was müssen Sie beim Überqueren einer Vorfahrtstraße beachten?**
 
 **Optionen:**
@@ -5400,6 +5896,8 @@ Beim Überqueren einer Vorfahrtstraße müssen Sie beachten: 1. die Breite der V
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten eine Autobahn benutzen. Welche bauartbedingte Höchstgeschwindigkeit muss hierfür in der Zulassungsbescheinigung Teil I oder in der Betriebserlaubnis eingetragen sein?**
 
 **Optionen:**
@@ -5415,6 +5913,8 @@ In der Zulassungsbescheinigung Teil I oder der Betriebserlaubnis muss eine bauar
 #### Frage 1.2.02-201
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Sie fahren innerorts auf einem Radweg, der für Mofas freigegeben ist. Womit sollten Sie rechnen?**
 
@@ -5440,6 +5940,8 @@ Wenn du innerorts auf einem Radweg fährst, solltest du mit allem rechnen. Türe
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was verlängert den Bremsweg?**
 
 **Optionen:**
@@ -5460,6 +5962,8 @@ Der Bremsweg eines Fahrzeugs verlängert sich: 1. bei Gefälle, 2. bei nasser od
 #### Frage 1.2.03-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wovon ist der Bremsweg abhängig?**
 
@@ -5482,6 +5986,8 @@ Der Bremsweg Ihres Fahrzeugs ist von der Bereifung, der Bremsanlage sowie dem Fa
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche zulässige Höchstgeschwindigkeit gilt allgemein innerhalb geschlossener Ortschaften?**
 
 **Optionen:**
@@ -5499,6 +6005,8 @@ Wird diese Geschwindigkeit überschritten, ist es Ihnen nicht mehr möglich, die
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie verdoppeln Ihre Geschwindigkeit. Wie verändert sich der Bremsweg?**
 
 **Optionen:**
@@ -5514,6 +6022,8 @@ Von Ihrer Geschwindigkeit: Bei doppelter Geschwindigkeit wird der Bremsweg vierm
 #### Frage 1.2.03-103
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie bei der Wahl Ihrer Geschwindigkeit berücksichtigen?**
 
@@ -5536,6 +6046,8 @@ Sie dürfen Ihr Fahrzeug maximal mit der rechtlich zulässigen Höchstgeschwindi
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Nach welcher Faustformel kann man aus der Geschwindigkeit den Weg in Metern ermitteln, den ein Fahrzeug in einer Sekunde zurücklegt?**
 
 **Optionen:**
@@ -5554,6 +6066,8 @@ Anhand folgender Faustformel errechnen Sie aus der Geschwindigkeit den Weg in Me
 #### Frage 1.2.03-105
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Nach welcher Faustformel kann man aus der Geschwindigkeit den Bremsweg in Metern bei einer normalen Bremsung berechnen?**
 
@@ -5574,6 +6088,8 @@ Der Bremsweg ist die Strecke, die Sie vom Beginn der Bremsung bis zum Stillstand
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren mit 30 km/h. Dabei beträgt der Bremsweg bei einer normalen Bremsung 9 Meter nach der Faustformel. Wie lang ist der Bremsweg unter gleichen Bedingungen bei 60 km/h?**
 
 **Optionen:**
@@ -5592,6 +6108,8 @@ Verdoppeln Sie Ihre Geschwindigkeit auf 60 km/h, wird sich der Bremsweg vervierf
 #### Frage 1.2.03-107
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie fahren auf einer gut ausgebauten Straße, auf der Gegenverkehr ungehindert an Ihnen vorbeifahren kann. Innerhalb welcher Strecke müssen Sie in jedem Fall anhalten können?**
 
@@ -5615,6 +6133,8 @@ Du musst innerhalb der von dir übersehbaren Strecke anhalten können, falls pl�
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Wovon hängt der einzuhaltende Abstand zum vorausfahrenden Fahrzeug ab?**
 
 **Optionen:**
@@ -5635,6 +6155,8 @@ Der Abstand zum Vorderfahrzeug ist von der Geschwindigkeit sowie den Sicht- und 
 #### Frage 1.2.04-102
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich richtig?**
 
@@ -5660,6 +6182,8 @@ Wenn ein Fahrer vor Ihnen plötzlich einschert und den Sicherheitsabstand zwisch
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/1_2_04-103.png)
@@ -5682,6 +6206,8 @@ Wenn Sie von einem Pkw überholt werden, dürfen Sie Ihr Tempo nicht erhöhen. S
 #### Frage 1.2.04-104
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wozu kann ein ausreichender Abstand zum vorausfahrenden Fahrzeug beitragen?**
 
@@ -5706,6 +6232,8 @@ Sie sollten stets einen genügend großen Sicherheitsabstand zum vor Ihnen fahre
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten außerorts Radfahrer oder Fußgänger überholen. Welchen seitlichen Mindestabstand müssen Sie dabei einhalten?**
 
 **Optionen:**
@@ -5721,6 +6249,8 @@ Außerorts beträgt der einzuhaltende Mindestabstand bei Fußgängern, Radfahrer
 #### Frage 1.2.05-004
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie möchten innerorts einen Radfahrer überholen. Welchen seitlichen Mindestabstand müssen Sie dabei einhalten?**
 
@@ -5738,6 +6268,8 @@ Beim Überholen musst du genügend Seitenabstand einhalten, um die Verkehrsteiln
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten innerorts einen Elektroroller überholen. Welchen seitlichen Mindestabstand müssen Sie dabei einhalten?**
 
 **Optionen:**
@@ -5753,6 +6285,8 @@ Beim Überholen musst du genügend Seitenabstand einhalten, um die Verkehrsteiln
 #### Frage 1.2.05-101
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wo ist das Überholen verboten?**
 
@@ -5774,6 +6308,8 @@ Beim Überholen musst du genügend Seitenabstand einhalten, um die Verkehrsteiln
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was ist Voraussetzung für das Ausscheren zum Überholen?**
 
 **Optionen:**
@@ -5794,6 +6330,8 @@ Für das Ausscheren zum Überholen gilt: Sie müssen sich durch einen Spiegel- u
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie müssen Sie einen Überholvorgang beenden?**
 
 **Optionen:**
@@ -5813,6 +6351,8 @@ Als Überholender müssen Sie sich so bald wie möglich wieder rechts einordnen.
 #### Frage 1.2.05-105
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist über die Geschwindigkeit beim Überholvorgang vorgeschrieben?**
 
@@ -5835,6 +6375,8 @@ Sie dürfen nur dann ein vor Ihnen fahrendes Fahrzeug überholen, wenn Sie deutl
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie müssen Sie sich verhalten, wenn Sie überholt werden?**
 
 **Optionen:**
@@ -5855,6 +6397,8 @@ Fahren Sie möglichst weit rechts, um den Gegenverkehr und das überholende Fahr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Auf welcher Seite ist eine Straßenbahn zu überholen, die in der Mitte der Fahrbahn fährt (keine Einbahnstraße)?**
 
 **Optionen:**
@@ -5873,6 +6417,8 @@ Straßenbahnen müssen prinzipiell rechts überholt werden. Versperren hier park
 #### Frage 1.2.05-108
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **In welchen Fällen dürfen Sie eine Straßenbahn links überholen?**
 
@@ -5894,6 +6440,8 @@ Schienenfahrzeuge wie Straßenbahnen dürfen Sie grundsätzlich nur rechts über
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Fahrzeuge dürfen nur mit besonders großem Seitenabstand überholt werden?**
 
 **Optionen:**
@@ -5913,6 +6461,8 @@ Beim Überholen müssen Sie stets ausreichenden Abstand zu den Verkehrsteilnehme
 #### Frage 1.2.05-110
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **In welchen Fällen müssen Sie blinken?**
 
@@ -5934,6 +6484,8 @@ Wann immer Sie einen Spurwechsel vornehmen oder abbiegen wollen, müssen Sie bli
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wo ist das Überholen verboten?**
 
 **Optionen:**
@@ -5953,6 +6505,8 @@ Beim Überholen müssen Sie gefährliche Situationen für andere Verkehrsteilneh
 #### Frage 1.2.05-116
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie fahren ein langsameres Fahrzeug auf einer Landstraße. Wie können Sie schnelleren Fahrzeugen das Überholen ermöglichen?**
 
@@ -5975,6 +6529,8 @@ Um schnelleren Fahrzeugen das Überholen auf einer Landstraße zu ermöglichen, 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was müssen Sie beim Überholen hinsichtlich des Abstandes beachten?**
 
 **Optionen:**
@@ -5994,6 +6550,8 @@ Beim Überholen müssen Sie auf ausreichenden Seitenabstand zu anderen Verkehrst
 #### Frage 1.2.05-119
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Woran können Sie erkennen, dass eine Pferdekutsche die Fahrtrichtung ändern möchte?**
 
@@ -6016,6 +6574,8 @@ Dass eine Pferdekutsche die Fahrtrichtung ändern möchte, erkennen Sie an einem
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten eine Pferdekutsche auf einer Landstraße überholen. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -6035,6 +6595,8 @@ Fahren Sie mit angepasster Geschwindigkeit und mit möglichst viel Abstand an de
 #### Frage 1.2.05-121
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten eine Pferdekutsche auf einer Landstraße überholen. Wie verhalten Sie sich?**
 
@@ -6056,6 +6618,8 @@ Wenn Sie eine Pferdekutsche auf einer Landstraße überholen möchten, müssen S
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie fahren mit einem langsamen Fahrzeug auf einer Landstraße. Hinter Ihnen hat sich eine Fahrzeugschlange gebildet. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -6075,6 +6639,8 @@ Eine lange Schlange hinter einem langsam fahrenden Fahrzeug verleitet zu gefähr
 #### Frage 1.2.05-123
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten eine Pferdekutsche auf einer Landstraße überholen. Wie verhalten Sie sich richtig?**
 
@@ -6096,6 +6662,8 @@ Beim Überholen einer Kutsche müssen Sie auf Handzeichen des Kutschers achten, 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Welchen Seitenabstand müssen Sie beim Überholen von Fußgängern und Radfahrern einhalten?**
 
 **Optionen:**
@@ -6115,6 +6683,8 @@ Um Radfahrer und Fußgänger zu schützen müssen Sie innerorts einen Seitenabst
 #### Frage 1.2.05-125-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie in dieser Situation beim Überholen der Radfahrer beachten?**
 
@@ -6138,6 +6708,8 @@ Durch das Pendeln der Radfahrer ist ein größerer Mindestabstand empfehlenswert
 #### Frage 1.2.05-126-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -6165,6 +6737,8 @@ Die Fahrbahnlinie ist durchgezogen. Daher ist hier das Überholen verboten.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Fahrzeug muss warten, wenn eine Baustelle die halbe Fahrbahn blockiert?**
 
 **Optionen:**
@@ -6183,6 +6757,8 @@ Wenn Sie an einem parkenden Auto oder an einer Absperrung auf Ihrer Straßenseit
 #### Frage 1.2.06-002-B
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wer muss warten?**
 
@@ -6203,6 +6779,8 @@ Wenn Sie an einem parkenden Auto oder an einer Absperrung auf Ihrer Straßenseit
 #### Frage 1.2.06-004
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum sollten Sie hier besonders langsam fahren?**
 
@@ -6228,6 +6806,8 @@ Vor Ihnen verengt ein haltender Lkw die Fahrbahn. Die Sicht aufs Verkehrsgescheh
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/1_2_06-005.png)
@@ -6251,6 +6831,8 @@ Sie wollen die am rechten Fahrbahnrand abgestellten Fahrzeuge umfahren. Doch das
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie sollten Sie sich jetzt verhalten?**
 
 ![Question Image](images/1_2_06-006.png)
@@ -6273,6 +6855,8 @@ Ihre Sicht ist durch den Transporter eingeschränkt und Sie können nicht erkenn
 #### Frage 1.2.06-101-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -6298,6 +6882,8 @@ Sie warten bis der Entgegenkommende vorbei gefahren ist, da sich das Hindernis a
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was müssen Sie tun, wenn Sie den Fahrstreifen wechseln wollen?**
 
 **Optionen:**
@@ -6318,6 +6904,8 @@ Setzen Sie den Blinker und vergewissern Sie sich, dass Sie keine anderen Verkehr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Auf nebeneinanderliegenden Fahrstreifen für eine Fahrtrichtung endet ein Fahrstreifen. Sie befinden sich auf dem nicht durchgehend befahrbaren Fahrstreifen. Welches Verhalten ist richtig?**
 
 **Optionen:**
@@ -6336,6 +6924,8 @@ Befindet sich auf einer Fahrbahn ein Hindernis oder verengt sich eine mehrspurig
 #### Frage 1.2.07-104
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich in einem Tunnel mit Gegenverkehr?**
 
@@ -6356,6 +6946,8 @@ In einem Tunnel mit Gegenverkehr müssen Sie sich wie folgt verhalten: Orientier
 #### Frage 1.2.07-105-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -6381,6 +6973,8 @@ Du fährst so nah ans Hindernis wie es nur geht und wechselst erst in ca. 200 m 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Für welche Fälle ist das Reißverschlussverfahren vorgesehen?**
 
 **Optionen:**
@@ -6401,6 +6995,8 @@ Verengt sich die Fahrbahn oder befindet sich ein Hindernis darauf, sodass eine F
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Auf einer Fahrbahn mit mehreren Fahrstreifen für eine Richtung endet ein Fahrstreifen. Wie haben Sie sich auf dem durchgehenden Fahrstreifen zu verhalten?**
 
 **Optionen:**
@@ -6419,6 +7015,8 @@ Sie müssen dem an der Weiterfahrt gehinderten Fahrzeugführer auf dem endenden 
 #### Frage 1.2.07-115
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten geradeaus weiterfahren. Wie sollten Sie sich verhalten?**
 
@@ -6441,6 +7039,8 @@ Endet eine Fahrspur, sollen sich Fahrzeuge erst unmittelbar vor Beginn der Veren
 #### Frage 1.2.07-116
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten an der Kreuzung nach rechts abbiegen. Wie verhalten Sie sich richtig?**
 
@@ -6468,6 +7068,8 @@ Sie müssten auf den rechten Fahrstreifen wechseln, den wartende Fahrzeuge block
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie wollen nach links abbiegen. Wann haben Sie auf den nachfolgenden Verkehr zu achten?**
 
 **Optionen:**
@@ -6486,6 +7088,8 @@ Wenn Sie links abbiegen möchten, müssen Sie dies in einem ersten Schritt durch
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Zwei Fahrzeuge kommen sich entgegen und wollen beide links abbiegen. Wie müssen sie sich im Regelfall verhalten?**
 
 **Optionen:**
@@ -6503,6 +7107,8 @@ Entgegenkommende Fahrzeuge, die jeweils aus ihrer Fahrtrichtung nach links abbie
 #### Frage 1.2.09-010
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Zwei Fahrzeuge kommen sich entgegen und wollen beide links abbiegen. In welchen Fällen müssen Sie darauf verzichten, voreinander links abzubiegen?**
 
@@ -6524,6 +7130,8 @@ In der Regel müssen Sie beim Linksabbiegen vor dem entgegenkommenden Fahrzeug a
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_2_09-012-M.png)
@@ -6543,6 +7151,8 @@ Wenn Sie links abbiegen möchten, haben Sie den entgegenkommenden Fahrzeugen Vor
 #### Frage 1.2.09-013-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welche Fahrlinie müssen Sie zum Linksabbiegen einhalten?**
 
@@ -6564,6 +7174,8 @@ Linksabbieger ordnen sich bis zur Mitte der Fahrbahn ein. Das Fahrzeug darf nich
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten nach links abbiegen. Wann müssen Sie auf den nachfolgenden Verkehr achten?**
 
 **Optionen:**
@@ -6583,6 +7195,8 @@ Beim links abbiegen, solltest du vor dem Abbiegen auf nachfolgenden Verkehr acht
 #### Frage 1.2.09-017
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Zwei Fahrzeuge kommen sich auf einer Kreuzung entgegen. Beide Fahrzeuge möchten jeweils nach links abbiegen. In welchem Ausnahmefall müssen sie hintereinander abbiegen?**
 
@@ -6604,6 +7218,8 @@ Es wird grundsätzlich voreinander abgebogen. Erfordert es die Verkehrslage oder
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Zwei Fahrzeuge kommen sich auf einer Kreuzung entgegen. Beide Fahrzeuge möchten jeweils nach links abbiegen. Wie müssen sich die beiden Fahrer im Regelfall verhalten?**
 
 **Optionen:**
@@ -6622,6 +7238,8 @@ Es wird grundsätzlich voreinander abgebogen.
 #### Frage 1.2.09-019-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie möchten nach links abbiegen. Welche Fahrlinie müssen Sie einhalten?**
 
@@ -6643,6 +7261,8 @@ Verwenden Sie die rechte Fahrlinie. Die linke Fahrlinie ist für den Gegenverkeh
 #### Frage 1.2.09-020-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Welchem Verkehrsteilnehmer müssen Sie hier Vorrang gewähren?**
 
@@ -6669,6 +7289,8 @@ Obwohl deine Ampel Grün zeigt, musst du warten, bis die Fußgängerin die Stra�
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten den Kreisverkehr an dieser Ausfahrt verlassen. Was ist richtig?**
 
 ![Question Image](images/1_2_09-021-M.png)
@@ -6692,6 +7314,8 @@ Du musst also den Radfahrer und den Fußgänger die Fahrbahn überqueren lassen.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten hier nach rechts abbiegen. Was ist richtig?**
 
 ![Question Image](images/1_2_09-022-M.png)
@@ -6713,6 +7337,8 @@ Du musst beide Fußgänger die Fahrbahn überqueren lassen. Sie ändern ihre Bew
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was kann bei mehrspurigem Abbiegen zu besonders gefährlichen Situationen führen?**
 
 **Optionen:**
@@ -6732,6 +7358,8 @@ Fahren Sie mit gemäßigtem Tempo in mehrspurige Abbiegesituationen. Bei zu schn
 #### Frage 1.2.09-103-B
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Alle drei Fahrzeuge wollen links abbiegen. Wer hat sich richtig eingeordnet?**
 
@@ -6754,6 +7382,8 @@ Korrekt hat sich nur der gelbe Pkw eingeordnet. Er ist, wie es das Verkehrsschil
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Nach dem Linksabbiegen wollen Sie sofort rechts abbiegen. Wie ordnen Sie sich ein?**
 
 ![Question Image](images/1_2_09-104-B.png)
@@ -6774,6 +7404,8 @@ Wenn Sie nach dem Linksabbiegen gleich wieder rechts abbiegen möchten, ordnen S
 #### Frage 1.2.09-107-B
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wer muss die Fahrtrichtungsänderung anzeigen?**
 
@@ -6796,6 +7428,8 @@ Die Änderung der Fahrtrichtung muss anzeigen, wer sie ändert. Das gilt unbeseh
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie befinden sich im Kreisverkehr. Was ist zu beachten?**
 
 **Optionen:**
@@ -6816,6 +7450,8 @@ Im Kreisverkehr dürfen Sie nur anhalten, wenn dies aufgrund des Verkehrs unverm
 #### Frage 1.2.09-111
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **In welcher Situation ist Wenden besonders gefährlich?**
 
@@ -6838,6 +7474,8 @@ Beim Wenden kann es bei schlechter Sicht (Nebel) zu gefährlichen Situationen ko
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wer muss blinken?**
 
 ![Question Image](images/1_2_09-112-M.png)
@@ -6859,6 +7497,8 @@ Das Ändern der Fahrtrichtung ist stets durch Betätigung des Fahrtrichtungsanze
 #### Frage 1.2.09-113-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wer muss hier die Fahrtrichtungsänderung anzeigen?**
 
@@ -6883,6 +7523,8 @@ Die Änderung der Fahrtrichtung ist stets frühzeitig mit dem Fahrtrichtungsanze
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wer muss die Fahrtrichtungsänderung anzeigen?**
 
 ![Question Image](images/1_2_09-116-M.png)
@@ -6904,6 +7546,8 @@ Die Absicht, die Fahrtrichtung zu ändern, muss frühzeitig mit dem Fahrtrichtun
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **In welchen Fällen müssen Sie eine Änderung der Fahrtrichtung anzeigen?**
 
 **Optionen:**
@@ -6923,6 +7567,8 @@ Der Blinker muss generell immer dann betätigt werden, sobald sich die Fahrtrich
 #### Frage 1.2.09-119
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie jetzt warten?**
 
@@ -6948,6 +7594,8 @@ Abbieger haben zuvor Fahrzeuge aus der Gegenrichtung vorbeizulassen, auch Fahrra
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten links abbiegen. In welcher Reihenfolge bereiten Sie das Abbiegen vor?**
 
 **Optionen:**
@@ -6966,6 +7614,8 @@ Wenn Sie links abbiegen wollen, bereiten Sie das Abbiegen in folgender Reihenfol
 #### Frage 1.2.09-121
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -6989,6 +7639,8 @@ Vor dem Verkehrszeichen "Halt! Vorfahrt gewähren!", umgangssprachlich Stoppschi
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie haben Sie sich zu verhalten?**
 
 ![Question Image](images/1_2_09-122.png)
@@ -7009,6 +7661,8 @@ Abbieger müssen generell erst entgegenkommende Fahrzeuge vorbeilassen. Dazu zä
 #### Frage 1.2.09-123
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie möchten nach links abbiegen. Wem müssen Sie Vorrang gewähren?**
 
@@ -7031,6 +7685,8 @@ Der einem Linksabbieger entgegenkommende Verkehr hat immer Vorfahrt. Das gilt au
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie wollen links abbiegen. Welche Schwierigkeiten können dabei auftreten?**
 
 **Optionen:**
@@ -7051,6 +7707,8 @@ Beim Linksabbiegen müssen einander entgegenkommende Fahrzeuge voreinander abbie
 #### Frage 1.2.09-125
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie jetzt anhalten?**
 
@@ -7075,6 +7733,8 @@ Sie befinden sich auf einer Vorfahrtsstraße und haben deshalb Vorrang gegenübe
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich hier richtig?**
 
 ![Question Image](images/1_2_09-126.png)
@@ -7098,6 +7758,8 @@ Sie dürfen das Mofa nicht vor dem Bahnübergang überholen. Generell dürfen an
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum müssen Sie jetzt bremsen?**
 
 ![Question Image](images/1_2_09-127.png)
@@ -7120,6 +7782,8 @@ Der Motorradfahrer kommt mit hoher Geschwindigkeit von links. Wahrscheinlich hat
 #### Frage 1.2.09-128-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie vor dem Rechtsabbiegen warten?**
 
@@ -7145,6 +7809,8 @@ Wenn Sie abbiegen möchten, müssen Sie den Verkehrsteilnehmern, die geradeaus u
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Was müssen Sie hier beachten?**
 
 ![Question Image](images/1_2_09-129.png)
@@ -7169,6 +7835,8 @@ Da sich der blaue Pkw bereits im Kreisverkehr befindet, haben Sie ihm gegenüber
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten nach links abbiegen. Welche Fahrlinie müssen Sie einhalten?**
 
 ![Question Image](images/1_2_09-130-M.png)
@@ -7190,6 +7858,8 @@ Da Sie sich auf einer Einbahnstraße befinden, müssen Sie keinen Gegenverkehr b
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **[Der Radfahrer] möchte geradeaus fahren. Wie verhalten Sie sich hier richtig?**
 
 ![Question Image](images/1_2_09-131-M.png)
@@ -7209,6 +7879,8 @@ Fahrzeuge, die abbiegen möchten, haben Fahrräder, die in eigener Fahrtrichtung
 #### Frage 1.2.09-132-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie in dieser Situation mit dem Abbiegen warten?**
 
@@ -7234,6 +7906,8 @@ Hier musst du auf die Abbiege Regeln achten. Warte wegen des Lkws und wegen des 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wer muss in dieser Situation blinken?**
 
 ![Question Image](images/1_2_09-133-M.png)
@@ -7255,6 +7929,8 @@ Sie und der blaue Pkw ändern die Fahrrichtung aus diesem Grund müssen Sie die 
 #### Frage 1.2.09-134-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -7280,6 +7956,8 @@ Das Motorrad hinter dir hat bereits auf den linken Fahrstreifen gewechselt und w
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum dürfen Sie jetzt nicht abbiegen?**
 
 ![Question Image](images/1_2_09-135-M.png)
@@ -7302,6 +7980,8 @@ Auf einer Kreuzung haben Geradeausfahrer Vorfahrt. Du musst mit dem Abbiegen war
 #### Frage 1.2.09-136-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie in dieser Situation rechnen?**
 
@@ -7326,6 +8006,8 @@ Der blaue Pkw fährt an dem haltenden Bus vorbei und will eventuell gerade aus w
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum müssen Sie jetzt anhalten?**
 
 ![Question Image](images/1_2_09-137-M.png)
@@ -7348,6 +8030,8 @@ Im tote Winkel befindet sich ein Elektroroller, daher musst du anhalten, um ihn 
 #### Frage 1.2.09-138-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -7373,6 +8057,8 @@ Der Geradeausverkehr hat immer Vorrang, egal ob der Fahrradfahrer auf der Straß
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Warum müssen Sie jetzt warten?**
 
 ![Question Image](images/1_2_09-201-M.png)
@@ -7395,6 +8081,8 @@ Weil du nach links abbiegen möchtest, solltest du wegen der Straßenbahn warten
 #### Frage 1.2.09-202-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Warum müssen Sie in dieser Situation mit dem Rechtsabbiegen warten?**
 
@@ -7420,6 +8108,8 @@ Beim Abbiegen müssen Sie dem Längsverkehr Vorrang gewähren, aus diesem Grund 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Warum dürfen Sie jetzt nicht abbiegen?**
 
 ![Question Image](images/1_2_09-203-M.png)
@@ -7442,6 +8132,8 @@ Der rote Pkw befindet sich noch in seinem Überholvorgang und hat eine deutlich 
 #### Frage 1.2.09-204-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?**
 
@@ -7466,6 +8158,8 @@ Sie ändern die Fahrtrichtung, daher müssen Sie der Straßenbahn Vorrang gewäh
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?**
 
 ![Question Image](images/1_2_09-205-M.png)
@@ -7488,6 +8182,8 @@ Ein Motorrad fährt hinter dem roten Pkw, aufgrund Ihrer Fahrtrichtungsänderung
 #### Frage 1.2.09-206-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Warum müssen Sie jetzt warten?**
 
@@ -7516,6 +8212,8 @@ Der blaue Pkw und der Radfahrer fahren beide geradeaus, somit haben sie Vorfahrt
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie kommen aus einer Straße mit abgesenktem Bordstein und wollen in eine andere Straße einbiegen. Von links kommt ein Pkw. Was gilt hier?**
 
 **Optionen:**
@@ -7534,6 +8232,8 @@ Bei einem abgesenkten Bordstein (wie in Wohngebieten häufig) gilt die Regel „
 #### Frage 1.2.10-006-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie möchten aus [der Tankstelle] ausfahren. Was ist richtig?**
 
@@ -7558,6 +8258,8 @@ Das blaue Verkehrsschild mit dem weißen Pfeil bedeutet „vorgeschriebene Fahrt
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich beim Anfahren vom Fahrbahnrand?**
 
 **Optionen:**
@@ -7577,6 +8279,8 @@ Wer sich vom Fahrbahnrand in den Fließverkehr einreihen möchte, muss dies mit 
 #### Frage 1.2.10-104
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie möchten aus einem verkehrsberuhigten Bereich in eine Straße einfahren. Wie müssen Sie sich verhalten?**
 
@@ -7598,6 +8302,8 @@ Wenn Sie aus einem verkehrsberuhigten Bereich in eine andere Straße einfahren, 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie wollen aus einem verkehrsberuhigten Bereich in eine Straße einfahren. Von links kommen Radfahrer. Wer muss warten?**
 
 **Optionen:**
@@ -7616,6 +8322,8 @@ Wenn Sie aus einem verkehrsberuhigten Bereich in eine Straße einfahren, ist die
 #### Frage 1.2.10-106
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie wollen aus einem Grundstück nach rechts in eine Straße einbiegen. Von links kommen Radfahrer. Wer muss warten?**
 
@@ -7636,6 +8344,8 @@ An Grundstücksausfahrten müssen Sie grundsätzlich warten und allen anderen Ve
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie wollen aus einem Grundstück über den Gehweg auf die Fahrbahn einbiegen. Worauf müssen Sie achten?**
 
 **Optionen:**
@@ -7655,6 +8365,8 @@ Um von einem Grundstück über den Gehweg auf die Fahrbahn einzubiegen, müssen 
 #### Frage 1.2.10-108
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten aus dem Grundstück ausfahren. Was ist richtig?**
 
@@ -7677,6 +8389,8 @@ Möchten Sie aus einer Grundstücksausfahrt herausfahren, haben Sie gegenüber a
 #### Frage 1.2.10-109
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten mit Ihrem Fahrzeug aus einer Parklücke in den fließenden Verkehr einfahren. Wie müssen Sie sich verhalten?**
 
@@ -7702,6 +8416,8 @@ Beim Ausparken dürfen Sie andere Verkehrsteilnehmer keinesfalls gefährden. Set
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Bei stockendem Verkehr müssen bestimmte Bereiche freigehalten werden. Welche sind dies?**
 
 **Optionen:**
@@ -7722,6 +8438,8 @@ Bei stockendem Verkehr müssen – beispielsweise für Einsatzfahrzeuge – folg
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Bei stockendem Verkehr müssen bestimmte Bereiche freigehalten werden. Welche sind dies?**
 
 **Optionen:**
@@ -7741,6 +8459,8 @@ Bei stockendem Verkehr dürfen Sie erst in Kreuzungen einfahren, wenn Sie sie z�
 #### Frage 1.2.11-005-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich?**
 
@@ -7763,6 +8483,8 @@ Aufgrund des Verkehrsschildes müssen Sie hier warten. Der rote Pfeil in Ihrer F
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Bereiche im Straßenverkehrsraum müssen bei stockendem Verkehr frei gehalten werden?**
 
 **Optionen:**
@@ -7782,6 +8504,8 @@ Der Fußgängerüberweg („Zebrastreifen“) soll Fußgängern das sichere und 
 #### Frage 1.2.11-007-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie möchten geradeaus weiterfahren. Was ist in dieser Situation richtig?**
 
@@ -7806,6 +8530,8 @@ Daher musst du warten bis alle Fahrzeuge an dir vorbeigefahren sind und solange 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten geradeaus weiterfahren. Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/1_2_11-103-M.png)
@@ -7827,6 +8553,8 @@ Der vorausfahrende Pkw behindert Sie auf Ihrer Fahrspur. Trotzdem sollten Sie vo
 #### Frage 1.2.11-104
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich?**
 
@@ -7851,6 +8579,8 @@ Führen Straßenbahnschienen durch die Linksabbiegerspur und Sie wollen bei hera
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_2_11-105.png)
@@ -7873,6 +8603,8 @@ Fährt vor Ihnen ein Fahrradfahrer, der nach links ausscheren wird, dürfen Sie 
 #### Frage 1.2.11-107
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Welches Verhalten ist richtig?**
 
@@ -7897,6 +8629,8 @@ Auf Ihrer Seite gibt es eine Fahrbahnverengung. Der Fahrradfahrer wird daher nac
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **In welchen Fällen dürfen Sie nicht in eine Kreuzung einfahren, obwohl die Ampel „Grün“ zeigt?**
 
 **Optionen:**
@@ -7917,6 +8651,8 @@ In folgenden Fällen dürfen Sie nicht in eine Kreuzung einfahren, obwohl die Am
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **In welchen Fällen dürfen Sie in eine Kreuzung nicht einfahren, obwohl Sie Vorfahrt haben?**
 
 **Optionen:**
@@ -7936,6 +8672,8 @@ Bei stockendem Verkehr dürfen Sie auch bei grüner Ampel oder Vorfahrt nur dann
 #### Frage 1.2.11-110-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie hier verzögern und bremsbereit sein?**
 
@@ -7959,6 +8697,8 @@ Wegen des Fußgängers müssen Sie nicht langsamer fahren, er ist weit genug von
 #### Frage 1.2.11-111
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum müssen Sie weiterhin bremsen?**
 
@@ -7984,6 +8724,8 @@ Dem blauen Lkw kommt ein Müllauto entgegen und zwingt ihn zum Anhalten. Da das 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten geradeaus fahren. Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/1_2_11-112.png)
@@ -8006,6 +8748,8 @@ Bei stockendem Verkehr dürfen Sie trotz grüner Ampel oder Vortritt keine Kreuz
 #### Frage 1.2.11-113-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wann dürfen Sie losfahren?**
 
@@ -8031,6 +8775,8 @@ Der Lkw hat per Lichthupe signalisiert, dass er auf seine Vorfahrt verzichtet. D
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wann dürfen Sie abbiegen?**
 
 ![Question Image](images/1_2_11-114-M.png)
@@ -8055,6 +8801,8 @@ Da du nach links abbiegen möchtest hat der Gegenverkehr Vorrang. Erst wenn der 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Führerscheinklasse GM
+
 **Sie möchten geradeaus fahren. Wie sollten Sie sich verhalten, wenn der [rote] Lkw bei „Grün“ sofort losfährt?**
 
 ![Question Image](images/1_2_11-201-M.png)
@@ -8076,6 +8824,8 @@ Du solltest hier warten und den Lkw losfahren lassen und gegebenenfalls Warnzeic
 #### Frage 1.2.11-202-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Sie möchten geradeaus fahren. Wo sollten Sie sich in dieser Situation positionieren?**
 
@@ -8103,6 +8853,8 @@ Der Lkw schert aus zum Rechtabbiegen, warten Sie bis der Abbiegevorgang abgeschl
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wo ist das Halten verboten?**
 
 **Optionen:**
@@ -8129,6 +8881,8 @@ unübersichtliche Kurven
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wo ist das Parken verboten?**
 
 **Optionen:**
@@ -8148,6 +8902,8 @@ Sobald Sie Ihr Fahrzeug länger als drei Minuten nicht verkehrsbedingt anhalten 
 #### Frage 1.2.12-103
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wo ist das Halten verboten?**
 
@@ -8177,6 +8933,8 @@ Achten Sie auf Zweiradfahrer!
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wo ist das Halten verboten?**
 
 **Optionen:**
@@ -8195,6 +8953,8 @@ Auf und bis fünf Meter vor einem Fußgängerüberweg dürfen Sie nicht halten, 
 #### Frage 1.2.12-105
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wo ist das Parken verboten?**
 
@@ -8216,6 +8976,8 @@ Sie dürfen dort nicht am Fahrbahnrand parken, wo Sie gekennzeichnete Parkfläch
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wo dürfen Sie in Fahrtrichtung links parken?**
 
 **Optionen:**
@@ -8235,6 +8997,8 @@ Parken dürfen Sie nur in Fahrtrichtung auf der rechten Fahrbahnseite. Das gilt 
 #### Frage 1.2.12-107
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wer parkt?**
 
@@ -8256,6 +9020,8 @@ Hält der/die Kfz-FahrerIn das Fahrzeug bewusst an und verweilt länger als drei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Welcher Mindestabstand muss vor einem Fußgängerüberweg beim Halten oder Parken eingehalten werden?**
 
 **Optionen:**
@@ -8271,6 +9037,8 @@ Auf einem Fußgängerüberweg und bis 5 m vor ihm besteht ein absolutes Halte- u
 #### Frage 1.2.12-109
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **In welchem Bereich vor und hinter Kreuzungen und Einmündungen ist das Parken verboten?**
 
@@ -8289,6 +9057,8 @@ Bei einem Abstand von 5 Metern vor und hinter einer Kreuzung/ Einmündung kann e
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie weit muss man beim Parken außerorts vom Andreaskreuz mindestens entfernt bleiben?**
 
 **Optionen:**
@@ -8305,6 +9075,8 @@ Dementsprechend darf die Sicht auf den Bahnübergang nicht behindert werden und 
 #### Frage 1.2.12-111
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie wollen innerorts vor einem Andreaskreuz parken. Welche Entfernung müssen Sie mindestens einhalten?**
 
@@ -8323,6 +9095,8 @@ Um die Sicht auf die Bahnstrecke nicht zu verdecken, muss hier ein Sicherheitsab
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie weit vor und hinter einem Haltestellenschild dürfen Sie nicht parken?**
 
 **Optionen:**
@@ -8339,6 +9113,8 @@ Das Parkverbot von 15 Metern vor und hinter dem Haltestellenschild soll es dem �
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **An Haltestellen darf nur gehalten werden, wenn Busse nicht behindert werden. Wie lange dürfen Sie dort höchstens halten?**
 
 **Optionen:**
@@ -8354,6 +9130,8 @@ Die Haltedauer beschränkt sich auf höchstens 3 Minuten. Wird ein Fahrzeug län
 #### Frage 1.2.12-118
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Welche Fahrzeuge dürfen neben anderen Fahrzeugen in zweiter Reihe halten?**
 
@@ -8372,6 +9150,8 @@ Auch mit eingeschalteter Warnblinkanlage ist das Halten in zweiter Reihe nur Tax
 #### Frage 1.2.12-120-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wer hält falsch?**
 
@@ -8394,6 +9174,8 @@ Auf dem befestigten Seitenstreifen ist das Halten des rechten Fahrzeugs erlaubt.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Wer parkt falsch?**
 
 ![Question Image](images/1_2_12-121-M.png)
@@ -8415,6 +9197,8 @@ Die durch eine Zickzack-Linie dargestellte Grenzmarkierung verkürzt oder verlä
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wann dürfen Sie nicht auf dem rechten Fahrstreifen parken?**
 
 **Optionen:**
@@ -8435,6 +9219,8 @@ Generell ist Parken verboten, wenn dadurch andere Verkehrsteilnehmer behindert u
 #### Frage 1.2.12-123-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist hier zu beachten?**
 
@@ -8458,6 +9244,8 @@ Halten Sie niemals links von der Fahrbahnmarkierung. Sie würden nachfolgende Fa
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Fahrzeuge dürfen auf Fahrbahnen in zweiter Reihe halten?**
 
 **Optionen:**
@@ -8476,6 +9264,8 @@ In zweiter Reihe dürfen in Ausnahmefällen nur Taxis halten, wenn Fahrgäste ei
 #### Frage 1.2.12-125
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wo ist das Halten verboten?**
 
@@ -8496,6 +9286,8 @@ Sie dürfen weder auf Einfädelungs- noch auf Ausfädelungsstreifen halten. Auch
 #### Frage 1.2.12-126-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wer hält falsch?**
 
@@ -8518,6 +9310,8 @@ Auf Fußgängerüberwegen sowie fünf Meter davor herrscht Halteverbot. Ziel die
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wo dürfen Sie hier parken?**
 
 ![Question Image](images/1_2_12-128-M.png)
@@ -8539,6 +9333,8 @@ In Einbahnstraßen darf nur in eine Richtung gefahren werden. Wenn sie links und
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Rechts neben Ihrer Fahrbahn verläuft ein Radweg. Wie viel Meter vor und hinter einer Kreuzung dürfen Sie nicht parken?**
 
 **Optionen:**
@@ -8554,6 +9350,8 @@ Hier ist das Parken bis zu 8 Meter vor einer Kreuzung und Einmündung verboten.
 #### Frage 1.2.12-130
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Rechts neben Ihrer Fahrbahn verläuft ein Radweg. Wie viel Meter vor und hinter einer Einmündung dürfen Sie nicht parken?**
 
@@ -8571,6 +9369,8 @@ Hier ist das Parken bis zu 8 Meter vor einer Kreuzung und Einmündung verboten.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie suchen nach einer Parkmöglichkeit am rechten Fahrbahnrand. Rechts neben Ihrer Fahrbahn befindet sich kein Radweg. Wie viel Meter vor und hinter einer Kreuzung dürfen Sie nicht parken?**
 
 **Optionen:**
@@ -8586,6 +9386,8 @@ Um die Sicht nicht einzuschränken, darfst du 5 Meter vor und hinter einer Kreuz
 #### Frage 1.2.12-132
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wo ist das Halten verboten?**
 
@@ -8606,6 +9408,8 @@ Vom Halten spricht man, wenn ein Fahrzeug aus nicht verkehrsbedingten Gründen f
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie suchen nach einer Parkmöglichkeit am rechten Fahrbahnrand. Rechts neben der Fahrbahn befindet sich ein Radweg. Wie viel Meter vor einer Kreuzung oder vor einer Einmündung dürfen Sie nicht parken?**
 
 **Optionen:**
@@ -8624,6 +9428,8 @@ Um die Sicht nicht einzuschränken, darfst du 8 Meter vor und hinter einer Kreuz
 #### Frage 1.2.16-001
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Womit müssen Sie rechnen, wenn Sie Warnblinklicht sehen?**
 
@@ -8646,6 +9452,8 @@ Der/die Kfz-FahrerIn muss bei Wahrnehmen eines Warnblinklichts unbedingt besonde
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie sollten Sie sich verhalten, wenn Sie ein Fahrzeug mit Warnblinklicht erkennen?**
 
 **Optionen:**
@@ -8665,6 +9473,8 @@ Eingeschaltetes Warnblinklicht kann viele Gründe und Ursachen haben. Um auf Num
 #### Frage 1.2.16-101
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Zu welchem Zweck darf die Hupe außerorts benutzt werden?**
 
@@ -8686,6 +9496,8 @@ Die Absicht zu überholen dürfen Sie außerorts durch Hupen oder durch die Lich
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Zu welchem Zweck darf die Hupe innerorts benutzt werden?**
 
 **Optionen:**
@@ -8704,6 +9516,8 @@ Innerorts darf die Hupe durch den/die Kfz-FahrerIn nur als Warnsignal beim Vorli
 #### Frage 1.2.16-103
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich bei einer Panne in einem Tunnel?**
 
@@ -8724,6 +9538,8 @@ Im Tunnel sind die Ausweichmöglichkeiten für den nachfolgenden Verkehr gering.
 #### Frage 1.2.16-104
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Beim Befahren eines Tunnels nähern Sie sich einem Stauende. Wie verhalten Sie sich?**
 
@@ -8747,6 +9563,8 @@ Wenn Sie vor sich einen Stau erkennen, ist es wichtig, sofort die Warnblinkleuch
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Worauf müssen Sie bei den Beleuchtungseinrichtungen Ihres Fahrzeugs achten?**
 
 **Optionen:**
@@ -8768,6 +9586,8 @@ Der/die Kfz-FahrerIn muss die Beleuchtungseinrichtungen vorschriftsmäßig am Fa
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wodurch kann auch mit Abblendlicht der Gegenverkehr geblendet werden?**
 
 **Optionen:**
@@ -8788,6 +9608,8 @@ Zu hoch eingestellte Scheinwerfer, falsch eingesetzte Glühlampen oder eine fals
 #### Frage 1.2.17-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie kann verhindert werden, dass der Gegenverkehr mit dem Abblendlicht geblendet wird?**
 
@@ -8813,6 +9635,8 @@ Um den Gegenverkehr nicht zu blenden sollten Sie darauf achten wie Ihr Abblendli
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **An einem Bahnübergang schwenkt ein Bahnbediensteter eine weiß-rot-weiße Fahne. Was bedeutet dies?**
 
 **Optionen:**
@@ -8831,6 +9655,8 @@ Wenn ein Bahnbediensteter eine weiß-rot-weiße Fahne vor einem Bahnübergang sc
 #### Frage 1.2.19-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wann müssen Sie vor einem Bahnübergang warten?**
 
@@ -8853,6 +9679,8 @@ Alle Verkehrsteilnehmer haben vor einem Bahnübergang bei folgenden Situationen 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie nähern sich einem Bahnübergang mit Blinklichtanlage und Halbschranke. Das rote Blinklicht leuchtet auf; die Halbschranke ist noch geöffnet. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -8872,6 +9700,8 @@ Beim Aufleuchten des roten Blinklichts einer Schrankenanlage vor Schienenverkehr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Ein Bahnbediensteter schwenkt an einem Bahnübergang eine rote Leuchte. Was bedeutet dies?**
 
 **Optionen:**
@@ -8890,6 +9720,8 @@ Alle Kfz-FahrerInnen und andere Verkehrsteilnehmer müssen in sicherer Entfernun
 #### Frage 1.2.19-005
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie nähern sich einem Bahnübergang, dessen Schranken geöffnet sind. Wie verhalten Sie sich?**
 
@@ -8911,6 +9743,8 @@ Wenn Sie sich einem Bahnübergang mit geöffneten Schranken nähern, ist nichtsd
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **An der Einfahrt in ein Industriegebiet steht das Andreaskreuz mit dem Zusatzzeichen „Industriegebiet, Schienenfahrzeuge haben Vorrang“. Was haben Sie zu beachten?**
 
 **Optionen:**
@@ -8930,6 +9764,8 @@ Auch wenn sich an den Bahnübergängen im gesamten Industriegebiet keine Schrank
 #### Frage 1.2.19-009
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Die Position der Bahnschranken ändert sich seit längerer Zeit nicht. Wie verhalten Sie sich richtig?**
 
@@ -8954,6 +9790,8 @@ Informiere daher die Polizei über die Störung an der Bahnschranke, damit das P
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren auf einem Waldweg und nähern sich einem Bahnübergang ohne Andreaskreuz. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -8973,6 +9811,8 @@ Auch ohne Andreaskreuz muss ein/eine Kfz-FahrerIn einem Schienenfahrzeug an Feld
 #### Frage 1.2.19-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich an einem Bahnübergang, dessen Schranken geschlossen sind?**
 
@@ -8994,6 +9834,8 @@ An einem Bahnübergang mit geschlossenen Schranken müssen alle Kfz-FahrerInnen 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wann dürfen Sie einen unbeschrankten Bahnübergang mit Blinklichtanlage überqueren, nachdem ein Zug durchgefahren ist?**
 
 **Optionen:**
@@ -9013,6 +9855,8 @@ Sie dürfen den Bahnübergang erst nach dem Erlöschen des roten Blinklichts üb
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie nähern sich einem beschrankten Bahnübergang. Wo müssen Sie warten, wenn Sie bei stockendem Verkehr auf dem Bahnübergang zum Stehen kommen würden?**
 
 **Optionen:**
@@ -9031,6 +9875,8 @@ Ist Ihnen das zügige Überfahren des Bahnübergangs wegen stockendem Verkehr ni
 #### Frage 1.2.19-106-B
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich hier?**
 
@@ -9052,6 +9898,8 @@ Alle Kfz-FahrerInnen und andere VerkehrsteilnehmerInnen müssen in sicherer Entf
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **An einem Bahnübergang - innerorts - ist die Schranke geschlossen. Wo müssen Sie warten?**
 
 **Optionen:**
@@ -9070,6 +9918,8 @@ Lkw und Fahrzeuge mit Anhängern (Fahrzeuge mit über 7,5 t zul. Gesamtmasse) m�
 #### Frage 1.2.19-109
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was bedeutet dieses Verkehrszeichen?**
 
@@ -9094,6 +9944,8 @@ Das Andreaskreuz zeigt an, dass Schienenverkehr hier Vorrang hat. Sie müssen al
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Vor einem Bahnübergang steht vor einer von rechts einmündenden Straße ein rot leuchtendes Lichtzeichen ohne Andreaskreuz. Wo müssen Sie warten?**
 
 ![Question Image](images/1_2_19-110.png)
@@ -9116,6 +9968,8 @@ Bei einem rot leuchtenden Lichtzeichen muss der/die Kfz-FahrerIn auf jeden Fall 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie müssen Sie sich in dieser Situation verhalten?**
 
 ![Question Image](images/1_2_19-111.png)
@@ -9137,6 +9991,8 @@ Der Mitarbeiter der Bahn sichert den Bahnübergang und deswegen solltest du vor 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wer muss an einem Andreaskreuz mit rotem Blinklicht in Form eines Pfeiles nach rechts warten?**
 
 **Optionen:**
@@ -9155,6 +10011,8 @@ Ein Andreaskreuz mit rotem Blinklicht in Form eines rechten Pfeils finden Sie hi
 #### Frage 1.2.19-113
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist diese Verkehrszeichenkombination hin?**
 
@@ -9177,6 +10035,8 @@ Die Verkehrszeichenkombination zeigt Ihnen einen Bahnübergang an. Der/die Kfz-F
 #### Frage 1.2.19-114
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -9201,6 +10061,8 @@ Wenn die Gefahr besteht, dass Sie aufgrund einer Stausituation oder stockendem V
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie nähern sich einem Bahnübergang. Die Schranke beginnt sich zu senken. Wie müssen Sie sich verhalten?**
 
 **Optionen:**
@@ -9219,6 +10081,8 @@ Wenn sich ein/eine Kfz-FahrerIn einer Bahnschranke nähert, die sich senkt, muss
 #### Frage 1.2.19-116
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wo müssen Sie mit technisch ungesicherten Bahnübergängen rechnen?**
 
@@ -9241,6 +10105,8 @@ Ohne eine Schranke oder eine Ampel am Bahnübergang (technisch ungesichert) muss
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten einen Bahnübergang mit geöffneten Schranken überqueren. Was ist richtig?**
 
 **Optionen:**
@@ -9260,6 +10126,8 @@ Auch bei geöffneten Schranken musst du dich Bahnübergängen immer mit Vorsicht
 #### Frage 1.2.19-118-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie müssen Sie sich jetzt verhalten?**
 
@@ -9287,6 +10155,8 @@ Bahnübergänge dürfen nicht überquert werden, wenn die Blinklichter über dem
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **An einer Straßenbahnhaltestelle steigen Fahrgäste auf der Fahrbahn ein und aus. Wie verhalten Sie sich, wenn Sie rechts vorbeifahren wollen?**
 
 **Optionen:**
@@ -9306,6 +10176,8 @@ Fahrgäste der Straßenbahn, die an einer Haltestelle von der Straßenbahn ausst
 #### Frage 1.2.20-003
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich, wenn ein Bus an einer Haltestelle hält und Warnblinklicht eingeschaltet ist?**
 
@@ -9328,6 +10200,8 @@ Ein Bus, der mit eingeschaltetem Warnblinklicht an einer Haltestelle hält, darf
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welchen Fahrzeugen müssen Sie das Abfahren von gekennzeichneten Haltestellen ermöglichen?**
 
 **Optionen:**
@@ -9348,6 +10222,8 @@ Sie müssen Linien- und Schulbusse von gekennzeichneten Haltestellen abfahren la
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Im Gegenverkehr auf derselben Fahrbahn hält ein Linienbus mit eingeschalteter Warnblinkanlage an einer Haltestelle. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -9366,6 +10242,8 @@ Auch wenn sich der Linienbus auf der Seite des Gegenverkehrs befindet, so sind S
 #### Frage 1.2.20-101
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie nähern sich einem Linienbus, der auf Ihrer Fahrbahn in Gegenrichtung an einer Haltestelle hält und Warnblinklicht eingeschaltet hat. Worauf stellen Sie sich ein?**
 
@@ -9386,6 +10264,8 @@ Es ist damit zu rechnen, dass Passanten unachtsam und ohne auf den Verkehr zu ac
 #### Frage 1.2.20-102
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Welches Verhalten ist jetzt richtig?**
 
@@ -9410,6 +10290,8 @@ Sie müssen Ihr Tempo drosseln und zunächst hinter dem Bus bleiben. Solange der
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten an einem Linienbus vorbeifahren, der an einer Haltestelle angehalten hat. Was müssen Sie beachten?**
 
 **Optionen:**
@@ -9431,6 +10313,8 @@ Es ist zulässig, an einem Linienbus, der an einer Haltestelle hält, vorbeizufa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie nähern sich einem Linienbus, der an einer Haltestelle angehalten hat. Worauf müssen Sie beim Vorbeifahren achten?**
 
 **Optionen:**
@@ -9451,6 +10335,8 @@ Sie dürfen an einem Linienbus, einer Straßenbahn oder einem gekennzeichneten S
 #### Frage 1.2.20-105
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf müssen Sie sich einstellen?**
 
@@ -9476,6 +10362,8 @@ Der Ihnen gegenüberstehende Omnibus fährt an. Dabei könnte er auf Ihre Fahrba
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Alle Fahrzeuge stehen schon einige Sekunden an der Kreuzung. Wie sollten Sie sich in dieser Situation verhalten?**
 
 ![Question Image](images/1_2_20-106.png)
@@ -9496,6 +10384,8 @@ Hier gilt die Verkehrsregel „rechts vor links“ und jeder/jede Kfz-FahrerIn m
 #### Frage 1.2.20-107-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -9520,6 +10410,8 @@ Als Kfz-FahrerIn sind Sie zur Rücksichtnahme gegenüber öffentlichen Verkehrsm
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/1_2_20-108-M.png)
@@ -9541,6 +10433,8 @@ Da Fahrgäste einfach auf die Straße treten könnten, solltest du deine Aufmerk
 #### Frage 1.2.20-109-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie in dieser Situation beachten?**
 
@@ -9567,6 +10461,8 @@ Achte daher auf Personen, werde langsamer und halte gegebenenfalls an.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was ist in dieser Situation richtig?**
 
 ![Question Image](images/1_2_20-110-M.png)
@@ -9589,6 +10485,8 @@ Wenn sich Busse mit eingeschaltetem Warnblinklicht im Straßenverkehr bewegen, m
 #### Frage 1.2.20-111-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie in dieser Situation beachten?**
 
@@ -9613,6 +10511,8 @@ Busse an Haltestellen dürfen in Schrittgeschwindigkeit überholt werden, wenn d
 #### Frage 1.2.20-201-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -9640,6 +10540,8 @@ Sie dürfen Passagiere weder behindern noch gefährden. Bleiben Sie deswegen hin
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie weit darf eine Ladung über die Rückstrahler nach hinten höchstens hinausragen, ohne dass eine Kennzeichnung erforderlich ist?**
 
 **Optionen:**
@@ -9655,6 +10557,8 @@ Die Beleuchtung bzw. das Bremslicht signalisiert Ihnen das Ende des Fahrzeugs. D
 #### Frage 1.2.22-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit ist bei Dunkelheit eine Ladung zu kennzeichnen, die mehr als 1 m über die Rückstrahler des Fahrzeugs hinausragt?**
 
@@ -9674,6 +10578,8 @@ Wenn Sie Ladung befördern, welche mehr als 1 m über das Fahrzeugende hinausrag
 #### Frage 1.2.22-104
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was kann schon durch eine 20 %ige Überladung eintreten?**
 
@@ -9696,6 +10602,8 @@ Die gesamte Fahrzeugkonstruktion, das Fahrverhalten und der Schwerpunkt eines Pk
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Bedeutung haben orangefarbene Warntafeln an einem Fahrzeug?**
 
 **Optionen:**
@@ -9714,6 +10622,8 @@ Eine orangefarbene Warntafel kennzeichnet Fahrzeuge, die mit gefährlichen Güte
 #### Frage 1.2.22-107
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was haben Sie zu beachten, wenn Sie Ladung transportieren möchten?**
 
@@ -9735,6 +10645,8 @@ Die Beladung ist sorgfältig vor möglichem Herabfallen zu sichern. Der/die Kfz-
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Ab welcher Höhe darf Ladung bis zu 50 cm nach vorn über Ihr Kraftfahrzeug hinausragen?**
 
 **Optionen:**
@@ -9753,6 +10665,8 @@ Hat Ihr Kraftfahrzeug eine Höhe bis zu 2,5 m, darf die Ladung nach vorne um 50 
 #### Frage 1.2.22-109
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie bei der Beladung Ihres Fahrzeugs beachten?**
 
@@ -9777,6 +10691,8 @@ Beim Beladen Ihres Fahrzeugs dürfen Sie die zulässigen Achslasten nicht übers
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wer ist für den verkehrssicheren Zustand eines zugelassenen Fahrzeugs verantwortlich?**
 
 **Optionen:**
@@ -9797,6 +10713,8 @@ Verantwortlich für den verkehrssicheren Zustand eines Fahrzeugs sind sowohl der
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was müssen Sie tun, wenn Sie unterwegs feststellen, dass Ihr Fahrzeug nicht mehr verkehrssicher ist?**
 
 **Optionen:**
@@ -9816,6 +10734,8 @@ Ist ein Fahrzeug nicht verkehrssicher, muss der/die Kfz-FahrerIn es so schnell w
 #### Frage 1.2.23-003
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welche Mängel an einem Fahrzeug können zu einer Gefährdung des Straßenverkehrs führen?**
 
@@ -9838,6 +10758,8 @@ Abgefahrene Reifen wirken sich negativ auf die Bodenhaftung aus und könnten ein
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie wollen während des Führens eines Fahrzeugs telefonieren. Was ist zu beachten?**
 
 **Optionen:**
@@ -9858,6 +10780,8 @@ Durch das Telefonieren oder die sonstige Bedienung eines Telefons wird der/die K
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten während der Fahrt telefonieren. Was müssen Sie beachten?**
 
 **Optionen:**
@@ -9877,6 +10801,8 @@ Während der Fahrt dürfen Sie nur über eine Freisprecheinrichtung telefonieren
 #### Frage 1.2.23-008
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten ein Kraftfahrzeug auf öffentlichen Straßen in Betrieb nehmen. Was müssen Sie beachten?**
 
@@ -9901,6 +10827,8 @@ Sie dürfen ein Kraftfahrzeug nur dann auf öffentlichen Straßen in Betrieb neh
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was gilt unmittelbar vor und auf Zebrastreifen?**
 
 **Optionen:**
@@ -9921,6 +10849,8 @@ Vor und auf Zebrastreifen herrscht striktes Überholverbot. Das gilt, damit Sie 
 #### Frage 1.2.26-007
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich richtig?**
 
@@ -9945,6 +10875,8 @@ An einem Fußgängerüberweg müssen Sie den Fußgängern das Überqueren der Fa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was gilt in dieser Situation?**
 
 ![Question Image](images/1_2_26-008-M.png)
@@ -9965,6 +10897,8 @@ Sie befinden sich an einem Fußgängerüberweg. In dieser Situation gilt: Vor un
 #### Frage 1.2.26-009-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Womit müssen Sie bei derartigen Querungshilfen rechnen?**
 
@@ -9988,6 +10922,8 @@ Radfahrer und Fußgänger gehen oft davon aus, dass sie Vorrang haben. Seien Sie
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/1_2_26-010-M.png)
@@ -10010,6 +10946,8 @@ Fußgänger haben am Fußgängerüberweg immer vorrang, daher musst du die Fußg
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Die Ampel zeigt „Grün“. Sie wollen rechts abbiegen. Wie verhalten Sie sich gegenüber Personen, welche die Straße überqueren, in die Sie einbiegen möchten?**
 
 **Optionen:**
@@ -10029,6 +10967,8 @@ Will der Fahrer rechts abbiegen und die Ampel signalisiert "Grün", muss er stop
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich gegenüber Personen, welche die Straße überqueren, in die Sie einbiegen möchten?**
 
 **Optionen:**
@@ -10047,6 +10987,8 @@ Möchte ein/e Kfz-FahrerIn in eine Straße einbiegen, die von Fußgängern über
 #### Frage 1.2.26-110-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -10069,6 +11011,8 @@ Der Pkw muss warten, bis die Fußgänger die Straße überquert haben. Möchten 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **In welchen Fällen müssen Sie an einen Fußgängerüberweg besonders vorsichtig heranfahren?**
 
 **Optionen:**
@@ -10090,6 +11034,8 @@ Generell müssen sich Kfz-FahrerInnen einem Fußgängerüberweg vorsichtig nähe
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Ein Fußgängerüberweg ist verschneit; sichtbar ist nur das Hinweiszeichen "Fußgängerüberweg". Ein Fußgänger möchte die Fahrbahn überqueren. Was ist richtig?**
 
 **Optionen:**
@@ -10110,6 +11056,8 @@ Das Hinweiszeichen macht deutlich, dass sich hier ein Fußgängerüberweg befind
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Eine Person will die Fahrbahn auf dem Fußgängerüberweg überqueren. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -10129,6 +11077,8 @@ Fahren Sie mit gemäßigter Geschwindigkeit an den Fußgängerüberweg heran und
 #### Frage 1.2.26-114
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich in dieser Situation?**
 
@@ -10152,6 +11102,8 @@ Wenn an einem Fußgängerüberweg eindeutig ein Fußgänger die Straße überque
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Warum ist eine defensive Fahrweise beim Annähern an Fußgängerüberwege besonders wichtig?**
 
 **Optionen:**
@@ -10172,6 +11124,8 @@ Defensives Annähern und langsames Abbremsen zeigen Fußgängern, dass Sie Ihrer
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren auf einer Straße mit zwei Fahrstreifen in einer Richtung auf dem linken Fahrstreifen. Vor einem ca. 30 m entfernten Fußgängerüberweg hält auf dem rechten Fahrstreifen ein Lkw an. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -10190,6 +11144,8 @@ Vor und auf Fußgängerüberwegen darf in keinem Fall ein Fahrzeug überholt wer
 #### Frage 1.2.26-117
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Ein Radfahrer möchte - ohne abzusteigen - auf einem Fußgängerüberweg die Fahrbahn überqueren. Wie verhalten Sie sich?**
 
@@ -10210,6 +11166,8 @@ Der Radfahrer handelt verkehrswidrig. Er muss vor dem Überqueren des Fußgänge
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Vor Ihnen befindet sich ein Fußgängerüberweg, hinter dem der Verkehr auf Ihrem Fahrstreifen stockt. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -10228,6 +11186,8 @@ Bei stockendem Verkehr dürfen Sie nicht auf einem Fußgängerüberweg anhalten.
 #### Frage 1.2.26-119-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich richtig?**
 
@@ -10253,6 +11213,8 @@ Kommen Ihnen beim Abbiegen Fußgänger, welche die Straße überqueren wollen, e
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie haben ein geparktes Fahrzeug beschädigt. Trotz angemessener Wartezeit ist der Geschädigte nicht erschienen. Was müssen Sie tun?**
 
 **Optionen:**
@@ -10271,6 +11233,8 @@ Nach Hinterlassen der persönlichen Daten am beschädigten Fahrzeug haben Sie ei
 #### Frage 1.2.34-004
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -10296,6 +11260,8 @@ Hat es im Tunnel einen Unfall gegeben und brennt dadurch mindestens ein Auto mit
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Unter welcher Notrufnummer erreichen Sie in Deutschland die Polizei und den Rettungsdienst?**
 
 **Optionen:**
@@ -10315,6 +11281,8 @@ In Deutschland sind Notrufnummern für die Polizei 110 sowie für den Rettungsdi
 #### Frage 1.2.34-006
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie sind an einem Unfall beteiligt. Welches Dokument müssen Sie anderen Unfallbeteiligten auf Verlangen vorweisen?**
 
@@ -10336,6 +11304,8 @@ Bei einem Verkehrsunfall müssen alle Beteiligten auf Verlangen die folgenden Do
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie kommen als Erster an eine Unfallstelle mit Verletzten. Sie sichern die Unfallstelle ab und haben sich einen Überblick verschafft. Was müssen Sie noch tun?**
 
 **Optionen:**
@@ -10355,6 +11325,8 @@ Bevor du dich um die Verletzten kümmerst, musst du den Rettungsdienst alarmiere
 #### Frage 1.2.34-008
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie sind an einem Unfall auf einem Parkplatz beteiligt. Es ist geringer Sachschaden entstanden. Alle Beteiligten sehen von einer Information der Polizei ab. Was ist für die Schadensregulierung jetzt hilfreich?**
 
@@ -10377,6 +11349,8 @@ Du solltest die wichtigsten Angaben mit deinem Unfallgegner austauschen, um in K
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie haben mit Ihrem Fahrzeug ein fremdes geparktes Fahrzeug beschädigt. Trotz angemessener Wartezeit ist der Geschädigte nicht erschienen. Wie verhalten Sie sich jetzt richtig?**
 
 **Optionen:**
@@ -10396,6 +11370,8 @@ Nach StVO § 34 6. a) - 7. darfst du nach einer angemessenen Wartezeit den Unfal
 #### Frage 1.2.34-010
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie sind an einem Unfall mit einem Fahrzeug beteiligt, an dem die dargestellte orangefarbene Tafel angebracht ist. Sie sehen, dass aus dem Fahrzeug eine Flüssigkeit austritt. Wie verhalten Sie sich richtig?**
 
@@ -10421,6 +11397,8 @@ Bei einem Unfall mit einem Gefahrguttransport musst du beim Notruf die Zahlen au
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Unter welcher Notrufnummer erreichen Sie europaweit den Rettungsdienst?**
 
 **Optionen:**
@@ -10436,6 +11414,8 @@ Unter der Rufnummer 112 erreichst du überall in Europa gebührenfrei die Notruf
 #### Frage 1.2.34-102
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie kommen als Erster an eine Unfallstelle mit Verletzten. In welcher Reihenfolge gehen Sie vor?**
 
@@ -10456,6 +11436,8 @@ Die richtige Reihenfolge der notwendigen Handlungsschritte ist: 1. Unfallstelle 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie kommen als Erster an eine Unfallstelle mit Verletzten. Was sollten Sie in der Regel zuerst tun?**
 
 **Optionen:**
@@ -10474,6 +11456,8 @@ Erreichen Sie als Erste/r eine Unfallstelle mit Verletzten, so bewahren Sie eine
 #### Frage 1.2.34-106
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie können Sie auf der Autobahn Hilfe anfordern?**
 
@@ -10496,6 +11480,8 @@ Im Fall einer Panne oder eines Unfalls auf der Autobahn können Sie an der Notru
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie bemerken im Tunnel einen Unfall. Was ist zu tun?**
 
 **Optionen:**
@@ -10515,6 +11501,8 @@ Bei einem Unfall im Tunnel ist der/die Kfz-FahrerIn dazu verpflichtet, sofort di
 #### Frage 1.2.34-110
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie sind an einem Verkehrsunfall beteiligt. Wozu sind Sie verpflichtet?**
 
@@ -10537,6 +11525,8 @@ Ist der Schaden gering, muss der Verursacher des Unfalls sofort zur Seite fahren
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie haben auf einer Landstraße einen Unfall. Wie sichern Sie diese Unfallstelle ab?**
 
 **Optionen:**
@@ -10558,6 +11548,8 @@ Das Einschalten des Warnblinklichts ist die erste Maßnahme, aber unzureichend z
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Woran erkennen Sie den kürzesten Weg zur nächsten Notrufsäule auf Bundesautobahnen?**
 
 **Optionen:**
@@ -10576,6 +11568,8 @@ Sie erkennen den kürzesten Weg zur nächsten Notrufsäule anhand der schwarzen 
 #### Frage 1.2.34-113
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wozu sind Sie verpflichtet, wenn Sie an einem Verkehrsunfall beteiligt sind?**
 
@@ -10597,6 +11591,8 @@ Nach einem Unfall müssen der/die Kfz-FahrerIn und alle anderen Beteiligten anha
 #### Frage 1.2.34-114
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Ein Kraftfahrer hat ein anderes Fahrzeug leicht beschädigt und entfernt sich unerlaubt. Welche Folge kann dies haben?**
 
@@ -10623,6 +11619,8 @@ Nach einer Fahrerflucht können Punkte in Flensburg, ein Fahrverbot von maximal 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Ein Polizeibeamter regelt auf einer Kreuzung den Verkehr, obwohl die Ampeln in Betrieb sind. Was gilt?**
 
 **Optionen:**
@@ -10641,6 +11639,8 @@ Bei der Verkehrsregelung im Straßenverkehr gibt es eine festgelegte Rangordnung
 #### Frage 1.2.36-002
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Ein Polizeibeamter regelt den Verkehr auf einer Kreuzung, an der vorfahrtregelnde Verkehrszeichen aufgestellt sind. Was gilt?**
 
@@ -10661,6 +11661,8 @@ Die Anordnungen und Weisungen des Polizisten haben oberste Priorität. Ihnen ist
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Bedeutung haben Weisungen von Polizeibeamten?**
 
 **Optionen:**
@@ -10679,6 +11681,8 @@ Der/die Kfz-FahrerIn müssen die Zeichen und Weisungen von Polizeibeamten immer 
 #### Frage 1.2.36-004-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -10702,6 +11706,8 @@ Der Polizeibeamte gibt die Verkehrsanweisungen durch seine Körperposition und m
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_2_36-005-B.png)
@@ -10721,6 +11727,8 @@ Der Polizeibeamte regelt den Verkehr mittels Körpergesten. Ein quer zur Fahrtri
 #### Frage 1.2.36-006-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -10742,6 +11750,8 @@ Der/die Kfz-FahrerIn, der/die den Polizisten von der Seite sieht, kann die Kreuz
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Im Rückspiegel sehen Sie auf dem Dach eines unmittelbar hinter Ihnen fahrenden Streifenwagens in roter Leuchtschrift „STOP POLIZEI“. Für wen gilt dies?**
 
 **Optionen:**
@@ -10761,6 +11771,8 @@ Da die Aufforderung nach vorn abgestrahlt wird und Sie sich als nächstes Fahrze
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **An einem direkt vor Ihnen fahrenden Polizeifahrzeug leuchtet „BITTE FOLGEN“ auf. Welche Bedeutung hat dies?**
 
 **Optionen:**
@@ -10779,6 +11791,8 @@ Polizisten ist es erlaubt, Kfz-FahrerInnen zur Durchführung von Verkehrskontrol
 #### Frage 1.2.36-011
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Ein Polizeifahrzeug überholt Sie und schert unmittelbar vor Ihnen ein. Auf dem Dach erscheint in roter Leuchtschrift „BITTE FOLGEN“. Wie müssen Sie sich verhalten?**
 
@@ -10800,6 +11814,8 @@ Das Signal „BITTE FOLGEN“ gilt immer für den/die Kfz-FahrerIn, der/die dem 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Ein Polizeifahrzeug überholt Sie und schert unmittelbar vor Ihnen ein. Auf dem Dach erscheint in roter Leuchtschrift „BITTE FOLGEN“. Für wen gilt dies?**
 
 **Optionen:**
@@ -10818,6 +11834,8 @@ Das Signal „BITTE FOLGEN“ an einem Polizeifahrzeug gilt für das Fahrzeug un
 #### Frage 1.2.36-013
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Aus einem unmittelbar vor Ihnen fahrenden Fahrzeug wird Ihnen mit der „Polizeikelle“ Zeichen gegeben. Was bedeutet dies?**
 
@@ -10838,6 +11856,8 @@ Grundsätzlich hat derjenige/diejenige Kfz-FahrerIn das durch die Polizei gegebe
 #### Frage 1.2.36-014-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -10860,6 +11880,8 @@ Der Polizeibeamte steht hierarchisch an erster Stelle bei der Vorfahrtregelung. 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wer darf zuerst fahren?**
 
 ![Question Image](images/1_2_36-015-M.png)
@@ -10881,6 +11903,8 @@ Der Verkehr wird von der Polizei geregelt, daher darf der rote PKW als erstes fa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was ist in dieser Situation richtig?**
 
 ![Question Image](images/1_2_36-016-M.png)
@@ -10901,6 +11925,8 @@ Falls ein Verkehrspolizist den Verkehr regelt, müssen die Anweisungen befolgt w
 #### Frage 1.2.36-101-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was gilt hier?**
 
@@ -10926,6 +11952,8 @@ Die Gestik des Verkehrspolizisten diktiert das Verhalten im Verkehr. Steht der B
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_2_37-002-B.png)
@@ -10948,6 +11976,8 @@ Die Lichtzeichenanlage regelt die Vorfahrt für den geradeaus fahrenden Verkehr.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Die Ampel zeigt gelbes Blinklicht. Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_2_37-004-B.png)
@@ -10967,6 +11997,8 @@ Das gelbe Blinklicht zeigt an, dass die Ampel außer Betrieb ist. Stattdessen ge
 #### Frage 1.2.37-007
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was ist bei dieser Ampel mit Grünpfeilschild erlaubt?**
 
@@ -10988,6 +12020,8 @@ Die Zusatztafel mit grünem Pfeil auf schwarzem Hintergrund erlaubt es Ihnen, na
 #### Frage 1.2.37-009
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wo ist bei dieser Ampel mit Grünpfeilschild vor dem Abbiegen nach rechts anzuhalten?**
 
@@ -11011,6 +12045,8 @@ Der/die Kfz-FahrerIn muss an der Haltlinie anhalten. Wenn keine vorhanden ist, d
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich in dieser Situation?**
 
 ![Question Image](images/1_2_37-010-M.png)
@@ -11031,6 +12067,8 @@ Die Ampel hat Vorrang gegenüber anderen Verkehrszeichen und Fahrbahnmarkierunge
 #### Frage 1.2.37-011-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wo müssen Sie warten?**
 
@@ -11053,6 +12091,8 @@ Eine Ampel, die in Betrieb ist, steht in der Rangordnung über Verkehrszeichen, 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was gilt hier?**
 
 ![Question Image](images/1_2_37-012-M.png)
@@ -11073,6 +12113,8 @@ Wenn eine Ampel Rot zeigt, müssen Kfz-FahrerInnen, die geradeaus oder nach link
 #### Frage 1.2.37-013
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich?**
 
@@ -11096,6 +12138,8 @@ Die Ampel springt unmittelbar vor Ihnen von Grün auf Gelb. Ihre Geschwindigkeit
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was gilt hier?**
 
 ![Question Image](images/1_2_37-015.png)
@@ -11116,6 +12160,8 @@ Grundsätzlich müssen Sie als Kfz-FahrerIn beim Linksabbiegen dem Gegenverkehr 
 #### Frage 1.2.37-016
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie wollen an dieser Ampel mit Grünpfeilschild nach rechts abbiegen. Welches Verhalten ist richtig?**
 
@@ -11139,6 +12185,8 @@ Dank des Grünpfeilschildes dürfen Sie an dieser Ampel auch bei rotem Licht abb
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/1_2_37-017.png)
@@ -11160,6 +12208,8 @@ Vor sich sehen Sie eine von Grün auf Gelb wechselnde Ampel. Sie fahren mit 40 k
 #### Frage 1.2.37-018
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -11184,6 +12234,8 @@ Wenn das gelbe Ampellicht blinkt, ist die Lichtzeichenanlage außer Betrieb. Dan
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Unter welchen Umständen dürfen Sie an einer Kreuzung eine rote Ampel überfahren?**
 
 **Optionen:**
@@ -11203,6 +12255,8 @@ Unter folgenden Umständen darfst du eine rote Ampel an einer Kreuzung überfahr
 #### Frage 1.2.37-020-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **An dieser Ampel mit Grünpfeilschild möchten Sie jetzt nach rechts abbiegen. Wie verhalten Sie sich richtig?**
 
@@ -11226,6 +12280,8 @@ Bei einem Grünpfeilschild an einer Ampel, ist es erlaubt eine rote Ampel zu üb
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was gilt an dieser ampelgeregelten Kreuzung mit Zusatzzeichen?**
 
 ![Question Image](images/1_2_37-021.png)
@@ -11246,6 +12302,8 @@ An ampelgeregelten Kreuzungen mit diesem Zusatzzeichen dürfen nur Radfahrer, au
 #### Frage 1.2.37-022-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Die Ampel zeigt schon längere Zeit „Grün“ für Ihre Richtung. Wie verhalten Sie sich jetzt richtig?**
 
@@ -11271,6 +12329,8 @@ Da die Ampel schon längere Zeit grün ist, ist die Wahrscheinlichkeit hoch, das
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie wollen bei „Grün“ nach links abbiegen; links neben Ihnen will eine Straßenbahn geradeaus weiterfahren. Was ist richtig?**
 
 **Optionen:**
@@ -11289,6 +12349,8 @@ Zwar ist durch das Grünlicht der Ampel die Fahrt für Sie freigegeben, jedoch h
 #### Frage 1.2.37-102-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie haben sich versehentlich rechts eingeordnet, obwohl Sie nach links abbiegen möchten. Wie dürfen Sie weiterfahren?**
 
@@ -11312,6 +12374,8 @@ Aufgrund der durchgezogenen Linie dürfen Sie die Fahrspur hier nicht mehr wechs
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/1_2_37-104.png)
@@ -11334,6 +12398,8 @@ Da es sich in dieser Situation um eine Zwei-Phasen-Ampel handelt, gibt es kein g
 #### Frage 1.2.37-201-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -11361,6 +12427,8 @@ Die Ampel ist außer Betrieb, daher gelten die Vorfahrtregelnden Verkehrszeichen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Es nähert sich ein Fahrzeug mit blauem Blinklicht und Einsatzhorn. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -11381,6 +12449,8 @@ Blaues Blinklicht und Einsatzhorn kommen in Notsituationen wie Autounfällen ode
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie hören ein Einsatzhorn. Welche Fragen müssen Sie sich in diesem Moment stellen?**
 
 **Optionen:**
@@ -11400,6 +12470,8 @@ Wenn Sie ein Einsatzhorn hören, sollten Sie zuerst feststellen, aus welcher Ric
 #### Frage 1.2.38-003
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wovor kann gelbes Blinklicht auf einem Fahrzeug warnen?**
 
@@ -11422,6 +12494,8 @@ Ein gelbes Blinklicht warnt vor Gefahren, die besonders vorsichtiges Fahrverhalt
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Was kann es bedeuten, wenn an einem Fahrzeug blaues Blinklicht - jedoch kein Einsatzhorn - eingeschaltet ist?**
 
 **Optionen:**
@@ -11442,6 +12516,8 @@ Ein blaues Blinklicht warnt Sie vor Unfällen oder Einsatzstellen wie beispielsw
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Bedeutung kann das blaue Blinklicht allein (ohne Einsatzhorn) haben?**
 
 **Optionen:**
@@ -11461,6 +12537,8 @@ Ein blaues Blinklicht ohne Einsatzhorn weist auf Unfall- oder andere Einsatzstel
 #### Frage 1.2.38-104
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Hinter Ihnen fährt ein Rettungswagen mit blauem Blinklicht und Einsatzhorn. Wie verhalten Sie sich?**
 
@@ -11491,6 +12569,8 @@ Sie sind verpflichtet, dem Rettungswagen so schnell wie möglich die Durchfahrt 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **An welchen Stellen ohne vorfahrtregelnde Verkehrszeichen gilt die Regel „rechts vor links“?**
 
 **Optionen:**
@@ -11509,6 +12589,8 @@ An Kreuzungen und Einmündungen ohne vorfahrtregelndes Verkehrszeichen gilt „r
 #### Frage 1.3.01-002
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **An welchen Stellen ohne vorfahrtregelnde Verkehrszeichen gilt die Regel „rechts vor links“?**
 
@@ -11529,6 +12611,8 @@ An Kreuzungen und Einmündungen ohne Vorfahrtsschilder haben die von rechts komm
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie kommen an eine Kreuzung, an der Sie die Vorfahrtlage nicht gleich überblicken. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -11547,6 +12631,8 @@ Es gibt Situationen, die bezüglich der Vorfahrtsregelung schwierig zu überblic
 #### Frage 1.3.01-007-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -11570,6 +12656,8 @@ Es gilt, die Rechts-vor-links-Vorfahrtsregelung einzuhalten. Gewähren Sie dem v
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-013-M.png)
@@ -11590,6 +12678,8 @@ Die Vorfahrtsregelung „rechts vor links“ gilt an Kreuzungen und Einmündunge
 #### Frage 1.3.01-016-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -11613,6 +12703,8 @@ Das Verkehrszeichen „Vorfahrt gewähren“ regelt hier die Vorfahrt. Das heiß
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-017-M.png)
@@ -11634,6 +12726,8 @@ Hier gilt das Verkehrszeichen „Vorfahrt an der nächsten Kreuzung oder Einmün
 #### Frage 1.3.01-018-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -11657,6 +12751,8 @@ Das Verkehrszeichen "Vorfahrt gewähren" setzt die Rechts-vor-links-Regelung aus
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-021-M.png)
@@ -11679,6 +12775,8 @@ Das Verkehrszeichen steht für eine „Vorfahrtsstraße“. Sie dürfen deshalb 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich hier richtig?**
 
 ![Question Image](images/1_3_01-034-M.png)
@@ -11700,6 +12798,8 @@ Die Vorfahrtsregel besagt, dass du das gelbe Fahrzeug durchfahren lassen musst.
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-035-M.png)
@@ -11720,6 +12820,8 @@ Da es an dieser Kreuzung keine Beschilderung gibt, die den Vorrang der FahrerInn
 #### Frage 1.3.01-038-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -11743,6 +12845,8 @@ Gemäß der Beschilderung befindet sich der/die MotorradfahrerIn auf der Vorfahr
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wer darf hier zuerst fahren?**
 
 ![Question Image](images/1_3_01-039-M.png)
@@ -11764,6 +12868,8 @@ Der Elektroroller folgt der Vorfahrtstraße und hat somit Vorfahrt.
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist hier richtig?**
 
 ![Question Image](images/1_3_01-040-M.png)
@@ -11784,6 +12890,8 @@ Der grüne und rote PKW befinden sich auf einer abknickenden Vorfahrtsstraße. D
 #### Frage 1.3.01-041-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist hier richtig?**
 
@@ -11807,6 +12915,8 @@ Du und der gelbe PKW befindet sich auf einer abknickenden Vorfahrtsstraße. Der 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-042-M.png)
@@ -11828,6 +12938,8 @@ Das Schild an der Kreuzung zeigt Ihnen an, dass Sie Vorfahrt gewähren müssen. 
 #### Frage 1.3.01-043-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist hier richtig?**
 
@@ -11852,6 +12964,8 @@ Entsprechend der "rechts-vor-links"-Regelung an Kreuzungen darfst du vor dem gel
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist hier richtig?**
 
 ![Question Image](images/1_3_01-044-M.png)
@@ -11873,6 +12987,8 @@ An dieser Kreuzung gilt rechts vor links. Vor daher darfst du als erstes Fahren.
 #### Frage 1.3.01-045-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist hier richtig?**
 
@@ -11897,6 +13013,8 @@ Du musst auch den LKW durchfahren lassen, da du links abbiegen möchtest und der
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-046-M.png)
@@ -11916,6 +13034,8 @@ Sie befinden sich auf der abknickenden Vorfahrtsstraße und folgen ihrem Verlauf
 #### Frage 1.3.01-047-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist hier richtig?**
 
@@ -11939,6 +13059,8 @@ Du fährst auf eine abbiegende Vorfahrtsstraße zu. Da du von einer Nebenstraße
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-048-M.png)
@@ -11959,6 +13081,8 @@ An einer Kreuzung, die keine Verkehrszeichen mit Vorfahrtsregeln aufweist, müss
 #### Frage 1.3.01-049-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -11981,6 +13105,8 @@ Das Verkehrszeichen zeigt Ihnen an, dass Sie sich auf einer Vorfahrtsstraße bef
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-050-M.png)
@@ -12001,6 +13127,8 @@ Wenn Sie auf einer Vorfahrtsstraße unterwegs sind, dürfen Sie grundsätzlich z
 #### Frage 1.3.01-051-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -12024,6 +13152,8 @@ Das bedeutet du musst der Straßenbahn Vorrang gewähren, da diese auf einer Vor
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-052.png)
@@ -12046,6 +13176,8 @@ Aufgrund der Regel "rechts vor links" hätten Sie gegenüber dem grünen Pkw Vor
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten nach rechts in eine Vorfahrtstraße einbiegen. Worauf müssen Sie achten?**
 
 **Optionen:**
@@ -12065,6 +13197,8 @@ Wenn Sie rechts in eine Vorfahrtsstraße einbiegen, müssen Sie sämtlichen Verk
 #### Frage 1.3.01-055-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich richtig?**
 
@@ -12088,6 +13222,8 @@ Da die Vorfahrtsregelung an dieser Kreuzung nicht durch eine entsprechende Besch
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/1_3_01-056-M.png)
@@ -12108,6 +13244,8 @@ An dieser Kreuzung haben Sie Vorfahrt. Darauf weist das Verkehrszeichen hin. Des
 #### Frage 1.3.01-057-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich richtig?**
 
@@ -12131,6 +13269,8 @@ Wenn Sie von einer Vorfahrtsstraße aus nach links abbiegen möchten und neben I
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was gilt in dieser Situation?**
 
 ![Question Image](images/1_3_01-058-M.png)
@@ -12152,6 +13292,8 @@ Sie befinden sich auf einer abknickenden Vorfahrtsstraße, wollen dieser aber ni
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wer darf zuerst fahren?**
 
 ![Question Image](images/1_3_01-059-M.png)
@@ -12172,6 +13314,8 @@ Sie folgen einer abknickenden Vorfahrtsstraße. Daher haben Sie Vorrang vor der 
 #### Frage 1.3.01-060-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -12195,6 +13339,8 @@ Wenn keine vorfahrtregelnden Verkehrszeichen aufgestellt wurden, handelt es sich
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Wer muss warten?**
 
 ![Question Image](images/1_3_01-101-M.png)
@@ -12214,6 +13360,8 @@ Wenn ein Fahrzeug aus einem Feld- oder Waldweg in eine Straße einbiegen möchte
 #### Frage 1.3.01-103-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Welches Verhalten ist richtig?**
 
@@ -12235,6 +13383,8 @@ Wer von rechts kommt, hat an Kreuzungen und Einmündungen Vorfahrt. Denn wenn do
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie wollen nach links abbiegen. Wer muss warten?**
 
 ![Question Image](images/1_3_01-112.png)
@@ -12255,6 +13405,8 @@ Bei Kreuzungen und Einmündungen ohne vorfahrtregelndes Verkehrszeichen gilt die
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-113.png)
@@ -12274,6 +13426,8 @@ Wenn Sie in einen Kreisverkehr einbiegen möchten, werden Sie durch das Verkehrs
 #### Frage 1.3.01-114-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -12297,6 +13451,8 @@ Hier gilt die Vorfahrtsregel „rechts vor links“ und die Abbiegeregelung für
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-115.png)
@@ -12318,6 +13474,8 @@ Wenn ein Verkehrsteilnehmer von rechts kommt, müssen Sie die Vorfahrtsregel „
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-116.png)
@@ -12338,6 +13496,8 @@ An dieser Stelle ist die Vorfahrt nicht durch Verkehrszeichen geregelt. Daher gi
 #### Frage 1.3.01-117-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -12362,6 +13522,8 @@ Ein Fahrzeug, das von links kommt, ist bereits auf der Vorfahrtsstraße. Daher d
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-118-M.png)
@@ -12384,6 +13546,8 @@ Da die Vorfahrt hier nicht durch Verkehrszeichen geregelt ist, müssen Sie die R
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie möchten eine Vorfahrtstraße überqueren. Die Sicht nach beiden Seiten ist durch parkende Fahrzeuge stark eingeschränkt. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -12402,6 +13566,8 @@ Bei eingeschränkter Sicht dürfen Sie nur vorsichtig weiterfahren. Tasten Sie s
 #### Frage 1.3.01-120-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -12425,6 +13591,8 @@ Im Falle einer abknickenden Vorfahrtstraße gibt es eine geregelte Reihenfolge. 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-121-M.png)
@@ -12446,6 +13614,8 @@ Sie befinden sich auf der Vorfahrtsstraße. Der Traktor muss daher warten und Si
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-122-M.png)
@@ -12465,6 +13635,8 @@ Wenn Sie sich an einer Kreuzung befinden und bei Ihnen das Verkehrszeichen „Vo
 #### Frage 1.3.01-123-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten ist richtig?**
 
@@ -12486,6 +13658,8 @@ Sie und ein anderer Verkehrsteilnehmer befinden sich auf einer abknickenden Vorf
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-124-M.png)
@@ -12505,6 +13679,8 @@ Sie wollen eine abknickende Vorfahrtsstraße überqueren. Hier müssen Sie allen
 #### Frage 1.3.01-125-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Welches Verhalten ist richtig?**
 
@@ -12528,6 +13704,8 @@ Ohne zusätzliche vorfahrtregelnde Verkehrszeichen oder Ampeln gilt die generell
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Welches Verhalten ist richtig?**
 
 ![Question Image](images/1_3_01-126-M.png)
@@ -12547,6 +13725,8 @@ Bei dem Verkehrszeichen „Vorfahrt an der nächsten Kreuzung oder Einmündung�
 #### Frage 1.3.01-127-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **In welcher Reihenfolge müssen die Fahrzeuge hier weiterfahren?**
 
@@ -12569,6 +13749,8 @@ Sie befinden sich auf einer abknickenden Vorfahrtsstraße und wollen sie geradea
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Wer darf in dieser Situation zuerst fahren?**
 
 ![Question Image](images/1_3_01-128-M.png)
@@ -12590,6 +13772,8 @@ Die Grundregel "Rechts vor Links" gilt nicht für Fahrzeuge, die aus einem Feld-
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich hier richtig?**
 
 ![Question Image](images/1_3_01-129-M.png)
@@ -12610,6 +13794,8 @@ An Kreuzungen und Einmündungen hat die Vorfahrt, wer von rechts kommt.
 #### Frage 1.3.01-130-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist in dieser Situation richtig?**
 
@@ -12640,6 +13826,8 @@ Durch die Beschilderung erkennst du, dass es sich hier nicht um einen Kreisverke
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
 ![Question Image](images/1_4_40-001.png)
@@ -12661,6 +13849,8 @@ Dieses Verkehrszeichen warnt Sie vor einer kommenden, schwer einsehbaren Kreuzun
 #### Frage 1.4.40-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was müssen Sie bei diesem Verkehrszeichen berücksichtigen?**
 
@@ -12684,6 +13874,8 @@ Dieses Verkehrszeichen warnt Sie vor einem stellenweisen Gefälle von bis zu 10%
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
 ![Question Image](images/1_4_40-004.png)
@@ -12706,6 +13898,8 @@ Bei diesem Verkehrszeichen handelt es sich um ein Gefahrenzeichen: Es warnt Sie 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie sehen dieses Verkehrszeichen. Womit müssen Sie rechnen?**
 
 ![Question Image](images/1_4_40-005.png)
@@ -12727,6 +13921,8 @@ Wenn Sie dieses Verkehrszeichen sehen, müssen Sie als Kfz-FahrerIn mit Gegenver
 #### Frage 1.4.40-006
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verhalten verlangt dieses Verkehrszeichen von Ihnen?**
 
@@ -12751,6 +13947,8 @@ Das Zeichen weist Sie auf eine Schule, einen Kindergarten oder einen Spielplatz 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist diese Kombination von Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_40-008.png)
@@ -12771,6 +13969,8 @@ Das Ausrufezeichen weist Sie auf eine Gefahrenstelle hin. Das Schild mit Reiteri
 #### Frage 1.4.40-009
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist diese Kombination von Verkehrszeichen hin?**
 
@@ -12793,6 +13993,8 @@ Das Ausrufezeichen steht für eine allgemeine Gefahrenwarnung. Die genaue Art de
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit müssen Sie bei diesem Verkehrszeichen rechnen?**
 
 ![Question Image](images/1_4_40-010.png)
@@ -12814,6 +14016,8 @@ Es handelt sich um ein Gefahrzeichen, welches Sie vor einem Fußgängerüberweg 
 #### Frage 1.4.40-011
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?**
 
@@ -12838,6 +14042,8 @@ Dieses Gefahrenschild weist darauf hin, dass hier ein Fußgängerüberweg in nä
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Vor welcher Gefahr warnt Sie dieses Verkehrszeichen?**
 
 ![Question Image](images/1_4_40-012.png)
@@ -12859,6 +14065,8 @@ Dieses Verkehrszeichen warnt vor starken Seitenwind und davor das dein Fahrzeug 
 #### Frage 1.4.40-013
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie fahren auf einer Straße mit einem Fahrstreifen für jede Richtung. Bei welchem Verkehrszeichen müssen Sie dem Gegenverkehr grundsätzlich Vorrang gewähren?**
 
@@ -12888,6 +14096,8 @@ Das Verkehrsschild „dem Gegenverkehr Vorrang gewähren“ zeigt durch den rote
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren außerorts an diesem Verkehrszeichen vorbei. In welcher Entfernung ist die Gefahrstelle zu erwarten?**
 
 ![Question Image](images/1_4_40-101.png)
@@ -12908,6 +14118,8 @@ Das Schild warnt vor einer Gefahrenstelle. Rechnen Sie außerhalb geschlossener 
 #### Frage 1.4.40-103
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf müssen Sie sich bei diesen Verkehrszeichen einstellen?**
 
@@ -12931,6 +14143,8 @@ Sie müssen sich darauf einstellen, dass Ski- und Rodelschlittenfahrer die Fahrb
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
 ![Question Image](images/1_4_40-105.png)
@@ -12953,6 +14167,8 @@ Das Schild warnt Sie vor einer doppelten Kurve. Rechnen Sie zunächst mit einer 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Was kommt nach diesen Verkehrszeichen?**
 
 ![Question Image](images/1_4_40-106.png)
@@ -12973,6 +14189,8 @@ Nach diesem Verkehrszeichen beginnt ein Gefälle von 10 %. Das Zusatzschild info
 #### Frage 1.4.40-107
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
@@ -12995,6 +14213,8 @@ Das Verkehrszeichen informiert über eine starke Steigung von 12 %. Je nach Fahr
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Was müssen Sie tun, wenn Sie sich diesem Verkehrszeichen nähern?**
 
 ![Question Image](images/1_4_40-108.png)
@@ -13015,6 +14235,8 @@ Die Fahrbahn vor Ihnen ist uneben und kann Quer- oder Längsrillen aufweisen. Da
 #### Frage 1.4.40-109
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Welche Gefahren können sich durch Nichtbeachten dieses Verkehrszeichens ergeben?**
 
@@ -13039,6 +14261,8 @@ Durch unangemessene Fahrweise besteht auf diesem Streckenabschnitt Schleudergefa
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wovor warnt dieses Verkehrszeichen?**
 
 ![Question Image](images/1_4_40-112.png)
@@ -13060,6 +14284,8 @@ Die Fahrbahn vor Ihnen weist eine erhöhte Schleudergefahr bei Nässe und/oder S
 #### Frage 1.4.40-114
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
@@ -13083,6 +14309,8 @@ Dieses Verkehrszeichen warnt Kfz-FahrerInnen als Gefahrenzeichen vor einer bevor
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Womit müssen Sie bei diesen Verkehrszeichen rechnen?**
 
 ![Question Image](images/1_4_40-115.png)
@@ -13103,6 +14331,8 @@ Rechnen Sie mit einer verengten Fahrbahn 50 m voraus. Fahren Sie bitte langsam u
 #### Frage 1.4.40-116
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie bei diesem Verkehrszeichen rechnen?**
 
@@ -13127,6 +14357,8 @@ Im Bereich von Baustellen ist damit zu rechnen, dass Baustellenfahrzeuge und Arb
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Womit müssen Sie bei diesem Verkehrszeichen rechnen?**
 
 ![Question Image](images/1_4_40-118.png)
@@ -13149,6 +14381,8 @@ Dieses Verkehrszeichen warnt vor Staubildung auf diesem Streckenabschnitt. Passe
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_40-121.png)
@@ -13169,6 +14403,8 @@ Achten Sie hier bitte auf ein schlecht erkennbares Lichtkennzeichen wie eine Amp
 #### Frage 1.4.40-127
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weisen diese Verkehrszeichen hin?**
 
@@ -13191,6 +14427,8 @@ Achten Sie auf einen unbeschrankten Bahnübergang, wenn Sie an dieser Stelle nac
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_40-130.png)
@@ -13211,6 +14449,8 @@ Die zweistreifige Bake warnt Sie vor einem Bahnübergang in 160 m Entfernung. N�
 #### Frage 1.4.40-131
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -13234,6 +14474,8 @@ Das abgebildete Verkehrszeichen ist eine einstreifige Entfernungsbake. Der einze
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist diese Verkehrszeichenkombination hin?**
 
 ![Question Image](images/1_4_40-132.png)
@@ -13254,6 +14496,8 @@ Etwa 240 m vor Ihnen befindet sich ein Bahnübergang. Vor dieser Gefahrenstelle 
 #### Frage 1.4.40-133
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist diese Verkehrszeichenkombination hin?**
 
@@ -13277,6 +14521,8 @@ Achten Sie in diesem Bereich auf plötzlich auftretende Schnee- oder Eisglätte.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Womit müssen Sie bei dieser Verkehrszeichenkombination rechnen?**
 
 ![Question Image](images/1_4_40-134.png)
@@ -13298,6 +14544,8 @@ Die Verkehrszeichenkombination weist auf Viehtrieb hin, da die Tiere beim Passie
 #### Frage 1.4.40-135
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie bei dieser Verkehrszeichenkombination beachten?**
 
@@ -13321,6 +14569,8 @@ Die Verkehrszeichen warnen Sie vor einem Bahnübergang in 240 m Entfernung. Von 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Was erwartet Sie bei dieser Verkehrszeichenkombination?**
 
 ![Question Image](images/1_4_40-136.png)
@@ -13342,6 +14592,8 @@ Das Verkehrszeichen warnt Sie vor einem Baustellenbereich 100 m voraus. Fahren S
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie passieren diese Verkehrszeichenkombination bei einer Außentemperatur von +3 °C. Wie verhalten Sie sich?**
 
 ![Question Image](images/1_4_40-137.png)
@@ -13362,6 +14614,8 @@ Die Kombination dieser Verkehrszeichen warnt vor plötzlicher Glatteisbildung au
 #### Frage 1.4.40-138
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was sollten Sie bei einer so gekennzeichneten Gefahrenstelle vermeiden?**
 
@@ -13386,6 +14640,8 @@ Die Kombination dieser Verkehrszeichen warnt vor losem Splitt oder Schotter auf 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist diese Verkehrszeichenkombination hin?**
 
 ![Question Image](images/1_4_40-139.png)
@@ -13406,6 +14662,8 @@ In dieser Kombination warnen die Verkehrszeichen Sie vor einer beweglichen Brüc
 #### Frage 1.4.40-140
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Was haben Sie bei dieser Verkehrszeichenkombination zu beachten?**
 
@@ -13428,6 +14686,8 @@ Die Kombination dieser Verkehrszeichen informiert den/die Kfz-FahrerIn, dass die
 #### Frage 1.4.40-141
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was haben Sie bei dieser Verkehrszeichenkombination zu beachten?**
 
@@ -13452,6 +14712,8 @@ Die Kombination dieser Verkehrszeichen warnt vor Steinschlag, d.h. Steine könne
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_40-142.png)
@@ -13472,6 +14734,8 @@ Dieses Verkehrszeichen weist Sie darauf hin, dass Sie in Kürze einen Bahnüberg
 #### Frage 1.4.40-143
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie bei diesem Verkehrszeichen rechnen?**
 
@@ -13496,6 +14760,8 @@ Dieses Verkehrszeichen warnt vor einer scharfen Rechtskurve. Sie sollten darauf 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit müssen Sie bei diesem Verkehrszeichen rechnen?**
 
 ![Question Image](images/1_4_40-144.png)
@@ -13516,6 +14782,8 @@ Dieses Verkehrszeichen warnt davor, dass Radfahrer die Fahrbahn kreuzen und in I
 #### Frage 1.4.40-145
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Womit müssen Sie bei dieser Verkehrszeichenkombination rechnen?**
 
@@ -13539,6 +14807,8 @@ Dieses Verkehrszeichen informiert über Flugbetrieb über der Straße. Plötzlic
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist diese Verkehrszeichenkombination hin?**
 
 ![Question Image](images/1_4_40-146.png)
@@ -13560,6 +14830,8 @@ Diese Kombination von Verkehrszeichen weist auf einen Überweg für Fußgänger 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_40-147.png)
@@ -13580,6 +14852,8 @@ Dieses Schild (dreieckig) weist auf eine Gefahrenstelle im Zusammenhang mit Pfer
 #### Frage 1.4.40-148
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -13603,6 +14877,8 @@ Dieses Verkehrszeichen weist auf Schneeglätte und auf Eisglätte hin.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Womit müssen Sie bei diesem Verkehrszeichen rechnen?**
 
 ![Question Image](images/1_4_40-149.png)
@@ -13624,6 +14900,8 @@ Dieses Verkehrszeichen, weist auf eine stark verschmutze Fahrbahn hin und du mus
 #### Frage 1.4.40-150
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie sollten Sie sich bei einer so gekennzeichneten Gefahrstelle verhalten?**
 
@@ -13648,6 +14926,8 @@ Du solltest hier einen möglichst großen Abstand zum vorausfahrenden Fahrzeug e
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_40-151.png)
@@ -13668,6 +14948,8 @@ Dieses Schild weist auf eine bewegliche Brücke hin.
 #### Frage 1.4.40-152
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Was haben Sie bei diesem Verkehrszeichen zu beachten?**
 
@@ -13690,6 +14972,8 @@ Die Form des Schildes besagt Achtung und der das Bild auf dem Schild worauf zu a
 #### Frage 1.4.40-153
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was haben Sie bei diesem Verkehrszeichen zu beachten?**
 
@@ -13714,6 +14998,8 @@ Achte bitte auf Steine, die auf der Fahrbahn liegen könnten. Das Halten und par
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Womit müssen Sie bei diesem Verkehrszeichen rechnen?**
 
 ![Question Image](images/1_4_40-154.png)
@@ -13737,6 +15023,8 @@ Dieses Schild besagt, dass du mit Ablenkung anderer Verkehrsteilnehmer rechnen m
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_40-155.png)
@@ -13757,6 +15045,8 @@ Dieses Schild (Achtung) weist auf einen Fußgängerüberweg hin.
 #### Frage 1.4.40-156
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Was müssen Sie bei diesem Verkehrszeichen berücksichtigen?**
 
@@ -13779,6 +15069,8 @@ Um die Geschwindigkeit bei dem Gefälle nicht zu überschreiten müssen Sie mög
 #### Frage 1.4.40-157
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Wie verhalten Sie sich bei diesem Verkehrszeichen richtig?**
 
@@ -13804,6 +15096,8 @@ Um die Geschwindigkeit bei der Steigung halten zu können müssen Sie ggf. einen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **In welchem Fall müssen Sie vor diesem Verkehrszeichen warten?**
 
 ![Question Image](images/1_4_41-001.png)
@@ -13827,6 +15121,8 @@ Das Andreaskreuz vor einem Bahnübergang signalisiert Vorfahrt für den Schienen
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
 ![Question Image](images/1_4_41-004.png)
@@ -13848,6 +15144,8 @@ Das Verkehrszeichen „Vorgeschriebene Fahrtrichtung rechts“ gestattet nur das
 #### Frage 1.4.41-005
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
@@ -13871,6 +15169,8 @@ Das Verkehrszeichen „Vorgeschriebene Fahrtrichtung hier links“ erlaubt nur, 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **In welche Richtungen dürfen Sie weiterfahren?**
 
 ![Question Image](images/1_4_41-006.png)
@@ -13893,6 +15193,8 @@ Das Verkehrszeichen „Vorgeschriebene Fahrtrichtung geradeaus und rechts“ ver
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?**
 
 ![Question Image](images/1_4_41-007.png)
@@ -13913,6 +15215,8 @@ Das Verkehrszeichen „Vorgeschriebene Vorbeifahrt“ zeigt an, dass Sie rechts 
 #### Frage 1.4.41-008
 
 **Punkte:** 5 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie nähern sich einer so gekennzeichneten Haltestelle. Wie verhalten Sie sich, wenn Sie dort Kinder sehen?**
 
@@ -13935,6 +15239,8 @@ Bei dieser Haltestelle handelt es sich um eine Bus-Haltestelle, an der zu den an
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was müssen Sie bei diesem Verkehrszeichen beachten?**
 
 ![Question Image](images/1_4_41-010.png)
@@ -13956,6 +15262,8 @@ Das Verkehrszeichen „Fußgängerzone“ verbietet Kraftfahrzeugen die Einfahrt
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Womit darf man hier nicht fahren?**
 
 ![Question Image](images/1_4_41-012.png)
@@ -13976,6 +15284,8 @@ Das Verkehrszeichen „Verbot für Mofas“ gilt nur für Mofas. Es gilt nicht f
 #### Frage 1.4.41-013
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was müssen Sie bei diesem Verkehrszeichen beachten?**
 
@@ -13999,6 +15309,8 @@ Das Verkehrszeichen „Verbot der Einfahrt“ verbietet die Einfahrt in die Stra
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was haben Sie bei diesem Verkehrszeichen zu beachten?**
 
 ![Question Image](images/1_4_41-014.png)
@@ -14019,6 +15331,8 @@ Das Verkehrszeichen „Absolutes Haltverbot“ verbietet jegliches Halten des/de
 #### Frage 1.4.41-015
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was ist bei diesem Verkehrszeichen erlaubt?**
 
@@ -14042,6 +15356,8 @@ Das Verkehrszeichen „Eingeschränktes Haltverbot“ gestattet das Halten von b
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was ist bei diesen Verkehrszeichen erlaubt?**
 
 ![Question Image](images/1_4_41-016.png)
@@ -14063,6 +15379,8 @@ Das Verkehrszeichen „Eingeschränktes Halteverbot“ erlaubt das Halten, um Pe
 #### Frage 1.4.41-017
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was gilt bei dieser Verkehrszeichenkombination?**
 
@@ -14086,6 +15404,8 @@ Das Zusatzzeichen zeigt, dass Radverkehr von links und recht kommen könnte. Ach
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Fahrzeuge dürfen in eine so gekennzeichnete Fahrradstraße einfahren?**
 
 ![Question Image](images/1_4_41-018.png)
@@ -14107,6 +15427,8 @@ Anderer Fahrzeugverkehr als Radverkehr darf Fahrradstraßen nicht benutzen, es s
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was gilt bezüglich gelber Fahrbahnmarkierungen?**
 
 **Optionen:**
@@ -14126,6 +15448,8 @@ Gelbe Fahrbahnmarkierungen werden vorübergehend angebracht um z.B. den Fahrstre
 #### Frage 1.4.41-020-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was gilt in dieser Situation?**
 
@@ -14147,6 +15471,8 @@ Eine Sperrfläche darf grundsätzlich nicht befahren werden.
 #### Frage 1.4.41-021
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welche Fahrzeuge dürfen in eine so gekennzeichnete Zone einfahren?**
 
@@ -14171,6 +15497,8 @@ Das Verkehrsschild zeigt eine Fahrradzone mit dem Zusatzschild Anlieger frei. In
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was müssen Sie innerorts beim Befahren einer Straße mit dieser Verkehrszeichenkombination beachten?**
 
 ![Question Image](images/1_4_41-022.png)
@@ -14192,6 +15520,8 @@ Das Einbahnstraßenschild gilt zwar grundsätzlich auch für Radfahrer, allerdin
 #### Frage 1.4.41-023
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Dieses Verkehrszeichen ist am rechten Fahrbahnrand aufgestellt. Welche Bedeutung hat es?**
 
@@ -14215,6 +15545,8 @@ Das Verkehrszeichen signalisiert absolutes Haltverbot im Bereich vor und hinter 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Dieses Verkehrszeichen ist am rechten Fahrbahnrand aufgestellt. Welche Bedeutung hat es?**
 
 ![Question Image](images/1_4_41-024.png)
@@ -14235,6 +15567,8 @@ Das Verkehrszeichen signalisiert den Beginn eines absoluten Haltverbots ab dem V
 #### Frage 1.4.41-025
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was müssen Sie bei diesem Verkehrszeichen beachten?**
 
@@ -14257,6 +15591,8 @@ Das Verkehrszeichen signalisiert ein absolutes Haltverbot in diesem Bereich. Du 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was ist in dieser Situation richtig?**
 
 ![Question Image](images/1_4_41-026-M.png)
@@ -14277,6 +15613,8 @@ Das Schild zeigt an, dass du dem Gegenverkehr an der Engstelle Vorrang gewähren
 #### Frage 1.4.41-027
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wann dürfen Sie hier halten?**
 
@@ -14300,6 +15638,8 @@ Das absolute Halteverbot gilt nur an Werktagen. An Sonntagen und Feiertagen darf
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was gilt an dieser Kreuzung?**
 
 ![Question Image](images/1_4_41-028-M.png)
@@ -14322,6 +15662,8 @@ Du musst nicht unbedingt am Verkehrsschild „Vorfahrt gewähren“ anhalten und
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-029.png)
@@ -14342,6 +15684,8 @@ Grundsätzlich bedeutet das Verkehrsschild „Verbot für Fahrzeuge aller Art“
 #### Frage 1.4.41-030
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie befahren eine so beschilderte Einbahnstraße. Was ist richtig?**
 
@@ -14365,6 +15709,8 @@ Um beim Linksabbiegen den nachfolgenden Verkehr hinter dir nicht zu behindern, m
 #### Frage 1.4.41-031
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Sie befahren eine Vorfahrtstraße. Welches Verkehrszeichen beendet Ihre Vorfahrt?**
 
@@ -14394,6 +15740,8 @@ Wenn du bisher auf einer Vorfahrtsstraße gefahren bist, weißt dich das Verkehr
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Bei welcher Verkehrsregelung müssen Sie vor dem Rechtsabbiegen grundsätzlich anhalten?**
 
 ![Question Image](images/1_4_41-032.png)
@@ -14421,6 +15769,8 @@ Der „Grünpfeil“ neben dem roten Ampelsignal signalisiert dir, dass du trotz
 #### Frage 1.4.41-033
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Welches Verkehrszeichen verbietet Ihnen das Einfahren in den beschilderten Bereich?**
 
@@ -14450,6 +15800,8 @@ Das Verkehrsschild bedeutet „Einfahren verboten“. Das Einfahren in den besch
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
 ![Question Image](images/1_4_41-102.png)
@@ -14470,6 +15822,8 @@ Die Fahrbahn ist zu eng für zwei Fahrspuren. Das Verkehrszeichen regelt die Vor
 #### Frage 1.4.41-106
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **In welche Richtungen dürfen Sie weiterfahren?**
 
@@ -14493,6 +15847,8 @@ Das Verkehrszeichen „Vorgeschriebene Fahrtrichtung rechts und links“ erlaubt
 
 **Punkte:** 5 Punkte
 
+**Klassen:** Grundstoff
+
 **Etwa 80 m vor Ihnen hält ein Schulbus auf der Fahrbahn. Können daraus Gefahren entstehen?**
 
 ![Question Image](images/1_4_41-109.png)
@@ -14515,6 +15871,8 @@ Wenn in rund 80 m Entfernung vor Ihnen ein Schulbus auf der Fahrbahn hält, müs
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wer darf auf dieser Straße mit einem Kraftfahrzeug fahren?**
 
 ![Question Image](images/1_4_41-114.png)
@@ -14536,6 +15894,8 @@ Die Straße ist ein ausgewiesener Gehweg, versehen mit dem Zusatzschild „Liefe
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Fahrzeuge dürfen den so gekennzeichneten Sonderfahrstreifen benutzen?**
 
 ![Question Image](images/1_4_41-115.png)
@@ -14556,6 +15916,8 @@ Der hier dargestellte Sonderfahrstreifen ist für Linienomnibusse bestimmt. Nur 
 #### Frage 1.4.41-116
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Wer darf in eine so beschilderte Straße einfahren?**
 
@@ -14579,6 +15941,8 @@ Das Zusatzzeichen signalisiert, dass Kfz-FahrerInnen, die privat, geschäftlich 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Fahrzeuge dürfen eine so beschilderte Straße nicht befahren?**
 
 ![Question Image](images/1_4_41-118.png)
@@ -14601,6 +15965,8 @@ Kraftwagen, aber auch andere mehrspurige Kraftfahrzeuge, dürfen eine so beschil
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Fahrzeuge dürfen eine so beschilderte Straße nicht befahren?**
 
 ![Question Image](images/1_4_41-119.png)
@@ -14621,6 +15987,8 @@ Dieses runde Verkehrsschild mit dem roten Rand verbietet die Durchfahrt für Rad
 #### Frage 1.4.41-120
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Welche Fahrzeuge dürfen eine so beschilderte Straße nicht befahren?**
 
@@ -14643,6 +16011,8 @@ Ein rundes Verkehrsschild mit rotem Rand signalisiert ein allgemeines Verkehrsve
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weisen diese Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-121.png)
@@ -14664,6 +16034,8 @@ Durch das Verkehrszeichen „Verbot der Einfahrt“ ist Kfz-FahrerInnen untersag
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-124.png)
@@ -14684,6 +16056,8 @@ Das Verkehrszeichen zeigt den Beginn einer Tempo-30-Zone an. Es wird oft in Wohn
 #### Frage 1.4.41-125
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Hier beginnt ein verkehrsberuhigter Geschäftsbereich. Wie müssen Sie sich verhalten?**
 
@@ -14707,6 +16081,8 @@ In einem verkehrsberuhigten Geschäftsbereich sind Verkehrsteilnehmer oft durch 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-126.png)
@@ -14728,6 +16104,8 @@ Dieses Verkehrszeichen zeigt das Ende eines Gebietes an, in dem die zulässige G
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Darf hier schneller als 60 km/h gefahren werden?**
 
 ![Question Image](images/1_4_41-127.png)
@@ -14747,6 +16125,8 @@ Aufgrund des Zusatzzeichens gilt die maximal zulässige Höchstgeschwindigkeit v
 #### Frage 1.4.41-128
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
@@ -14770,6 +16150,8 @@ Dieses Verkehrszeichen schreibt vor, dass Sie hier mindestens mit einer Geschwin
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Welche Fahrzeuge dürfen Sie bei diesem Verkehrszeichen überholen?**
 
 ![Question Image](images/1_4_41-129.png)
@@ -14790,6 +16172,8 @@ Durch das hier angezeigte Überholverbot ist es einer/einem Kfz-FahrerIn untersa
 #### Frage 1.4.41-130
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weisen diese Verkehrszeichen hin?**
 
@@ -14812,6 +16196,8 @@ Dieses Verkehrszeichen signalisiert ein Überholverbot von mehrspurigen Kraftfah
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weisen diese Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-131.png)
@@ -14833,6 +16219,8 @@ Dem/der Kfz-FahrerIn wird durch dieses Verkehrszeichen das Überholen von mehrsp
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-132.png)
@@ -14853,6 +16241,8 @@ Dieses Verkehrszeichen weist auf das Ende der Geschwindigkeitsbeschränkung von 
 #### Frage 1.4.41-133
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Welche Verbote werden mit diesem Verkehrszeichen aufgehoben?**
 
@@ -14876,6 +16266,8 @@ Dieses Verkehrszeichen hebt sämtliche Streckenverbote auf. Zu den Streckenverbo
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weisen diese Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-134.png)
@@ -14896,6 +16288,8 @@ Das Verkehrszeichen signalisiert dem/der Kfz-FahrerIn, dass es verboten ist, auf
 #### Frage 1.4.41-135
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist in der hier beginnenden Zone erlaubt?**
 
@@ -14919,6 +16313,8 @@ Mit dem Verkehrszeichen „Eingeschränktes Halteverbot für eine Zone“ gilt e
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Was endet hier?**
 
 ![Question Image](images/1_4_41-136.png)
@@ -14940,6 +16336,8 @@ Hier endet das eingeschränkte Zonenhalteverbot (Parkverbot). Beachten Sie, dass
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wann müssen Sie blinken?**
 
 ![Question Image](images/1_4_41-140-B.png)
@@ -14959,6 +16357,8 @@ Fahren Sie in den Kreisverkehr ein, müssen Sie nicht blinken, da die Einfahrt i
 #### Frage 1.4.41-141
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie nähern sich folgender Verkehrszeichen-Kombination. Was ist hier zu beachten?**
 
@@ -14982,6 +16382,8 @@ Die im Kreis fahrenden Fahrzeuge haben Vorfahrt. Das Blinken beim Einfahren in d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Was ist bei diesen Verkehrszeichen zu beachten?**
 
 ![Question Image](images/1_4_41-142.png)
@@ -15002,6 +16404,8 @@ Den im Kreis fahrenden Fahrzeugen haben Sie Vorfahrt zu gewähren. Im Kreisverke
 #### Frage 1.4.41-143
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist bei diesen Verkehrszeichen zu beachten?**
 
@@ -15025,6 +16429,8 @@ Die Verkehrszeichen signalisieren Ihnen, dass die Fahrzeuge im Kreisverkehr Vorf
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie haben Sie sich bei dieser Verkehrszeichen-Kombination zu verhalten?**
 
 ![Question Image](images/1_4_41-144.png)
@@ -15047,6 +16453,8 @@ Sie müssen beim Einfahren den im Kreis fahrenden Fahrzeugen Vorfahrt gewähren.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-145.png)
@@ -15068,6 +16476,8 @@ Dieses Verkehrszeichen kennzeichnet einen Radweg, den Radfahrer benutzen müssen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Was wird durch diese Verkehrszeichenkombination angekündigt?**
 
 ![Question Image](images/1_4_41-146.png)
@@ -15088,6 +16498,8 @@ Das Verkehrszeichen kündigt an, dass Sie nach hundert Metern auf eine bevorrech
 #### Frage 1.4.41-147
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -15111,6 +16523,8 @@ Mit dem Verkehrszeichen „Gehweg“ sind Wege gekennzeichnet, die ausschließli
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Fahrzeuge dürfen diese Straße benutzen?**
 
 ![Question Image](images/1_4_41-148.png)
@@ -15131,6 +16545,8 @@ Das Verkehrszeichen "Verbot für Fahrzeuge aller Art" schließt alle Fahrzeuge m
 #### Frage 1.4.41-149
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie müssen Sie sich in dieser Straße verhalten, wenn Sie ein Kraftfahrzeug im Lieferverkehr fahren?**
 
@@ -15154,6 +16570,8 @@ Da hier das Verkehrszeichen „Gehweg“ mit dem Zusatzschild „Lieferverkehr f
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?**
 
 ![Question Image](images/1_4_41-150.png)
@@ -15174,6 +16592,8 @@ Dieses Verkehrszeichen weist auf das Verbot hin, zu wenden, um in die Gegenricht
 #### Frage 1.4.41-151
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -15196,6 +16616,8 @@ Ab diesen Verkehrszeichen darf unabhängig von den Wetterbedingungen maximal 60 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-152.png)
@@ -15216,6 +16638,8 @@ Dieses Verkehrszeichen bedeutet „Vorgeschriebene Fahrtrichtung geradeaus“. S
 #### Frage 1.4.41-153
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
@@ -15239,6 +16663,8 @@ Das Verkehrszeichen „Vorfahrt gewähren“ signalisiert, dass Sie auf einer un
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_41-154.png)
@@ -15261,6 +16687,8 @@ Dieses Verkehrszeichen zeigt Ihnen einen Reiterweg. Auf diesem müssen sich Reit
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?**
 
 ![Question Image](images/1_4_41-155.png)
@@ -15281,6 +16709,8 @@ Das Zeichen „Halt! Vorfahrt gewähren!“ schreibt vor, dass Sie unbedingt anh
 #### Frage 1.4.41-156
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wie müssen Sie sich in dieser Verkehrssituation verhalten?**
 
@@ -15303,6 +16733,8 @@ Bei dem Verkehrszeichen „Halt! Vorfahrt gewähren” müssen Sie anhalten und 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie müssen Sie sich in dieser Verkehrssituation verhalten?**
 
 ![Question Image](images/1_4_41-157.png)
@@ -15324,6 +16756,8 @@ Das Verkehrszeichen „Halt! Vorfahrt gewähren”, Stoppschild, fordert, dass S
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Sie befahren eine Vorfahrtstraße. Welches Verkehrszeichen beendet Ihre Vorfahrt?**
 
 ![Question Image](images/1_4_41-158.png)
@@ -15344,6 +16778,8 @@ Beispiel 1 bedeutet "Vorfahrt beachten", Sie müssen anderen Verkehrsteilnehmern
 #### Frage 1.4.41-159
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was müssen Sie bei diesem Verkehrszeichen beachten?**
 
@@ -15367,6 +16803,8 @@ Dieses Verkehrszeichen schreibt die Fahrtrichtung vor. Sie dürfen hier ausschli
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was gilt bei diesem Verkehrszeichen?**
 
 ![Question Image](images/1_4_41-160.png)
@@ -15387,6 +16825,8 @@ Dieses Verkehrszeichen schreibt vor, von welcher Seite Sie das Hindernis zu umfa
 #### Frage 1.4.41-161
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Was gilt in dem Bereich von 15 m vor und hinter diesem Verkehrszeichen?**
 
@@ -15410,6 +16850,8 @@ An dem Verkehrszeichen erkennen Sie, dass sich hier eine Haltestelle für Straß
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Was gilt bei diesem Verkehrszeichen?**
 
 ![Question Image](images/1_4_41-162.png)
@@ -15432,6 +16874,8 @@ Die vorgegebene Fahrtrichtung ist bindend. Der/die Kfz-FahrerIn muss vor dem Ver
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was gilt bei diesem Verkehrszeichen?**
 
 ![Question Image](images/1_4_41-163.png)
@@ -15452,6 +16896,8 @@ Das Verkehrszeichen zeigt einen Taxistand an. Es besteht grundsätzlich ein Halt
 #### Frage 1.4.41-164
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist diese Verkehrszeichenkombination hin?**
 
@@ -15474,6 +16920,8 @@ Es handelt sich hier um das Gefahrzeichen "Gefahrstelle" sowie um das Zusatzzeic
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was müssen Sie in dieser Verkehrssituation beachten?**
 
 ![Question Image](images/1_4_41-165.png)
@@ -15494,6 +16942,8 @@ Sie dürfen die Fahrstreifenbegrenzung (durchgezogene Linie), die sich auf der F
 #### Frage 1.4.41-166
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist auf dieser Vorfahrtstraße zu beachten?**
 
@@ -15517,6 +16967,8 @@ Die durchgezogene Leitlinie in der Mitte zwischen beiden Fahrbahnen verbietet da
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie möchten überholen. Was ist richtig?**
 
 ![Question Image](images/1_4_41-167.png)
@@ -15537,6 +16989,8 @@ Sie dürfen überholen, sofern andere Verkehrsteilnehmer nicht gefährdet werden
 #### Frage 1.4.41-168
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie möchten als Anlieger in eine so gekennzeichnete Fahrradstraße einfahren. Was müssen Sie dabei beachten?**
 
@@ -15561,6 +17015,8 @@ Für den Verkehr gilt eine Höchstgeschwindigkeit von 30 km/h. Der Radverkehr da
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wer darf in eine so gekennzeichnete Straße einfahren?**
 
 ![Question Image](images/1_4_41-169.png)
@@ -15582,6 +17038,8 @@ Anderer Fahrzeugverkehr als Radverkehr darf Fahrradstraßen nicht benutzen, es s
 #### Frage 1.4.41-170
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Ihr Fahrstreifen ist mit diesem Verkehrszeichen gekennzeichnet. Was müssen Sie beachten?**
 
@@ -15605,6 +17063,8 @@ Dieses Verkehrszeichen gibt die vorgeschriebene Mindestgeschwindigkeit an. Du mu
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Mit welcher Geschwindigkeit dürfen Fahrzeuge in einer so gekennzeichneten Zone höchstens fahren?**
 
 ![Question Image](images/1_4_41-171.png)
@@ -15622,6 +17082,8 @@ Radfahrer, Elektrokleinstfahrzeuge und andere zugelassene Fahrzeuge dürfen in F
 #### Frage 1.4.41-172
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was gilt bei diesem Verkehrszeichen?**
 
@@ -15643,6 +17105,8 @@ Das Zusatzschild begrenzt die zulässige Höchstgeschwindigkeit in dem Zeitraum 
 #### Frage 1.4.41-173
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?**
 
@@ -15666,6 +17130,8 @@ Den Wechsel der Fahrrichtung musst du dich blinken anzeigen.
 #### Frage 1.4.41-174
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Bei welchem Verkehrszeichen ist das Wenden verboten?**
 
@@ -15700,6 +17166,8 @@ Dieses Verkehrsschild zeigt dir an, dass du dich auf einer Autobahn befindest. A
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Ab welchem Verkehrszeichen dürfen Sie eine zulässige Höchstgeschwindigkeit von 60 km/h nicht überschreiten?**
 
 ![Question Image](images/1_4_41-175.png)
@@ -15729,6 +17197,8 @@ Auf einer Straße mit einem solchen Verkehrszeichen darfst du die zulässige Hö
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_42-001.png)
@@ -15749,6 +17219,8 @@ Dieses Verkehrszeichen erlaubt Ihnen die einmalige Vorfahrt an einer bestimmten 
 #### Frage 1.4.42-005
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -15771,6 +17243,8 @@ Das Verkehrszeichen weist darauf hin, dass hier die Autobahn beginnt. Damit tret
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welche Bedeutung hat die weiße Markierung auf der Fahrbahn in dieser Situation?**
 
 ![Question Image](images/1_4_42-009-M.png)
@@ -15791,6 +17265,8 @@ An Kreuzungen und Einmündungen mit “rechts vor links” Regelung wird hin und
 #### Frage 1.4.42-010-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was gilt in dieser Situation aufgrund der Fahrbahnmarkierung?**
 
@@ -15815,6 +17291,8 @@ An Kreuzungen und Einmündungen mit “rechts vor links” Regelung wird hin und
 #### Frage 1.4.42-011
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Ab welchem Verkehrszeichen dürfen Sie nur mit Schrittgeschwindigkeit weiterfahren?**
 
@@ -15841,6 +17319,8 @@ In einem verkehrsberuhigten Bereich darfst du mit deinem Fahrzeug nur in Schritt
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Bei welchem Verkehrszeichen haben Sie an der nächsten Kreuzung grundsätzlich Vorfahrt?**
 
 ![Question Image](images/1_4_42-012.png)
@@ -15866,6 +17346,8 @@ Das Verkehrszeichen „Einmalige Vorfahrt“ signalisiert dir, dass du bei der n
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Welches Verkehrszeichen gibt an der nächsten Kreuzung Vorfahrt?**
 
 ![Question Image](images/1_4_42-101.png)
@@ -15887,6 +17369,8 @@ Ausschließlich das Verkehrszeichen Nr. 1 gibt Ihnen an der nächsten Kreuzung V
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Welches Verkehrszeichen gibt Vorfahrt?**
 
 ![Question Image](images/1_4_42-102.png)
@@ -15907,6 +17391,8 @@ Das richtige Verkehrszeichen zur Beachtung der Vorfahrt ist Nummer 2. Nummer 1 z
 #### Frage 1.4.42-104
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist außerorts auf Vorfahrtstraßen erlaubt?**
 
@@ -15930,6 +17416,8 @@ Außerhalb geschlossener Ortschaften dürfen Sie auf Vorfahrtstraßen: 1. am rec
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Was endet hier?**
 
 ![Question Image](images/1_4_42-106.png)
@@ -15950,6 +17438,8 @@ Dieses Verkehrsschild kündigt den Wechsel einer Vorfahrtsregel an. Es kennzeich
 #### Frage 1.4.42-107
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie verhalten Sie sich bei diesem Verkehrszeichen?**
 
@@ -15973,6 +17463,8 @@ Das Verkehrszeichen gibt Ihnen den Vorrang vor dem Gegenverkehr. Der Gegenverkeh
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Was ist bei diesen Verkehrszeichen erlaubt?**
 
 ![Question Image](images/1_4_42-109.png)
@@ -15993,6 +17485,8 @@ Dieses Verkehrszeichen weist auf einen Parkplatz hin, der nur von Anwohnern mit 
 #### Frage 1.4.42-110
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Dürfen Sie hier parken?**
 
@@ -16016,6 +17510,8 @@ Für Menschen mit einer außergewöhnlichen Gehbehinderung oder Blinde gibt es s
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Was ist hier beim Parken zu beachten?**
 
 ![Question Image](images/1_4_42-111.png)
@@ -16037,6 +17533,8 @@ Auf diesem Parkplatz dürfen Sie nur mit einem gültigen Parkschein parken. Brin
 #### Frage 1.4.42-112
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Welche Fahrzeuge dürfen hier parken?**
 
@@ -16060,6 +17558,8 @@ Das Verkehrszeichen regelt die Parksituation für den/die VerkehrsteilnehmerIn. 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie hoch muss die durch die Bauart bestimmte Höchstgeschwindigkeit eines Kraftfahrzeugs mindestens sein, wenn man diese Straße benutzen will?**
 
 ![Question Image](images/1_4_42-116.png)
@@ -16080,6 +17580,8 @@ Sie müssen auf einer Kraftfahrstraße mindestens eine Höchstgeschwindigkeit vo
 #### Frage 1.4.42-119
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -16102,6 +17604,8 @@ Hier handelt es sich um eine Sackgasse. Die Sackgasse kann normal befahren werde
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_42-120.png)
@@ -16122,6 +17626,8 @@ Dieses Verkehrszeichen zeigt, dass eine Erste-Hilfe-Station wie beispielsweise �
 #### Frage 1.4.42-125
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist bei diesem Verkehrszeichen zu beachten?**
 
@@ -16144,6 +17650,8 @@ Sehen Sie an Laternen dieses Zeichen, dann müssen Sie Ihr Fahrzeug mit einer Pa
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_42-126.png)
@@ -16164,6 +17672,8 @@ Dieses Verkehrszeichen weist Sie auf eine Bundesstraße hin. Die angegebene Zahl
 #### Frage 1.4.42-128
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -16186,6 +17696,8 @@ Der Umlenkungspfeil weist Sie als Kfz-FahrerIn darauf hin, dass Sie sich auf ein
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren mit Tagfahrlicht in einen so gekennzeichneten beleuchteten Tunnel. Wie verhalten Sie sich?**
 
 ![Question Image](images/1_4_42-129.png)
@@ -16206,6 +17718,8 @@ Als der/die Kfz-FahrerIn müssen Sie das Abblendlicht einschalten. Das Tagfahrli
 #### Frage 1.4.42-130
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -16229,6 +17743,8 @@ Dieses Verkehrszeichen zeigt Ihnen eine Pannenbucht. Dort können und sollen Sie
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Was ist bei diesem Verkehrszeichen zu tun?**
 
 ![Question Image](images/1_4_42-131.png)
@@ -16251,6 +17767,8 @@ Dieses Verkehrszeichen befindet sich vor der Einfahrt in einen Tunnel. Schalten 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren in einen so gekennzeichneten, hell erleuchteten Tunnel. Wie verhalten Sie sich?**
 
 ![Question Image](images/1_4_42-132.png)
@@ -16272,6 +17790,8 @@ Selbst ein hell beleuchteter Tunnel erreicht keine Tageslichtverhältnisse, von 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_42-133.png)
@@ -16292,6 +17812,8 @@ Das Verkehrszeichen weist auf das Ende des verkehrsberuhigten Bereiches hin. Jet
 #### Frage 1.4.42-134
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was bedeutet dieses Verkehrszeichen?**
 
@@ -16315,6 +17837,8 @@ Sie fahren auf einer Vorfahrtsstraße. Das Verkehrszeichen wird an jeder Kreuzun
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_42-135.png)
@@ -16335,6 +17859,8 @@ Dieses Verkehrszeichen zeigt eine nummerierte Umleitung an. Da es mehrere Umleit
 #### Frage 1.4.42-136
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie bei dieser Verkehrszeichenkombination beachten?**
 
@@ -16357,6 +17883,8 @@ Die Vorfahrtsstraße wird durch das Zusatzschild um die Ecke geführt. Es ist ei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Welches Verhalten ist auf Straßen mit solchen Schutzstreifen für Radfahrer richtig?**
 
 ![Question Image](images/1_4_42-137.png)
@@ -16377,6 +17905,8 @@ Das Richtzeichen kennzeichnet den Schutzbereich für RadfahrerInnen. Sie dürfen
 #### Frage 1.4.42-138
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?**
 
@@ -16401,6 +17931,8 @@ Auf Fußgängerüberwegen haben Fußgänger Vortritt, deswegen sollten Fahrzeuge
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Worauf müssen Sie sich hier einstellen?**
 
 ![Question Image](images/1_4_42-139.png)
@@ -16422,6 +17954,8 @@ Das Verkehrszeichen ‘Verkehrshelfer‘, früher Schülerlotsen, bedeutet, dass
 #### Frage 1.4.42-140
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was gilt nach diesem Verkehrszeichen?**
 
@@ -16446,6 +17980,8 @@ Sie dürfen innerhalb des verkehrsberuhigten Bereiches maximal Schrittgeschwindi
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was bedeutet diese Verkehrszeichenkombination für Sie?**
 
 ![Question Image](images/1_4_42-141.png)
@@ -16466,6 +18002,8 @@ Das Verkehrszeichen gibt den Verlauf der Vorfahrtsstraße an. Das Zusatzschild z
 #### Frage 1.4.42-142
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was müssen Sie bei diesem Verkehrszeichen beachten?**
 
@@ -16490,6 +18028,8 @@ Bei dieser Frage sind alle drei Antworten korrekt. In einem "verkehrsberuhigten 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_42-143.png)
@@ -16511,6 +18051,8 @@ Erblicken Sie dieses Verkehrszeichen, nähern Sie sich einer Zollstelle. Das bed
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Grundstoff
+
 **Was gilt hier?**
 
 ![Question Image](images/1_4_42-144.png)
@@ -16531,6 +18073,8 @@ Die Ortstafel zeigt auf ihrer Rückseite im unteren Teil das Ende einer geschlos
 #### Frage 1.4.42-145
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was müssen Sie in Verkehrssituationen wie dieser beachten?**
 
@@ -16555,6 +18099,8 @@ Leitlinien haben die Aufgabe, die Fahrbahnen zu trennen. Deswegen dürfen sie nu
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/1_4_42-146.png)
@@ -16575,6 +18121,8 @@ Wer ein Fahrzeug führt, darf nur im Notfall oder bei einer Panne in einer Notha
 #### Frage 1.4.42-147-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie fahren auf dieser Straße mit einem Schutzstreifen für Radfahrer. Wie dürfen Sie den Schutzstreifen nutzen?**
 
@@ -16599,6 +18147,8 @@ Sie dürfen den Radschutzstreifen bei Bedarf befahren wenn Sie Radfahrer weder g
 #### Frage 1.4.43-101
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf können rot-weiße Warntafeln an Fahrzeugen hinweisen?**
 
@@ -16626,6 +18176,8 @@ Rot-weiße Warntafeln weisen auf Fahrzeuge mit Überbreite hin (z.B. überbreite
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Worauf müssen Sie im Interesse der Umweltschonung achten?**
 
 **Optionen:**
@@ -16645,6 +18197,8 @@ Im Interesse der Umweltschonung müssen Sie als Kfz-FahrerIn auf Folgendes achte
 #### Frage 1.5.01-003
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was muss regelmäßig gewartet werden, um zu hohen Kraftstoffverbrauch und übermäßigen Schadstoffausstoß zu vermeiden?**
 
@@ -16667,6 +18221,8 @@ Der Kraftstoffverbrauch eines Fahrzeugs sollte so gering wie möglich sein. Als 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wie wirkt sich eine wesentliche Unterschreitung des empfohlenen Reifendrucks aus?**
 
 **Optionen:**
@@ -16686,6 +18242,8 @@ Ein zu niedriger Luftdruck im Reifen führt zu stark steigendem Kraftstoffverbra
 #### Frage 1.5.01-005
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wann sollten Sie den Motor abstellen, um Kraftstoff zu sparen und die Umweltbelastung zu vermindern?**
 
@@ -16707,6 +18265,8 @@ Um einen unnötigen Benzinverbrauch zu vermeiden, ist der Motor in gewissen Situ
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Ihr Kraftfahrzeug verliert etwas Öl. Wie viel Trinkwasser kann bereits durch einen Tropfen Öl ungenießbar werden?**
 
 **Optionen:**
@@ -16725,6 +18285,8 @@ Einen Ölverlust am Kraftfahrzeug sollten Sie dringend vermeiden. Denn bereits e
 #### Frage 1.5.01-007
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Was soll man beim Tanken beachten?**
 
@@ -16746,6 +18308,8 @@ Das Einatmen von Kraftstoffdämpfen ist gesundheitsschädlich. Achten Sie daher 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **An einem Fahrzeug sind Motor und Schalldämpfer "frisiert". Welche Folgen kann das haben?**
 
 **Optionen:**
@@ -16766,6 +18330,8 @@ Ein frisierter Motor und Schalldämpfer sorgen für eine erhöhte Lärmbelästig
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie kann man den Lärm verringern, der durch ein Fahrzeug verursacht wird?**
 
 **Optionen:**
@@ -16784,6 +18350,8 @@ Im niedertourigen Drehzahlbereich läuft der Motor leiser als in hochtourigen Be
 #### Frage 1.5.01-010
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wo können Altöle, Schmierstoffe und Fahrzeugbatterien einer fachgerechten Entsorgung zugeführt werden?**
 
@@ -16805,6 +18373,8 @@ Altöle, Schmierstoffe und Fahrzeugbatterien können im Wertstoffhof oder über 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie kann man bei gleichbleibender Geschwindigkeit kraftstoffsparend fahren?**
 
 **Optionen:**
@@ -16825,6 +18395,8 @@ Bei gleichbleibender Geschwindigkeit fahren Sie durch folgende Maßnahmen krafts
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **In welchem Drehzahlbereich hat der Motor den geringeren Kraftstoffverbrauch?**
 
 **Optionen:**
@@ -16842,6 +18414,8 @@ Ein Motor verbraucht am wenigsten Kraftstoff im Drehzahlbereich knapp oberhalb d
 #### Frage 1.5.01-013
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie müssen wegen geschlossener Bahnschranken warten. Wodurch können Sie nun die Umwelt schonen und Kraftstoff sparen?**
 
@@ -16861,6 +18435,8 @@ Beim Warten vor geschlossenen Bahnschranken wird empfohlen, den Motor abzuschalt
 #### Frage 1.5.01-014
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Welche Maßnahmen tragen zur Umweltschonung bei?**
 
@@ -16882,6 +18458,8 @@ Die Klimaanlage ausgeschaltet lassen spart Kraftstoff. Leichtlaufreifen sind fü
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Was sollten Sie tun, um die Umwelt zu schonen?**
 
 **Optionen:**
@@ -16901,6 +18479,8 @@ Sie sollten das Fahren mit hohen Drehzahlen vermeiden. Wenn das Kraftfahrzeug Ra
 #### Frage 1.5.01-016
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff, Führerscheinklasse GM
 
 **Wozu kann eine regelmäßige Fahrzeugwartung beitragen?**
 
@@ -16923,6 +18503,8 @@ Die regelmäßige Fahrzeugwartung trägt zur gewährleistung der Verkehrssicherh
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **In welcher Situation sollten Sie den Motor abstellen, um Kraftstoff zu sparen und die Umweltbelastung zu verringern?**
 
 **Optionen:**
@@ -16942,6 +18524,8 @@ Vor einem beschrankten Bahnübergang oder wenn du dich in einem Verkehrsstau bef
 #### Frage 1.5.01-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wodurch kann beim Fahren eine vermeidbare Lärmbelästigung entstehen?**
 
@@ -16963,6 +18547,8 @@ Wenn Sie mit hoher Drehzahl fahren oder Ihr Schalldämpfer defekt ist, dann ist 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie soll man schalten, um besonders umweltbewusst und sparsam zu fahren?**
 
 **Optionen:**
@@ -16982,6 +18568,8 @@ Umweltschonendes Schalten ist früh hoch- und spät zurückschalten. Fahren Sie 
 #### Frage 1.5.01-104
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was ist für umweltschonendes und energiesparendes Fahren wichtig?**
 
@@ -17003,6 +18591,8 @@ Ein geringer Kraftstoffverbrauch definiert umweltschonendes und energiesparendes
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wodurch wird Kraftstoff verschwendet und die Umwelt belastet?**
 
 **Optionen:**
@@ -17023,6 +18613,8 @@ Wenn Sie hektisch fahren, also ständig zwischen Bremsen und Beschleunigen wechs
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Was weist auf überhöhten Kraftstoffverbrauch wegen starkem Verschleiß oder falscher Einstellung des Motors hin?**
 
 **Optionen:**
@@ -17040,6 +18632,8 @@ Auf erhöhtem Kraftstoffverbrauch weist das dunkle Qualmen eines Auspuffes hin. 
 #### Frage 1.5.01-109
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Welche Fahrweise führt zu hohem Kraftstoffverbrauch?**
 
@@ -17062,6 +18656,8 @@ Hohe Geschwindigkeiten erfordern durch den erhöhten Luftwiderstand mehr Leistun
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie fahren Sie umweltbewusst?**
 
 **Optionen:**
@@ -17082,6 +18678,8 @@ Vermeiden Sie ständiges Beschleunigen und Bremsen. Das Beschleunigen verbraucht
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie lassen sich mit weniger Kraftstoff mehr Kilometer fahren?**
 
 **Optionen:**
@@ -17101,6 +18699,8 @@ Am wenigsten Kraftstoff verbraucht man im niedertourigen Bereich. Durch rechtzei
 #### Frage 1.5.01-114
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was kann dazu beitragen, Kraftstoff zu sparen und die Umweltbelastung zu verringern?**
 
@@ -17123,6 +18723,8 @@ Der/die Kfz-FahrerIn kann schon vor dem Kauf eines Pkw überprüfen, welches Mod
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Was können Sie tun, um die Umwelt zu schonen?**
 
 **Optionen:**
@@ -17144,6 +18746,8 @@ Die beste Methode, die Umwelt zu schonen, ist, weniger zu fahren. Alle Fahrten, 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wodurch erreichen Sie einen günstigen Kraftstoffverbrauch und geringen Schadstoffausstoß?**
 
 **Optionen:**
@@ -17164,6 +18768,8 @@ Bevor Sie losfahren, sollten Sie darauf achten, dass der richtige Reifendruck ei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Andere Verkehrsteilnehmer machen Sie auf anhaltend starkes Qualmen Ihres Auspuffs aufmerksam. Was müssen Sie tun?**
 
 **Optionen:**
@@ -17182,6 +18788,8 @@ Sie sollten eine Werkstatt aufsuchen, welche den Schaden überprüft. Denn das s
 #### Frage 1.5.01-118
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Warum ist die Nutzung von Leichtlaufölen vorteilhaft?**
 
@@ -17203,6 +18811,8 @@ Leichtlauföle zeichnen sich durch ein besseres Fließverhalten aus. Es handelt 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Was sollten Sie nach dem Starten des Fahrzeuges tun?**
 
 **Optionen:**
@@ -17222,6 +18832,8 @@ Nach dem Starten des Pkw sollten Sie direkt im niedertourigen Drehzahlbereich lo
 #### Frage 1.5.01-120
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Wie können Sie Kraftstoff sparen?**
 
@@ -17243,6 +18855,8 @@ Sie können Kraftstoff sparen, indem Sie: 1. gleichmäßig und vorausschauend fa
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie können Sie den Reifenverschleiß gering halten?**
 
 **Optionen:**
@@ -17262,6 +18876,8 @@ Das Fahren mit Winterreifen bei nicht winterlicher Witterung führt zu erhöhtem
 #### Frage 1.5.01-122
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Welche Kraftfahrzeuge sind vom Verkehrsverbot für „Umweltzonen“ grundsätzlich ausgenommen?**
 
@@ -17283,6 +18899,8 @@ Ein Verkehrsverbot für "Umweltzonen" gilt grundsätzlich nicht für Krankenwage
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wann ist es sinnvoll, einen Verbrennungsmotor abzustellen?**
 
 **Optionen:**
@@ -17302,6 +18920,8 @@ Die längeren Wartezeiten vor einem geschlossenen Bahnübergang und beim Be- und
 #### Frage 1.5.01-124
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie fahren zur Hauptverkehrszeit im Stadtverkehr. Welche Auswirkung hat das Fahren im Stop-and-go-Verkehr?**
 
@@ -17324,6 +18944,8 @@ Der Kraftstoffverbrauch im Stop-and-go-Verkehr ist größer, da öfter gebremst 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Was ist eine Voraussetzung für umweltschonendes und energiesparendes Fahren?**
 
 **Optionen:**
@@ -17343,6 +18965,8 @@ Der Reifendruck hat große Auswirkung auf den Kraftstoffverbrauch, da dieser den
 #### Frage 1.5.01-126
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Welche Fahrweise führt innerorts zu einem hohen Kraftstoffverbrauch?**
 
@@ -17364,6 +18988,8 @@ Beim starken Beschleunigen verbrauchen Sie mehr Kraftstoff als beim normalen Bes
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Wodurch können Sie den Kraftstoffverbrauch Ihres Fahrzeugs reduzieren?**
 
 **Optionen:**
@@ -17384,6 +19010,8 @@ Je höher die Drehzahl desto mehr Kraftstoff wird verbraucht. Bei vorausschauend
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Wie können Sie den Lärm verringern, der durch Ihr Kraftfahrzeug verursacht wird?**
 
 **Optionen:**
@@ -17403,6 +19031,8 @@ Je höher die Drehzahl des Motors, desto lauter wird der Motor. Reifen haben Qua
 #### Frage 1.5.01-129
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Was sollten Sie tun, um die Umwelt zu schonen?**
 
@@ -17425,6 +19055,8 @@ Auch beim stehen verbrennt der Motor Kraftstoff, bei längeren Stopps sollten Si
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Wodurch kann beim Fahren eine vermeidbare Lärmbelästigung entstehen?**
 
 **Optionen:**
@@ -17446,6 +19078,8 @@ Je höher die Drehzahl des Motors, desto lauter wird der Motor. Getunte Abgasanl
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe auf ebener Fahrbahn. Wie sollten Sie schalten, um besonders umweltbewusst und sparsam zu fahren?**
 
 **Optionen:**
@@ -17465,6 +19099,8 @@ Versuchen Sie beim beschleunigen die Drehzahl immer so gering wie möglich zu ha
 #### Frage 1.5.01-132
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Welches Verhalten belastet die Umwelt?**
 
@@ -17486,6 +19122,8 @@ Bei konstanter Geschwindigkeit wird weniger verbraucht als beim ständigen verz�
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff
+
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Wodurch erreichen Sie einen sparsamen Kraftstoffverbrauch?**
 
 **Optionen:**
@@ -17505,6 +19143,8 @@ Bei konstanter Geschwindigkeit wird weniger verbraucht als beim ständigen verz�
 #### Frage 1.5.01-134
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Grundstoff
 
 **Worauf sollten Sie nach dem Starten Ihres Fahrzeugs achten?**
 
@@ -17532,6 +19172,8 @@ Unnötiges stehen bei laufendem Motor belastet unnötig die Umwelt. Starten Sie 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wodurch wird die Größe der Fliehkraft in Kurven beeinflusst?**
 
 **Optionen:**
@@ -17551,6 +19193,8 @@ Die Fliehkraft kann Ihr Fahrzeug aus der Kurve schleudern. Bei der Verdopplung d
 #### Frage 1.7.01-006
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Führerscheinklasse GM
 
 **Nässe kann die Wirkung von Trommelbremsen beeinträchtigen. Was sollten Sie dann tun?**
 
@@ -17577,6 +19221,8 @@ Die Trommelbremse kann trocken gefahren werden. Dafür bremsen Sie als der/die K
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Grundstoff, Führerscheinklasse GM
+
 **Wann werden im Fahreignungsregister eingetragene Ordnungswidrigkeiten getilgt, die mit zwei Punkten bewertet wurden?**
 
 **Optionen:**
@@ -17602,6 +19248,8 @@ Eingetragene Ordnungswidrigkeiten, die im Fahreignungsregister mit zwei Punkten 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Was kann in Kurven zum Schleudern führen?**
 
 **Optionen:**
@@ -17621,6 +19269,8 @@ Defekte Stoßdämpfer können die Ursache sein, dass ein Fahrzeug in Kurven ins 
 #### Frage 2.1.01-003
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Was kann in Kurven zum Schleudern führen?**
 
@@ -17642,6 +19292,8 @@ In Kurven können folgende Faktoren zu Schleudern führen: 1. überhöhte Geschw
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, L, T, A80
+
 **Wodurch kann eine Gefährdung entstehen?**
 
 **Optionen:**
@@ -17661,6 +19313,8 @@ Beim Kurvenschneiden wird das Fahrzeug in einer Kurve nach innen gelenkt und die
 #### Frage 2.1.01-005-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, L, T, A80
 
 **Wie verhalten Sie sich hier, wenn der weiße Pkw nicht stehen bleibt?**
 
@@ -17682,6 +19336,8 @@ Auch wenn Sie sich im Vorfahrtsrecht befinden: Gehen Sie bei schlechtem Verkehrs
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Wodurch ergeben sich besondere Gefahren für Kraftradfahrer?**
 
 **Optionen:**
@@ -17702,6 +19358,8 @@ Fahren Sie mit geöffnetem Visier kann Ihnen jederzeit ein Insekt hineinfliegen.
 #### Frage 2.1.01-007-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -17725,6 +19383,8 @@ Der Überholende kann wahrscheinlich seinen Überholvorgang nicht wie geplant ab
 #### Frage 2.1.01-008-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum sollten Sie dem Lkw den Fahrstreifenwechsel ermöglichen?**
 
@@ -17750,6 +19410,8 @@ Falls du dich im toten Winkel des LKW befindest und der LKW plötzlich ausschert
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Warum ist eine vorausschauende Fahrweise für Sie als Kraftradfahrer auf kurvenreichen Strecken besonders wichtig?**
 
 **Optionen:**
@@ -17770,6 +19432,8 @@ Durch vorausschauendes Fahren kannst du das Verhalten des Gegenverkehrs und mög
 #### Frage 2.1.01-010
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Als Kraftradfahrer werden Sie leicht von anderen Kraftfahrern übersehen. Wie können Sie dieses Risiko verringern?**
 
@@ -17793,6 +19457,8 @@ Wenn du im seitlichen toten Winkel eines Kraftfahrzeugs fährst, kann dich der F
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, T
+
 **Wodurch kann eine Gefährdung entstehen?**
 
 **Optionen:**
@@ -17813,6 +19479,8 @@ Wirkt eine Fußbremse stark einseitig, kann das Fahrzeug beim Bremsen seitlich a
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Wozu führt das Hören von lauter Musik, vor allem mit extremen Bässen, im Auto?**
 
 **Optionen:**
@@ -17832,6 +19500,8 @@ Laute Musik im Fahrzeug führt zu zwei negativen Effekten: Der Fahrer wird durch
 #### Frage 2.1.01-103
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, L, T
 
 **Wodurch kann eine Gefährdung beim Fahren entstehen?**
 
@@ -17857,6 +19527,8 @@ Bei nicht funktionierendem Abblendlicht sehen zum einen Sie schlechte und zum an
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, T
+
 **Sie fahren auf einer schmalen Straße. Etwa 20 m vor Ihnen läuft plötzlich ein Kind auf die Fahrbahn. Wann ist ein Zusammenprall trotz Gefahrbremsung unvermeidbar?**
 
 **Optionen:**
@@ -17875,6 +19547,8 @@ Bei dieser Frage müssen Sie zuerst den Reaktionsweg und den Gefahrenbremsweg be
 #### Frage 2.1.02-003
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **Warum müssen Sie bremsen?**
 
@@ -17899,6 +19573,8 @@ Im Video ist zu sehen wie eine Person (von rechts) auf die Straße läuft. Achte
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_02-004.png)
@@ -17922,6 +19598,8 @@ Beim Rechtsabbiegen musst du immer darauf achten, ob sich Fußgänger oder Radfa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Womit müssen Sie in dieser Situation rechnen?**
 
 ![Question Image](images/2_1_02-005-M.png)
@@ -17944,6 +19622,8 @@ Außerdem musst du damit rechnen, dass Personen zur Fahrbahnseite aussteigen.
 #### Frage 2.1.02-006-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -17971,6 +19651,8 @@ Da eine Person die Kreuzung überqueren möchte, musst du anhalten und die Perso
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Womit müssen Sie rechnen, wenn Sie mit hoher Geschwindigkeit auf dem linken Fahrstreifen einer Autobahn fahren?**
 
 **Optionen:**
@@ -17990,6 +19672,8 @@ Bei hoher Geschwindigkeit sind Motorräder sehr empfindlich gegen Seitenwind. Kl
 #### Frage 2.1.03-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Wann besteht die Gefahr, dass ein Motorrad bei hoher Geschwindigkeit seitlich versetzt wird?**
 
@@ -18011,6 +19695,8 @@ Plötzlicher Seitenwind erhöht das Risiko, dass ein Motorrad seitwärts fährt.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Worauf müssen Sie sich einstellen, wenn es nach längerer Trockenheit anfängt zu regnen?**
 
 **Optionen:**
@@ -18030,6 +19716,8 @@ Der Regen reinigt einen Teil des Schmutzes auf der Straße. Wenn das Wetter übe
 #### Frage 2.1.03-004
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Sie kommen unerwartet auf ein Straßenstück mit Rollsplitt. Wie verhalten Sie sich?**
 
@@ -18051,6 +19739,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was kann eintreten, wenn Sie eine Linkskurve nahe der markierten Mittellinie durchfahren?**
 
 **Optionen:**
@@ -18070,6 +19760,8 @@ Beim Linksabbiegen ist es gefährlich, sich in der Nähe der Mittellinie aufzuha
 #### Frage 2.1.03-007
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Welche Gefahren bestehen auf nassem Kopfsteinpflaster?**
 
@@ -18092,6 +19784,8 @@ Kopfsteinpflaster ist rutschig und erhöht daher die Sturzgefahr oder das Risiko
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Worauf müssen Sie bei Regen besonders achten?**
 
 **Optionen:**
@@ -18113,6 +19807,8 @@ Regen vermindert die Sichtbarkeit. Bei Nässe ist die Straßenoberfläche wenige
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Was müssen Sie beachten, wenn in Ihrem Fahrstreifen Straßenbahnschienen liegen?**
 
 **Optionen:**
@@ -18133,6 +19829,8 @@ Straßenbahnlinien bestehen aus Metall, das rutschig ist. Ein Motorrad hat daher
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Wodurch kann in Kurven Sturzgefahr entstehen?**
 
 **Optionen:**
@@ -18152,6 +19850,8 @@ Beim Abbiegen in Kurven können rutschige Oberflächen wie Fahrspurmarkierungen,
 #### Frage 2.1.03-013
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Wodurch kann in Kurven Sturzgefahr entstehen?**
 
@@ -18174,6 +19874,8 @@ Beim Abbiegen oder Bremsen erhöhen rutschige Oberflächen wie Fahrspurmarkierun
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Wann müssen Sie die Bremsen besonders vorsichtig betätigen?**
 
 **Optionen:**
@@ -18193,6 +19895,8 @@ Das Bremsen ist auf rutschiger Oberfläche (nasse Straße, Kopfsteinpflaster, un
 #### Frage 2.1.03-015
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Was kann auf nasser Fahrbahn zu Aquaplaning (Wasserglätte) führen?**
 
@@ -18214,6 +19918,8 @@ Aquaplaning - auch als Wasserglätte bezeichnet - entsteht dann, wenn die Profil
 #### Frage 2.1.03-017-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum kann das Überholen hier gefährlich sein?**
 
@@ -18238,6 +19944,8 @@ Aquaplaning - auch als Wasserglätte bezeichnet - entsteht dann, wenn die Profil
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Wie müssen Sie sich verhalten, wenn Ihr Fahrzeug von starkem Seitenwind erfasst wird?**
 
 **Optionen:**
@@ -18257,6 +19965,8 @@ Wird Ihr Fahrzeug von starkem Seitenwind erfasst, sollten Sie keinesfalls beschl
 #### Frage 2.1.03-020
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wann kann starker Seitenwind besonders gefährlich werden?**
 
@@ -18278,6 +19988,8 @@ Wechselnde Windrichtungen sind beim Autofahren gefährlich. Plötzliche Böen k�
 #### Frage 2.1.03-021-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Womit müssen Sie hier rechnen?**
 
@@ -18301,6 +20013,8 @@ Fahren Sie auf der Autobahn bei starkem Seitenwind von rechts, drückt der Seite
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Es herrscht starker Seitenwind von rechts. Wann sind Sie beim Überholen besonders gefährdet?**
 
 ![Question Image](images/2_1_03-022-B.png)
@@ -18323,6 +20037,8 @@ Wenn starker Seitenwind von rechts herrscht, sind Sie als Kfz-FahrerIn besonders
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Warum müssen Sie bei starkem Regen die Geschwindigkeit verringern?**
 
 **Optionen:**
@@ -18343,6 +20059,8 @@ Wasser auf der Windschutzscheibe oder dem Visier bricht das Licht und verschlech
 #### Frage 2.1.03-024-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, T, A80
 
 **Was beeinträchtigt hier die Verkehrssicherheit?**
 
@@ -18366,6 +20084,8 @@ Durch den Regen und das aufgewirbelte Wasser entsteht ein Dunstschleier, der die
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Wozu kann eine plötzliche Verschlechterung des Fahrbahnzustandes führen?**
 
 **Optionen:**
@@ -18386,6 +20106,8 @@ Wenn sich die Fahrbahnoberfläche verschlechtert, hat dies immer eine Veränderu
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Welche Besonderheiten ergeben sich beim Befahren von Alleen?**
 
 **Optionen:**
@@ -18405,6 +20127,8 @@ Die Fahrbahn ist meist sehr schmal. Zudem ist sie häufig auch stark gewölbt, u
 #### Frage 2.1.03-028
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich richtig?**
 
@@ -18430,6 +20154,8 @@ Während des Überholens eines Radfahrers gerät der entgegenkommende Lkw zum Te
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T, C1E, D1E, DE
+
 **Warum sollten Sie jetzt bremsen?**
 
 ![Question Image](images/2_1_03-029.png)
@@ -18453,6 +20179,8 @@ Von rechts ist, wenn auch nur sehr schwer ein grünes Auto zu sehen. Bremse bitt
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T, C1E, D1E, DE
+
 **Warum müssen Sie sich hier darauf einstellen, anhalten zu müssen?**
 
 ![Question Image](images/2_1_03-030.png)
@@ -18474,6 +20202,8 @@ Da die Fahrbahn sehr verengt ist und die Sicht durch den Baum (vorne links) verd
 #### Frage 2.1.03-031-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Worauf sollten Sie sich hier einstellen?**
 
@@ -18497,6 +20227,8 @@ Schmutz auf der Straße kann den Bremsweg verlängern (nicht verkürzen) und die
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Sie befahren unerwartet einen geraden Straßenabschnitt mit Rollsplitt. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -18516,6 +20248,8 @@ Auf dem geraden unerwarteten Abschnitt mit Rollsplitt solltest du deine Geschwin
 #### Frage 2.1.03-033
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, C1, D, D1, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -18541,6 +20275,8 @@ Aufgrund der schlechten Witterungsverhältnisse solltest du deine Geschwindigkei
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
+
 **Was kann Aquaplaning (Wasserglätte) zur Folge haben?**
 
 **Optionen:**
@@ -18560,6 +20296,8 @@ Bei Aquaplaning hat Ihr Fahrzeug keinen direkten Kontakt zur Fahrbahnoberfläche
 #### Frage 2.1.03-035
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Es herrscht starker Seitenwind. Wann besteht die Gefahr, dass Ihr Motorrad bei hoher Geschwindigkeit seitlich versetzt wird?**
 
@@ -18581,6 +20319,8 @@ Die Windverhältnisse verändern sich beim Überholen eines Lkws, beim rauffahre
 #### Frage 2.1.03-036
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -18604,6 +20344,8 @@ Das Verkehrsschild zeigt Schleuder- und Rutschgefahr an. Um nicht ins Schleudern
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
+
 **Worauf sollten Sie sich hier einstellen?**
 
 ![Question Image](images/2_1_03-037.png)
@@ -18625,6 +20367,8 @@ Durch den Regen solltest du dich darauf einstellen das andere Verkehrsteilnehmer
 #### Frage 2.1.03-038
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wann sind Sie hier beim Überholvorgang besonders gefährdet?**
 
@@ -18648,6 +20392,8 @@ Wenn starker Seitenwind von rechts herrscht, sind Sie als Kfz-FahrerIn besonders
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was kann die Folge sein, wenn Sie die Kurve nahe der Fahrbahnmarkierung durchfahren?**
 
 ![Question Image](images/2_1_03-039-M.png)
@@ -18670,6 +20416,8 @@ Achte stets darauf, dass du und dein Motorrad nicht die Mittellinie überragt. W
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was kann die Sturzgefahr in Kurven erhöhen?**
 
 **Optionen:**
@@ -18691,6 +20439,8 @@ Unebenheiten in der Fahrbahn, wie Bodenwellen, vermindern die Bodenhaftung der R
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Wie verringern Sie die Sturzgefahr bei nassen Fahrbahnmarkierungen?**
 
 **Optionen:**
@@ -18711,6 +20461,8 @@ Durch die Nässe, solltest du vermeiden, hier zu beschleunigen oder zu bremsen, 
 #### Frage 2.1.03-042
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Womit müssen Sie beim Fahren auf nassem Kopfsteinpflaster rechnen?**
 
@@ -18734,6 +20486,8 @@ Blockierneigung bedeutet, dass beim Bremsen das Vorderrad stärker be- und das H
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Was sollten Sie berücksichtigen, wenn Sie bei niedrigen Außentemperaturen mit einem Zweirad fahren?**
 
 **Optionen:**
@@ -18754,6 +20508,8 @@ Außerdem lässt sich der Handbremshebel mit kalten Fingern schwerer bedienen.
 #### Frage 2.1.03-044-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Womit müssen Sie in dieser Situation rechnen?**
 
@@ -18778,6 +20534,8 @@ Außerdem musst du, beim Einfahren in den Windschatten des Lkws, damit rechnen d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Durch Starkregen haben sich große Pfützen auf der Fahrbahn gebildet. Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_03-045-M.png)
@@ -18799,6 +20557,8 @@ Beim Durchfahren großer Pfützen kannst du leicht die Kontrolle über dein Kraf
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Worauf müssen Sie sich während der Fahrt einstellen, wenn es nach längerer Trockenheit anfängt zu regnen?**
 
 **Optionen:**
@@ -18818,6 +20578,8 @@ Grundsätzlich musst du bei Regen immer damit rechnen, dass die Sicht durch dein
 #### Frage 2.1.03-101
 
 **Punkte:** 5 Punkte
+
+**Klassen:** B
 
 **Wo tritt besonders häufig Aquaplaning (Wasserglätte) auf?**
 
@@ -18839,6 +20601,8 @@ Ist die Geschwindigkeit zu hoch und/oder mehr Wasser vorhanden, als von den Reif
 
 **Punkte:** 5 Punkte
 
+**Klassen:** B
+
 **Wozu führt Aquaplaning (Wasserglätte)?**
 
 **Optionen:**
@@ -18858,6 +20622,8 @@ Aquaplaning oder Wasserglätte kann dazu führen, dass weder Brems- noch Lenkkr�
 #### Frage 2.1.03-103
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, L, T
 
 **Worauf müssen Sie sich einstellen, wenn es nach längerer Trockenheit anfängt zu regnen?**
 
@@ -18879,6 +20645,8 @@ Setzt nach längerer Trockenheit Regen ein, bildet sich auf der Fahrbahn ein gef
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, L, T
+
 **Es fängt an zu regnen. Warum müssen Sie den Sicherheitsabstand sofort vergrößern?**
 
 **Optionen:**
@@ -18899,6 +20667,8 @@ Wenn es zu regnen beginnt, müssen Sie den Sicherheitsabstand aus folgenden Grü
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, L, T
+
 **Sie fahren außerorts bei dichtem Nebel auf einer Bundesstraße. Dürfen Sie auf der Fahrbahnmitte ständig über der Leitlinie fahren?**
 
 **Optionen:**
@@ -18917,6 +20687,8 @@ Das Fahren auf der Mittellinie ist auch bei dichtem Nebel nicht erlaubt, vor all
 #### Frage 2.1.03-106
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, L, T
 
 **Was müssen Sie am Tage bei einer plötzlich auftretenden Nebelbank tun?**
 
@@ -18938,6 +20710,8 @@ Als Kfz-FahrerIn müssen Sie auch am Tage bei Nebel, Schneefall und sonstiger sc
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Wie können Sie ausreichende Sicht durch die Frontscheibe erhalten?**
 
 **Optionen:**
@@ -18957,6 +20731,8 @@ Bei Nebel Scheibenwischer auf Intervallschaltung stellen, damit feine Wassertrö
 #### Frage 2.1.03-109
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Sie möchten außerhalb geschlossener Ortschaften auf einer schmalen Allee überholen. Worauf müssen Sie besonders achten?**
 
@@ -18978,6 +20754,8 @@ Durch die geringe Breite der Fahrbahnen können auch Radfahrer bei Gegenverkehr 
 #### Frage 2.1.03-110
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Was müssen Sie in dieser Situation beachten?**
 
@@ -19002,6 +20780,8 @@ Bei der plötzlichen und starken Änderung der Lichtverhältnisse müssen Sie Ih
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie sind beim Überholen mehrerer Lkws in diese Situation geraten. Wie verhalten Sie sich jetzt?**
 
 ![Question Image](images/2_1_03-111.png)
@@ -19024,6 +20804,8 @@ Die Sichtverhältnisse sind witterungsbedingt sehr schlecht und die Straße ist 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Sie fahren in einer Gruppe mit mehreren Krafträdern. Welches Verhalten verringert Unfallgefahren?**
 
 **Optionen:**
@@ -19042,6 +20824,8 @@ Wenn Sie mit einer Gruppe von Motorrädern zusammen fahren, sollten alle ihren A
 #### Frage 2.1.03-113
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Wo besteht bei Lenk- oder Bremsvorgängen erhöhte Sturzgefahr?**
 
@@ -19064,6 +20848,8 @@ Beim Abbiegen in Kurven oder beim Bremsen erhöhen rutschige Oberflächen wie Fa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Von nassen Fahrbahnmarkierungen geht eine erhöhte Sturzgefahr aus. Wie kann man diese Sturzgefahr verringern?**
 
 **Optionen:**
@@ -19083,6 +20869,8 @@ Nasse Markierungen sind ähnlich wie Straßenbahnschienen rutschig. Man sollte s
 #### Frage 2.1.03-115
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, C, C1, D, D1, T, C1E, D1E, DE
 
 **Wie verhalten Sie sich richtig?**
 
@@ -19108,6 +20896,8 @@ Da von hinten auf dem linken Streifen ein Fahrzeug kommt, warte bitte vor dem Hi
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, C, C1, D, D1, T, C1E, D1E, DE
+
 **Wie sollten Sie sich hier verhalten?**
 
 ![Question Image](images/2_1_03-116-M.png)
@@ -19129,6 +20919,8 @@ Hier solltest du aufgrund der mangelnden Sicht die Geschwindigkeit stark reduzie
 #### Frage 2.1.03-117
 
 **Punkte:** 5 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Sie fahren auf der Autobahn. Was ist in dieser Situation richtig?**
 
@@ -19153,6 +20945,8 @@ Durch die stark eingeschränkte Sicht auf der Autobahn darfst du deine Nebelschl
 #### Frage 2.1.03-118
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Die Anzeige für das Elektronische Stabilitätsprogramm (ESP) hat mehrfach geleuchtet. Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -19179,6 +20973,8 @@ Leuchtet das ESP-Symbol dauerhaft ist es inaktiv oder defekt und bedarf einer Ü
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie benutzen auf Ihrer Fahrt die Adaptive Geschwindigkeitsregelanlage (AGR) Ihres Fahrzeugs. Womit müssen Sie bei dieser Witterung rechnen?**
 
 ![Question Image](images/2_1_03-119.png)
@@ -19201,6 +20997,8 @@ Die Adaptive Geschwindigkeitsregelanlage (AGR) schätzt selbstständig die Dista
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, C, C1, D, D1, T
+
 **Sie befahren eine schmale Allee. Was müssen Sie beachten?**
 
 **Optionen:**
@@ -19221,6 +21019,8 @@ Die geringe Breite der Fahrbahn und ihre oft gewölbte Form durch Baumwurzeln zw
 #### Frage 2.1.03-121
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Die Anzeige für die Fahrdynamikregelung (ESC) hat mehrfach geleuchtet. Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -19245,6 +21045,8 @@ Du musst deine Geschwindigkeit verringern. Durch die glatte Fahrbahn und die fü
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, C, C1, CE, D, D1, T
+
 **Womit müssen Sie hier rechnen?**
 
 ![Question Image](images/2_1_03-122.png)
@@ -19268,6 +21070,8 @@ Außerdem kannst du anhand des Verkehrsschildes erkennen, dass auf der rechten S
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Bei einer Geradeausfahrt verlieren Sie durch Aquaplaning die Kontrolle über Ihr Fahrzeug. Wie reagieren Sie jetzt richtig?**
 
 **Optionen:**
@@ -19287,6 +21091,8 @@ Während des Aquaplanings kannst du nicht lenken oder die Fahrtrichtung verände
 #### Frage 2.1.03-124
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Warum ist das Überholen auf dieser verschneiten Fahrbahn gefährlich?**
 
@@ -19315,6 +21121,8 @@ Außerdem kann durch das vorausfahrende Räum-/ Streufahrzeug zusätzlich Schnee
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Sie erkennen nachts auf einer Landstraße Fußgänger auf Ihrer Seite. Wie verhalten Sie sich, wenn Sie durch ein entgegenkommendes Fahrzeug geblendet werden?**
 
 **Optionen:**
@@ -19333,6 +21141,8 @@ Wenn ein entgegenkommendes Fahrzeug Sie blendet, verringern Sie auf jeden Fall s
 #### Frage 2.1.04-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Wie müssen Sie sich verhalten, wenn im Fernlicht plötzlich Wild auftaucht?**
 
@@ -19353,6 +21163,8 @@ Halten Sie das Lenkrad fest und bremsen Sie. Blenden Sie das Fernlicht ab, es bl
 #### Frage 2.1.04-005
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Was müssen Sie in dieser Situation beachten?**
 
@@ -19376,6 +21188,8 @@ Aufgrund der hohen Anzahl an Bäumen und dem ständigen Wechsel zwischen Licht u
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Bei Dunkelheit blendet ein entgegenkommendes Fahrzeug nicht ab. Was können Sie tun, um noch einigermaßen sehen zu können?**
 
 **Optionen:**
@@ -19394,6 +21208,8 @@ Werden Sie durch das Licht von einem entgegenkommenden Fahrzeug geblendet, schau
 #### Frage 2.1.04-102
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, L, T
 
 **Bei Dunkelheit und Regen kommen Ihnen auf einer Landstraße Fahrzeuge mit Abblendlicht entgegen. Was müssen Sie berücksichtigen?**
 
@@ -19415,6 +21231,8 @@ Sie dürfen in dieser Situation kein Fernlicht einschalten, da dies den Gegenver
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Welche Gefahren können entstehen, wenn Sie mit eingeschaltetem Fernlicht fahren?**
 
 **Optionen:**
@@ -19434,6 +21252,8 @@ Mit Ihrem eingeschalteten Fernlicht können Sie vorausfahrende und entgegenkomme
 #### Frage 2.1.04-104
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Sie erkennen nachts auf einer Landstraße Personen auf Ihrer Fahrbahnseite. Wie verhalten Sie sich, wenn Sie durch ein entgegenkommendes Fahrzeug geblendet werden?**
 
@@ -19455,6 +21275,8 @@ Wenn Sie als der/die Kfz-FahrerIn nachts Personen auf der Fahrbahnseite erkennen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie befahren eine Allee mit schmaler Fahrbahn. Was müssen Sie beachten?**
 
 **Optionen:**
@@ -19475,6 +21297,8 @@ Sie dürfen auf Alleen mit schmaler Fahrbahn nur so schnell fahren, dass Sie inn
 #### Frage 2.1.04-106
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, CE, D, D1, L, T
 
 **Was erhöht die Unfallgefahr?**
 
@@ -19501,6 +21325,8 @@ Ebenso könntest du geblendet werden, wenn du auf die tief stehende Sonne zufäh
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren schon lange mit höherer Geschwindigkeit. Welche Auswirkungen kann dies haben?**
 
 **Optionen:**
@@ -19520,6 +21346,8 @@ Schnell gewöhnen Sie sich an hohe Geschwindigkeiten und befinden sich in Ihrem 
 #### Frage 2.1.05-002
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wozu kann langes Fahren mit höherer Geschwindigkeit führen?**
 
@@ -19541,6 +21369,8 @@ Die Sinne haben sich das schnelle Tempo gewöhnt und es wird unterschätzt. Dahe
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wann besteht die Gefahr, dass die eigene Geschwindigkeit unterschätzt wird?**
 
 **Optionen:**
@@ -19560,6 +21390,8 @@ Die Gefahr, die eigene Fahrgeschwindigkeit zu unterschätzen, besteht vor allem 
 #### Frage 2.1.05-005
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Was kann zu einer gefährlichen Unterschätzung der eigenen Geschwindigkeit führen?**
 
@@ -19581,6 +21413,8 @@ Zu einer gefährlichen Unterschätzung der eigenen Geschwindigkeit können breit
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie nähern sich mit hoher Geschwindigkeit einer engen Linkskurve. Warum müssen Sie bereits vor der Kurve die Geschwindigkeit vermindern?**
 
 **Optionen:**
@@ -19600,6 +21434,8 @@ Für Sie als der/die Kfz-FahrerIn besteht bei erhöhter Geschwindigkeit die Gefa
 #### Frage 2.1.05-007-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Wie müssen Sie sich verhalten?**
 
@@ -19623,6 +21459,8 @@ In dieser Situation sollten Sie unter der allgemein zulässigen Höchstgeschwind
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie nähern sich mit hoher Geschwindigkeit einer engen Linkskurve. Warum müssen Sie die Geschwindigkeit bereits vor der Kurve vermindern?**
 
 **Optionen:**
@@ -19643,6 +21481,8 @@ Aufgrund deiner hohen Geschwindigkeit kannst du wegen der Zentrifugalkraft mit d
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **In welcher Situation wird die eigene Geschwindigkeit häufig unterschätzt?**
 
 **Optionen:**
@@ -19662,6 +21502,8 @@ Bei gleichbleibender Fahrt mit hoher Geschwindigkeit nimmt die Konzentrationsfä
 #### Frage 2.1.05-010
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Womit sollten Sie rechnen, wenn Sie auf der Autobahn mit sehr hoher Geschwindigkeit fahren?**
 
@@ -19685,6 +21527,8 @@ Zusätzlich kann dein Fahrzeug bei hohen Geschwindigkeiten schon bei leichtem Se
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Was ist für die Wahl der Geschwindigkeit beim Befahren von Alleen mit geringer Fahrbahnbreite von besonderer Bedeutung?**
 
 **Optionen:**
@@ -19704,6 +21548,8 @@ Beim Befahren von Alleen mit geringer Fahrbahnbreite müssen Sie bei der Wahl Ih
 #### Frage 2.1.05-102
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum sollten Sie jetzt verzögern?**
 
@@ -19728,6 +21574,8 @@ Von rechts rennt ein Tier auf die Fahrbahn. Da hinter Ihnen kein Fahrzeug fährt
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wo müssen Sie mit plötzlich auftretenden gefährlichen Situationen rechnen?**
 
 **Optionen:**
@@ -19748,6 +21596,8 @@ Sie müssen mit plötzlich auftretenden, gefährlichen Situationen rechnen, wenn
 #### Frage 2.1.05-104-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, D, D1, D1E, DE, A80
 
 **Warum müssen Sie hier Ihre Geschwindigkeit verringern?**
 
@@ -19772,6 +21622,8 @@ Das vor Ihnen gefährlich überholende Fahrzeug birgt ein Unfallrisiko, da es zu
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
+
 **Worauf sollten Sie sich in dieser Situation einstellen?**
 
 ![Question Image](images/2_1_05-105-M.png)
@@ -19794,6 +21646,8 @@ Da die Sichtweite stark eingeschränkt ist, achte bitte auf den Gegenverkehr, de
 #### Frage 2.1.05-106-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** AM
 
 **Warum müssen Sie hier Ihre Geschwindigkeit verringern und äußerst rechts fahren?**
 
@@ -19821,6 +21675,8 @@ In dieser Situation müssen Sie wegen des gelben Autos, das in die entgegengeset
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum kann es gefährlich sein, wenn Sie als Letzter einer Kolonne sofort überholen, nachdem der Gegenverkehr gerade abgerissen ist?**
 
 **Optionen:**
@@ -19841,6 +21697,8 @@ Hat sich eine Kolonne gebildet, sollte grundsätzlich der Reihe nach überholt w
 #### Frage 2.1.06-003-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Was müssen Sie beachten, wenn Sie überholen wollen?**
 
@@ -19864,6 +21722,8 @@ Bei einem Überholmanöver sollten Sie auf eine freie Gegenspur achten. Dazu sei
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Dürfen Sie auf dieser Autobahn den schwarzen Pkw rechts überholen?**
 
 ![Question Image](images/2_1_06-004-B.png)
@@ -19884,6 +21744,8 @@ Der schwarze Pkw darf in diesem Beispiel nicht rechts überholt werden. Auf Auto
 #### Frage 2.1.06-005-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Die Pkws fahren mit etwa 30 km/h. Dürfen Sie beide noch vor der Kurve überholen?**
 
@@ -19907,6 +21769,8 @@ Sie dürften die unterbrochene Linie überfahren. Ein Überholvorgang wäre hier
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Der Überholende hat sich offensichtlich verschätzt. Was müssen Sie tun?**
 
 ![Question Image](images/2_1_06-006-B.png)
@@ -19926,6 +21790,8 @@ Der/die Kfz-FahrerIn sollte die Geschwindigkeit reduzieren. Ansonsten besteht di
 #### Frage 2.1.06-007-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie möchten überholen. Wie verhalten Sie sich jetzt richtig?**
 
@@ -19949,6 +21815,8 @@ Da das Fahrzeug hinter dir den Überholvorgang bereits gestartet hat, solltest d
 #### Frage 2.1.06-008-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie möchten überholen. Was sollten Sie beachten?**
 
@@ -19974,6 +21842,8 @@ Hier kannst du überholen, wenn du die dafür erforderliche Strecke übersehen k
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, T
+
 **Warum dürfen Sie hier nicht überholen?**
 
 ![Question Image](images/2_1_06-009.png)
@@ -19996,6 +21866,8 @@ Generell dürfen Sie nicht überholen, wenn die gesamte Überholstrecke nicht ei
 
 **Punkte:** 5 Punkte
 
+**Klassen:** AM, B
+
 **Sie werden überholt und der Gegenverkehr kommt gefährlich nahe. Trotzdem setzt das andere Fahrzeug den Überholvorgang fort. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -20014,6 +21886,8 @@ Sie müssen abbremsen und äußerst rechts fahren, damit der/die überholende Kf
 #### Frage 2.1.06-011
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, D, D1, D1E, DE, A80
 
 **Warum müssen Sie jetzt stark bremsen?**
 
@@ -20038,6 +21912,8 @@ Da der blaue Pkw allem Anschein nach auf Ihren Fahrstreifen kommen wird, müssen
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/2_1_06-012-M.png)
@@ -20060,6 +21936,8 @@ Als der/die Kfz-FahrerIn müssen Sie nicht auf die mittlere Spur ausweichen, wen
 #### Frage 2.1.06-013
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie möchten überholen. Wie verhalten Sie sich jetzt richtig?**
 
@@ -20084,6 +21962,8 @@ Sie haben den Blinker bereits gesetzt und möchten den Lkw überholen. Im Rücks
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/2_1_06-014.png)
@@ -20107,6 +21987,8 @@ Bei sich schnell annährenden Fahrzeugen von hinten gilt es sich nicht aus der R
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/2_1_06-015.png)
@@ -20129,6 +22011,8 @@ Ein/eine Pkw-FahrerIn fährt auf dem linken Fahrstreifen gefährlich dicht zu Ih
 #### Frage 2.1.06-016-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** C1, D, D1, D1E, DE
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -20154,6 +22038,8 @@ Da sich ein Fahrzeug von vorne nähert und ein Wagen hinter dir (rot) überholen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum müssen Sie hier verzögern?**
 
 ![Question Image](images/2_1_06-017-M.png)
@@ -20176,6 +22062,8 @@ Der entgegenkommende Pkw überholt trotz Gegenverkehr ca. 250 m vor Ihnen. Sie m
 #### Frage 2.1.06-018-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -20201,6 +22089,8 @@ Wenn Sie ein Fahrzeug trotz Gegenverkehr überholt, sollten Sie verzögern und v
 
 **Punkte:** 4 Punkte
 
+**Klassen:** AM
+
 **Warum dürfen Sie in dieser Situation nicht überholen?**
 
 ![Question Image](images/2_1_06-019-M.png)
@@ -20224,6 +22114,8 @@ Sie dürfen nicht überholen, da das Motorrad mit einer hohen Geschwindigkeit hi
 #### Frage 2.1.06-020-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** AM, L
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -20249,6 +22141,8 @@ Da der Lastwagen, der Sie überholt, ankommenden Verkehr hat, sollten Sie langsa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie möchten überholen. Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_06-021-M.png)
@@ -20271,6 +22165,8 @@ Du solltest den Lkw nicht überholen, da du die dafür erforderliche Strecke nic
 #### Frage 2.1.06-022-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum müssen Sie den Überholvorgang abbrechen?**
 
@@ -20296,6 +22192,8 @@ Du solltest den Überholvorgang abbrechen, weil der Traktor nach links abbiegen 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_06-023-M.png)
@@ -20319,6 +22217,8 @@ Du solltest nicht überholen, weil der Traktor nach links (siehe Blinker) aussch
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie möchten überholen. Wie verhalten Sie sich hier richtig?**
 
 ![Question Image](images/2_1_06-024-M.png)
@@ -20341,6 +22241,8 @@ Das richtige Verhalten (vorausschauend) hier ist, nicht überholen, weil das gel
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_06-025-M.png)
@@ -20362,6 +22264,8 @@ Da sich ein Fahrzeug auf deinem Fahrstreifen befindet, solltest du sofort bremse
 #### Frage 2.1.06-026-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, C1, D, D1, A80
 
 **Warum dürfen Sie jetzt nicht überholen?**
 
@@ -20387,6 +22291,8 @@ Wegen des Motorrads (Gegenverkehr) und des Straßenverlaufs und der daraus resul
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum dürfen Sie jetzt nicht überholen?**
 
 ![Question Image](images/2_1_06-027-M.png)
@@ -20410,6 +22316,8 @@ In diesem Moment fährt ein Motorradfahrer an dem Traktor vorbei. Warten Sie bis
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum dürfen Sie hier nicht überholen?**
 
 ![Question Image](images/2_1_06-028-M.png)
@@ -20431,6 +22339,8 @@ Durch die Kurve und die Bäume kannst du den weiteren Straßenverlauf nicht ausr
 #### Frage 2.1.06-029-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Warum dürfen Sie hier nicht überholen?**
 
@@ -20454,6 +22364,8 @@ Die Straße ist zu schmal, um gleichzeitig ausreichenden Seitenabstand zu den Ra
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie möchten auf einer Allee überholen. Welche Besonderheit sollten Sie beachten?**
 
 **Optionen:**
@@ -20474,6 +22386,8 @@ Die Allee ist von Bäumen umrahmt. Daher kommt es durch den Licht und Schatten w
 #### Frage 2.1.06-031-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum müssen Sie den Überholvorgang jetzt abbrechen?**
 
@@ -20498,6 +22412,8 @@ Der Traktor setzt zum Linksabbiegen an. Dabei fährt der Traktor über die linke
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren auf einer Straße mit einem Fahrstreifen für jede Richtung. Vor Ihnen fährt ein geschlossener Verband von Kraftfahrzeugen. Warum sollten Sie zur Vermeidung von gefährlichen Situationen auf ein Überholen verzichten?**
 
 **Optionen:**
@@ -20519,6 +22435,8 @@ Dadurch, dass ein geschlossener Verband aus mehreren Fahrzeugen besteht, kannst 
 #### Frage 2.1.06-033-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum ist ein Überholen in dieser Situation zu gefährlich?**
 
@@ -20546,6 +22464,8 @@ In der Linkskurve kannst du die Überholstrecke nicht ausreichend einsehen. Wahr
 
 **Punkte:** 4 Punkte
 
+**Klassen:** AM
+
 **Warum dürfen Sie in dieser Situation nicht überholen?**
 
 ![Question Image](images/2_1_06-034-M.png)
@@ -20571,6 +22491,8 @@ Außerdem nährt sich das Motorrad mit hoher Geschwindigkeit. Es wird dich wahrs
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Die Fahrzeuge vor Ihnen fahren mit etwa 30 km/h. Warum dürfen Sie vor der Kurve nicht überholen?**
 
 ![Question Image](images/2_1_06-035-M.png)
@@ -20592,6 +22514,8 @@ Du darfst vor der Kurve nicht überholen da dein Überholweg zu lang ist, um bei
 #### Frage 2.1.06-103-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Weshalb müssen Sie jetzt auf den rechten Fahrstreifen wechseln?**
 
@@ -20617,6 +22541,8 @@ Der Fahrstreifen wird durch die Verengung in den Gegenverkehr geführt, daher m
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Wie verhalten Sie sich hier richtig?**
 
 ![Question Image](images/2_1_06-104-M.png)
@@ -20639,6 +22565,8 @@ Du solltest vorerst nicht überholen, da ihr nebeneinander fahrt und nicht genü
 #### Frage 2.1.06-105
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -20664,6 +22592,8 @@ In einer solchen Situation musst du auf Schrittgeschwindigkeit abbremsen und dic
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_06-106-M.png)
@@ -20686,6 +22616,8 @@ Du musst deine Geschwindigkeit verringern da der Seitenabstand zum Radfahrer nic
 #### Frage 2.1.06-107-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Warum sollten Sie den Mofafahrer in dieser Situation nicht überholen?**
 
@@ -20714,6 +22646,8 @@ Wegen der Enge der Fahrbahn kannst du nicht den erforderlichen Seitenabstand ein
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, L, T
+
 **Wie verhalten Sie sich hier richtig?**
 
 ![Question Image](images/2_1_06-201-M.png)
@@ -20740,6 +22674,8 @@ Du kannst den Radfahrer hier noch nicht überholen, da kein ausreichender Seiten
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Womit müssen Sie auf diesem Autobahnparkplatz rechnen?**
 
 ![Question Image](images/2_1_07-002-B.png)
@@ -20762,6 +22698,8 @@ Die Oberfläche dieses Autobahnparkplatzes besteht aus Kopfsteinpflaster, das ni
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Wie verhalten Sie sich, wenn Sie geradeaus weiterfahren wollen?**
 
 ![Question Image](images/2_1_07-004-B.png)
@@ -20782,6 +22720,8 @@ Sie verhalten sich korrekt, wenn Sie die Geschwindigkeit Ihres Fahrzeugs reduzie
 #### Frage 2.1.07-006-B
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Sie nähern sich den abgebildeten Fahrzeugen. Wie verhalten Sie sich?**
 
@@ -20804,6 +22744,8 @@ Außerhalb von geschlossenen Ortschaften fahren langsame Fahrzeuge wie Traktoren
 #### Frage 2.1.07-007-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Womit sollten Sie in dieser Situation rechnen?**
 
@@ -20829,6 +22771,8 @@ Das Schild zum Anfang des Videos zeigt Achtung Rollsplitt an, deswegen musst du 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **[Der weiße Pkw] möchte nach links abbiegen. Wie verhalten Sie sich richtig, wenn [der Pkw] nicht anhält?**
 
 ![Question Image](images/2_1_07-008-M.png)
@@ -20850,6 +22794,8 @@ Der weiße Pkw möchte nach links abbiegen und da du nicht weist, ob dieser anha
 #### Frage 2.1.07-009-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
 
 **Warum müssen Sie jetzt bremsen?**
 
@@ -20874,6 +22820,8 @@ Du solltest wegen des grünen Fahrzeugs bremsen, da dieses hinter dem Traktor au
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
+
 **Womit müssen Sie auf diesem Parkplatz rechnen?**
 
 ![Question Image](images/2_1_07-010-M.png)
@@ -20896,6 +22844,8 @@ Fahrzeuge können den Parkplatz verlassen, achten Sie auf ausparkende Fahrzeuge.
 #### Frage 2.1.07-011-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -20921,6 +22871,8 @@ Der Pkw wird wahrscheinlich den Fahrradfahrer überholen. Bremsen Sie sicherheit
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Warum sollten Sie in dieser Situation bremsbereit sein?**
 
 ![Question Image](images/2_1_07-012-M.png)
@@ -20944,6 +22896,8 @@ Der Traktorfahrer könnte jeden Moment auf Ihre Fahrbahn fahren, seien Sie desha
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was ist bei einer Gruppenfahrt mit mehreren Motorrädern zu beachten?**
 
 **Optionen:**
@@ -20963,6 +22917,8 @@ Fahren Sie versetzt um Auffahrunfälle durch plötzliches Bremsen zu vermeiden. 
 #### Frage 2.1.07-014-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Womit sollten Sie in dieser Situation rechnen?**
 
@@ -20986,6 +22942,8 @@ Aufgrund des abbiegenden Lkws könnte der Transporter Sie übersehen. Seien Sie 
 #### Frage 2.1.07-015-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum sollten Sie hier die Geschwindigkeit weiter verringern?**
 
@@ -21013,6 +22971,8 @@ Eventuell wird der stehende Pkw durch den Busch verdeckt oder es wurde kein Warn
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_07-016-M.png)
@@ -21036,6 +22996,8 @@ Der Liegenbleiber blockiert den Fahrstreifen des anderen Fahrzeugs und schränkt
 #### Frage 2.1.07-017
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum sollten Sie hier weiter verzögern?**
 
@@ -21061,6 +23023,8 @@ Auf dem linken Fahrstreifen hat ein Pkw eine Panne und ist liegen geblieben. Vor
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, T, C1E, D1E, DE, A80
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_07-018.png)
@@ -21083,6 +23047,8 @@ Da sich ein Auto hinter dir befindet, welches auf der Spur der Straßenbahn fäh
 #### Frage 2.1.07-019-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** AM
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -21108,6 +23074,8 @@ Der Motorradfahrer nähert sich dir mit hoher Geschwindigkeit. Er könnte dich �
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, D, D1, D1E, DE, A80
+
 **Wie sollten Sie sich jetzt verhalten?**
 
 ![Question Image](images/2_1_07-020.png)
@@ -21132,6 +23100,8 @@ Der gelbe Pkw kommt Ihnen als Falschfahrer auf der Autobahn entgegen. Fahren Sie
 
 **Punkte:** 4 Punkte
 
+**Klassen:** AM
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_07-021-M.png)
@@ -21154,6 +23124,8 @@ Da der Verkehr auf der linken Linie hinter Ihnen liegt, sollten Sie langsamer we
 #### Frage 2.1.07-022-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -21180,6 +23152,8 @@ Eine Gefahrenbremsung könnte zu einem Auffahrunfall führen, wenn das Fahrzeug 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum sollten Sie jetzt die Geschwindigkeit verringern?**
 
 ![Question Image](images/2_1_07-023-M.png)
@@ -21202,6 +23176,8 @@ Auch wenn du die hier zulässige Höchstgeschwindigkeit von 60 km/h einhältst, 
 #### Frage 2.1.07-024-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Was müssen Sie in dieser Situation beachten?**
 
@@ -21228,6 +23204,8 @@ Außerdem solltest du darauf achten möglichst nicht auf dem Rollsplitt zu fahre
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_1_07-025-M.png)
@@ -21251,6 +23229,8 @@ Da der blaue PKW voraussichtlich ohne Beachtung der Vorfahrtsregeln die Straße 
 #### Frage 2.1.07-026-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -21276,6 +23256,8 @@ Der Traktor signalisiert durch Blinken, dass er wieder auf den Fahrstreifen wech
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was ist in dieser Situation richtig?**
 
 ![Question Image](images/2_1_07-027-M.png)
@@ -21298,6 +23280,8 @@ Auf der engen Landstraße ist es möglich, dass du und der Traktor nicht ohne we
 #### Frage 2.1.07-028-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -21324,6 +23308,8 @@ Die abrupten Brems- und Lenkmanöver des vorausfahrenden Pkws sind gefährlich. 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Was müssen Sie beim Befahren von schmalen Alleen beachten?**
 
 **Optionen:**
@@ -21344,6 +23330,8 @@ In Kurven könnte deine Sicht auf die Fahrbahn nach der Kurve eingeschränkt sei
 #### Frage 2.1.07-030-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** AM
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -21369,6 +23357,8 @@ Auch auf die linke Spur wechseln kannst du nicht, denn neben dir befindet sich e
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie nehmen an einer Gruppenfahrt mit mehreren Motorrädern teil. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -21390,6 +23380,8 @@ So werden mögliche Gefahrensituationen mit anderen Motorrädern oder dem Gegenv
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wann kann ein schnell fahrender Pkw auf trockener, gerader Straße seitwärts ausbrechen?**
 
 **Optionen:**
@@ -21409,6 +23401,8 @@ Ein Fahrzeug auf gerader, trockener Straße kann bei starkem Seitenwind oder ein
 #### Frage 2.1.07-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was erleichtert das Fahren im Kolonnenverkehr?**
 
@@ -21430,6 +23424,8 @@ Leicht versetztes Fahren ermöglicht ein Beobachten der vorausfahrenden Fahrzeug
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was müssen Sie nach einem Wildunfall (z. B. mit einem Reh) tun?**
 
 **Optionen:**
@@ -21449,6 +23445,8 @@ Nach einem Wildunfall müssen Sie anhalten, Ihre Warnblinkanlage einschalten und
 #### Frage 2.1.07-106
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Bei schneller Autobahnfahrt platzt ein Reifen an Ihrem Pkw. Wie verhalten Sie sich?**
 
@@ -21470,6 +23468,8 @@ Vermeiden Sie eine Vollbremsung auf der Autobahn und lenken Sie stattdessen gege
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie erhöhen Ihre Geschwindigkeit von 50 km/h auf 100 km/h. Wie verändert sich der Bremsweg entsprechend der Faustformel?**
 
 **Optionen:**
@@ -21489,6 +23489,8 @@ Nach der Faustformel vervierfacht sich der Bremsweg, wenn sich die Geschwindigke
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Beim Verlassen einer Ortschaft erhöhen ein ca. 15 m vorausfahrendes Fahrzeug und Sie die Geschwindigkeit von 50 km/h auf 100 km/h. Wie sollten Sie Ihren Sicherheitsabstand gegenüber dem Vorausfahrenden ändern?**
 
 **Optionen:**
@@ -21507,6 +23509,8 @@ Halten Sie außerhalb geschlossener Ortschaften einen Sicherheitsabstand zum vor
 #### Frage 2.1.07-111
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum müssen Sie in dieser Situation bremsbereit sein?**
 
@@ -21531,6 +23535,8 @@ Sie sehen, dass ein Fahrzeug von rechts auf die Fahrbahn auffahren will. Da es a
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum sollten Sie jetzt Ihre Geschwindigkeit verringern?**
 
 ![Question Image](images/2_1_07-112.png)
@@ -21554,6 +23560,8 @@ Grundsätzlich haben Sie Vorfahrt, da Sie sich auf einer Vorfahrtsstraße befind
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/2_1_07-113-M.png)
@@ -21576,6 +23584,8 @@ Da sich die linke Fahrspur verengt und das Fahrzeug links neben dir auf dieser b
 #### Frage 2.1.07-114-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Womit sollten Sie in dieser Situation rechnen?**
 
@@ -21601,6 +23611,8 @@ Obgleich Sie sich auf der Vorfahrtsstraße befinden, müssen Sie jederzeit damit
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/2_1_07-115.png)
@@ -21623,6 +23635,8 @@ In dieser Situation solltest du die Geschwindigkeit beibehalten und unverändert
 #### Frage 2.1.07-116
 
 **Punkte:** 5 Punkte
+
+**Klassen:** B, C1
 
 **Wie müssen Sie sich verhalten?**
 
@@ -21648,6 +23662,8 @@ Da du nicht sehen kannst, was sich vor dir befindet, bremse sofort stark ab, abe
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Worauf müssen Sie beim Einbiegen nach rechts achten?**
 
 ![Question Image](images/2_1_07-117-M.png)
@@ -21671,6 +23687,8 @@ Allen Kfz-FahrerInnen, die auf der Vorfahrtsstraße fahren, müssen Sie Vorfahrt
 #### Frage 2.1.07-118-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie möchten auf der Vorfahrtstraße bleiben. Womit müssen Sie jetzt rechnen?**
 
@@ -21696,6 +23714,8 @@ In dieser Situation ist es wahrscheinlich, dass das schwarze Auto Sie nicht auf 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie müssen Sie sich verhalten, wenn sich ein Zusammenstoß mit Wild nicht mehr vermeiden lässt?**
 
 **Optionen:**
@@ -21715,6 +23735,8 @@ Ist ein Zusammenstoß mit einem Tier nicht mehr vermeidbar, ist die Fahrtrichtun
 #### Frage 2.1.07-120-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Die Geschwindigkeitsregelanlage (Tempomat) Ihres Kraftfahrzeugs ist auf 130 km/h eingestellt. Wie verhalten Sie sich jetzt richtig?**
 
@@ -21738,6 +23760,8 @@ Sie müssen die Geschwindigkeitsregelanlage (Tempomat) durch Abbremsen unterbrec
 #### Frage 2.1.07-121-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** B, C1
 
 **Wie müssen Sie sich in dieser Situation verhalten?**
 
@@ -21763,6 +23787,8 @@ In dieser Situation solltest du gleichzeitig sofort stark abbremsen aber auch ni
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T
+
 **Sie fahren auf einer bei Motorradfahrern beliebten kurvenreichen Strecke. Womit müssen Sie rechnen?**
 
 **Optionen:**
@@ -21783,6 +23809,8 @@ Auf kurvigen Straße können Motorradfahrer die Kurven schneiden oder wegen ihre
 #### Frage 2.1.07-123-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -21807,6 +23835,8 @@ Der Fahrer des roten Fahrzeugs schneidet die Kurve. Bremse ab und bleibe so lang
 #### Frage 2.1.07-124-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1, L, T
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -21833,6 +23863,8 @@ Du solltest außerdem so weit wie möglich rechts fahren, um eine Kollision mit 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Wie verhalten Sie sich?**
 
 ![Question Image](images/2_1_07-202.png)
@@ -21856,6 +23888,8 @@ Ein vor Ihnen fahrender Pkw parkt ein. Sie müssen Ihre Geschwindigkeit verringe
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, L, T
+
 **Was müssen Sie über die Benutzung der Rückspiegel wissen?**
 
 **Optionen:**
@@ -21875,6 +23909,8 @@ Ein vor Ihnen fahrender Pkw parkt ein. Sie müssen Ihre Geschwindigkeit verringe
 #### Frage 2.1.07-204
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Sie fahren in eine Rechtskurve. Ein Motorradfahrer kommt Ihnen mit hoher Geschwindigkeit entgegen. Mit welchen Gefahren müssen Sie rechnen?**
 
@@ -21896,6 +23932,8 @@ Während Sie in eine Rechtskurve einfahren, fährt der entgegenkommende Motorrad
 
 **Punkte:** 4 Punkte
 
+**Klassen:** AM, B, L, T
+
 **In einer schmalen Straße wollen Sie in einer Steigung Radfahrer überholen. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -21916,6 +23954,8 @@ Radfahrer neigen in der Steigung zum verstärkten Pendeln. Der geforderte Mindes
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren auf einer Landstraße. Vor Ihnen hat sich eine langsam fahrende Fahrzeugschlange von ca. 15 Fahrzeugen gebildet. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -21934,6 +23974,8 @@ In einer solchen Kolonne gilt es, die Ruhe zu bewahren und den notwendigen Siche
 #### Frage 2.1.07-207
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie halten mit Ihrem Fahrzeug an, um Mitfahrende rechts aussteigen zu lassen. Dort verläuft ein Radweg. Was sollten Sie tun?**
 
@@ -21955,6 +23997,8 @@ Sie haben als FahrzeugführerIn eine besondere Fürsorgepflicht. Wenn Sie also m
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie erhöhen Ihre Geschwindigkeit von 50 km/h auf 100 km/h. Wie verändert sich der Reaktionsweg entsprechend der Faustformel?**
 
 **Optionen:**
@@ -21973,6 +24017,8 @@ Erhöht der/die Kfz-FahrerIn die Geschwindigkeit des Fahrzeugs auf das Doppelte,
 #### Frage 2.1.07-209
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Wodurch kann ein schnell fahrendes Fahrzeug auch auf trockener, gerader Straße plötzlich ausbrechen?**
 
@@ -21993,6 +24039,8 @@ Durch Windböen und Platzen des Reifens kann dein Fahrzeug ausbrechen und dich v
 #### Frage 2.1.07-210-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
 
 **Womit müssen Sie rechnen?**
 
@@ -22015,6 +24063,8 @@ Hier musst du mit einer gefährlichen Linkskurve und einem Hindernis hinter der 
 #### Frage 2.1.07-211-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -22042,6 +24092,8 @@ Wie im Rückspiegel zu sehen ist, befindet sich ein Fahrzeug hinter dir auf der 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Womit müssen Sie hier rechnen?**
 
 ![Question Image](images/2_1_08-005-B.png)
@@ -22064,6 +24116,8 @@ Das Hinweisschild kündigt das Ende des linken Fahrstreifens an. Der Verkehrsflu
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie müssen Sie sich hier verhalten?**
 
 ![Question Image](images/2_1_08-006-B.png)
@@ -22083,6 +24137,8 @@ Fährt der/die Kfz-FahrerIn bereits längere Zeit mit hoher Geschwindigkeit auf 
 #### Frage 2.1.08-008-B
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Hier bildet sich ein Stau. Wie verhalten Sie sich richtig?**
 
@@ -22106,6 +24162,8 @@ Fahren Sie auf einen Stau zu, schalten Sie Ihr Warnblinklicht ein, um andere Ver
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
+
 **Womit müssen Sie bei Steigungen auf Autobahnen rechnen?**
 
 **Optionen:**
@@ -22126,6 +24184,8 @@ Bei Steigungen auf Autobahnen, solltest du mit langsam fahrenden Lkws auf dem re
 #### Frage 2.1.08-011
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Wie müssen Sie sich verhalten?**
 
@@ -22150,6 +24210,8 @@ Da Sie gerade von einem Pkw auf der linken Seite überholt werden, müssen Sie d
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Was müssen Sie beim Einfahren auf die Autobahn beachten?**
 
 **Optionen:**
@@ -22169,6 +24231,8 @@ Auf Autobahnen hat immer der durchgehende Verkehr Vorfahrt und muss die Einfahrt
 #### Frage 2.1.08-014
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie fahren mit Richtgeschwindigkeit auf der Autobahn und möchten diese an der nächsten Ausfahrt verlassen. Wie müssen Sie sich verhalten?**
 
@@ -22190,6 +24254,8 @@ Beenden Sie Überholvorgänge rechtzeitig und ordnen Sie sich auf dem rechten Fa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Nach längerer Fahrt mit etwa 120 km/h wollen Sie die Autobahn verlassen. Was haben Sie dabei zu beachten?**
 
 **Optionen:**
@@ -22209,6 +24275,8 @@ Wenn Sie als Kfz-FahrerIn nach längerer Fahrt mit etwa 120 km/h die Autobahn ve
 #### Frage 2.1.08-016
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -22234,6 +24302,8 @@ Bei der Annäherung an ein Stauende auf der Autobahn müssen Sie Ihre Geschwindi
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Womit müssen Sie in dieser Ausfahrt rechnen?**
 
 ![Question Image](images/2_1_08-017.png)
@@ -22256,6 +24326,8 @@ Der Verlauf der Kurve ist nicht übersehbar. Es ist stets mit Hindernissen wie l
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Was ist in dieser Situation richtig?**
 
 ![Question Image](images/2_1_08-018.png)
@@ -22277,6 +24349,8 @@ Die Kurve ist für den/die Kfz-FahrerIn schlecht einsehbar. Es könnten sich and
 #### Frage 2.1.08-019
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum müssen Sie jetzt verzögern?**
 
@@ -22301,6 +24375,8 @@ Die fahrbare Absperrtafel mit Blinkpfeil im rechten Fahrstreifen zwingt den/die 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, C, C1, D, D1, C1E, D1E, DE, A80
+
 **Warum müssen Sie jetzt die Geschwindigkeit verringern?**
 
 ![Question Image](images/2_1_08-020.png)
@@ -22324,6 +24400,8 @@ Die Fahrbahn wird in wenigen Metern verengt. (Siehe blinkender Pfeil) Da sich de
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren mindestens 20 km/h schneller als der grüne Lkw. Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/2_1_08-021.png)
@@ -22345,6 +24423,8 @@ Sie befinden sich auf einem Einfädelungsstreifen zur Autobahn, vormals Beschleu
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie nähern sich diesen Fahrzeugen. Wie sollten Sie sich in dieser Situation verhalten?**
 
 ![Question Image](images/2_1_08-022.png)
@@ -22365,6 +24445,8 @@ Der weiße Pkw auf dem linken Fahrstreifen darf nicht rechts überholt werden. H
 #### Frage 2.1.08-023
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Sie fahren einen Lkw. Wie verhalten Sie sich jetzt richtig?**
 
@@ -22389,6 +24471,8 @@ Bitte vergrößere den Abstand zum Vorausfahrenden und halte somit den erforderl
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie sollten Sie sich jetzt verhalten?**
 
 ![Question Image](images/2_1_08-024-M.png)
@@ -22412,6 +24496,8 @@ Neben Ihnen fährt ein roter Pkw, der in den mittleren Fahrstreifen wechselt. Da
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, CE, D, D1, C1E, D1E, DE, A80
+
 **Sie möchten auf die Autobahn auffahren. Welcher Fahrlinie müssen Sie folgen?**
 
 ![Question Image](images/2_1_08-025.png)
@@ -22429,6 +24515,8 @@ Du solltest dich für Linie 3 entscheiden. 1&2 sind nicht richtig.
 #### Frage 2.1.08-026-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Worauf sollten Sie sich jetzt einstellen?**
 
@@ -22453,6 +24541,8 @@ In dieser Situation lässt sich kein Stau ausmachen. Da das Motorrad links fähr
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
+
 **Sie möchten die Autobahn verlassen. Wodurch ergibt sich hier eine gefährliche Situation?**
 
 ![Question Image](images/2_1_08-027-M.png)
@@ -22475,6 +24565,8 @@ Durch das hinter dir fahrende Motorrad (siehe rechter Außenspiegel) ergibt sich
 #### Frage 2.1.08-028-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -22501,6 +24593,8 @@ Fährst du unverändert weiter, könnte es zu einem Zusammenstoß mit dem Lkw ko
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum müssen Sie jetzt die Geschwindigkeit verringern?**
 
 ![Question Image](images/2_1_08-029-M.png)
@@ -22523,6 +24617,8 @@ Vor dem Lkw ist der rechte Fahrstreifen gesperrt. Er muss auf den linken Fahrstr
 #### Frage 2.1.08-030-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie möchten die Autobahn verlassen. Wie verhalten Sie sich richtig?**
 
@@ -22548,6 +24644,8 @@ Würdest du erst bei der Kurve abbremsen, könntest du deine Geschwindigkeit nic
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum sollten Sie auf Autobahnen die Richtgeschwindigkeit von 130 km/h einhalten?**
 
 **Optionen:**
@@ -22568,6 +24666,8 @@ Je höher die Geschwindigkeit ist, desto länger werden auch Reaktionsweg, Brems
 #### Frage 2.1.08-032-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Womit müssen Sie jetzt rechnen?**
 
@@ -22593,6 +24693,8 @@ Aufgrund des plötzlichen Staus sieht der Fahrer des Lkw das Stauende zu spät. 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
+
 **Womit müssen Sie beim Befahren der Ausfahrt rechnen?**
 
 ![Question Image](images/2_1_08-033-M.png)
@@ -22615,6 +24717,8 @@ Ein Warndreieck weist auf ein nahes Hindernis, wie z.B. Menschen, ein defektes F
 #### Frage 2.1.08-102
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Warum sollten Sie es vermeiden, im Baustellenbereich zu überholen?**
 
@@ -22642,6 +24746,8 @@ Das Überholen im Baustellenbereich spart häufig so gut wie keine Zeit, da die 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Wie können Sie die Gefahr verringern, eine Autobahn entgegen der vorgeschriebenen Fahrtrichtung zu befahren?**
 
 **Optionen:**
@@ -22665,6 +24771,8 @@ Um die Autobahn nicht entgegen der Fahrtrichtung zu befahren, solltest du immer 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Was müssen Sie als Busfahrer im Fahrdienst beachten?**
 
 **Optionen:**
@@ -22684,6 +24792,8 @@ Demnächst...
 #### Frage 2.1.09-202
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Was müssen Sie als Busfahrer im Fahrdienst beachten?**
 
@@ -22708,6 +24818,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Was müssen Sie tun, wenn Sie bei einer nächtlichen Fahrt auf freier Strecke Ermüdungserscheinungen spüren (Lidschwere, Frösteln, plötzliches Erschrecken usw.)?**
 
 **Optionen:**
@@ -22725,6 +24837,8 @@ Sie können Ermüdungserscheinungen nur vermeiden, wenn Sie rechtzeitig ausreich
 #### Frage 2.1.10-002
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Was wirkt auf langen Fahrten der Ermüdung entgegen?**
 
@@ -22745,6 +24859,8 @@ Rechtzeitige Pausen beugen einer Übermüdung vor. Gymnastische Übungen in der 
 #### Frage 2.1.10-003
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **Welche Gefahr kann bei der Nutzung von Fahrerassistenzsystemen bestehen?**
 
@@ -22767,6 +24883,8 @@ Der Fahrzeugführer kann bei der Nutzung eines Fahrerassistenzsystems die Eigenv
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, C, C1, D, D1, A80
+
 **Welche Gefahr besteht, wenn Sie durch die Nutzung elektronischer Geräte während der Fahrt abgelenkt werden?**
 
 **Optionen:**
@@ -22786,6 +24904,8 @@ Die Nutzung elektronischer Geräte (Konzentration abgelenkt) während der Fahrt 
 #### Frage 2.1.10-005
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Welche Ursache führt bei jungen Fahrern häufig zu sogenannten Disco-Unfällen?**
 
@@ -22808,6 +24928,8 @@ Alle 3 sind richtig. Die sogenannten Disco-Unfälle entstehen durch Übermüdung
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, C, C1, D, D1, A80
+
 **Wie verhalten Sie sich richtig, wenn Sie bei einer nächtlichen Fahrt Ermüdungserscheinungen spüren?**
 
 **Optionen:**
@@ -22827,6 +24949,8 @@ Sobald Sie Müdigkeit verspüren sollten Sie sofort eine Pause einlegen. Das Ris
 #### Frage 2.1.10-101
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Was kann die Aufmerksamkeit im Straßenverkehr beeinträchtigen?**
 
@@ -22849,6 +24973,8 @@ Alle äußeren Reize wie Freude, Ärger, Interessantes im Radio und lebhafte Unt
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Was lenkt Sie während der Fahrt stark ab?**
 
 **Optionen:**
@@ -22869,6 +24995,8 @@ Das Telefonieren während der Fahrt ist nur über eine Freisprechanlage erlaubt.
 #### Frage 2.1.10-103
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Wann sollten Sie Ihre Fahrt unterbrechen?**
 
@@ -22894,6 +25022,8 @@ Genauso solltest du anhalten, wenn du einen im Fahrzeug heruntergefallenen Gegen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Ein Langsamfahrer hindert Sie am schnelleren Vorwärtskommen. Was ist richtig?**
 
 **Optionen:**
@@ -22912,6 +25042,8 @@ Starten Sie niemals ein riskantes Überholmanöver oder zwingen Sie Ihren Vorder
 #### Frage 2.1.11-007
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Woran erkennt man den guten Fahrer?**
 
@@ -22932,6 +25064,8 @@ Ein/e gute/r Kfz-FahrerIn hält die Verkehrsvorschriften ein und zeichnet sich d
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Nachdem Sie längere Zeit auf einer Landstraße einem sehr langsam fahrenden Pkw folgen mussten, können Sie endlich überholen. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -22950,6 +25084,8 @@ Sie sollten in dieser Situation gelassen bleiben und mit ausreichend Sicherheits
 #### Frage 2.1.11-009-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Der Vorausfahrende hindert Sie seit Längerem am Überholen. Wie verhalten Sie sich richtig?**
 
@@ -22972,6 +25108,8 @@ Der/die Kfz-FahrerIn muss warten, bis das Überholen gefahrlos möglich ist und 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Unmittelbar bevor Sie losfahren möchten, haben Sie sich geärgert und sind sehr wütend. Wie sollten Sie sich verhalten?**
 
 **Optionen:**
@@ -22991,6 +25129,8 @@ Wütend ins Auto zu steigen, kann Ihre Fahrweise negativ beeinflussen. Wenn Sie 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Sie sind durch eine Gefahrbremsung nur knapp einem Verkehrsunfall entgangen. Ihre Hände und Knie zittern. Ihr Fahrziel ist noch weit entfernt. Was sollten Sie tun?**
 
 **Optionen:**
@@ -23008,6 +25148,8 @@ Sie sollten sich zunächst beruhigen. Denn die Unruhe kann sich negativ auf die 
 #### Frage 2.1.11-012
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Was müssen Sie beachten, wenn Sie nach einem langen Arbeitstag noch ein Fahrzeug führen?**
 
@@ -23029,6 +25171,8 @@ Nach einem langen Arbeitstag sind Sie meist nicht mehr voll leistungsfähig und 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, C, C1, D, D1, L, Mofa, T, A80
+
 **Woran erkennt man einen guten Fahrzeugführer?**
 
 **Optionen:**
@@ -23048,6 +25192,8 @@ Ein guter Fahrzeugführer achtet immer darauf sich partnerschaftlich zu verhalte
 #### Frage 2.1.11-014-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Der [rote] Pkw vor Ihnen fährt schon längere Zeit langsam. Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -23073,6 +25219,8 @@ Die Straße ist zwar frei, allerdings siehst du nur bis zur nächsten Kurve. Die
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Welche Ursache führt bei jungen Fahrern häufig zu sogenannten Disco-Unfällen?**
 
 **Optionen:**
@@ -23094,6 +25242,8 @@ Eine defensive Fahrweise kann Unfälle vermeiden.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum kann das Fahren unter Zeitdruck gefährlich sein?**
 
 **Optionen:**
@@ -23114,6 +25264,8 @@ Wenn du unter Zeitdruck bist, kann es passieren, dass du Gefahren unterschätzt,
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Auf einer Straße außerorts fährt vor Ihnen ein Pkw deutlich langsamer, als es erlaubt ist und für ihn möglich wäre. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -23133,6 +25285,8 @@ Auch wenn es dir nicht gefällt, musst du deine Geschwindigkeit an die des Pkws 
 #### Frage 2.1.11-018
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum ist ein häufiger Wechsel des Fahrstreifens nicht sinnvoll?**
 
@@ -23155,6 +25309,8 @@ Jeder Fahrstreifenwechsel erfordert gewisse Tätigkeiten: Verkehr beobachten, bl
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Sie sind durch eine Gefahrbremsung nur knapp einem Verkehrsunfall entgangen. Ihre Hände und Knie zittern. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -23175,6 +25331,8 @@ Außerdem solltest du die Situation später im Kopf noch einmal durchgehen, dabe
 #### Frage 2.1.11-020
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, L, Mofa, T, A80
 
 **Während der Fahrt ärgern Sie sich sehr über das Verhalten eines anderen Verkehrsteilnehmers. Wie verhalten Sie sich jetzt richtig?**
 
@@ -23197,6 +25355,8 @@ Es ist wichtig, dass du dich nicht vom Verkehr ablenken lässt, wenn dich das Ve
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Warum wirkt sich umweltschonendes Fahren im Allgemeinen auch auf die Verkehrssicherheit günstig aus?**
 
 **Optionen:**
@@ -23217,6 +25377,8 @@ Vermeiden Sie hohe Geschwindigkeiten und fahren Sie vorausschauend. Das wirkt si
 
 **Punkte:** 4 Punkte
 
+**Klassen:** AM, B
+
 **Ein Pkw überholt leichtsinnig "Ihre Kolonne". Wegen Gegenverkehr will er vor Ihrem Vordermann einscheren. Dieser ärgert sich und "macht dicht". Was machen Sie?**
 
 **Optionen:**
@@ -23235,6 +25397,8 @@ In einer solchen Situation sollten Sie durch bewusstes Nachgeben das Unfallrisik
 #### Frage 2.1.11-113
 
 **Punkte:** 4 Punkte
+
+**Klassen:** AM, B
 
 **Vor Ihnen fährt ein Lastzug, der rechts blinkt. Hinter Ihnen drängelt ein ungeduldiger Pkw-Fahrer. Was können Sie tun?**
 
@@ -23256,6 +25420,8 @@ In dieser Situation ist es besser, zurückzustecken und einen sicheren Abstand z
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Auf einer Straße außerhalb geschlossener Ortschaften fährt vor Ihnen ein Pkw etwas langsamer, als es erlaubt ist. Sie ärgern sich über den langsameren Pkw. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -23276,6 +25442,8 @@ Sie sollten auf jeden Fall warten, bis sich eine sichere Situation zum Überhole
 
 **Punkte:** 4 Punkte
 
+**Klassen:** AM, B
+
 **Welche Ursachen führen häufig bei nächtlichen Freizeitfahrten am Wochenende zu Verkehrsunfällen?**
 
 **Optionen:**
@@ -23295,6 +25463,8 @@ Als häufige Ursachen für Unfälle bei nächtlichen Freizeitfahrten am Wochenen
 #### Frage 2.1.11-116
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie sind unter Zeitdruck. Worauf müssen Sie achten?**
 
@@ -23317,6 +25487,8 @@ Auch wenn Sie unter Zeitdruck stehen, müssen Sie sich an die Verkehrsregeln hal
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wenn Jugendliche bei nächtlichen Freizeitfahrten am Wochenende ein Fahrzeug führen, kommt es häufig zu schweren Verkehrsunfällen. Welche Ursachen können dabei eine besondere Rolle spielen?**
 
 **Optionen:**
@@ -23337,6 +25509,8 @@ Eine nicht den Bedingungen angemessene Geschwindigkeit sowie eine hohe Bereitsch
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Ein Pkw schert nach dem Überholen ohne ausreichenden Abstand vor Ihnen ein. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -23356,6 +25530,8 @@ Der/die Kfz-FahrerIn in dem überholenden Fahrzeug zeigt ein Fehlverhalten, das 
 #### Frage 2.1.11-119
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Das Risiko, beim Fahren eines Kraftfahrzeugs einen Unfall zu verursachen, ist zwischen dem 18. und 24. Lebensjahr deutlich erhöht. Welche Ursachen sind dafür häufig von Bedeutung?**
 
@@ -23378,6 +25554,8 @@ Junge Kfz-FahrerInnen verfügen häufig über zu wenige Erfahrungen, um Risiken 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Während Sie in einem Verkehrsstau stehen, sehen Sie im Rückspiegel, wie sich ein Motorradfahrer an der wartenden Fahrzeugschlange „vorbeischlängelt“. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -23397,6 +25575,8 @@ Sie dürfen auf keinen Fall ebenfalls vorschriftswidrig handeln, nur weil ein an
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Sie fahren auf einer Landstraße und werden von einem hinter Ihnen fahrenden Pkw bedrängt. Wie sollten Sie reagieren?**
 
 **Optionen:**
@@ -23415,6 +25595,8 @@ Wenn Sie auf einer Landstraße fahren und von dem Pkw hinter Ihnen bedrängt wer
 #### Frage 2.1.11-122
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Sie überholen auf einer Autobahn. Von hinten nähert sich ein Pkw mit hoher Geschwindigkeit, Lichthupe und eingeschaltetem Blinker. Wie verhalten Sie sich?**
 
@@ -23436,6 +25618,8 @@ Hier gilt: Ruhe bewahren! Bleiben Sie gelassen und versuchen Sie nicht, dem Drä
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Fünf junge Freunde fahren im Auto zu einer Freizeitveranstaltung. Die Stimmung ist ausgelassen. Welche Gefahren können dadurch entstehen?**
 
 **Optionen:**
@@ -23456,6 +25640,8 @@ Für den/die Kfz-FahrerIn besteht die Gefahr, sich von der Stimmung mitreißen z
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie überholen auf der Autobahn mehrere Fahrzeuge. Hinter Ihnen naht ein Fahrzeug mit eingeschaltetem Blinker und Lichthupe. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -23474,6 +25660,8 @@ Das dichte, aggressive Auffahren des nachfolgenden Fahrzeuges gefährdet alle Ve
 #### Frage 2.1.11-125
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Sie wollen überholen. Was steht dem entgegen?**
 
@@ -23499,6 +25687,8 @@ Ein/eine Kfz-FahrerIn darf nur dann überholen, wenn er/sie sehen kann, dass die
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Vor Fahrtantritt haben Sie sich geärgert. Welche Folgen sollten Sie beim Fahren vermeiden?**
 
 **Optionen:**
@@ -23519,6 +25709,8 @@ Alles, was sich negativ auf das sichere Fahren Ihres Pkws auswirken könnte, sol
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Was zeichnet einen verantwortungsvollen Fahrzeugführer aus?**
 
 **Optionen:**
@@ -23538,6 +25730,8 @@ Der/die verantwortungsvolle Kfz-FahrerIn rechnet mit Fehlern von anderen Verkehr
 #### Frage 2.1.11-128
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Welche Gefühle können das Fahrverhalten beeinflussen?**
 
@@ -23560,6 +25754,8 @@ Starke Emotionen wie Ärger und Wut, Angst und Trauer sowie Freude und Ausgelass
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Was sind Anzeichen dafür, dass Sie Ihre Fahrt unterbrechen sollten?**
 
 **Optionen:**
@@ -23581,6 +25777,8 @@ Durch einen kurzen Sekundenschlaf entstehen häufig verheerende Unfälle. Wenn S
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Ihr Beifahrer möchte mit Ihnen während der Fahrt diskutieren. Wie sollten Sie sich verhalten?**
 
 **Optionen:**
@@ -23598,6 +25796,8 @@ Während der Fahrt dürfen Sie sich nicht ablenken lassen. Wenn Ihr/e BeifahrerI
 #### Frage 2.1.11-131
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Ihr Beifahrer weist Sie während der Fahrt darauf hin, dass Sie mehrfach zu dicht aufgefahren sind. Wie sollten Sie sich verhalten?**
 
@@ -23619,6 +25819,8 @@ Sie sollten die Hinweise von Beifahrern, die der Sicherheit dienen, ernst nehmen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **An einer roten Ampel innerorts möchte Sie ein anderer Fahrer offensichtlich zu einem Straßenrennen provozieren. Wie sollten Sie sich verhalten?**
 
 **Optionen:**
@@ -23637,6 +25839,8 @@ Lassen Sie sich nicht provozieren und bleiben Sie cool. Da Straßenrennen grunds
 #### Frage 2.1.11-133
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Welche Ursache führt bei jungen Fahrern häufig zu sogenannten Disco-Unfällen?**
 
@@ -23658,6 +25862,8 @@ Gerade junge Fahrer haben weniger Erfahrung bei nächtlichen Fahrten mit voll be
 #### Frage 2.1.11-201
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **An einer roten Ampel innerorts möchte Sie ein anderer Fahrer offensichtlich zu einem Straßenrennen provozieren. Wie sollten Sie sich verhalten?**
 
@@ -23684,6 +25890,8 @@ Das Rennen erhöht Ihr Unfallrisiko und gefährdet die Menschen. Solche Verhalte
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Sie wollen auf einer Straße mit einem Fahrstreifen für jede Richtung nach links abbiegen. Wo müssen Sie sich einordnen?**
 
 **Optionen:**
@@ -23701,6 +25909,8 @@ Wenn Sie in dieser Situation nach links abbiegen, fahren Sie zur Mitte der Stra�
 #### Frage 2.2.02-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Mofa
 
 **Dürfen Sie mit Ihrem Mofa einen Gehweg benutzen?**
 
@@ -23721,6 +25931,8 @@ Ja, aber nur, wenn man es schiebt, es kann nicht auf dem Bürgersteig gefahren w
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Mofa
+
 **Bei „Rot“ warten vor einer Ampel mehrere Pkws auf dem rechten Fahrstreifen. Dürfen Sie die Pkws vorsichtig rechts überholen?**
 
 **Optionen:**
@@ -23740,6 +25952,8 @@ In diesem Fall können Sie sich ähnlich wie ein Fahrrad verhalten und das Auto 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren außerorts auf einer Straße mit drei markierten Fahrstreifen in jeder Fahrtrichtung. Auf dem rechten Fahrstreifen fahren in größeren Abständen einzelne, langsamere Fahrzeuge. Welchen Fahrstreifen dürfen Sie durchgängig befahren?**
 
 **Optionen:**
@@ -23757,6 +25971,8 @@ Den linken Fahrstreifen darf ein/e Kfz-FahrerIn ausschließlich für das kurzzei
 #### Frage 2.2.02-007
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Mofa
 
 **Welche Gefahren können entstehen, wenn Sie rechts neben einem Lkw fahren?**
 
@@ -23779,6 +25995,8 @@ Ein Lastwagen wird sowohl Ihre Sichtbarkeit als auch die anderer Personen auf de
 
 **Punkte:** 3 Punkte
 
+**Klassen:** T
+
 **Was gilt für Sie an der nächsten Kreuzung?**
 
 ![Question Image](images/2_2_02-008.png)
@@ -23800,6 +26018,8 @@ Demnächst...
 #### Frage 2.2.02-009-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Sie möchten nach rechts abbiegen. Wie verhalten Sie sich jetzt richtig?**
 
@@ -23824,6 +26044,8 @@ Ein Motorrad sollte sich ähnlich wie ein Auto verhalten und hinter dem blauen A
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Mofa
+
 **Welche Radwege dürfen Sie mit Ihrem Mofa befahren?**
 
 **Optionen:**
@@ -23843,6 +26065,8 @@ Mit deinem Mofa darfst du Radwege außerorts befahren und Radwege innerorts, wen
 #### Frage 2.2.02-101-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wie verhalten Sie sich in dieser Einbahnstraße jetzt richtig?**
 
@@ -23866,6 +26090,8 @@ In einer Einbahnstraße darfst du nur in eine Fahrtrichtung fahren. Du darfst hi
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Für welche Kraftfahrzeuge oder Fahrzeugkombinationen, die für den Güterkraftverkehr bestimmt sind oder eingesetzt werden, muss auf Bundesfernstraßen eine Benutzungsgebühr entrichtet werden?**
 
 **Optionen:**
@@ -23885,6 +26111,8 @@ Für Kraftfahrzeuge mit einer zulässigen Gesamtmasse von mindestens 7,5 t und f
 #### Frage 2.2.02-202
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE
 
 **Welche Kraftfahrzeuge und Fahrzeugkombinationen unterliegen auf Autobahnen und Bundesstraßen der Mautpflicht?**
 
@@ -23906,6 +26134,8 @@ Kraftfahrzeuge und Fahrzeugkombinationen die eine zulässige Gesamtmasse von min
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1
+
 **Sie führen im Winter einen Gefahrguttransport durch. Wie müssen Sie sich verhalten, wenn sich durch Schneeglätte die Straßenverhältnisse verschlechtern?**
 
 **Optionen:**
@@ -23926,6 +26156,8 @@ Bei Schnee- und Eisglätte musst du besonders darauf achten das du jede Gefährd
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, L, T
+
 **Sie fahren mit Ihrer landwirtschaftlichen Zugmaschine mit 30 km/h auf einer Landstraße mit befestigtem rechten Seitenstreifen. Was ist richtig?**
 
 **Optionen:**
@@ -23944,6 +26176,8 @@ Um den fließenden Verkehr weiterhin gewährleisten zu können, fahre bitte mög
 #### Frage 2.2.02-303
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Mofa
 
 **Welche Gefahren können entstehen, wenn Sie rechts neben einem Lkw fahren?**
 
@@ -23968,6 +26202,8 @@ Ein Lastwagen wird sowohl Ihre Sichtbarkeit als auch die anderer Personen auf de
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Auf der Fahrbahn hat sich eine breite Wasserlache gebildet. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -23987,6 +26223,8 @@ Auf großen Wasserflächen sollten Sie langsam fahren, da die Gefahr von Aquapla
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Mofa
+
 **Wie schnell darf ein Mofa (kein Leichtmofa) höchstens fahren?**
 
 **Optionen:**
@@ -24002,6 +26240,8 @@ Die Höchstgeschwindigkeit eines motorisierten Fahrrads beträgt 25 km/h und 20 
 #### Frage 2.2.03-005
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie fahren bei Nebel auf der Autobahn und haben 50 m Sicht. Wie schnell dürfen Sie höchstens fahren?**
 
@@ -24022,6 +26262,8 @@ Beträgt die Sichtweite bei Nebel weniger als 50 Meter, darf der/die Kfz-FahrerI
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren 100 km/h, haben 1 Sekunde Reaktionszeit und führen eine normale Bremsung durch. Wie lang ist der Anhalteweg nach der Faustformel?**
 
 **Optionen:**
@@ -24040,6 +26282,8 @@ Das heißt bei einer Geschwindigkeit von 100 km/h beträgt der Anhalteweg 130 Me
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren 100 km/h und führen eine normale Bremsung durch. Wie lang ist der Bremsweg nach der Faustformel?**
 
 **Optionen:**
@@ -24057,6 +26301,8 @@ Das heißt bei einer Geschwindigkeit von 100 km/h beträgt der Bremsweg 100 Mete
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren 100 km/h und haben 1 Sekunde Reaktionszeit. Wie lang ist der Reaktionsweg nach der Faustformel?**
 
 **Optionen:**
@@ -24073,6 +26319,8 @@ Das heißt bei einer Geschwindigkeit von 100 km/h beträgt der Reaktionsweg 30 M
 #### Frage 2.2.03-009
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, T, A80
 
 **Sie fahren 50 km/h, haben 1 Sekunde Reaktionszeit und führen eine normale Bremsung durch. Wie lang ist der Anhalteweg nach der Faustformel?**
 
@@ -24092,6 +26340,8 @@ Das heißt bei einer Geschwindigkeit von 50 km/h beträgt der Anhalteweg 40 Mete
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, T, A80
+
 **Sie fahren 50 km/h und führen eine normale Bremsung durch. Wie lang ist der Bremsweg nach der Faustformel?**
 
 **Optionen:**
@@ -24108,6 +26358,8 @@ Das heißt bei einer Geschwindigkeit von 50 km/h beträgt der Bremsweg 25 Meter.
 #### Frage 2.2.03-011
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, T, A80
 
 **Sie fahren 50 km/h und haben 1 Sekunde Reaktionszeit. Wie lang ist der Reaktionsweg nach der Faustformel?**
 
@@ -24126,6 +26378,8 @@ Das heißt bei einer Geschwindigkeit von 50 km/h beträgt der Bremsweg 15 Meter.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Sie fahren auf einer sehr schmalen Straße und haben 50 m Sichtweite. Wie lang darf Ihr Anhalteweg höchstens sein?**
 
 **Optionen:**
@@ -24141,6 +26395,8 @@ Bei einer schmalen Straßenführung muss man innerhalb der halben Sichtweite anh
 #### Frage 2.2.03-015
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie lautet die Faustformel, um den Bremsweg einer Gefahrbremsung auf ebener, trockener und asphaltierter Fahrbahn auszurechnen?**
 
@@ -24163,6 +26419,8 @@ Das ist die korrekte Formel für die Berechnung des Bremswegs bei Gefahrenbremsu
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren 40 km/h. Bei einer Gefahrbremsung beträgt der Bremsweg ca. 8 Meter. Wie lang ist der Bremsweg unter sonst gleichen Bedingungen bei 50 km/h?**
 
 **Optionen:**
@@ -24182,6 +26440,8 @@ Den normalen Bremsweg Ihres Kfz ermitteln Sie mit dieser Faustformel: Geschwindi
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Wie schnell dürfen Sie mit einem Lkw von 4,0 t zulässiger Gesamtmasse auf Straßen außerhalb geschlossener Ortschaften höchstens fahren?**
 
 **Optionen:**
@@ -24197,6 +26457,8 @@ Bei deinem Lkw von 4,0 t zuläss. Gesamtmasse auf Straßen außerhalb geschlosse
 #### Frage 2.2.03-018
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wie schnell dürfen Sie mit einem Pkw und einem Anhänger außerhalb geschlossener Ortschaften höchstens fahren?**
 
@@ -24214,6 +26476,8 @@ Wird mit einem Pkw ein Anhänger mitgezogen, so darf außerhalb geschlossener Or
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie schnell dürfen Sie mit einem Lkw mit einer zulässigen Gesamtmasse von 3,0 t mit Anhänger auf Straßen außerhalb geschlossener Ortschaften höchstens fahren?**
 
 **Optionen:**
@@ -24229,6 +26493,8 @@ Wird mit einem Lkw mit einer zulässigen Gesamtmasse von 3,0t mit einem Anhänge
 #### Frage 2.2.03-020
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, DE
 
 **Wie schnell dürfen Sie mit einem Bus mit Gepäckanhänger auf Landstraßen höchstens fahren?**
 
@@ -24246,6 +26512,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wie schnell dürfen Sie mit einem "Tempo-100-Bus" auf einer Landstraße höchstens fahren?**
 
 **Optionen:**
@@ -24262,6 +26530,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1E
+
 **Wie schnell dürfen Sie mit einem Lkw über 7,5 t zulässiger Gesamtmasse auf einer Landstraße höchstens fahren?**
 
 **Optionen:**
@@ -24277,6 +26547,8 @@ Dein Lkw, welcher über 7,5 t zuläss. Gesamtmasse auf einer Landstraße unterwe
 #### Frage 2.2.03-023
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Sie fahren bei guter Sicht auf einer gut ausgebauten Straße. Innerhalb welcher Strecke müssen Sie anhalten können?**
 
@@ -24296,6 +26568,8 @@ Bei guter Sicht auf einer ausgebauten Straße müssen Sie innerhalb der für Sie
 #### Frage 2.2.03-024
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Sie fahren bei Dunkelheit auf einer gut ausgebauten Landstraße und nutzen das Abblendlicht. Innerhalb welcher Strecke müssen Sie anhalten können?**
 
@@ -24317,6 +26591,8 @@ Falls du die Reichweite des Fernlichts zum Anhalten brauchst, riskierst du einen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren bei Nebel auf der Autobahn. Ihre Sichtweite beträgt weniger als 50 m. Wie schnell dürfen Sie höchstens fahren?**
 
 **Optionen:**
@@ -24335,6 +26611,8 @@ Anhalteweg = Reaktionsweg + Bremsweg
 #### Frage 2.2.03-026-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie schnell dürfen Sie nach dem Abbiegen höchstens fahren?**
 
@@ -24356,6 +26634,8 @@ Falls nicht anders angezeigt, gilt innerorts die maximale Höchstgeschwindigkeit
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie schnell darf ein Kraftfahrzeug mit Schneeketten höchstens fahren?**
 
 **Optionen:**
@@ -24371,6 +26651,8 @@ Mit Schneeketten liegt die höchstzulässige Geschwindigkeit bei 50 km/h. Da son
 #### Frage 2.2.03-104
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wie schnell dürfen Sie mit einem Pkw außerhalb geschlossener Ortschaften auf Straßen mit einem Fahrstreifen für jede Richtung höchstens fahren?**
 
@@ -24388,6 +26670,8 @@ Für Fahrzeuge bis 3,5 Tonnen zul. Gesamtmasse und ohne Anhänger beträgt die m
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie schnell dürfen Sie mit einem Lkw mit einer zulässigen Gesamtmasse von 3,0 t außerhalb geschlossener Ortschaften auf Straßen mit einem Fahrstreifen für jede Richtung höchstens fahren?**
 
 **Optionen:**
@@ -24404,6 +26688,8 @@ Für Fahrzeuge bis 3,5 Tonnen zul. Gesamtmasse und ohne Anhänger beträgt die m
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie schnell darf ein Lkw mit einer zulässigen Gesamtmasse von 3,0 t und einem Anhänger auf Autobahnen höchstens fahren?**
 
 **Optionen:**
@@ -24419,6 +26705,8 @@ Für Fahrzeuge bis 3,5 Tonnen zul. Gesamtmasse mit Anhänger beträgt die maxima
 #### Frage 2.2.03-107
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was muss man beim Fahren mit Winterreifen (M+S) besonders beachten?**
 
@@ -24439,6 +26727,8 @@ Der/die Kfz-FahrerIn muss beim Fahren mit Winterreifen die zulässige Höchstges
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Wie schnell dürfen Sie mit einem Lkw von 5,5 t zulässiger Gesamtmasse und einem Anhänger von 2 t zulässiger Gesamtmasse auf Landstraßen höchstens fahren?**
 
 **Optionen:**
@@ -24454,6 +26744,8 @@ Mit deinem Lkw von 5,5 t zulässiger Gesamtmasse und einem Anhänger von 2 t dar
 #### Frage 2.2.03-109
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie fahren eine Fahrzeugkombination. Diese besteht aus einem Kraftfahrzeug bis 3,5 t zulässiger Gesamtmasse und einem Anhänger ohne 100-km/h-Zulassung. Wie schnell dürfen Sie auf Autobahnen höchstens fahren?**
 
@@ -24471,6 +26763,8 @@ Die Höchstgeschwindigkeit für Fahrzeugkombinationen bis 3,5 t zulässiger Gesa
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie fahren eine Fahrzeugkombination. Diese besteht aus einem Kraftfahrzeug mit einer zulässigen Gesamtmasse bis 3,5 t und einem Anhänger mit einer 100-km/h-Zulassung. Wie schnell dürfen Sie auf einer Bundesstraße (keine Kraftfahrstraße) höchstens fahren?**
 
 **Optionen:**
@@ -24486,6 +26780,8 @@ Auf Bundesstraßen gilt die zulässige Höchstgeschwindigkeit von 80 km/h. Nur a
 #### Frage 2.2.03-202
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Wie schnell dürfen Sie mit einem Lkw von 4,0 t zulässiger Gesamtmasse auf Autobahnen höchstens fahren?**
 
@@ -24503,6 +26799,8 @@ Mit deinem Lkw von 4,0 t zulässiger Gesamtmasse darfst du auf der Autobahn höc
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wie schnell dürfen Sie mit Ihrem Bus im Gelegenheitsverkehr außerhalb geschlossener Ortschaften (keine Autobahn oder Kraftfahrstraße) höchstens fahren?**
 
 **Optionen:**
@@ -24518,6 +26816,8 @@ Demnächst...
 #### Frage 2.2.03-206
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Wie schnell dürfen Sie mit einem "Tempo-100-Bus" mit Gepäckanhänger auf der Autobahn höchstens fahren?**
 
@@ -24535,6 +26835,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wie schnell dürfen Sie mit einem "Tempo-100-Bus" auf der Autobahn höchstens fahren?**
 
 **Optionen:**
@@ -24550,6 +26852,8 @@ Demnächst...
 #### Frage 2.2.03-209
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Wie schnell dürfen Sie mit einem "Tempo-100-Bus" auf einer Kraftfahrstraße ohne getrennte Fahrbahnen höchstens fahren?**
 
@@ -24567,6 +26871,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wie schnell dürfen Sie mit einem Bus außerhalb geschlossener Ortschaften fahren, wenn nicht für alle Fahrgäste Sitzplätze zur Verfügung stehen?**
 
 **Optionen:**
@@ -24583,6 +26889,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Wie schnell dürfen Sie mit einem Lastzug von 40 t zulässiger Gesamtmasse auf der Autobahn höchstens fahren?**
 
 **Optionen:**
@@ -24598,6 +26906,8 @@ Mit deinem Lastzug von 40 t darfst du auf der Autobahn 80 km/h fahren.
 #### Frage 2.2.03-303
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Sie haben auf einer Landstraße abgeblendet. Innerhalb welcher Strecke müssen Sie anhalten können?**
 
@@ -24618,6 +26928,8 @@ Sie dürfen nur so schnell fahren, dass Sie auch innerhalb der übersehbaren Str
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Für welche Kraftfahrzeuge gilt auf Autobahnen die Richtgeschwindigkeit?**
 
 **Optionen:**
@@ -24637,6 +26949,8 @@ Auf Autobahnen müssen alle Pkw und Fahrzeuge bis 3,5 t zulässige Gesamtmasse d
 #### Frage 2.2.03-305
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Auf welchen Straßen gilt die Richtgeschwindigkeit von 130 km/h?**
 
@@ -24662,6 +26976,8 @@ Auf Autobahnen und Straßen außerorts, deren Fahrbahnen baulich getrennt sind, 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren mit 80 km/h hinter einem Auto her. Welchen Sicherheitsabstand müssen Sie mindestens einhalten?**
 
 **Optionen:**
@@ -24680,6 +26996,8 @@ Wenn Sie hinter einem anderen Fahrzeug herfahren, müssen Sie den sogenannten "Z
 #### Frage 2.2.04-002
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Sie fahren im Stadtverkehr auf trockener Fahrbahn in einer Kolonne, die sich mit einer Geschwindigkeit von 50 km/h bewegt. Welchen Sicherheitsabstand zum vorausfahrenden Fahrzeug müssen Sie mindestens einhalten?**
 
@@ -24700,6 +27018,8 @@ Innerorts wie im Stadtverkehr sind laut Rechtsprechung kürzere Abstände gerech
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Welcher Abstand zum vorausfahrenden Fahrzeug soll außerhalb geschlossener Ortschaften in der Regel mindestens eingehalten werden?**
 
 **Optionen:**
@@ -24718,6 +27038,8 @@ Außerhalb geschlossener Ortschaften muss der Abstand zum Vorausfahrenden mindes
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Welchen Sicherheitsabstand sollten Sie bei einer Geschwindigkeit von 100 km/h zum vorausfahrenden Fahrzeug mindestens einhalten?**
 
 **Optionen:**
@@ -24733,6 +27055,8 @@ Um rechtzeitig Bremsen zu können, solltest du die halbe Geschwindigkeit in Mete
 #### Frage 2.2.04-005
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Welchen Sicherheitsabstand sollten Sie außerorts zum vorausfahrenden Fahrzeug mindestens einhalten?**
 
@@ -24754,6 +27078,8 @@ Achtung: Diese Regeln gelten nur bei trockener Straße. Bei Regen, Schnee und Gl
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Sie fahren mit Ihrem Pkw und Wohnanhänger (Zuglänge mehr als 7 m) außerorts auf einer Straße mit nur einem Fahrstreifen für jede Richtung. Worauf müssen Sie achten?**
 
 **Optionen:**
@@ -24773,6 +27099,8 @@ Außerhalb geschlossener Ortschaften müssen Züge, die länger als 7 m sind, ei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wann muss ein Pkw mit Anhänger außerorts auf Straßen mit nur einem Fahrstreifen für jede Richtung vom Vorausfahrenden einen so großen Abstand halten, dass ein Überholer einscheren kann?**
 
 **Optionen:**
@@ -24788,6 +27116,8 @@ StVO § 4 Abs. 2: "Kraftfahrzeuge, für die eine besondere Geschwindigkeitsbesch
 #### Frage 2.2.04-103
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Sie fahren auf der Autobahn einen Lkw, dessen zulässige Gesamtmasse mehr als 3,5 t beträgt. Ihre Geschwindigkeit ist höher als 50 km/h. Warum müssen Sie einen Mindestabstand von 50 m zum Vorausfahrenden einhalten?**
 
@@ -24810,6 +27140,8 @@ dadurch die Gefahr eines Auffahrunfalls verringern. Der Mindestabstand hat nicht
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Sie fahren einen Kraftomnibus mit einer Geschwindigkeit von mehr als 50 km/h auf der Autobahn. Warum müssen Sie einen Mindestabstand von 50 m zum Vorausfahrenden einhalten?**
 
 **Optionen:**
@@ -24829,6 +27161,8 @@ Demnächst...
 #### Frage 2.2.04-105-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Sie fahren einen Pkw mit Wohnanhänger. Was gilt hier für den Abstand zum vorausfahrenden Fahrzeug?**
 
@@ -24852,6 +27186,8 @@ Der Abstand zum Vorausfahrenden Fahrzeug muss in der Regel so groß sein, dass d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie fahren einen schwer beladenen Pkw. Warum sollten Sie einen größeren Sicherheitsabstand zu vorausfahrenden Fahrzeugen einhalten?**
 
 **Optionen:**
@@ -24872,6 +27208,8 @@ Durch das zusätzliche Gewicht verändert sich das Fahrverhalten des PKW. Die Br
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Ab welcher Länge einer Fahrzeugkombination müssen Sie außerorts einen so großen Abstand zum vorausfahrenden Fahrzeug halten, dass ein überholendes Kraftfahrzeug einscheren kann?**
 
 **Optionen:**
@@ -24887,6 +27225,8 @@ Wenn die Länge der Fahrzeugkombination mehr als 7 Meter beträgt, musst du Auß
 #### Frage 2.2.04-204
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Sie fahren mit einem Bus außerorts auf einer Straße mit nur einem Fahrstreifen für jede Richtung. Welchen Abstand müssen Sie in der Regel zu einem Vorausfahrenden einhalten?**
 
@@ -24906,6 +27246,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Sie fahren auf der Autobahn mit ca. 80 km/h. Welchen Abstand müssen Sie zum Vorausfahrenden einhalten?**
 
 **Optionen:**
@@ -24921,6 +27263,8 @@ Demnächst...
 #### Frage 2.2.04-207-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1
 
 **Was gilt hier für den Abstand zum vorausfahrenden Fahrzeug?**
 
@@ -24944,6 +27288,8 @@ Der Abstand ist angemessen, da der überholende PKW vor dir einscheren kann. Sob
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Sie fahren ein Fahrzeug mit einer zulässigen Gesamtmasse von 7 t außerorts mit 60 km/h. Wann müssen Sie einen so großen Abstand einhalten, dass ein überholendes Fahrzeug einscheren kann?**
 
 **Optionen:**
@@ -24962,6 +27308,8 @@ Wenn in deiner Fahrtrichtung nur ein Fahrstreifen vorhanden ist, solltest du ein
 #### Frage 2.2.04-303
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1E
 
 **Sie fahren einen Lkw (12 t zulässige Gesamtmasse) mit 80 km/h auf der Autobahn. Auf was müssen Sie achten?**
 
@@ -24983,6 +27331,8 @@ Mit deinem Lkw (12 t zulässige Gesamtmasse) sollte bei einer Geschwindigkeit au
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Auf einer Straße außerorts ist in Fahrtrichtung nur ein Fahrstreifen vorhanden. Welche Lkws müssen hier einen so großen Abstand zum vorausfahrenden Fahrzeug einhalten, dass ein überholendes Fahrzeug einscheren kann?**
 
 **Optionen:**
@@ -24999,6 +27349,8 @@ Lkws über 3,5 t zulässige Gesamtmasse sollten einen so großen Abstand zum vor
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Sie fahren auf der Autobahn einen Lkw von 4 t zulässiger Gesamtmasse mit 60 km/h. Welchen Abstand müssen Sie zum vorausfahrenden Fahrzeug einhalten?**
 
 **Optionen:**
@@ -25014,6 +27366,8 @@ Mindestens 50 m solltest du einhalten, wenn du ein Fahrzeug führst, welches von
 #### Frage 2.2.04-306
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, L, T, C1E
 
 **Welche Kraftfahrzeuge müssen außerhalb geschlossener Ortschaften in der Regel einen so großen Abstand zum vorausfahrenden Fahrzeug einhalten, dass ein überholendes Kraftfahrzeug einscheren kann?**
 
@@ -25034,6 +27388,8 @@ Hier sprechen wir vom sogenannten Einscherabstand. Dieser gilt für Lastkraftwag
 #### Frage 2.2.04-307
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE
 
 **Sie fahren mit einer Fahrzeugkombination außerorts auf einer Straße mit nur einem Fahrstreifen für jede Richtung. Welchen Abstand müssen Sie in der Regel zu einem vorausfahrenden Fahrzeug einhalten?**
 
@@ -25057,6 +27413,8 @@ Der Abstand, den du einhalten solltest, muss so groß sein, dass ein überholend
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren mit 100 km/h auf einer Straße außerhalb geschlossener Ortschaften. Vor Ihnen fährt ein Lkw mit 70 km/h. Wie weit müssen Sie bei Beginn eines Überholvorgangs von einer Straßenkuppe mindestens noch entfernt sein?**
 
 **Optionen:**
@@ -25075,6 +27433,8 @@ Die Fausformel für den Überholweg berechnet sich aus den Geschwindigkeiten, de
 #### Frage 2.2.05-006
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Nebel schränkt die Sicht auf knapp 50 m ein. Was gilt in dieser Situation für Kraftfahrzeuge über 7,5 t zulässiger Gesamtmasse?**
 
@@ -25096,6 +27456,8 @@ Bei eingeschränkter Sichtweise darf deine Höchstgeschwindigkeit auf allen Stra
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren auf einer Straße außerhalb geschlossener Ortschaften und wollen einen Pkw überholen. Wo sollte das Überholen spätestens beendet sein?**
 
 **Optionen:**
@@ -25115,6 +27477,8 @@ Sie müssen den Überholvorgang spätestens vor dem Überholverbot beenden. Das 
 #### Frage 2.2.05-010
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Weshalb müssen Sie jetzt auf den rechten Fahrstreifen wechseln?**
 
@@ -25140,6 +27504,8 @@ Nachdem Sie den grünen Transporter überholt haben, müssen Sie sich wegen des 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/2_2_05-011.png)
@@ -25162,6 +27528,8 @@ Sie dürfen auf den Fahrstreifen der Gegenfahrbahn fahren, wenn Sie eine Überho
 #### Frage 2.2.05-012
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Worauf müssen Sie sich jetzt einstellen?**
 
@@ -25187,6 +27555,8 @@ Sie müssen sich ggf. darauf einstellen, dass Sie jetzt nicht überholen können
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Auf wen müssen Sie in dieser Situation besonders achten?**
 
 ![Question Image](images/2_2_05-013.png)
@@ -25210,6 +27580,8 @@ In dieser Situation müssen Sie als Kfz-FahrerIn auf den Radfahrer achten, der s
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum müssen Sie jetzt verzögern?**
 
 ![Question Image](images/2_2_05-014-M.png)
@@ -25232,6 +27604,8 @@ Der/die überholende MotorradfahrerIn stellt für Sie eine Gefahr dar. Er kommt 
 #### Frage 2.2.05-015
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Sie fahren einen Lkw mit einer zulässigen Gesamtmasse von mehr als 3,5 t. Wie sollten Sie sich jetzt verhalten?**
 
@@ -25257,6 +27631,8 @@ Du solltest den korrekten Abstand einhalten und nicht überholen und die Geschwi
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie möchten überholen. Wie sollten Sie sich jetzt verhalten?**
 
 ![Question Image](images/2_2_05-016-M.png)
@@ -25279,6 +27655,8 @@ Sie müssen mit dem Überholvorgang warten, bis der/die vor Ihnen fahrende Fahrz
 #### Frage 2.2.05-017
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -25303,6 +27681,8 @@ Planen Sie Ihren Überholvorgang so, dass er abgeschlossen ist, bevor die durchg
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie möchten einen Lkw mit Anhänger überholen. Was müssen Sie dabei beachten?**
 
 **Optionen:**
@@ -25322,6 +27702,8 @@ Wenn du einen Lkw mit Anhänger überholen möchtest, solltest du den erforderli
 #### Frage 2.2.05-019
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum dürfen Sie den vor Ihnen fahrenden Bus jetzt nicht überholen?**
 
@@ -25346,6 +27728,8 @@ Der Bus hat das Warnblinklicht eingeschaltet und befindet sich noch in der Anfah
 #### Frage 2.2.05-020-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie möchten das vor Ihnen fahrende Fahrzeug überholen. Was ist hierfür erforderlich?**
 
@@ -25373,6 +27757,8 @@ Achte nur darauf, dass du die zulässige Höchstgeschwindigkeit nicht überschre
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_2_05-021-M.png)
@@ -25397,6 +27783,8 @@ Der Traktor scheint auf den Feldweg auf der rechten Seite abbiegen zu wollen. Bl
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie möchten [den blauen Pkw] überholen. Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/2_2_05-102-M.png)
@@ -25419,6 +27807,8 @@ Warten Sie, bis das Motorrad den toten Winkel verlässt. Beachten Sie, dass der/
 #### Frage 2.2.05-103-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wodurch kann diese Situation gefährlich werden?**
 
@@ -25444,6 +27834,8 @@ Der/die von hinten näher kommende Kfz-FahrerIn versucht, Sie vor der Kurve zu �
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1E
+
 **Sie befahren die Autobahn mit einem Kraftfahrzeug, dessen zulässige Gesamtmasse 7,5 t übersteigt. Die Sichtweite beträgt aufgrund starken Schneefalls weniger als 50 m. Wie müssen Sie sich verhalten?**
 
 **Optionen:**
@@ -25463,6 +27855,8 @@ Mit deinem Fahrzeug, welches eine zulässige Gesamtmasse von 7,5 t übersteigt, 
 #### Frage 2.2.05-202
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Sie fahren außerorts. Starker Regen schränkt die Sicht auf knapp 50 m ein. Was gilt in dieser Situation?**
 
@@ -25484,6 +27878,8 @@ Auch hier gilt bei eingeschränkter Sicht (50 m wegen Starkregen) ist die zuläs
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Sie fahren eine landwirtschaftliche Arbeitsmaschine. Hinter Ihnen hat sich eine Fahrzeugkolonne gebildet. Was ist richtig?**
 
 **Optionen:**
@@ -25502,6 +27898,8 @@ Demnächst...
 #### Frage 2.2.05-402-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** AM, L
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -25529,6 +27927,8 @@ In dieser Situation sollten Sie in die Bushaltestelle einfahren und sich vom nac
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_2_06-001.png)
@@ -25551,6 +27951,8 @@ Die Engstelle befindet sich auf deiner Fahrspur. Daher musst du vor der Engstell
 #### Frage 2.2.06-101-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** B
 
 **Wie verhalten Sie sich hier richtig?**
 
@@ -25578,6 +27980,8 @@ Der Seitenabstand zum Radfahrer ist nicht ausreichend. Halte an und warte bis er
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Sie nähern sich einer Ampel, die „Rot“ zeigt. Auf allen Fahrstreifen warten mehrere Pkws. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -25597,6 +28001,8 @@ Sie sollten sich immer hinter dem letzten Auto in Ihrer Fahrspur anstellen und n
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, L, T, A80
+
 **Für welche Kraftfahrzeuge gilt innerorts die freie Fahrstreifenwahl?**
 
 **Optionen:**
@@ -25613,6 +28019,8 @@ Kraftfahrzeuge bis 3,5t zul. Gesamtmasse sind innerhalb geschlossener Ortschafte
 #### Frage 2.2.07-004
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -25637,6 +28045,8 @@ In Deutschland gilt das Rechtsfahrgebot. Da kein Fahrzeug vor dir ist, das langs
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wodurch könnte eine gefährliche Situation entstehen?**
 
 ![Question Image](images/2_2_07-005.png)
@@ -25659,6 +28069,8 @@ Der schnelle Fahrstil des gelben Lkw lässt vermuten, dass er auch den vor ihm f
 #### Frage 2.2.07-006
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie sollten Sie sich jetzt verhalten?**
 
@@ -25683,6 +28095,8 @@ Da der/die Kfz-FahrerIn des Pkw auf dem Einfädelungsstreifen rechts seine Gesch
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/2_2_07-007.png)
@@ -25705,6 +28119,8 @@ Bleiben Sie weiterhin auf dem mittleren Fahrstreifen und verzögern Sie. Der vor
 #### Frage 2.2.07-008
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich richtig?**
 
@@ -25729,6 +28145,8 @@ Sie befahren den mittleren Fahrstreifen und müssen in dieser Situation auf dem 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Womit müssen Sie in dieser Situation rechnen?**
 
 ![Question Image](images/2_2_07-009.png)
@@ -25751,6 +28169,8 @@ Da das Fahrzeug sehr schnell von rechts auf die Autobahn auffährt, müssen Sie 
 #### Frage 2.2.07-010
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich richtig?**
 
@@ -25775,6 +28195,8 @@ Vor Ihnen fährt ein Pkw und von rechts fährt ein Pkw auf die Hauptfahrbahn der
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
+
 **Sie fahren auf einer Straße mit mehreren markierten Fahrstreifen für eine Richtung. Wann ist das Reißverschlussverfahren anzuwenden?**
 
 **Optionen:**
@@ -25794,6 +28216,8 @@ Das Reißverschlussverfahren ist anzuwenden wenn ein Fahrstreifen nicht weiter b
 #### Frage 2.2.07-012-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, CE, D, D1, A80
 
 **Was gilt für die Nutzung des Seitenstreifens in dieser Situation?**
 
@@ -25816,6 +28240,8 @@ Das Verkehrszeichen gibt an, dass der Seitenstreifen wie der Rechtefahrstreifen 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, CE, D, D1, A80
+
 **Was gilt in dieser Situation für die Nutzung des Seitenstreifens?**
 
 ![Question Image](images/2_2_07-013-M.png)
@@ -25836,6 +28262,8 @@ Der Seitenstreifen darf nicht regulär benutzt werden. Du darfst ihn nur im Fall
 #### Frage 2.2.07-014-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -25860,6 +28288,8 @@ Endet auf einer mehrspurigen Straße eine der Fahrspuren, muss den Fahrzeugen de
 #### Frage 2.2.07-201-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1
 
 **Was gilt außerorts auf dieser Straße?**
 
@@ -25886,6 +28316,8 @@ Daher darfst du außerorts den linken Fahrstreifen nur benutzen, wenn du Linksab
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wo ist das Wenden verboten?**
 
 **Optionen:**
@@ -25905,6 +28337,8 @@ Sie dürfen weder auf Autobahnen noch auf Kraftfahrstraßen Ihr Fahrzeug wenden.
 #### Frage 2.2.09-002-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum müssen Sie vor dem Linksabbiegen warten?**
 
@@ -25929,6 +28363,8 @@ Als Linksabbieger haben Sie generell allen in Ihrer Fahrtrichtung oder Ihnen Ent
 
 **Punkte:** 5 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich richtig?**
 
 ![Question Image](images/2_2_09-003-M.png)
@@ -25951,6 +28387,8 @@ Wenn Sie nach links abbiegen möchten und ein Pkw Sie von links überholen will,
 #### Frage 2.2.09-004-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** A, A1, A2, B, C1, A80
 
 **Sie möchten nach links abbiegen. Wie verhalten Sie sich richtig?**
 
@@ -25975,6 +28413,8 @@ Der Motorradfahrer hinter dir (linke Spur) ist bereits sehr dicht. Halte bitte a
 
 **Punkte:** 5 Punkte
 
+**Klassen:** AM, L, T
+
 **Warum müssen Sie in dieser Situation vor dem Linksabbiegen warten?**
 
 ![Question Image](images/2_2_09-005-M.png)
@@ -25997,6 +28437,8 @@ In dieser Situation müssen Sie darauf warten, dass das Motorrad hinter dem Auto
 #### Frage 2.2.09-006-M
 
 **Punkte:** 5 Punkte
+
+**Klassen:** AM, L, T
 
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -26021,6 +28463,8 @@ In dieser Situation sollten Sie zunächst warten, bis das Motorrad Sie überholt
 
 **Punkte:** 5 Punkte
 
+**Klassen:** AM, L, T
+
 **Warum dürfen Sie jetzt nicht abbiegen?**
 
 ![Question Image](images/2_2_09-007-M.png)
@@ -26043,6 +28487,8 @@ Der rote Pkw befindet sich gerade im Überholvorgang und fährt links von dir. B
 #### Frage 2.2.09-008-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Sie möchten an der nächsten Einmündung nach links abbiegen. Wie verhalten Sie sich jetzt richtig?**
 
@@ -26067,6 +28513,8 @@ Fange daher jetzt an links zu Blinken, um den anderen Verkehrsteilnehmern zu sig
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Sie möchten nach links abbiegen. Welche Fahrlinie müssen Sie einhalten?**
 
 ![Question Image](images/2_2_09-009-M.png)
@@ -26087,6 +28535,8 @@ Halte beim Linksabbiegen die mittlere Fahrlinie ein. So fährst du möglichst we
 #### Frage 2.2.09-010-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, Mofa, A80
 
 **Sie möchten nach links abbiegen. Welcher Fahrlinie müssen Sie folgen?**
 
@@ -26109,6 +28559,8 @@ Du solltest dich beim Linksabbiegen möglichst weit links einordnen. Du fährst 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, Mofa, A80
+
 **Sie möchten nach links abbiegen. Welcher Fahrlinie müssen Sie folgen?**
 
 ![Question Image](images/2_2_09-011-M.png)
@@ -26129,6 +28581,8 @@ Wenn du in einer Einbahnstraße nach links abbiegen willst, solltest du dich mö
 #### Frage 2.2.09-101
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wie verhalten Sie sich beim Rückwärtsfahren richtig?**
 
@@ -26151,6 +28605,8 @@ Beim Rückwärtsfahren schaue nach hinten und sichere den Verkehrsraum zusätzli
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, L, T
+
 **Sie fahren ein Kraftfahrzeug mit mehr als 3,5 t zulässiger Gesamtmasse. Mit welcher Geschwindigkeit müssen Sie innerorts nach rechts abbiegen?**
 
 **Optionen:**
@@ -26170,6 +28626,8 @@ Fahren Sie mit Schrittgeschwindigkeit um Gefahrne und Unfälle auszuschließen.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1
+
 **Ihr Fahrzeug ist mit einer Rückfahrkamera ausgerüstet. Sie möchten von einer stark befahrenen Straße rückwärts in eine Hofeinfahrt einfahren. Was ist hierbei zu beachten?**
 
 **Optionen:**
@@ -26187,6 +28645,8 @@ Fahren Sie mit Schrittgeschwindigkeit um Gefahrne und Unfälle auszuschließen.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, D, D1
+
 **Wodurch kann das Risiko von schweren Unfällen innerorts beim Rechtsabbiegen gesenkt werden?**
 
 **Optionen:**
@@ -26203,6 +28663,8 @@ Fahren Sie mit Schrittgeschwindigkeit um Gefahrne und Unfälle auszuschließen.
 #### Frage 2.2.09-204
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Sie möchten mit Ihrem Kraftfahrzeug rückwärts von einem Grundstück auf eine Straße einfahren. Wie müssen Sie sich verhalten?**
 
@@ -26223,6 +28685,8 @@ Um rückwärts von einem Grundstück auf eine Straße zu fahren reicht es nicht 
 #### Frage 2.2.09-205
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Beim Rechtsabbiegen besteht die Gefahr, geradeaus fahrende Radfahrer im toten Winkel zu übersehen. Wie können Sie diese Gefahr reduzieren?**
 
@@ -26246,6 +28710,8 @@ So kannst du Radfahrer rechtzeitig erkennen und Unfälle vermeiden.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** L, T
+
 **Sie haben an Ihre Zugmaschine einen weit nach hinten hinausragenden Pflug montiert. Worauf müssen Sie beim Abbiegen nach rechts achten?**
 
 **Optionen:**
@@ -26263,6 +28729,8 @@ Demnächst...
 #### Frage 2.2.09-403
 
 **Punkte:** 4 Punkte
+
+**Klassen:** L, T
 
 **Sie haben an Ihre Zugmaschine einen weit nach hinten hinausragenden Pflug angebaut. Wer kann dadurch beim Rechtsabbiegen gefährdet werden?**
 
@@ -26284,6 +28752,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** L, T
+
 **Sie haben an Ihrer Zugmaschine einen weit nach hinten hinausragenden Heuwender angebaut. Wer kann dadurch beim Linksabbiegen gefährdet werden?**
 
 **Optionen:**
@@ -26304,6 +28774,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE, L, T
+
 **Sie möchten mit einer landwirtschaftlichen Zugmaschine mit 2 Anhängern nach rechts abbiegen. Worauf müssen Sie achten?**
 
 **Optionen:**
@@ -26323,6 +28795,8 @@ Da sich der Raum deiner landwirtschaftlichen Zugmaschine mit 2 Anhängern beim A
 #### Frage 2.2.09-407
 
 **Punkte:** 4 Punkte
+
+**Klassen:** L, T
 
 **Sie kommen mit einer Zugmaschine von der Feldarbeit und möchten in eine Straße einbiegen. Was sollen Sie zur Vermeidung gefährlicher Situationen beachten?**
 
@@ -26348,6 +28822,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wo ist das Halten verboten?**
 
 **Optionen:**
@@ -26368,6 +28844,8 @@ Grundsätzlich verbietet die Straßenverkehrsordnung ein Halten an den Stellen i
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, L, T, A80
+
 **Wo ist das Parken verboten?**
 
 **Optionen:**
@@ -26387,6 +28865,8 @@ Ein Parkverbot gemäß der StVO gilt an allen Stellen, an denen andere Verkehrst
 #### Frage 2.2.12-005
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Wer hat an dieser Parklücke Vorrang?**
 
@@ -26409,6 +28889,8 @@ Vorrang an einer Parklücke hat immer das Fahrzeug, das sie zuerst erreicht. Der
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Worauf müssen Sie beim Parken Ihres Kraftrads achten?**
 
 **Optionen:**
@@ -26429,6 +28911,8 @@ Das Kraftrad darf niemanden behindern oder gefährden. Achten Sie darauf das Kra
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Wann dürfen Sie Ihr Zweirad auf dem Gehweg parken?**
 
 **Optionen:**
@@ -26447,6 +28931,8 @@ Grundsätzlich ist für das Parken eines Fahrzeugs die Fahrbahn zu benutzen. Mot
 #### Frage 2.2.12-008
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Was sollten Sie beim Parken eines Zweirads beachten?**
 
@@ -26469,6 +28955,8 @@ Du solltest auch immer darauf achten auf welchem Untergrund du dein Motorrad abs
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Beide Pkw wollen hier parken. Wer hat Vorrang?**
 
 ![Question Image](images/2_2_12-101-B.png)
@@ -26489,6 +28977,8 @@ In diesem Fall hat der rote Pkw den Vorrang. Er hat die Parklücke zuerst erreic
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, L, T
+
 **Bis zu welcher zulässigen Gesamtmasse dürfen Fahrzeuge auf besonders gekennzeichneten Gehwegen geparkt werden?**
 
 **Optionen:**
@@ -26505,6 +28995,8 @@ Fahrzeuge mit bis zu 2,8t zul. Gesamtmasse dürfen auf besonders gekennzeichnete
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Welchen Mindestabstand von einer Ampel muss ein Fahrzeug beim Halten einhalten, wenn diese durch das Fahrzeug verdeckt würde?**
 
 **Optionen:**
@@ -26520,6 +29012,8 @@ Es muss ein Mindestabstand von 10 Metern eingehalten werden, damit die Sicht auf
 #### Frage 2.2.12-105
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, L, T
 
 **Wo dürfen Sie innerorts einen Anhänger mit einer zulässigen Gesamtmasse von mehr als 2 t an Sonn- und Feiertagen sowie zwischen 22.00 und 6.00 Uhr regelmäßig parken?**
 
@@ -26541,6 +29035,8 @@ Das Parken eines Anhängers mit einer zulässigen Gesamtmasse von mehr als 2 t i
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Worauf müssen Sie achten, wenn Sie einen Anhänger ohne Zugfahrzeug parken?**
 
 **Optionen:**
@@ -26560,6 +29056,8 @@ Beachten Sie, dass Sie Kraftfahrzeuganhänger, die über kein Zugfahrzeug verfü
 #### Frage 2.2.12-107-M
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Sie möchten am rechten Fahrbahnrand parken. Wie sollten Sie sich in dieser Situation verhalten?**
 
@@ -26582,6 +29080,8 @@ Du hast zuerst geblinkt und deshalb Vorrang auf den Parkplatz. Um einem Konflikt
 #### Frage 2.2.12-108-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie möchten am rechten Fahrbahnrand parken. Wer hat in dieser Situation Vorrang?**
 
@@ -26607,6 +29107,8 @@ Würdest du jetzt einparken könnte es zu einem Zusammenstoß kommen.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie möchten auf der rechten Seite rückwärts einparken. Was ist in dieser Situation richtig?**
 
 ![Question Image](images/2_2_12-109-M.png)
@@ -26630,6 +29132,8 @@ Vergewissere dich auch darüber, dass kein anderes Fahrzeug seine Parklücke ver
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Wo dürfen Sie innerorts Kraftfahrzeuge mit einer zulässigen Gesamtmasse von mehr als 7,5 t zwischen 22.00 und 6.00 Uhr sowie an Sonn- und Feiertagen regelmäßig parken?**
 
 **Optionen:**
@@ -26650,6 +29154,8 @@ In einem Wohngebiet würdest du zu diesen Zeiten nicht viel Freunde dazugewinnen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wo dürfen Sie innerorts Linienbusse zwischen 22.00 und 6.00 Uhr und an Sonn- und Feiertagen regelmäßig parken?**
 
 **Optionen:**
@@ -26668,6 +29174,8 @@ Demnächst...
 #### Frage 2.2.12-203
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, L, T
 
 **Vor welchen Zeichen müssen Sie mindestens 10 m Abstand halten, wenn diese sonst durch Ihr Fahrzeug verdeckt würden?**
 
@@ -26689,6 +29197,8 @@ Vor Zeichen wie dem Andreaskreuz, Lichtzeichen oder dem Schild „Halt! Vorfahrt
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, L, T, A80
+
 **Sie möchten am rechten Fahrbahnrand parken. Wie groß muss der Abstand zwischen Ihrem Fahrzeug und der durchgehenden Fahrstreifenbegrenzungslinie mindestens sein?**
 
 **Optionen:**
@@ -26707,6 +29217,8 @@ Wird beim Parken ein Mindestabstand von 3 Metern zur Fahrstreifenbegrenzungslini
 #### Frage 2.2.13-001
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Wo müssen Sie zum Parken eine Parkscheibe benutzen?**
 
@@ -26728,6 +29240,8 @@ Wird beim Parken ein Mindestabstand von 3 Metern zur Fahrstreifenbegrenzungslini
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Eine Parkuhr ist noch nicht abgelaufen. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -26746,6 +29260,8 @@ Wenn eine Parkuhr noch nicht abgelaufen ist, dürfen Sie die restliche Parkzeit 
 #### Frage 2.2.13-003
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Sie kommen um 10.40 Uhr in einem Bereich an, in dem mit Parkscheibe 2 Stunden lang geparkt werden darf. Welche Uhrzeit müssen Sie auf der Parkscheibe einstellen?**
 
@@ -26766,6 +29282,8 @@ Der Zeiger der Scheibe ist auf den Strich der halben Stunde einzustellen, die de
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Sie wollen auf einem Platz mit Parkscheinautomat parken. Was haben Sie zu beachten?**
 
 **Optionen:**
@@ -26785,6 +29303,8 @@ Der/die Kfz-FahrerIn muss den gültigen Parkschein von außen gut sichtbar im Fa
 #### Frage 2.2.13-101
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B, L, T
 
 **Wozu darf an nicht laufenden Parkuhren gehalten werden?**
 
@@ -26809,6 +29329,8 @@ Die Parkzeit braucht beim Ein- oder Aussteigen sowie zum Be- oder Entladen nicht
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Wie müssen Sie Ihr Motorrad gegen unbefugte Benutzung sichern?**
 
 **Optionen:**
@@ -26828,6 +29350,8 @@ Um zu vermeiden, dass andere Personen Ihr Motorrad benutzen, ziehen Sie den Zün
 #### Frage 2.2.14-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie wollen Ihr Motorrad auf dem Seitenständer abstellen. Worauf müssen Sie achten?**
 
@@ -26849,6 +29373,8 @@ Um zu vermeiden, dass Ihr Motorrad umkippt, stellen Sie sicher, dass der Untergr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie wollen Ihr Motorrad auf dem Hauptständer abstellen. Worauf müssen Sie achten?**
 
 **Optionen:**
@@ -26866,6 +29392,8 @@ Um ein Umkippen des Motorrads zu vermeiden, stellen Sie sicher, dass der Untergr
 #### Frage 2.2.14-004
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Wo soll ein Motorrad nicht abgestellt (Haupt- oder Seitenständer) werden?**
 
@@ -26886,6 +29414,8 @@ Um ein Umkippen des Motorrads zu vermeiden, stellen Sie sicher, dass der Untergr
 #### Frage 2.2.14-005
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Welche Vorsichtsmaßnahmen sind beim Parken des Motorrads zu beachten?**
 
@@ -26908,6 +29438,8 @@ Sie müssen dafür sorgen, dass keine anderen Personen mit Ihrem Motorrad fahren
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie wollen Ihr Motorrad abstellen. Worauf müssen Sie achten?**
 
 **Optionen:**
@@ -26926,6 +29458,8 @@ Achten Sie beim Einparken darauf, dass der Untergrund fest ist und das Gewicht d
 #### Frage 2.2.14-008
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Wie müssen Sie Ihr Kraftrad gegen unbefugte Benutzung sichern?**
 
@@ -26947,6 +29481,8 @@ Das Lenkschloss verhindert im Falle von Fremdzugriff das Lenken. Durch das abzie
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was sollten Sie bei der Nutzung eines Seitenständers beachten?**
 
 **Optionen:**
@@ -26967,6 +29503,8 @@ Ist der Seitenständer nicht vollständig eingeklappt kann das bei Kurvenfahrt z
 #### Frage 2.2.14-010
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Was ist bei der Benutzung des Seitenständers zu beachten?**
 
@@ -26990,6 +29528,8 @@ Der Seitenständer ist dafür gemacht, ein Motorrad abzustellen. Versuche Gefäl
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie müssen Sie Ihren Pkw gegen Diebstahl sichern?**
 
 **Optionen:**
@@ -27009,6 +29549,8 @@ Um den Pkw gegen Diebstahl zu sichern, wenn man das Auto verlässt, müssen vorh
 #### Frage 2.2.14-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was müssen Sie beim Verlassen Ihres Pkws tun?**
 
@@ -27031,6 +29573,8 @@ Vor Verlassen des Fahrzeugs haben Sie es vor unkontrolliertem Wegrollen abzusich
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Ihr Pkw steht am Fahrbahnrand. Was ist beim Einsteigen richtig?**
 
 **Optionen:**
@@ -27050,6 +29594,8 @@ Beim Ein- und Aussteigen müssen Sie darauf achten, die anderen Verkehrsteilnehm
 #### Frage 2.2.14-105
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Was ist beim Ein- oder Aussteigen von Kindern richtig?**
 
@@ -27071,6 +29617,8 @@ Als Kfz-Fahrer/in sollten Sie darauf achten, dass Kinder direkt auf der Gehwegse
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Worauf sollten Sie Mitfahrer vor dem Aussteigen hinweisen?**
 
 **Optionen:**
@@ -27090,6 +29638,8 @@ Als Kfz-Fahrer/In müssen Sie die nötigen Maßnahmen treffen, um Unfälle oder 
 #### Frage 2.2.14-107-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, C1, D1
 
 **Warum dürfen Sie jetzt nicht aussteigen?**
 
@@ -27114,6 +29664,8 @@ Wer ein- oder aussteigt, muss sich so verhalten, dass eine Gefährdung anderer V
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie haben auf einem Parkstreifen angehalten und möchten aussteigen. Wie müssen Sie sich in dieser Situation verhalten?**
 
 ![Question Image](images/2_2_14-108-M.png)
@@ -27136,6 +29688,8 @@ Bevor du die Tür öffnest und aussteigst, musst du dich im linken Außenspiegel
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie sichern Sie Ihren Pkw beim Verlassen gegen unbefugte Benutzung?**
 
 **Optionen:**
@@ -27155,6 +29709,8 @@ Du musst sicherstellen, dass unbefugte dein Fahrzeug nicht benutzen. Zieh desha
 #### Frage 2.2.14-110
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Sie möchten ein Kind aus Ihrem Pkw aussteigen lassen. Was sollten Sie dabei beachten?**
 
@@ -27180,6 +29736,8 @@ Als KFZ-Fahrer solltest du darauf achten, dass Kinder direkt auf der Gehwegseite
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was ist erlaubt, wenn Ihr Motorrad mit Motorschaden liegen geblieben ist?**
 
 **Optionen:**
@@ -27199,6 +29757,8 @@ Ein kaputtes Motorrad kann nicht abgeschleppt werden, es kippt um und fällt um.
 #### Frage 2.2.15-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Sie sind außerorts wegen eines Defekts mit Ihrem Kraftrad liegen geblieben. Wie sollte der Transport in die Werkstatt erfolgen?**
 
@@ -27221,6 +29781,8 @@ Laut § 15a (4) StVO dürfen Krafträder nicht mit einem Abschleppseil abgeschle
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie wollen mit Ihrem Pkw einen anderen abschleppen. Was müssen Sie wissen?**
 
 **Optionen:**
@@ -27238,6 +29800,8 @@ Sie müssen wissen, ob es sich um ein Fahrzeug mit Gangschaltung, Automatikgetri
 #### Frage 2.2.15-104
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Ein Pkw mit Bremskraftverstärker ist mit Motorschaden liegen geblieben. Was ist beim Abschleppen richtig?**
 
@@ -27259,6 +29823,8 @@ Verwenden Sie beim Abschleppen eines Fahrzeugs mit Bremskraftverstärker möglic
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Ein Pkw mit Servolenkung ist mit Motorschaden liegen geblieben und soll abgeschleppt werden. Was ist richtig?**
 
 **Optionen:**
@@ -27278,6 +29844,8 @@ Die Funktion der Servolenkung ist abhängig vom Motor und funktioniert nur bei l
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, L, T
+
 **In welcher Entfernung ist das Warndreieck aufzustellen, wenn ein Fahrzeug auf einer Straße mit schnellem Verkehr liegen geblieben ist?**
 
 **Optionen:**
@@ -27296,6 +29864,8 @@ Bleiben Sie mit Ihrem Fahrzeug auf einer Straße mit schnellem Verkehr liegen, m
 #### Frage 2.2.15-107
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, L, T
 
 **Wie müssen Sie nachts ein Fahrzeug sichern, das an einer Stelle liegen geblieben ist, an der es eine Gefahr für den übrigen Verkehr bildet?**
 
@@ -27317,6 +29887,8 @@ Bleibt ein Fahrzeug auf einer mehrspurigen Fahrbahn an einer Stelle liegen, an d
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, L, T
+
 **Wann müssen Sie das Warnblinklicht einschalten?**
 
 **Optionen:**
@@ -27335,6 +29907,8 @@ Bleibt ein Fahrzeug auf einer mehrspurigen Fahrbahn an einer Stelle liegen, an d
 #### Frage 2.2.15-109
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, L, T
 
 **Was ist beim Abschleppen zu beachten?**
 
@@ -27356,6 +29930,8 @@ Beim Abschleppen darf der Abstand zwischen dem Zugfahrzeug und dem geschleppten 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Ihr Pkw hat auf der Autobahn eine Reifenpanne. Wie müssen Sie sich verhalten?**
 
 **Optionen:**
@@ -27375,6 +29951,8 @@ Bleibt Ihr Fahrzeug auf einer mehrspurigen Fahrbahn aufgrund einer Reifenpanne a
 #### Frage 2.2.15-111
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Ihr Pkw hat einen Defekt und ist nicht mehr fahrbereit. Was ist beim Abschleppen zu beachten?**
 
@@ -27396,6 +29974,8 @@ Bedenken Sie, dass ohne Funktion des Motors auch die Bremskraftunterstützung de
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Ihr Pkw hat einen Defekt und ist nicht mehr fahrbereit. Was ist beim Abschleppen zu beachten?**
 
 **Optionen:**
@@ -27415,6 +29995,8 @@ Beim Abschleppen haben das Zugfahrzeug und das geschleppte Fahrzeug das Warnblin
 #### Frage 2.2.15-113
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, C, C1, D, D1, C1E, D1E, DE
 
 **Sie haben eine Panne außerhalb geschlossener Ortschaft. Ihr Kraftfahrzeug steht hinter einer Kurve auf der Fahrbahn. Was ist in dieser Situation richtig?**
 
@@ -27437,6 +30019,8 @@ Aus Sicherheitsgründen, solltest du alle 3 angeklickt haben. Du musst hinter de
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Ihr Pkw hat einen Motorschaden und soll mit einem Abschleppseil abgeschleppt werden. Was müssen Sie beachten?**
 
 **Optionen:**
@@ -27456,6 +30040,8 @@ Achten Sie auf die Vorgaben des Herstellers beim abschleppen. Die elektronischen
 #### Frage 2.2.15-115
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Sie haben außerorts eine Panne. Ihr Kraftfahrzeug steht hinter einer Kurve auf der Fahrbahn. Was ist in dieser Situation richtig?**
 
@@ -27478,6 +30064,8 @@ Außerorts muss ein Warndreieck in einem Abstand von 100 m Entfernung zum Fahrze
 #### Frage 2.2.15-201
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Sie müssen auf dem Seitenstreifen einer Autobahn ein Rad wechseln. Welche Sicherungsmaßnahme ist notwendig?**
 
@@ -27503,6 +30091,8 @@ Da du dich auf der Autobahn befindet, auf der sehr hohe Geschwindigkeiten gefahr
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wo dürfen Sie die Lichthupe zum Anzeigen der Überholabsicht benutzen?**
 
 **Optionen:**
@@ -27522,6 +30112,8 @@ Außerhalb geschlossener Ortschaften dürfen Sie als Kfz-FahrerIn die Lichthupe 
 #### Frage 2.2.16-101
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, C, C1, D, D1, L, T
 
 **Wann müssen Sie an Ihrem Kraftfahrzeug das Warnblinklicht einschalten?**
 
@@ -27546,6 +30138,8 @@ Hast du an einer unübersichtlichen Stelle eine Panne, solltest du andere Verkeh
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Woran können Sie erkennen, ob die Nebelschlussleuchte eingeschaltet ist?**
 
 **Optionen:**
@@ -27564,6 +30158,8 @@ Ein Blick auf das Armaturenbrett genügt und der/die Kfz-FahrerIn erkennt sofort
 #### Frage 2.2.17-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Ihr Motorrad ist mit einem Nebelscheinwerfer ausgerüstet. Was müssen Sie hinsichtlich der Beleuchtung bei Nebel beachten?**
 
@@ -27585,6 +30181,8 @@ Wenn es neblig ist, sind Sie für andere Menschen auf der Straße weniger sichtb
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Bei Dunkelheit fällt plötzlich das Fernlicht aus, weil der Glühfaden durchgebrannt ist. Was müssen Sie tun?**
 
 **Optionen:**
@@ -27604,6 +30202,8 @@ Sie müssen sicherstellen, dass Sie sowohl für andere Menschen auf der Straße 
 #### Frage 2.2.17-005
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Die Sicht ist erheblich behindert. Wann dürfen Sie Nebelscheinwerfer einschalten?**
 
@@ -27626,6 +30226,8 @@ Wenn die Sicht tagsüber witterungsbedingt durch Nebel, Schneefall oder Regen st
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, L, T, A80
+
 **Sie fahren nachts auf unbeleuchteter Straße. Ein Fahrzeug fährt in geringem Abstand voraus. Welches Licht müssen Sie dabei eingeschaltet haben?**
 
 **Optionen:**
@@ -27645,6 +30247,8 @@ Der/die Kfz-FahrerIn muss an seinem eigenen Fahrzeug das Abblendlicht einschalte
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, L, T
+
 **Die hinteren Beleuchtungseinrichtungen Ihres Kraftfahrzeugs sind verdeckt. Was ist zu tun?**
 
 **Optionen:**
@@ -27663,6 +30267,8 @@ Sie müssen in jedem Fall einen Leuchtenträger mit sämtlichen hinteren Beleuch
 #### Frage 2.2.17-011
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, B, L, T, A80
 
 **Woran können Sie je nach Kraftfahrzeug erkennen, ob das Fernlicht eingeschaltet ist?**
 
@@ -27684,6 +30290,8 @@ Die blaue Kontrollleuchte mit dem Scheinwerfersymbol zeigt Ihnen an, dass das Fe
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, L, T, A80
+
 **Welche Beleuchtungseinrichtung müssen Sie bei einer Fahrt in Dunkelheit an Ihrem Kraftfahrzeug grundsätzlich einschalten?**
 
 **Optionen:**
@@ -27703,6 +30311,8 @@ In Deutschland ist es vorgeschrieben das Abblendlicht bei Dunkelheit einzuschalt
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, L, T, A80
+
 **Woran können Sie erkennen, ob das Fernlicht eingeschaltet ist?**
 
 **Optionen:**
@@ -27721,6 +30331,8 @@ Die blaue Kontrollleuchte weist auf das eingeschaltete Fernlicht hin.
 #### Frage 2.2.17-101
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wann dürfen Sie auch am Tage Nebelscheinwerfer einschalten?**
 
@@ -27742,6 +30354,8 @@ Bei starker witterungsbedingter Sichteinschränkung durch Nebel, Schneefall oder
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wann dürfen Sie Nebelschlussleuchten einschalten?**
 
 **Optionen:**
@@ -27760,6 +30374,8 @@ Die Nebelschlussleuchten Ihres Fahrzeuges dürfen Sie nur verwenden, wenn bei st
 #### Frage 2.2.17-103
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wo genügen beim Parken eines Pkws auf unbeleuchteten Straßen Parkleuchten?**
 
@@ -27780,6 +30396,8 @@ Nur innerhalb geschlossener Ortschaften dürfen Pkw auf unbeleuchteten Straßen 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie können Sie während der Fahrt erkennen, ob Fernlicht eingeschaltet ist?**
 
 **Optionen:**
@@ -27798,6 +30416,8 @@ In der Regel befindet sich im Bereich des Tachometers eine blaue Kontrolllampe, 
 #### Frage 2.2.17-105
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Welche Gefahren können durch falsche Betätigung einer manuellen Leuchtweitenregelung entstehen?**
 
@@ -27819,6 +30439,8 @@ Die Leuchtweitenregulierung ist dazu da, die Ausrichtung der Scheinwerfer der Be
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Dürfen Sie bei Dunkelheit nur mit Begrenzungslicht (Standlicht) fahren?**
 
 **Optionen:**
@@ -27837,6 +30459,8 @@ Mit Begrenzungsleuchten allein dürfen Sie als Kfz-FahrerIn unter keinen Umstän
 #### Frage 2.2.17-109
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, L, T
 
 **Wann müssen Sie auch am Tage mit Abblendlicht fahren?**
 
@@ -27858,6 +30482,8 @@ Wenn Sichtverhältnisse witterungsbedingt – durch Regen, Nebel, Schneefall –
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **In welchen Fällen müssen Sie bei Dämmerung oder Dunkelheit nur die Begrenzungsleuchten (Standlicht) einschalten?**
 
 **Optionen:**
@@ -27875,6 +30501,8 @@ Fahren Sie bei Dämmerung und Dunkelheit stets mit eingeschaltetem Abblendlicht.
 #### Frage 2.2.17-114
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, C, C1, D, D1, L, T, C1E, D1E, DE
 
 **Wann müssen Sie Abblendlicht einschalten?**
 
@@ -27897,6 +30525,8 @@ Damit auch du gesehen wirst, nutze das Abblendlicht während der Dämmerung, bei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was kann eine falsche Einstellung der manuellen Leuchtweitenregelung zur Folge haben?**
 
 **Optionen:**
@@ -27917,6 +30547,8 @@ Durch die falsche Einstellung der Scheinwerfer können die Leuchten nicht vollst
 #### Frage 2.2.17-116
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Welche Funktion soll der Fernlichtassistent bei Dunkelheit erfüllen?**
 
@@ -27939,6 +30571,8 @@ Automatisch wird das Fernlicht nur eingeschaltet, wenn die Straße nicht ausreic
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **In welcher Situation kann der Fernlichtassistent Ihres Kraftfahrzeugs bei Gegenverkehr möglicherweise nicht rechtzeitig abblenden?**
 
 **Optionen:**
@@ -27958,6 +30592,8 @@ Beim Überqueren einer Kuppe und beim Durchfahren einer Kurve kann die Kamera de
 #### Frage 2.2.17-118
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **An Ihrem Pkw ist das automatische Lichtsystem aktiviert. Womit müssen Sie bei den dargestellten Lichtverhältnissen rechnen?**
 
@@ -27981,6 +30617,8 @@ Wegen der tief stehenden Sonne und der nebligen Luft sind die Licht- und Sichtve
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, L, T, C1E
+
 **Welche Fahrzeuge müssen bei Dämmerung oder Dunkelheit immer mit eigener Lichtquelle oder durch Parkwarntafeln kenntlich gemacht werden, wenn sie innerorts auf der Fahrbahn abgestellt werden?**
 
 **Optionen:**
@@ -28000,6 +30638,8 @@ Lkw und Wohnmobile über 3,5 t zulässiger Gesamtmasse und Anhänger können inn
 #### Frage 2.2.17-301
 
 **Punkte:** 2 Punkte
+
+**Klassen:** CE, L, T
 
 **Welche Fahrzeuge benötigen an den Fahrzeuglängsseiten gelbe Rückstrahler?**
 
@@ -28021,6 +30661,8 @@ Um die Längsseite besser sichtbar zu machen, solltest du bei Zugmaschinen, die 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Sie haben die Arbeit auf dem Feld beendet und wollen mit Ihrer Zugmaschine über öffentliche Straßen nach Hause fahren. Es ist bereits dämmrig. Was müssen Sie tun?**
 
 **Optionen:**
@@ -28040,6 +30682,8 @@ Demnächst...
 #### Frage 2.2.17-402
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, L, T, A80
 
 **Sie fahren bei Dunkelheit mit Fernlicht. Wann müssen Sie abblenden?**
 
@@ -28061,6 +30705,8 @@ Sie dürfen den Gegenverkehr durch das Fernlicht nicht blenden. Schalten Sie es 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, L, T, A80
+
 **Sie fahren bei Dunkelheit mit Fernlicht. Wann müssen Sie abblenden?**
 
 **Optionen:**
@@ -28081,6 +30727,8 @@ Wenn Sie bei Dunkelheit mit Fernlicht fahren, müssen Sie abblenden, wenn sich I
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, L, T
+
 **Warum müssen Sie auch am Tage mit Abblendlicht fahren, wenn die Sicht durch Nebel, Regen oder Schneefall erheblich behindert ist?**
 
 **Optionen:**
@@ -28100,6 +30748,8 @@ Bei schlechten Sichtverhältnissen am Tag, witterungsbedingt durch Regen, Nebel 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wann müssen Sie tagsüber mit eingeschaltetem Abblendlicht oder Tagfahrleuchten fahren?**
 
 **Optionen:**
@@ -28118,6 +30768,8 @@ Für Ihre Sicherheit und die Sicherheit anderer Menschen sollten Sie immer sicht
 #### Frage 2.2.17-406
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, L, T, C1E
 
 **Wann müssen Anbaugeräte zusätzliche Beleuchtungseinrichtungen haben?**
 
@@ -28143,6 +30795,8 @@ Anbaugeräte, die die Beleuchtungseinrichtungen deines Fahrzeugs verdecken müss
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie kommen auf der Autobahn in einen Stau. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -28161,6 +30815,8 @@ Während eines Staus muss sich ein Motorrad wie ein normales Auto verhalten. Es 
 #### Frage 2.2.18-002
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Was ist auf Autobahnen erlaubt?**
 
@@ -28181,6 +30837,8 @@ Auf der Autobahn/Autobahn muss sich ein Motorrad wie ein normales Auto verhalten
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A2, B, A80
+
 **Welche Richtgeschwindigkeit gilt für Pkws und Motorräder auf Autobahnen?**
 
 **Optionen:**
@@ -28196,6 +30854,8 @@ Auf Autobahnen müssen sich Pkws und Motorräder an eine Richtgeschwindigkeit vo
 #### Frage 2.2.18-006
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie nähern sich auf dem linken von zwei Fahrstreifen einem Fahrzeug, das gerade zum Überholen ausschert. Wie verhalten Sie sich?**
 
@@ -28217,6 +30877,8 @@ Sie ermöglichen diesem Fahrzeug zu überholen, indem Sie den Sicherheitsabstand
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren bei geringer Verkehrsdichte auf einer Autobahn. Wie lange dürfen Sie den linken Fahrstreifen benutzen?**
 
 **Optionen:**
@@ -28236,6 +30898,8 @@ Der Linke Fahrstreifen darf nur zum Überholen verwendet werden, da in Deutschla
 #### Frage 2.2.18-009
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Was gilt auf Kraftfahrstraßen?**
 
@@ -28257,6 +30921,8 @@ Sie dürfen nur an Kreuzungen oder Einmündungen auf Kraftfahrstraßen einfahren
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Welche Höchstgeschwindigkeit muss in den Fahrzeugpapieren eingetragen sein, um Autobahnen benutzen zu dürfen?**
 
 **Optionen:**
@@ -28272,6 +30938,8 @@ Eine Kraftfahrstraße oder auch Autobahn wurde für den Schnellverkehr gebaut. D
 #### Frage 2.2.18-011
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Auf einer Autobahn mit 3 Fahrstreifen hat sich ein Stau gebildet. Wo ist die Gasse für Rettungsfahrzeuge zu bilden?**
 
@@ -28292,6 +30960,8 @@ Wenn der Verkehr auf Autobahnen oder auf Straßen außerhalb geschlossener Ortsc
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren auf einem Einfädelungsstreifen. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -28311,6 +30981,8 @@ Auf einem Einfädelungsstreifen, vormals Beschleunigungsstreifen genannt, ist es
 #### Frage 2.2.18-013
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie müssen Sie sich jetzt verhalten?**
 
@@ -28335,6 +31007,8 @@ Sie nähern sich auf der Autobahn dem Ende eines Staus. Schalten Sie das Warnbli
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie sollten Sie sich verhalten?**
 
 ![Question Image](images/2_2_18-014.png)
@@ -28358,6 +31032,8 @@ Sie wollen die Autobahn verlassen. Sie sehen, dass in Ihrer beabsichtigten Ausfa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie müssen Sie sich verhalten, wenn sich auf dieser Straße ein Stau bildet?**
 
 ![Question Image](images/2_2_18-015-M.png)
@@ -28378,6 +31054,8 @@ Jeder/Jede Kfz-FahrerIn muss im Fall der Staubildung auf Autobahnen und auf auß
 #### Frage 2.2.18-016-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -28404,6 +31082,8 @@ Achtung Geisterfahrer! Du solltest den Autofahrer mit Schall (Hupe) und Leuchtze
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie sollten Sie sich jetzt verhalten?**
 
 ![Question Image](images/2_2_18-017-M.png)
@@ -28427,6 +31107,8 @@ Sie haben auf dem Einfädelungsstreifen bereits den Lkw, der auf der rechten Fah
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
+
 **Sie möchten die Autobahn verlassen. Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/2_2_18-018-M.png)
@@ -28448,6 +31130,8 @@ Sowohl der beleuchtete Blinkpfeil als auch das Schild weißen auf einen Spurwech
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
+
 **Wie müssen Sie sich in einem Stau auf Autobahnen und auf Kraftfahrstraßen mit zwei Fahrstreifen für eine Richtung verhalten?**
 
 **Optionen:**
@@ -28468,6 +31152,8 @@ Entweder auf dem linken Fahrstreifen möglichst weit links fahren oder auf dem r
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie nähern sich auf der Autobahn einem Stau. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -28486,6 +31172,8 @@ Warnen Sie den nachfolgenden Verkehr durch das Einschalten des Warnblinklichts u
 #### Frage 2.2.18-021-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -28510,6 +31198,8 @@ Auf dem rechten Fahrstreifen kommt ein Motorrad von der Autobahnauffahrt auf die
 #### Frage 2.2.18-022
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie möchten die Autobahn an der nächsten Ausfahrt verlassen. Wie verhalten Sie sich in dieser Situation richtig?**
 
@@ -28536,6 +31226,8 @@ Beobachte bei Autobahnfahrten immer aufmerksam den nachfolgenden Verkehr. Achte 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie sollten Sie sich jetzt verhalten?**
 
 ![Question Image](images/2_2_18-023-M.png)
@@ -28558,6 +31250,8 @@ Verringere deine Geschwindigkeit und ermögliche dem blauen Pkw, auf die Autobah
 #### Frage 2.2.18-024-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Womit müssen Sie jetzt rechnen?**
 
@@ -28584,6 +31278,8 @@ Ist auf der Autobahn eine Gefahrensituation zu erkennen, darf das Warnblinklicht
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Ihr Fahrzeug ist auf der Autobahn liegen geblieben. Was ist beim Abschleppen zu beachten?**
 
 **Optionen:**
@@ -28603,6 +31299,8 @@ Beim Abschleppen auf der Autobahn müssen das Zugfahrzeug und das abgeschleppte 
 #### Frage 2.2.18-102
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Was gilt auf Autobahnen?**
 
@@ -28624,6 +31322,8 @@ Auf der Autobahn dürfen Sie ausschließlich vorwärts und auch nur in die eine 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Sie fahren auf der Autobahn und haben die Ausfahrt verpasst. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -28642,6 +31342,8 @@ Fahren Sie bis zur nächsten Ausfahrt weiter und verlassen Sie die Autobahn dort
 #### Frage 2.2.18-104-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Wie kann ein Spurwechsel-Assistent ohne Lenkeingriff Sie in dieser Situation unterstützen?**
 
@@ -28663,6 +31365,8 @@ Der Spurwechsel-Assistent erkennt das Fahrzeug auf dem mittleren Fahrstreifen al
 #### Frage 2.2.18-105
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Was ist bei der Benutzung von Autobahnen verboten?**
 
@@ -28687,6 +31391,8 @@ Laut StVO § 18 Autobahnen und Kraftfahrstraßen gilt:
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Welche Fahrzeuge unterliegen der Mautpflicht auf Autobahnen und bestimmten Bundesstraßen?**
 
 **Optionen:**
@@ -28706,6 +31412,8 @@ Richtig ist: Kraftfahrzeuge mit mindestens 7,5 t zulässiger Gesamtmasse, die au
 #### Frage 2.2.18-208
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Wer kann zur Verantwortung gezogen werden, wenn die Mautgebühr nicht entrichtet wurde?**
 
@@ -28727,6 +31435,8 @@ Nicht nur der Fahrer, sondern auch der Halter sind verantwortlich. Der Verlader 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Die zulässige Gesamtmasse Ihres Zugfahrzeugs beträgt 6,5 t; die zulässige Gesamtmasse Ihres Anhängers beträgt 5,5 t. Ist das Benutzen einer Autobahn mit dieser Fahrzeugkombination mautpflichtig?**
 
 **Optionen:**
@@ -28746,6 +31456,8 @@ Wenn dein Zugfahrzeug eine zulässige Gesamtmasse von 6,5 t und dein Anhänger 5
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C1, CE
+
 **Die zulässige Gesamtmasse Ihres Lkws beträgt 5,5 t; die zulässige Gesamtmasse Ihres Anhängers beträgt 2,0 t. Ist das Benutzen einer Autobahn mautpflichtig, wenn diese Fahrzeugkombination für den Güterkraftverkehr genutzt wird?**
 
 **Optionen:**
@@ -28764,6 +31476,8 @@ Da deine Gesamtmasse deines Lkw (Güterverkehr) inklusive Anhänger (Fahrzeugkom
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Für Kraftfahrzeuge oder Fahrzeugkombinationen, die ausschließlich für den Güterkraftverkehr bestimmt sind oder eingesetzt werden, muss auf Autobahnen eine Benutzungsgebühr entrichtet werden. Ab welcher zulässigen Gesamtmasse gilt dies?**
 
 **Optionen:**
@@ -28779,6 +31493,8 @@ Die Benutzungsgebühr ist ab einer zulässigen Gesamtmasse von 7,5 t zu entricht
 #### Frage 2.2.18-212
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C1, CE
 
 **Sie möchten mit Ihrem Lkw, der eine zulässige Gesamtmasse von 6,5 t besitzt, im Güterkraftverkehr auf die Autobahn fahren. Was gilt bezüglich der Einbuchung am Mautterminal?**
 
@@ -28799,6 +31515,8 @@ Dein Lkw mit einer zulässigen Gesamtmasse von 6,5 t für den Güterverkehr muss
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C1, CE
+
 **Ihr Lkw ist mit einem Gerät zur Mauterfassung (OBU) ausgerüstet. Welche Angaben müssen vor dem Befahren einer mautpflichtigen Strecke überprüft und ggf. angepasst werden?**
 
 **Optionen:**
@@ -28817,6 +31535,8 @@ Bevor du eine Mautpflichtige Strecke deinem OBU (Mauterfassungsgerät) befährst
 #### Frage 2.2.18-214
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Sie möchten mit einem mautpflichtigen Kraftfahrzeug auf die Autobahn fahren. Wie kann die erforderliche Mautbuchung erfolgen?**
 
@@ -28839,6 +31559,8 @@ Bevor du eine Mautpflichtige Strecke deinem OBU (Mauterfassungsgerät) befährst
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, C1E, D1E, DE
+
 **Warum sollte bei Autobahnfahrten der Verkehrsfunk eingeschaltet sein?**
 
 **Optionen:**
@@ -28858,6 +31580,8 @@ Weil der Verkehrsfunk vor Geisterfahrern warnt und über Staus informiert. Vorge
 #### Frage 2.2.18-216
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Durch wen erfolgt die Maut-Kontrolle?**
 
@@ -28879,6 +31603,8 @@ Die Maut-Kontrolle erfolgt durch den Betreiber der automatischen Kontrollbrücke
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1
+
 **Ihr Lkw ist mit einem Gerät zur Mauterfassung (OBU) ausgerüstet. Welche Angabe muss vor dem Befahren einer mautpflichtigen Strecke überprüft und gegebenenfalls angepasst werden?**
 
 **Optionen:**
@@ -28898,6 +31624,8 @@ Die Mauttarife richten sich nach den Gewichtsklassen, deswegen müssen Sie die z
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE
+
 **In welchem Fall unterliegen Kraftfahrzeuge oder Fahrzeugkombinationen, die im Güterkraftverkehr verwendet werden, der Mautpflicht?**
 
 **Optionen:**
@@ -28910,6 +31638,8 @@ Die Mauttarife richten sich nach den Gewichtsklassen, deswegen müssen Sie die z
 #### Frage 2.2.18-219
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE
 
 **Was gilt im gewerblichen Güterkraftverkehr hinsichtlich der Entrichtung der Mautgebühr?**
 
@@ -28931,6 +31661,8 @@ Sowohl Fahrer als auch Halter eines Fahrzeugs sind verantwortlich für eine ordn
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE
+
 **Auf Autobahnen muss für Kraftfahrzeuge oder Fahrzeugkombinationen des gewerblichen Güterkraftverkehrs eine Mautgebühr entrichtet werden. Ab welcher technisch zulässigen Gesamtmasse gilt dies?**
 
 **Optionen:**
@@ -28946,6 +31678,8 @@ Kraftfahrzeuge oder Fahrzeugkombinationen ab einer technisch zulässigen Gesamtm
 #### Frage 2.2.18-301
 
 **Punkte:** 2 Punkte
+
+**Klassen:** CE
 
 **Ihr Lkw ist mit einem Gerät zur Mauterfassung (OBU) ausgerüstet. Welche Angabe muss vor dem Befahren einer mautpflichtigen Strecke überprüft und gegebenenfalls angepasst werden?**
 
@@ -28970,6 +31704,8 @@ Die Mauttarife richten sich nach den Gewichtsklassen, deswegen müssen Sie die z
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Welche Auswirkungen hat der Soziusbetrieb auf das Fahrverhalten eines Motorrades?**
 
 **Optionen:**
@@ -28990,6 +31726,8 @@ Wenn ein Fahrgast hinter Ihnen sitzt, erhöht sich Ihr Gewicht, was das Anfahren
 #### Frage 2.2.21-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie wollen auf Ihrem Motorrad eine Person mitnehmen. Worauf sollten Sie vor Beginn der Fahrt achten?**
 
@@ -29012,6 +31750,8 @@ Wenn Sie einen unerfahrenen Passagier mitnehmen, achten Sie darauf, dass er eine
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Worauf müssen Sie achten, wenn Sie einen Beifahrer mitnehmen wollen?**
 
 **Optionen:**
@@ -29031,6 +31771,8 @@ Wenn Sie einen anderen Passagier mitnehmen, vergewissern Sie sich, dass er einen
 #### Frage 2.2.21-004
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Worauf müssen Sie Ihren Beifahrer vor der Fahrt hinweisen?**
 
@@ -29052,6 +31794,8 @@ Achten Sie darauf, dass Ihr Mitfahrer einen Helm trägt, halten Sie seine Füße
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Mofa
+
 **Sie wollen auf einem Mofa ein fünfjähriges Kind mitnehmen. Welche Sitzgelegenheiten sind dafür zulässig?**
 
 **Optionen:**
@@ -29070,6 +31814,8 @@ Um ein Kind als Passagier zu befördern, benötigen Sie einen speziellen Kinders
 #### Frage 2.2.21-007
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Warum ist es gefährlich, wenn Personen auf den hinteren Sitzen die Sicherheitsgurte nicht benutzen?**
 
@@ -29092,6 +31838,8 @@ Bei einem Aufprall können Personen auf den hinteren Sitzen nach vorne oder zur 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Worauf sollten Sie achten, wenn Sie eine weitere Person auf dem Motorrad mitnehmen?**
 
 **Optionen:**
@@ -29112,6 +31860,8 @@ Wenn Sie die Belastung Ihres Motorrads erhöhen, achten Sie darauf, den Reifendr
 #### Frage 2.2.21-009
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Worauf müssen Sie achten, wenn Sie einen Sozius mitnehmen möchten?**
 
@@ -29134,6 +31884,8 @@ Der/die Sozius/-a muss körperlich und geistig in der Lage sein mitfahren zu kö
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Welche Auswirkung hat die Mitnahme eines Sozius auf das Fahrverhalten eines Kraftrads?**
 
 **Optionen:**
@@ -29153,6 +31905,8 @@ Die Eigenbewegung des/r Sozius/-a destabilisiert das Motorrad. Das Fahren mit So
 #### Frage 2.2.21-011
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie möchten auf Ihrem Motorrad einen Sozius und Gepäck mitnehmen. Was müssen Sie beachten?**
 
@@ -29175,6 +31929,8 @@ Du darfst das zulässige Gesamtgewicht für das Motorrad nicht überschreiten. D
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Sie möchten auf Ihrem Zweirad einen Sozius mitnehmen. Worauf sollten Sie vor Beginn der Fahrt achten?**
 
 **Optionen:**
@@ -29196,6 +31952,8 @@ Grundsätzlich müssen bei der Mitnahme eines Sozius Beifahrersitz, Fußrasten u
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Womit müssen Sie rechnen, wenn Sie einen Sozius mitnehmen?**
 
 **Optionen:**
@@ -29216,6 +31974,8 @@ Außerdem solltest du auch beachten das durch das zusätzliche Gewicht dein Übe
 #### Frage 2.2.21-014
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Mofa
 
 **Welche Bedingung müssen Sie erfüllen, damit Sie ein fünfjähriges Kind auf Ihrem Mofa mitnehmen dürfen?**
 
@@ -29239,6 +31999,8 @@ Da das Kind unter 7 Jahre alt ist, musst du auf dem Mofa einen speziellen Kinder
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Sie sind mit einem Lkw mit Anhänger unterwegs und wollen gefälligkeitshalber eine Person mitnehmen. Wo dürfen Sie diese unterbringen?**
 
 **Optionen:**
@@ -29257,6 +32019,8 @@ Aus Sicherheitsgründen dürfen Sie Personen grundsätzlich nur im Inneren des F
 #### Frage 2.2.21-103
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Wofür müssen Sie vor Antritt einer Fahrt mit Ihrem Pkw sorgen?**
 
@@ -29279,6 +32043,8 @@ Der/Die Kfz-Fahrer/In ist verantwortlich für die Sicherheit der Mitfahrer/Innen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Wie dürfen Sie in Ihrem Pkw ein Kleinkind mitnehmen?**
 
 **Optionen:**
@@ -29297,6 +32063,8 @@ Kleinkinder müssen besonders gesichert werden. Dies ist nur mit einer altersger
 #### Frage 2.2.21-105
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Wie dürfen Sie in Ihrem Pkw ein fünfjähriges Kind mitnehmen?**
 
@@ -29317,6 +32085,8 @@ Wenn Sie in Ihrem Pkw ein fünfjähriges Kind mitnehmen möchten, müssen Sie ei
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Wie dürfen Sie in Ihrem Pkw ein elfjähriges Kind von 140 cm Größe mitnehmen?**
 
 **Optionen:**
@@ -29335,6 +32105,8 @@ Ein elfjähriges Kind von 140 cm Größe benötigt einen Kindersitz oder eine Si
 #### Frage 2.2.21-107
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Was ist bei der Verwendung eines Kindersitzes mit Prüfzeichen zu beachten?**
 
@@ -29356,6 +32128,8 @@ Kindersitze werden für unterschiedliche Altersklassen hergestellt. Für die jew
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Warum ist es gefährlich, Sicherheitsgurte nicht anzulegen?**
 
 **Optionen:**
@@ -29376,6 +32150,8 @@ Bei einem Unfall kann eine Person durch die Aufprallenergie leicht aus dem Fahrz
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Ab welcher Aufprallgeschwindigkeit müssen Sie mit schweren oder tödlichen Verletzungen rechnen, wenn Sie keinen Sicherheitsgurt angelegt haben?**
 
 **Optionen:**
@@ -29395,6 +32171,8 @@ Ohne Sicherheitsgurt kommt es bereits bei einem Zusammenstoß knapp über 20 km/
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Ein Pkw ist mit zwei Frontairbags ausgerüstet. Auf welchen Sitzplätzen müssen Sicherheitsgurte angelegt werden?**
 
 **Optionen:**
@@ -29413,6 +32191,8 @@ Die Frontairbags schützen den/die Kfz-FahrerIn und den/die BeifahrerIn auf dem 
 #### Frage 2.2.21-113
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Was bedeutet dieser Warnhinweis?**
 
@@ -29436,6 +32216,8 @@ Der Hinweis warnt vor der falschen Installation des Kindersitzes. Wenn der Kinde
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Sie wollen nach einem Kindergeburtstag mehrere kleine Kinder nach Hause bringen. Was ist bei der Beförderung in Ihrem Pkw zu beachten?**
 
 **Optionen:**
@@ -29454,6 +32236,8 @@ Wenn Sie mit Ihrem Pkw mehrere kleine Kinder nach Hause bringen möchten, müsse
 #### Frage 2.2.21-115
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Worauf müssen Sie achten, wenn Sie ein Fahrzeug mit Beifahrer-Airbag fahren wollen?**
 
@@ -29475,6 +32259,8 @@ Die Rückhalteeinrichtung für den Kindersitz muss nach vorn gerichtet sein. Im 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was ist bei Kopfstützen zu beachten?**
 
 **Optionen:**
@@ -29493,6 +32279,8 @@ Kopfstützen müssen immer so eingestellt werden, dass sie an die Körpergröße
 #### Frage 2.2.21-118
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Während der Fahrt leuchtet die Airbag-Kontrollleuchte ständig. Was müssen Sie tun?**
 
@@ -29513,6 +32301,8 @@ Das Aufleuchten der Airbag Kontrolllampe signalisiert einen Defekt an dem Airbag
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Dürfen Sie auf der Ladefläche Ihres Lkw Personen befördern?**
 
 **Optionen:**
@@ -29532,6 +32322,8 @@ Personen auf der Ladefläche oder in Laderäumen von Kraftfahrzeugen mitzunehmen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Wie können Sie verhindern, dass ein Kind während der Fahrt eine hintere Tür öffnet?**
 
 **Optionen:**
@@ -29549,6 +32341,8 @@ Dank der Kindersicherung können Sie die hinteren Türen gesondert verriegeln. S
 #### Frage 2.2.21-122
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Sie möchten in Ihrem Pkw ein Kind mitnehmen. Wann müssen Sie hierzu einen Kindersitz verwenden?**
 
@@ -29568,6 +32362,8 @@ Ein Kindersitz benötigst du, wenn das Kind jünger als 12 Jahre und kleiner als
 #### Frage 2.2.21-123
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Sie möchten auf dem Beifahrersitz ein Baby mitnehmen. Was müssen Sie bei der Verwendung einer Baby-Trageschale beachten?**
 
@@ -29589,6 +32385,8 @@ Die Baby-Trageschale muss entgegen der Fahrtrichtung angebracht sein und der Bei
 #### Frage 2.2.21-124
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Was ist bei der Benutzung eines Sicherheitsgurts zu beachten?**
 
@@ -29613,6 +32411,8 @@ Solltest du eine Beschädigung des Sicherheitsgurtes feststellen, muss er umgehe
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Was schränkt die Funktion eines Dreipunkt-Sicherheitsgurts ein?**
 
 **Optionen:**
@@ -29633,6 +32433,8 @@ Um die maximale Schutzwirkung des Sicherheitsgurtes sicherzustellen, muss dieser
 #### Frage 2.2.21-126
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was sollten Sie vor Fahrtantritt prüfen?**
 
@@ -29657,6 +32459,8 @@ Die Zulassungsbescheinigung Teil II solltest du im besten Fall an einem sicheren
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was ist hinsichtlich der gewünschten Schutzwirkung von Airbags zu beachten?**
 
 **Optionen:**
@@ -29677,6 +32481,8 @@ Die gewünschte Schutzwirkung von Airbags ist nur dann gewährleistet, wenn die 
 #### Frage 2.2.21-128
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie möchten in einem Kraftfahrzeug eine Person befördern, die während der Fahrt im Rollstuhl sitzen bleiben muss. Was müssen Sie beachten?**
 
@@ -29702,6 +32508,8 @@ Für die sichere Beförderung eines Rollstuhles sollten einige Punkte beachtet w
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1
+
 **Sie fahren einen Bus im Linienverkehr. Wo dürfen Sie Fahrgäste ein- und aussteigen lassen?**
 
 **Optionen:**
@@ -29720,6 +32528,8 @@ Du darfst Fahrgäste nur an den festgelegten Haltestellen ein- und aussteigen la
 #### Frage 2.2.21-202
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1
 
 **Wie verhalten Sie sich als Fahrer eines Linienbusses beim Annähern an eine Haltestelle richtig?**
 
@@ -29742,6 +32552,8 @@ Beim Annähern an eine Haltestelle ist es wichtig rechtzeitig den Blinker einzus
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Sie fahren einen Bus im Gelegenheitsverkehr und sollen Personen und Reisegepäck befördern. Was müssen Sie beachten?**
 
 **Optionen:**
@@ -29761,6 +32573,8 @@ Demnächst...
 #### Frage 2.2.21-401
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Wie dürfen auf landwirtschaftlich eingesetzten Anhängern Personen mitgenommen werden?**
 
@@ -29785,6 +32599,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Welche sicherheitstechnischen Anpassungen können bei Beladung eines Motorrades erforderlich sein?**
 
 **Optionen:**
@@ -29804,6 +32620,8 @@ Wenn Sie die Belastung Ihres Motorrads erhöhen, müssen Sie den Reifendruck erh
 #### Frage 2.2.22-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Worauf sollten Sie beim Fahren mit Gepäck besonders achten?**
 
@@ -29826,6 +32644,8 @@ Das Hinzufügen von Gepäck zu Ihrem Motorrad wird sein Verhalten auf der Straß
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wo sollte schweres Gepäck verstaut werden?**
 
 **Optionen:**
@@ -29845,6 +32665,8 @@ Sie sollten schwere Gepäckstücke so nah wie möglich am Schwerpunkt Ihres Moto
 #### Frage 2.2.22-004
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Welche Folgen hat falsche Beladung auf die Fahrstabilität?**
 
@@ -29866,6 +32688,8 @@ Eine falsche Beladung Ihres Motorrads führt zu einer geringeren Stabilität Ihr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Was ist bei der Beladung eines Lkws mit Anhänger (Zug) zu beachten?**
 
 **Optionen:**
@@ -29886,6 +32710,8 @@ Die Gesamtlänge des Zuges (Lkw mit Anhänger) samt Ladung darf 20,75 m nicht Ü
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Wie lang darf ein Lkw mit Anhänger samt Ladung höchstens sein?**
 
 **Optionen:**
@@ -29904,6 +32730,8 @@ Die Ladung des Lkw inklusive Anhänger darf höchstens 20.75 m lang sein.
 #### Frage 2.2.22-007
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie führen an Ihrem Motorrad zusätzlich angebrachtes Gepäck mit. Worauf sollten Sie achten?**
 
@@ -29927,6 +32755,8 @@ Möglicherweise gibt es Empfehlungen des Fahrzeugherstellers, wie du deine Gesch
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Welche Auswirkung hat eine falsche Beladung auf die Fahrstabilität eines Motorrads?**
 
 **Optionen:**
@@ -29947,6 +32777,8 @@ Leichtes Gepäck im Tankrucksack wirkt sich nicht auf die Fahrstabilität des Mo
 #### Frage 2.2.22-009
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Was kann bei voller Beladung eines Kraftrads erforderlich sein?**
 
@@ -29971,6 +32803,8 @@ Steht die Beladung über das Kraftrad hinaus, solltest du auch die Rückspiegel 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Das Tragen eines Rucksacks während der Fahrt kann sich auf das Fahrverhalten Ihres Zweirads auswirken. Was kann die Folge sein?**
 
 **Optionen:**
@@ -29991,6 +32825,8 @@ Du bietest durch das Tragen eines Rucksacks eine größere Angriffsfläche für 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Welche Bedeutung haben weiße Tafeln mit einem schwarzen "A" an einem Lkw?**
 
 **Optionen:**
@@ -30009,6 +32845,8 @@ Ein Lkw, der mit weißen Tafeln mit einem schwarzen „A“ versehen ist, transp
 #### Frage 2.2.22-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was müssen Sie berücksichtigen, wenn Sie auf dem Dach Ihres Pkw Gepäck befördern wollen?**
 
@@ -30031,6 +32869,8 @@ Gepäck auf dem Dach verändert den Schwerpunkt Ihres Fahrzeugs nach oben. Dies 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Worauf müssen Sie sich einstellen, wenn Sie auf dem Dach Ihres Pkw Gepäck befördern?**
 
 **Optionen:**
@@ -30050,6 +32890,8 @@ Das Gepäck auf dem Dach verändert den Schwerpunkt des Fahrzeuges – er wird a
 #### Frage 2.2.22-104
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was müssen Sie tun, wenn Sie auf dem Dach Ihres Pkws Fahrräder mitnehmen?**
 
@@ -30072,6 +32914,8 @@ Fahrräder auf dem Dach erfordern von Ihnen als Kfz-FahrerIn besondere Aufmerksa
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was ist beim Transport von Fahrrädern auf einem Hecktragesystem zu prüfen?**
 
 **Optionen:**
@@ -30093,6 +32937,8 @@ Prüfen Sie, ob das Hecktragesystem sicher befestigt ist. Ebenso ist die Befesti
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Wie ist eine Ladung bei Dunkelheit oder schlechter Sicht kenntlich zu machen, wenn sie seitlich mehr als 40 cm über die Begrenzungsleuchten des Fahrzeugs hinausragt?**
 
 **Optionen:**
@@ -30113,6 +32959,8 @@ Bei Dunkelheit oder schlechten Sichtverhältnissen ist eine Ladung, die seitlich
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Wie hoch darf eine rote Leuchte, die eine nach hinten hinausragende Ladung kennzeichnet, höchstens über der Fahrbahn angebracht sein?**
 
 **Optionen:**
@@ -30132,6 +32980,8 @@ Die maximale Höhe zum Anbringen der Leuchte beträgt 1,5 Meter. Dadurch soll ge
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Bis zu welcher Höhe darf die Ladung nicht nach vorn über das Fahrzeug hinausragen?**
 
 **Optionen:**
@@ -30147,6 +32997,8 @@ Steht die Ladung nach vorne über, darf sie das erst, wenn sie sich ab der Vorde
 #### Frage 2.2.22-112
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, L, T
 
 **Unter welchen Bedingungen darf die Ladung nach vorne über das Fahrzeug hinausragen?**
 
@@ -30165,6 +33017,8 @@ Sofern die Ladung oberhalb einer Höhe von 2,50 m befestigt ist, darf sie vorne 
 #### Frage 2.2.22-113
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Während einer Pause stellen Sie fest, dass ein Zurrgurt gerissen ist. Was tun Sie?**
 
@@ -30186,6 +33040,8 @@ Sie müssen als Kfz-FahrerIn dafür sorgen, dass ihre Ladung während der gesamt
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Gelten die Anforderungen an eine ordnungsgemäße Ladungssicherung für alle Kleintransporter?**
 
 **Optionen:**
@@ -30205,6 +33061,8 @@ Ausnahmslos für alle Kleintransporter gelten die Anforderungen an eine ordnungs
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Sie möchten einen mit orangefarbenen Warntafeln gekennzeichneten Lkw von 5,0 t zulässiger Gesamtmasse führen. Welche Voraussetzungen müssen Sie erfüllen?**
 
 **Optionen:**
@@ -30223,6 +33081,8 @@ Die Voraussetzung die du erfüllen solltest: Du benötigst zusätzliche zur erfo
 #### Frage 2.2.22-116
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Was müssen Sie beim verkehrssicheren Verstauen einer Ladung beachten?**
 
@@ -30245,6 +33105,8 @@ Eine Verteilung der Ladung und die Befestigung der selbigen und eine Sicherung d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, L, T, C1E
+
 **Was ist bei der Beladung von Fahrzeugen zu beachten?**
 
 **Optionen:**
@@ -30264,6 +33126,8 @@ Wenn du dein Fahrzeug belädst, achte bitte darauf, dass die Ladung, die mehr al
 #### Frage 2.2.22-118
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Was ist beim Transport von langen Stahlrohren zu beachten?**
 
@@ -30285,6 +33149,8 @@ Die Stahlrohre müssen mit geeigneten Mitteln gesichert werden und bei Überhang
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Welchen Einfluss hat eine ungleichmäßige Lastverteilung der Ladung auf das Fahrzeug und das Fahrverhalten?**
 
 **Optionen:**
@@ -30305,6 +33171,8 @@ Eine ungleichmäßige Lastverteilung der Ladung kann dazu führen, dass die zul�
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, T, C1E
+
 **Wann wirkt die Fliehkraft auf die Ladung eines Lkws?**
 
 **Optionen:**
@@ -30323,6 +33191,8 @@ Die Fliehkraft wirkt sich bei Kurvenfahrten deines Lkws aus. Bremsen oder Gerade
 #### Frage 2.2.22-121
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Was kann eine ungesicherte Ladung bei Kurvenfahrt verursachen?**
 
@@ -30345,6 +33215,8 @@ Ungesicherte Ladung bei Kurvenfahrten kann zu einer Beschädigung des Fahrzeugau
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was haben Sie zu beachten, wenn Sie Ladung transportieren möchten?**
 
 **Optionen:**
@@ -30365,6 +33237,8 @@ Beim Beladen Ihres Fahrzeugs müssen Sie als Kfz-FahrerIn darauf achten, dass di
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie möchten Urlaubsgepäck auf dem Dach Ihres voll besetzten Pkws mitnehmen. Was müssen Sie beachten?**
 
 **Optionen:**
@@ -30384,6 +33258,8 @@ Beachten Sie die vom Fahrzeughersteller vorgegebene zulässige Dachlast. Sie fin
 #### Frage 2.2.22-124
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie möchten Ladung transportieren. Was müssen Sie dabei beachten?**
 
@@ -30406,6 +33282,8 @@ Beim Transport von Ladung musst du darauf achten, dass du beim Fahren nicht durc
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was sind Ladungssicherungsmittel zur Verwendung im Pkw?**
 
 **Optionen:**
@@ -30426,6 +33304,8 @@ Ladungssicherungsmittel zur Verwendung im Pkw sind Zuggurte und Sicherungsnetze.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Sie möchten Ladung auf dem Dach Ihres Pkws transportieren. Welchen Einfluss hat dies auf das Fahrverhalten Ihres Pkws?**
 
 **Optionen:**
@@ -30445,6 +33325,8 @@ Dein Fahrverhalten mit Ladung auf dem Dach wird den Bremsweg beeinflussen (er ve
 #### Frage 2.2.22-127
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Welche Möglichkeit der Ladungssicherung gibt es in einem Pkw?**
 
@@ -30467,6 +33349,8 @@ Die Anti-Rutschmatte verhindert das Rutschen der Ladung. Die Spanngurte sind fü
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was sollten Sie bei der Beladung eines Kofferraums mit Gepäck beachten?**
 
 **Optionen:**
@@ -30488,6 +33372,8 @@ Im Falle eines Unfalles oder einer Panne sollte das Warndreieck immer griffberei
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, C, C1, CE, T
+
 **Wie weit darf eine gekennzeichnete Ladung nach hinten über Ihr Fahrzeug hinausragen, wenn Ihre Wegstrecke mehr als 100 km beträgt?**
 
 **Optionen:**
@@ -30503,6 +33389,8 @@ Bei Wegstrecken bis zu 100 Kilometer darf die Ladung bis zu 3 Meter nach hi
 #### Frage 2.2.22-130
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Worauf sollten Sie sich einstellen, wenn Sie auf dem Dach Ihres Pkws Ladung befördern?**
 
@@ -30524,6 +33412,8 @@ Durch die Beladung des Dachs verbraucht man wesentlich mehr Kraftstoff. Der Grun
 #### Frage 2.2.22-131
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie transportieren mit einem Kleintransporter Möbel. Während einer Pause stellen Sie fest, dass ein Zurrgurt stark beschädigt ist. Unter welcher Bedingung dürfen Sie weiterfahren?**
 
@@ -30547,6 +33437,8 @@ Laut StVO gilt: "§ 22 (1) Die Ladung einschließlich Geräte zur Ladungssiche
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was ist beim Transport von Pedelecs auf einem Hecktragesystem für die Anhängekupplung zu beachten?**
 
 **Optionen:**
@@ -30569,6 +33461,8 @@ Wenn beide Fragen mit Ja beantwortete werden können und du dir ein entsprechend
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, L, T, C1E
+
 **Welche Warntafel ist richtig angebracht?**
 
 ![Question Image](images/2_2_22-201.png)
@@ -30588,6 +33482,8 @@ Da wir ein A für (Achtung) benötigen ist die rechte Warntafel richtig angebrac
 #### Frage 2.2.22-203
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Wie kann die Überladung eines Lastkraftwagens festgestellt werden?**
 
@@ -30609,6 +33505,8 @@ Um eine Überladung festzustellen, kannst du dein beladenes Fahrzeug nachwiegen 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Ein Lkw für austauschbare Ladungsträger (Wechselbehälter) hat eine Nutzlast von 6.000 kg. Der Wechselbehälter hat eine Leermasse von 1.500 kg. Mit welcher Masse darf dieser Wechselbehälter beladen werden?**
 
 **Optionen:**
@@ -30627,6 +33525,8 @@ Leermasse (1500 kg) plus Beladung (4.500 kg) = Nutzlast (6000 kg) 4.500 kg ist r
 #### Frage 2.2.22-208
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Was versteht man unter formschlüssiger Ladungssicherung?**
 
@@ -30648,6 +33548,8 @@ Unter einer formschlüssigen Ladungssicherung (lückenlos) versteht man das Anle
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Was ist unter formschlüssiger Sicherung der Ladung zu verstehen?**
 
 **Optionen:**
@@ -30668,6 +33570,8 @@ Die formschlüssige Ladungssicherung besagt, dass Freiräume zwischen den Ladung
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Wer ist für die ausreichende Ladungssicherung verantwortlich?**
 
 **Optionen:**
@@ -30686,6 +33590,8 @@ Alle am Transportprozess Beteiligten sind für eine ausreichende Ladungssicherun
 #### Frage 2.2.22-214
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Wer ist hinsichtlich der Ladung verantwortlich für den Betrieb der Fahrzeuge?**
 
@@ -30707,6 +33613,8 @@ Für den Betrieb der Fahrzeuge sind sowohl der Fahrer als auch der Halter verant
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Was müssen Sie beim Abkippen von Schüttgut beachten?**
 
 **Optionen:**
@@ -30726,6 +33634,8 @@ Beim Abkippen von Schüttgut achte bitte darauf, dass das Fahrzeug auf ausreiche
 #### Frage 2.2.22-217
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE
 
 **Warum ist es erforderlich, den Lastverteilungsplan einzuhalten?**
 
@@ -30747,6 +33657,8 @@ Um eine Achslastüberschreitung zu vermeiden ist es erforderlich den Lastverteil
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE
+
 **Wozu dient ein Lastverteilungsplan?**
 
 **Optionen:**
@@ -30766,6 +33678,8 @@ Der Lastverteilungsplan zeigt wie das Fahrzeug beladen werden muss. Bei ungleich
 #### Frage 2.2.22-219
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE
 
 **Was kann die Folge sein, wenn die Beladung Ihres Fahrzeugs nicht dem Lastverteilungsplan entspricht?**
 
@@ -30788,6 +33702,8 @@ Der Lastverteilungsplan zeigt wie das Fahrzeug beladen werden muss. Bei ungleich
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE
+
 **Welche konkreten Angaben können Sie einem Lastverteilungsplan entnehmen?**
 
 **Optionen:**
@@ -30807,6 +33723,8 @@ Der Lastverteilungsplan gibt Angaben zum Ladungsschwerpunkt bei maximal zulässi
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE
+
 **Wer ist für die Ladungssicherung am Fahrzeug verantwortlich?**
 
 **Optionen:**
@@ -30823,6 +33741,8 @@ Der Lastverteilungsplan gibt Angaben zum Ladungsschwerpunkt bei maximal zulässi
 #### Frage 2.2.22-222
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1
 
 **Was kann die kraftschlüssige Ladungssicherung unterstützen?**
 
@@ -30848,6 +33768,8 @@ Dies verhindert ein Verrutschen der Ladung.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, L, T
+
 **Was ist bei der Wahl von Zurrmitteln zur Ladungssicherung zu beachten?**
 
 **Optionen:**
@@ -30870,6 +33792,8 @@ Ebenso wichtig ist die Anforderung an das Fahrzeug, wie z.B. die zulässige Zula
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, L, T
+
 **Sie möchten Ihre Ladung durch Niederzurren kraftschlüssig sichern. Was sollten Sie dabei beachten?**
 
 **Optionen:**
@@ -30890,6 +33814,8 @@ Beim Niederzurren wird die Ladung mit Zurrmitteln auf die Ladefläche gepresst, 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Was ist aus Gründen der Fahrsicherheit besser?**
 
 **Optionen:**
@@ -30907,6 +33833,8 @@ Da du das Gewicht bei einem Lkw mit Anhänger auf den vorderen Teil (Lkw) laden 
 #### Frage 2.2.22-302
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, L, T
 
 **Was müssen Sie beachten, wenn Sie Tiere auf einem Anhänger transportieren wollen?**
 
@@ -30928,6 +33856,8 @@ Du musst bei einem Tiertransport darauf achten, dass die zulässige Gesamtmasse 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, L, T
+
 **Wann muss ein angebautes Arbeitsgerät mit rot-weißen Warntafeln kenntlich gemacht werden?**
 
 **Optionen:**
@@ -30948,6 +33878,8 @@ Eine rot-weiße Warntafel ist dann anzubringen, wenn es nach hinten um mehr als 
 #### Frage 2.2.22-305
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Welche Pflichten haben Sie, wenn Sie ein beladenes Fahrzeug führen?**
 
@@ -30972,6 +33904,8 @@ Wenn du ein beladenes Fahrzeug führst, bist du dafür verantwortlich, dass durc
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was tritt ein, wenn Sie keine gut anliegende Kleidung tragen?**
 
 **Optionen:**
@@ -30991,6 +33925,8 @@ Kleidung, die nicht locker ist und nicht eng anliegt, flattert mit hoher Geschwi
 #### Frage 2.2.23-003
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Was müssen Sie vor Antritt der Fahrt tun?**
 
@@ -31013,6 +33949,8 @@ Alle drei sind richtig. Stellen Sie sicher, dass alles gut an Ihrem Motorrad bef
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Warum ist das Tragen eines geeigneten Schutzhelms vorgeschrieben?**
 
 **Optionen:**
@@ -31031,6 +33969,8 @@ Ein Helm ist erforderlich, um Ihren Kopf vor Verletzungen und möglichen Todesf�
 #### Frage 2.2.23-009
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Welche Gegenstände gehören zur Sicherheitsausrüstung für Motorradfahrer?**
 
@@ -31052,6 +33992,8 @@ Eine geeignete Jacke, Hose und Stiefel gehören zu den Sicherheitsausrüstungen,
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Warum soll man beim Motorradfahren geeignete Stiefel tragen?**
 
 **Optionen:**
@@ -31071,6 +34013,8 @@ Stiefel reduzieren den Luftwiderstand nicht. Geeignete Stiefel schützen Sie vor
 #### Frage 2.2.23-014
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Welche Motorradbekleidung erhöht die optische Wahrnehmbarkeit?**
 
@@ -31092,6 +34036,8 @@ Um Ihre Sichtbarkeit zu erhöhen, tragen Sie helle und kräftige Farben. Dunkle 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Warum sollen Sie die Bremsen im Stand regelmäßig kräftig betätigen?**
 
 **Optionen:**
@@ -31111,6 +34057,8 @@ Wenn Sie im Stillstand stehen, benutzen Sie Ihre Bremsen, um sicherzustellen, da
 #### Frage 2.2.23-018
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Welche Folgen hat ein stark zerkratztes Helmvisier?**
 
@@ -31132,6 +34080,8 @@ Ein stark zerkratztes Helmvisier beeinträchtigt Ihre Sicht und lässt das Licht
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was ist bei der Kontrolle des Bremslichts richtig?**
 
 **Optionen:**
@@ -31150,6 +34100,8 @@ Stellen Sie sicher, dass die Bremsleuchte für die Hand- und Fußbremse getrennt
 #### Frage 2.2.23-020
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Wo dürfen Sie Gepäck am Motorrad unterbringen?**
 
@@ -31171,6 +34123,8 @@ Sie können Gepäck im Tankrucksack, in den Packtaschen (gleichmäßig rechts un
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Wie müssen Sie sich gegen Kopfverletzungen schützen?**
 
 **Optionen:**
@@ -31189,6 +34143,8 @@ Ein offiziell zugelassener Schutzhelm ist erforderlich, um Ihren Kopf vor Verlet
 #### Frage 2.2.23-026
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Was gilt für die Anbringung und Benutzung von Rückspiegeln an Motorrädern?**
 
@@ -31210,6 +34166,8 @@ Um Ihren Rückblickspiegel benutzen zu können, müssen Sie sicherstellen, dass 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** AM, Mofa
+
 **Was ist vorgeschrieben, wenn die Haftpflichtversicherung Ihres Fahrzeugs erloschen ist?**
 
 **Optionen:**
@@ -31227,6 +34185,8 @@ Es ist erforderlich, eine Versicherung für Ihr Fahrzeug zu haben, ohne die Sie 
 #### Frage 2.2.23-031
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, L, T, A80
 
 **Was kann dazu führen, dass Sie Warnsignale überhören?**
 
@@ -31249,6 +34209,8 @@ Durch andere Geräusche wie ein lautes Radio oder einen lauten Auspuff können K
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, L, T, A80
+
 **Sie haben Ihr zugelassenes Fahrzeug verkauft. Der Käufer hat bezahlt. Was müssen Sie tun?**
 
 **Optionen:**
@@ -31268,6 +34230,8 @@ Wenn Sie Ihr zugelassenes Fahrzeug verkauft und die Bezahlung erhalten haben, ge
 #### Frage 2.2.23-034
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, L, T, A80
 
 **Was ist bei amtlichen Kennzeichen wichtig?**
 
@@ -31290,6 +34254,8 @@ Bei amtlichen Kennzeichen ist wichtig, dass sie an der vorgeschriebenen Stelle a
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, L, T, A80
+
 **Was ist vorgeschrieben, wenn die Haftpflichtversicherung Ihres Fahrzeugs erloschen ist?**
 
 **Optionen:**
@@ -31310,6 +34276,8 @@ Ohne eine gültige Haftpflichtversicherung ist ein Kfz nicht fahrbereit und darf
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, L, T, A80
+
 **Was dürfen Sie am amtlichen Kennzeichen verändern?**
 
 **Optionen:**
@@ -31328,6 +34296,8 @@ Ein amtliches Kennzeichen ist eine amtliche Urkunde, die in keiner Weise veränd
 #### Frage 2.2.23-038
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Was müssen Sie als Zweiradfahrer vor Antritt der Fahrt überprüfen?**
 
@@ -31349,6 +34319,8 @@ Vergewissern Sie sich vor Reiseantritt, dass Ihre Lampen und Reifen in gutem Zus
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Was versteht man unter dem Begriff „Toter Winkel“?**
 
 **Optionen:**
@@ -31367,6 +34339,8 @@ In toten Winkeln kannst du andere Verkehrsteilnehmer nicht sehen. Bereiche um da
 #### Frage 2.2.23-040
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie fahren einen Pkw und während der Fahrt klingelt Ihr Mobiltelefon. Was ist hierbei zu beachten, wenn Sie keine Freisprechanlage haben?**
 
@@ -31388,6 +34362,8 @@ Sie müssen es aushalten, das Mobiltelefon weiter klingeln zu lassen. Das Aufneh
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was kann die Folge sein, wenn Ihr Beifahrer (Sozius) auf dem Motorrad keine auffällige Kleidung trägt?**
 
 **Optionen:**
@@ -31406,6 +34382,8 @@ Wenn Ihr Passagier keine gut sichtbare Kleidung trägt (auffällige Kleidung), w
 #### Frage 2.2.23-043
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Warum können Krafträder trotz eingeschalteten Abblendlichtes übersehen werden?**
 
@@ -31428,6 +34406,8 @@ Motorräder sind leicht zu übersehen, weil sie klein sind, und noch mehr, wenn 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was ist zu erwarten, wenn Sie beim Motorradfahren keine auffällige Motorrad-Sicherheitsbekleidung tragen?**
 
 **Optionen:**
@@ -31448,6 +34428,8 @@ Wenn Sie keine gut sichtbare Kleidung (auffällige Kleidung) tragen, sind Sie f�
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Weshalb ist das Tragen einer Motorrad-Sicherheitsbekleidung während der Fahrt dringend geboten?**
 
 **Optionen:**
@@ -31466,6 +34448,8 @@ Motorradschutzkleidung schützt Sie bei einem Unfall vor Verletzungen. Es reduzi
 #### Frage 2.2.23-046
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Welche Aussagen treffen auf den Begriff „Toter Winkel“ zu?**
 
@@ -31487,6 +34471,8 @@ Im toten Winkel kannst du auch mittels Spiegel nichts sehen. Besonders für Radf
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Welche Beleuchtungen sind zulässig, damit Sie am Tage im Straßenverkehr möglichst frühzeitig gesehen werden?**
 
 **Optionen:**
@@ -31506,6 +34492,8 @@ Tagsüber dürfen Sie, um sichtbar zu sein, Abblendlicht und Tagfahrlicht benutz
 #### Frage 2.2.23-048
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Sie möchten aus einer Parklücke am Fahrbahnrand ausfahren. Worauf müssen Sie besonders achten?**
 
@@ -31528,6 +34516,8 @@ Du solltest besonders auf spielende Kinder am Fahrzeug achten. Auf das mögliche
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Warum ist das Fahren ohne Motorradschutzkleidung riskant?**
 
 **Optionen:**
@@ -31549,6 +34539,8 @@ Das Tragen von Motorradschutzkleidung verringert das Verletzungsrisiko bei Unfä
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Warum sollen Sie Motorradschutzkleidung tragen, die farblich auffällig ist?**
 
 **Optionen:**
@@ -31569,6 +34561,8 @@ Wenn Sie gut sichtbare Farben tragen, sind Sie leichter zu sehen und verringern 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Was sollten Sie tun, damit Sie als Motorradfahrer tagsüber besser gesehen werden?**
 
 **Optionen:**
@@ -31588,6 +34582,8 @@ Um tagsüber besser sichtbar zu sein und das Unfallrisiko zu verringern, sollten
 #### Frage 2.2.23-052
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Sie möchten innerhalb einer geschlossenen Ortschaft nach rechts abbiegen. Welche Gefahren können entstehen?**
 
@@ -31610,6 +34606,8 @@ Um tagsüber besser sichtbar zu sein und das Unfallrisiko zu verringern, sollten
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, L, T, A80
+
 **Welche Änderung müssen Sie als Fahrzeughalter der zuständigen Zulassungsbehörde unverzüglich melden?**
 
 **Optionen:**
@@ -31629,6 +34627,8 @@ Wenn Sie Ihren Namen oder Ihren Wohnort ändern, müssen Sie das der Zulassungsb
 #### Frage 2.2.23-054
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, L, T, A80
 
 **Sie sind neuer Halter eines zugelassenen Fahrzeugs. Was müssen Sie tun?**
 
@@ -31650,6 +34650,8 @@ Bei einem Halterwechsel müssen Sie keine Hauptuntersuchung durchführen lassen,
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Sie sollten Ihr Helmvisier regelmäßig kontrollieren. Warum sollten Sie es bei Kratzern austauschen?**
 
 **Optionen:**
@@ -31669,6 +34671,8 @@ Ein stark zerkratztes Helmvisier vermindert Ihre Sicht und lässt das Licht inte
 #### Frage 2.2.23-056
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Womit müssen Sie rechnen, wenn Sie beim Motorradfahren keine geeignete Motorradschutzkleidung tragen?**
 
@@ -31691,6 +34695,8 @@ Das Tragen von Motorradschutzkleidung verringert das Verletzungsrisiko bei Unfä
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Sie möchten Ihr am Kraftrad befestigtes Navigationsgerät nutzen. Was sollten Sie beachten?**
 
 **Optionen:**
@@ -31712,6 +34718,8 @@ Um dich voll auf die Fahrt konzentrieren zu können, solltest du dein am Kraftra
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was gehört zur geeigneten Schutzkleidung für Kraftradfahrer?**
 
 **Optionen:**
@@ -31731,6 +34739,8 @@ Die Motorradschutzkleidung besteht aus: Schuhen, Handschuhen, Jacke, Hose und He
 #### Frage 2.2.23-059
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Warum sollten Sie beim Fahren mit einem Kraftrad geeignete Motorradstiefel tragen?**
 
@@ -31753,6 +34763,8 @@ Beim umkippen kann der Fuß verletzt werden. Die Fahrzeugbedienung kann unter sc
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Warum sollten Sie ein zerkratztes Helmvisier ersetzen?**
 
 **Optionen:**
@@ -31773,6 +34785,8 @@ Sie werden stark geblendet durch anderes Licht und die Sicht ist ebenfalls einge
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Wie müssen Sie sich gegen Kopfverletzungen schützen?**
 
 **Optionen:**
@@ -31791,6 +34805,8 @@ Der Motorradhelm schützt Sie vor Kopfverletzungen, nach einem Unfall müssen Si
 #### Frage 2.2.23-062
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Wie wird die ordnungsgemäße Funktion des Rückspiegels am Zweirad sichergestellt?**
 
@@ -31811,6 +34827,8 @@ Der Rückspiegel am Zweirad muss richtig auf den Fahrer eingestellt sein - so, d
 #### Frage 2.2.23-063
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, L, A80
 
 **Was kann während der Fahrt dazu führen, dass Sie Warnsignale überhören?**
 
@@ -31833,6 +34851,8 @@ Auch Ablenkungen durch Telefonieren können dazu führen, dass du Warnsignale zu
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Welchen Vorteil bietet ein Integralhelm beim Führen eines Kraftrads?**
 
 **Optionen:**
@@ -31854,6 +34874,8 @@ Ein Integralhelm bietet mehr Schutz als andere Helmmodelle, da Integralhelme, au
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Was sollten Sie vor Fahrtantritt an Ihrem Zweirad kontrollieren?**
 
 **Optionen:**
@@ -31873,6 +34895,8 @@ Du solltest vor jedem Fahrtantritt kontrollieren, ob die Beleuchtung deines Zwei
 #### Frage 2.2.23-066
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Wodurch sind Sie auf dem Motorrad für andere Verkehrsteilnehmer besser sichtbar?**
 
@@ -31894,6 +34918,8 @@ Wenn du auffällige Kleidung trägst, zum Beispiel eine Motorradjacke in knallig
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Welche Anforderung sollten Motorradstiefel erfüllen?**
 
 **Optionen:**
@@ -31914,6 +34940,8 @@ Ebenso solltest du darauf achten, dass die Stiefel rutschfeste Sohlen haben, die
 #### Frage 2.2.23-068
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Welche Anforderung sollten Motorradhandschuhe erfüllen?**
 
@@ -31938,6 +34966,8 @@ Wähle Motorradhandschuhe aus abriebfesten Materialien wie Leder oder speziellen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Mofa
+
 **Sie fahren ein Mofa mit einer bauartbedingten Höchstgeschwindigkeit von 25 km/h. Wie müssen Sie sich vor Kopfverletzungen schützen?**
 
 **Optionen:**
@@ -31956,6 +34986,8 @@ Da das Mofa über 20 km/h fahren kann, musst du einen geeigneten Motorradhelm tr
 #### Frage 2.2.23-070
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Was sollten Sie beim Kauf von Motorradjacke und Motorradhose beachten?**
 
@@ -31978,6 +35010,8 @@ Ebenso solltest du darauf achten, dass die Protektoren genau an den Stellen sitz
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was ist bei Fahrzeugen mit Planen zu beachten?**
 
 **Optionen:**
@@ -31997,6 +35031,8 @@ Bei Fahrzeugen mit Plane müssen Sie darauf achten, dass die Sicht nach hinten n
 #### Frage 2.2.23-103
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was müssen Sie einstellen, wenn Sie ein fremdes Fahrzeug fahren wollen?**
 
@@ -32018,6 +35054,8 @@ Um sicher mit einem fremden Fahrzeug fahren zu können, müssen Sie die fahrersp
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie sichert man einen Pkw mit Schaltgetriebe am Berg gegen Wegrollen?**
 
 **Optionen:**
@@ -32037,6 +35075,8 @@ Einen Pkw mit Schaltgetriebe sichern Sie gegen Wegrollen, indem Sie einen kleine
 #### Frage 2.2.23-105
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wie sichert man einen Pkw mit automatischer Kraftübertragung gegen Wegrollen?**
 
@@ -32058,6 +35098,8 @@ Ein Automatikfahrzeug sichern Sie gegen Wegrollen, indem Sie die Feststellbremse
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie haben Sie sich beim Rückwärtsfahren zu verhalten?**
 
 **Optionen:**
@@ -32077,6 +35119,8 @@ Sie dürfen als Kfz-FahrerIn nur sehr langsam und unter größter Vorsicht rück
 #### Frage 2.2.23-107
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, L, T
 
 **Wodurch kann Ihre Sicht beeinträchtigt werden?**
 
@@ -32099,6 +35143,8 @@ Ihre Sicht kann beeinträchtigt werden, wenn die Fensterscheibe verschmutzt ist,
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Ein auflaufgebremster Wohnanhänger mit einer Achse wird im Gefälle abgestellt. Wie ist er gegen Wegrollen zu sichern?**
 
 **Optionen:**
@@ -32118,6 +35164,8 @@ Um Ihren Wohnanhänger vor dem Wegrollen zu schützen, müssen Sie die Unterlegk
 #### Frage 2.2.23-114
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Sie möchten rückwärtsfahren. Worauf müssen Sie achten?**
 
@@ -32139,6 +35187,8 @@ Um andere nicht zu gefährden, solltest du nach hinten überstehende Ladung ber�
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, L, T, C1E
+
 **Sie haben an Ihrer Zugmaschine Arbeitsgeräte angebaut. Was müssen Sie tun, wenn Sie damit auf öffentlichen Straßen fahren möchten?**
 
 **Optionen:**
@@ -32159,6 +35209,8 @@ Du musst dich, nach dem Arbeitsgeräteanbau deiner Zugmaschine über die jeweili
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Sie möchten mit Ihrem Lkw rückwärts von einem Grundstück in eine Straße einbiegen. Wie müssen Sie sich verhalten?**
 
 **Optionen:**
@@ -32178,6 +35230,8 @@ Du musst dich beim rückwärtsfahren erfoderlichenfalls einweisen lassen um eine
 #### Frage 2.2.23-117
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, CE, D, D1, L, T, C1E, D1E, DE
 
 **Ihr Fahrzeug ist eingeschneit. Was müssen Sie tun, bevor Sie losfahren?**
 
@@ -32200,6 +35254,8 @@ Eis und Schnee sollte von allen genannten Stellen entfernt werden. Schnee auf de
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, CE, D, D1, L, T, C1E, D1E, DE
+
 **Ihr Fahrzeug ist eingeschneit. Was müssen Sie tun, bevor Sie losfahren?**
 
 **Optionen:**
@@ -32220,6 +35276,8 @@ Den Motor laufen zu lassen ist weder umweltfreundlich, noch gut für den Kraftst
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Was ist bei der Einstellung von Kopfstützen im Fahrzeug zu beachten?**
 
 **Optionen:**
@@ -32239,6 +35297,8 @@ Durch korrekt eingestellte Kopfstützen vermindert der/die Kfz-FahrerIn die Kraf
 #### Frage 2.2.23-120
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1, L, T
 
 **Wann sollten Sie trotz vorhandener Freisprecheinrichtung auf das Telefonieren verzichten?**
 
@@ -32261,6 +35321,8 @@ Solltest du trotz vorhandener Freisprecheinrichtung ein schwieriges Gespräch ha
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T
+
 **Sie möchten Ihr im Kraftfahrzeug befestigtes Smartphone als Navigationsgerät nutzen. Was sollten Sie beachten?**
 
 **Optionen:**
@@ -32282,6 +35344,8 @@ Um dich abzusichern, solltest du dein Fahrtziel bei stehendem Fahrzeug eingeben 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T
+
 **Während der Fahrt bekommen Sie einen Anruf. Was müssen Sie beachten?**
 
 **Optionen:**
@@ -32301,6 +35365,8 @@ Die Telefonnutzung ist untersagt wenn es Sie vom Verkehrsgeschehen zu stark able
 #### Frage 2.2.23-123
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, C, C1, D, D1, L, T
 
 **Sie planen eine längere Fahrt mit Ihrem Kraftfahrzeug. Was sollten Sie vor Fahrtantritt am Kraftfahrzeug prüfen, um sich selbst und andere nicht zu gefährden?**
 
@@ -32326,6 +35392,8 @@ Eine freie Sicht sollte bei jeder Fahrt sichergestellt werden. Dies beinhaltet n
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Was ist die Hauptfunktion der Kopfstütze im Pkw?**
 
 **Optionen:**
@@ -32344,6 +35412,8 @@ Die Kopfstütze vermindert bei starkem Bremsen oder Unfällen die Krafteinwirkun
 #### Frage 2.2.23-125
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1, L, T
 
 **Während der Fahrt beschlägt die Frontscheibe Ihres Fahrzeugs von innen. Wie können Sie dem entgegenwirken?**
 
@@ -32364,6 +35434,8 @@ Indem du die Luftzirkulation an der Scheibe erhöhst, kannst du dem Beschlagen d
 #### Frage 2.2.23-126
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, CE, D, D1, L, T
 
 **Ihr Kraftfahrzeug ist eingeschneit. Wie müssen Sie sich vor Fahrtantritt verhalten?**
 
@@ -32387,6 +35459,8 @@ Achte auch darauf, dass kein Schnee deine Nummernschilder verdeckt. Falls die Nu
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, CE, D, D1, L, T
+
 **Welche Teile Ihres Kraftfahrzeugs müssen Sie vor Fahrtantritt vollständig von Schnee und Eis befreien?**
 
 **Optionen:**
@@ -32407,6 +35481,8 @@ Bevor du losfährst, musst du den Schnee vom gesamten Fahrzeug entfernen, da die
 #### Frage 2.2.23-128
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, CE, D, D1
 
 **Sie möchten bei winterlichen Witterungsverhältnissen eine Fahrt antreten. Was müssen Sie beachten?**
 
@@ -32429,6 +35505,8 @@ Bevor du losfährst, musst du den Schnee vom gesamten Fahrzeug entfernen, da die
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Was ist zu tun, um einen zweiachsigen Lkw in starkem Gefälle gegen Wegrollen zu sichern?**
 
 **Optionen:**
@@ -32448,6 +35526,8 @@ Gegen das Wegrollen in starkem Gefälle, solltest du die Feststellbremse anziehe
 #### Frage 2.2.23-202
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Was müssen Sie tun, um einen zweiachsigen Bus im Gefälle gegen Wegrollen zu sichern?**
 
@@ -32469,6 +35549,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Wie kann die Gefährdung, die vom toten Winkel ausgeht, reduziert werden?**
 
 **Optionen:**
@@ -32489,6 +35571,8 @@ Eine Reduzierung des toten Winkels kann durch Beobachten des rückwärtigen Verk
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Wie sichert man den Verkehrsraum hinter dem Fahrzeug beim Rückwärtsfahren von einem Grundstück in eine Straße ab?**
 
 **Optionen:**
@@ -32507,6 +35591,8 @@ Du kannst durch Sicherungsposten den Verkehrsraum absichern. Hupen oder das Eins
 #### Frage 2.2.23-214
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Was ist bei der Beladung Ihres Fahrzeugs mit losem Schüttgut zu beachten?**
 
@@ -32527,6 +35613,8 @@ Bei der Beladung mit losem Schüttgut muss dies abgedeckt werden, wenn es währe
 #### Frage 2.2.23-215
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Sie möchten den Aufbau Ihres Fahrzeugs enteisen. Welches Hilfsmittel ist dazu geeignet?**
 
@@ -32549,6 +35637,8 @@ Du kannst alle 3 nutzen. Enteisungsgerät, Enteisungsbühne oder auch eine Entei
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, CE, D, D1, L, T, C1E, D1E, DE
+
 **Nach einem längeren Aufenthalt möchten Sie weiterfahren. Was ist zu tun?**
 
 **Optionen:**
@@ -32569,6 +35659,8 @@ Du kannst alle 3 nutzen. Enteisungsgerät, Enteisungsbühne oder auch eine Entei
 #### Frage 2.2.23-217
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, L, T, C1E
 
 **Sie haben ein weit nach vorn reichendes Frontanbaugerät an Ihrem Kraftfahrzeug montiert. Was müssen Sie beachten?**
 
@@ -32591,6 +35683,8 @@ Wegen deines weit nach vorn reichenden Frontanbaugerätes musst du während der 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1
+
 **Sie möchten nach einer Pause auf einer Rastanlage die Fahrt fortsetzen. Was sollten Sie vor der Weiterfahrt prüfen?**
 
 **Optionen:**
@@ -32611,6 +35705,8 @@ Nach Beenden einer Pause solltest du sicherstellen, dass sich keine losen Gegens
 #### Frage 2.2.23-219
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE
 
 **Wie können Sie den Aufbau Ihres Fahrzeugs von Schnee und Eis befreien?**
 
@@ -32633,6 +35729,8 @@ Beim Enteisen des Fahrzeugs ist es essenziell, geeignete Hilfsmittel wie Enteisu
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, L, T
+
 **Was müssen Sie hinsichtlich der Beleuchtung beachten, wenn Sie einen Anhänger mitführen wollen?**
 
 **Optionen:**
@@ -32652,6 +35750,8 @@ Hinsichtlich der Beleuchtung, solltest du einen Anhänger mitführen, solltest d
 #### Frage 2.2.23-302
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Die Plane Ihres Anhängers ist vereist. Was kann passieren, wenn Sie mit dem Anhänger eine Fahrt beginnen?**
 
@@ -32674,6 +35774,8 @@ Wenn die Plane deines Anhängers vereist ist, kann es passieren, dass durch hera
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Ein auflaufgebremster Anhänger mit zwei Achsen und Drehschemellenkung wird im Gefälle abgestellt. Wie ist er gegen Wegrollen zu sichern?**
 
 **Optionen:**
@@ -32693,6 +35795,8 @@ Demnächst...
 #### Frage 2.2.23-402
 
 **Punkte:** 2 Punkte
+
+**Klassen:** L, T
 
 **Sie haben an Ihre Zugmaschine Zwillingsreifen montiert. Was müssen Sie beachten?**
 
@@ -32714,6 +35818,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Mofa
+
 **In welchen Fällen dürfen Sie einen Radfahrer mitziehen?**
 
 **Optionen:**
@@ -32733,6 +35839,8 @@ Das Mitziehen von Radfahrern ist sowohl für Sie als auch für den Radfahrer gef
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Mofa
+
 **Wie müssen Sie sich als Mofafahrer (kein Leichtmofa) gegen Kopfverletzungen schützen?**
 
 **Optionen:**
@@ -32751,6 +35859,8 @@ Um Ihren Kopf vor Verletzungen zu schützen, ist ein entsprechender Helm erforde
 #### Frage 2.2.23-406
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wer darf ein Mobiltelefon ohne Freisprecheinrichtung während der Fahrt nicht benutzen?**
 
@@ -32773,6 +35883,8 @@ Kfz-FahrerInnen dürfen Mobil- und Autotelefone beim Fahren nur mit Freisprechan
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, L, T, C1E
+
 **Sie möchten an Ihrer Zugmaschine Anbaugeräte mitführen. In welchen Fällen müssen Sie besonders umsichtig sein?**
 
 **Optionen:**
@@ -32794,6 +35906,8 @@ Besonders umsichtig solltest du sein, wenn die Anbaugeräte deines Fahrzeugs wei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wodurch werden Sie auf dem Motorrad für andere Verkehrsteilnehmer früher und besser sichtbar?**
 
 **Optionen:**
@@ -32813,6 +35927,8 @@ Das Tragen von gut sichtbarer Kleidung (auffällige Kleidung) und retroreflektie
 #### Frage 2.2.23-409
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Welche Gegenstände gehören zu Ihrer Schutzbekleidung beim Motorradfahren?**
 
@@ -32834,6 +35950,8 @@ Das Tragen von gut sichtbarer Kleidung (auffällige Kleidung) und retroreflektie
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Welche Gegenstände dienen der Sicherheit beim Motorradfahren?**
 
 **Optionen:**
@@ -32853,6 +35971,8 @@ Spezielle Motorradbekleidung (z.B. gut sichtbare, reflektierende Ausrüstung bei
 #### Frage 2.2.23-411
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie haben Ihr Motorrad mit Tankrucksack und Seitenkoffern ausgerüstet. Worauf müssen Sie achten?**
 
@@ -32875,6 +35995,8 @@ Achten Sie bei der Beladung Ihres Motorrads mit Taschen und Packtaschen darauf, 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** L, T
+
 **Sie möchten mit Ihrer landwirtschaftlichen Zugmaschine mit angehängten Anbaugeräten fahren. Was müssen Sie vor der Fahrt beachten?**
 
 **Optionen:**
@@ -32894,6 +36016,8 @@ Bringen Sie die Anbaugeräte in Transportstellung und sichern Sie diese um keine
 #### Frage 2.2.23-413
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Sie fahren eine landwirtschaftliche Zugmaschine mit Anbaugerät. Nach der Feldarbeit möchten Sie auf eine öffentliche Straße einfahren. Was müssen Sie vorher überprüfen?**
 
@@ -32915,6 +36039,8 @@ Du musst die Transportstellung des Anbaugeräts für die Straßenfahrt, sowie di
 #### Frage 2.2.23-414
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Sie fahren einen Traktor mit angehängtem Anbaugerät. Nach der Feldarbeit möchten Sie eine öffentliche Straße befahren. Was sollten Sie zuvor beachten?**
 
@@ -32940,6 +36066,8 @@ Bevor du mit einem Traktor mit angehängtem Anbaugerät auf eine Straße fährst
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Sie kommen unerwartet auf einem Fußgängerüberweg zum Stehen. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -32962,6 +36090,8 @@ Um Gefahrenlagen für Fußgänger zu vermeiden, müssen Fußgängerüberwege fre
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Was kann die Teilnahme an illegalen Straßenrennen zur Folge haben?**
 
 **Optionen:**
@@ -32983,6 +36113,8 @@ Die Teilnahme an illegalen Straßenrennen kann das Entstehen schwerer Verkehrsun
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Ein 2,50 m breites Kraftfahrzeug wird mit sperrigen Gütern so beladen, dass die Ladung seitlich um 50 cm über die Begrenzungs- und Schlussleuchten hinausragt. Was ist für den Transport zu beachten?**
 
 **Optionen:**
@@ -33003,6 +36135,8 @@ Wenn deine Ladung 50 cm seitlich über die Begrenzungs- und Schlussleuchten hina
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1E
+
 **Eine 3 m breite Baumaschine soll im öffentlichen Straßenverkehr transportiert werden. Unter welcher Voraussetzung dürfen Sie diesen Transport durchführen?**
 
 **Optionen:**
@@ -33022,6 +36156,8 @@ Mit deiner 3 m breiten Baumaschine im öffentlichen Straßenverkehr musst du dei
 #### Frage 2.2.29-205
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1E
 
 **Ein Fahrzeug überschreitet die gesetzlichen Grenzwerte für Gesamtmassen und Abmessungen. Was gilt für den Betrieb dieses Fahrzeugs auf öffentlichen Straßen?**
 
@@ -33046,6 +36182,8 @@ Mit einer speziellen Genehmigung kannst du mit einem Begleitfahrzeug welches vor
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Auf welche Zeit erstreckt sich das Fahrverbot an Sonn- und Feiertagen?**
 
 **Optionen:**
@@ -33061,6 +36199,8 @@ Das Fahrverbot, für Lkw über 7,5t zul. Gesamtmasse sowie für alle Lkw ungeach
 #### Frage 2.2.30-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Für welche Fahrzeuge gilt das Fahrverbot an Sonn- und Feiertagen?**
 
@@ -33082,6 +36222,8 @@ Lkw über 7,5 Tonnen und Lkw mit Anhängern dürfen an Sonn- und Feiertagen nich
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1
+
 **Für welche Kraftfahrzeuge gilt bei einer geschäftsmäßigen oder entgeltlichen Beförderung von Gütern das Fahrverbot an Sonn- und Feiertagen?**
 
 **Optionen:**
@@ -33101,6 +36243,8 @@ Das Fahrverbot an Sonn- und Feiertagen gilt für die Klasse C, also Lkws mit Anh
 #### Frage 2.2.30-201
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE
 
 **Für welche Fahrzeuge zur geschäftsmäßigen oder entgeltlichen Beförderung von Gütern gilt die Ferienreiseverordnung?**
 
@@ -33122,6 +36266,8 @@ Die Ferienreiseverordnung gilt für Lkws zur geschäftlichen oder entgeltlichen 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE
+
 **Wann gilt das Fahrverbot der Ferienreiseverordnung?**
 
 **Optionen:**
@@ -33138,6 +36284,8 @@ An allen Samstagen im Juli und August in der Zeit von 7 bis 20 Uhr gilt für dic
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, CE
+
 **Sie fahren einen Lkw mit 18 t zulässiger Gesamtmasse. Auf welche Zeit erstreckt sich das Fahrverbot an Sonn- und Feiertagen zur geschäftsmäßigen oder entgeltlichen Beförderung von Gütern?**
 
 **Optionen:**
@@ -33153,6 +36301,8 @@ Zur entgeltlichen Beförderung von Gütern oder geschäftsmäßigen Fahrten, gil
 #### Frage 2.2.30-204
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1
 
 **Sie möchten geschäftsmäßig oder entgeltlich Güter befördern. Für welches Kraftfahrzeug oder welche Fahrzeugkombination gilt die Ferienreiseverordnung?**
 
@@ -33177,6 +36327,8 @@ Die Ferienverordnung gilt für alle Lkw mit einer zulässigen Gesamtmasse über 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Sie fahren aus unbefestigtem Gelände (z. B. Acker, Baustelle) auf eine öffentliche Straße und verschmutzen diese erheblich. Wer ist für die Beseitigung dieses Verkehrshindernisses verantwortlich?**
 
 **Optionen:**
@@ -33195,6 +36347,8 @@ Wenn Sie eine Straße aufgrund der Ausfahrt aus einem unbefestigten Gelände erh
 #### Frage 2.2.32-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, L, T
 
 **Was müssen Sie tun, um eine Gefährdung anderer durch von Ihrem Fahrzeug gefallene Ausrüstungs- oder Ladungsteile zu verhindern?**
 
@@ -33216,6 +36370,8 @@ Sie müssen alle Gegenstände unverzüglich von der Fahrbahn entfernen, die heru
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, L, T, C1E
+
 **Sie haben mit Ihrem Fahrzeug die Fahrbahn erheblich verschmutzt, sodass der Verkehr gefährdet ist. Was müssen Sie tun?**
 
 **Optionen:**
@@ -33235,6 +36391,8 @@ Die nachfolgenden Verkehrsteilnehmer werden es dir danken, wenn du unverzüglich
 #### Frage 2.2.32-204
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, L, T, C1E
 
 **Was müssen Sie tun, wenn Sie mit Ihrem Fahrzeug eine Baustelle verlassen?**
 
@@ -33257,6 +36415,8 @@ Beim Verlassen einer Baustelle solltest du sicherstellen, dass keine Ladung heru
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, L, T
+
 **Wie müssen Sie sich verhalten, wenn Sie mit Ihrem Fahrzeug eine Baustelle verlassen?**
 
 **Optionen:**
@@ -33278,6 +36438,8 @@ Beim Verlassen einer Baustelle ist es wichtig, die Beleuchtungseinrichtungen zu 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Was müssen Sie tun, um Fahrbahnverschmutzungen zu vermeiden?**
 
 **Optionen:**
@@ -33298,6 +36460,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Bei Fahrten mit Ihrem landwirtschaftlichen Fahrzeug war eine Verschmutzung der Fahrbahn nicht zu vermeiden. Was müssen Sie tun?**
 
 **Optionen:**
@@ -33317,6 +36481,8 @@ Demnächst...
 #### Frage 2.2.32-403
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Sie haben mit Ihrem landwirtschaftlichen Fahrzeug öffentlichen Verkehrsraum verschmutzt. Der Verkehr wird dadurch gefährdet oder erschwert. Was müssen Sie tun?**
 
@@ -33341,6 +36507,8 @@ Bereinigen Sie den Bereich und markieren Sie ihn sichtbar um eine Gefährdung au
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
+
 **Wie verhalten Sie sich in dieser Situation richtig?**
 
 ![Question Image](images/2_2_34-001-M.png)
@@ -33363,6 +36531,8 @@ Die Unfallstelle ist bereits gesichert und die Polizei und Krankenwagen sind vor
 #### Frage 2.2.34-002-M
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -33388,6 +36558,8 @@ Auf dem rechten Fahrstreifen gab es einen Unfall und Sie fahren auf die noch ung
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie verhalten Sie sich jetzt richtig?**
 
 ![Question Image](images/2_2_34-003-M.png)
@@ -33412,6 +36584,8 @@ Im Falle eines Unfalls sollten Sie immer auf Nummer sicher gehen und den Sicherh
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie hatten einen Wildunfall. Wie verhalten Sie sich jetzt richtig?**
 
 **Optionen:**
@@ -33433,6 +36607,8 @@ Du sollest die Polizei verständigen, deinen Unfall schildern und deinen genauen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Warum sollten Sie während der Fahrt stets den Europäischen Unfallbericht mitführen?**
 
 **Optionen:**
@@ -33452,6 +36628,8 @@ Der Europäische Unfallbericht sollte stets mitgeführt werden, da er die Unfall
 #### Frage 2.2.34-103
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Welche Funktion erfüllt das eCall-System im Falle eines schweren Unfalls?**
 
@@ -33474,6 +36652,8 @@ Alternativ können aber auch Fahrzeuginsassen ein SOS-Signal händisch auslösen
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **In welcher Situation ist eine manuelle Auslösung des eCall-Systems vorgesehen?**
 
 **Optionen:**
@@ -33494,6 +36674,8 @@ Das Notrufsystem kann auch bei einem dringenden medizinischen Problem manuell 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Sie haben auf der Autobahn mit Ihrem Lkw einen Unfall. In welcher Reihenfolge gehen Sie vor?**
 
 **Optionen:**
@@ -33512,6 +36694,8 @@ Bei einem Unfall mit deinem Lkw auf einer Autobahn, solltest du unverzüglich an
 #### Frage 2.2.34-203
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Ihre Fahrgäste informieren Sie bei einer Autobahnfahrt über Rauchentwicklung im Bus. Was müssen Sie tun?**
 
@@ -33533,6 +36717,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Bei einem Unfall stürzt Ihr Bus um und die Türen lassen sich nicht mehr öffnen. Was müssen Sie tun?**
 
 **Optionen:**
@@ -33553,6 +36739,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Sie werden bei Nebel auf der Autobahn in einen Massenunfall verwickelt. Der Bus wird dabei von anderen Fahrzeugen eingekeilt. Was müssen Sie tun?**
 
 **Optionen:**
@@ -33572,6 +36760,8 @@ Demnächst...
 #### Frage 2.2.34-206
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Sie müssen wegen einer Panne auf dem rechten Seitenstreifen einer Autobahn anhalten. Was müssen Sie tun?**
 
@@ -33594,6 +36784,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Wer ist Beteiligter an einem Verkehrsunfall?**
 
 **Optionen:**
@@ -33614,6 +36806,8 @@ Ein Beteiligter bei einem Verkehrsunfall kann eine Person sein, deren Verhalten 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Muss der an einem Unfall Beteiligte sein Fahrzeug beiseite fahren?**
 
 **Optionen:**
@@ -33632,6 +36826,8 @@ Ein am Unfall Beteiligter sollte bei geringfügigem Schaden, sein Fahrzeug beise
 #### Frage 2.2.34-210
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1
 
 **Sie sind an einem Verkehrsunfall beteiligt. Damit die Fahrgäste nicht gefährdet werden, müssen diese den Bus verlassen. Die Türen Ihres Busses lassen sich jedoch nicht mehr öffnen. Wie müssen Sie sich jetzt verhalten?**
 
@@ -33654,6 +36850,8 @@ Fordere die Fahrgäste auf, das Fahrzeug über die ausgewiesenen Notausgänge zu
 #### Frage 2.2.34-211
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1
 
 **Sie sind mit Ihrem Bus auf der Autobahn an einem Verkehrsunfall beteiligt. Die Fahrgäste müssen den Bus verlassen. Wie verhalten Sie sich richtig?**
 
@@ -33678,6 +36876,8 @@ Du solltest als Erstes die Fahrgäste beruhigen und über die Situation informie
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, B, T, A80
+
 **Welche Bedeutung haben diese Zeichen für Sie?**
 
 ![Question Image](images/2_2_37-001-B.png)
@@ -33700,6 +36900,8 @@ Diese Dauerlichtzeichen können die Fahrstreifen entweder freigeben oder sperren
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Sie fahren mit ungefähr 40 km/h. Etwa 10 m vor Ihnen wechselt die Ampel von „Grün“ auf „Gelb“. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -33718,6 +36920,8 @@ Bei gefahrenen 40 km/h beträgt der Bremsweg nach der Faustformel 28 Meter. Selb
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Sie fahren mit ungefähr 40 km/h. Etwa 40 m vor Ihnen wechselt die Ampel von „Grün“ auf „Gelb“. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -33735,6 +36939,8 @@ Gemäß der Faustformel kommt Ihr Pkw bei einer Geschwindigkeit von 40 km/h nach
 #### Frage 2.2.37-004
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Sie nähern sich einer Ampel, die schon länger „Grün“ zeigt. Wie verhalten Sie sich?**
 
@@ -33756,6 +36962,8 @@ Da die Ampel schon länger auf Grün steht, kann sie jeden Moment umschalten. Fa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Die Ampel hat gerade auf "Gelb" gewechselt. Wie verhalten Sie sich als Linksabbieger?**
 
 ![Question Image](images/2_2_37-006.png)
@@ -33775,6 +36983,8 @@ Das gelbe Licht an einer Ampel zeigt an, dass vor der Kreuzung gewartet werden s
 #### Frage 2.2.37-007
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
 
 **Was gilt bei Dauerlichtzeichen?**
 
@@ -33797,6 +37007,8 @@ Die Dauerlichtzeichen (über dem Fahrstreifen oben angebracht) sperren den Fahrs
 #### Frage 2.2.37-008
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **Was bedeuten diese Dauerlichtzeichen?**
 
@@ -33822,6 +37034,8 @@ Das Dauerlichtzeichen auf dem 1. (grün) Fahrstreifen beudeutet du darfst weiter
 #### Frage 2.2.38-101
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Von hinten nähert sich ein Fahrzeug mit eingeschaltetem blauen Blinklicht und Einsatzhorn. Wie verhalten Sie sich jetzt richtig?**
 
@@ -33851,6 +37065,8 @@ Dem Fahrzeug muss freie Durchfahrt ermöglicht werden. Daher musst du deine Gesc
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Wie verhalten Sie sich auf einer Autobahn bei diesem Verkehrszeichen?**
 
 ![Question Image](images/2_4_40-002.png)
@@ -33873,6 +37089,8 @@ Achtung Stau: Bei diesem Verkehrszeichen sollten Sie die Geschwindigkeit Ihres P
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, T, A80
+
 **Wie müssen Sie sich bei diesem Verkehrszeichen verhalten?**
 
 ![Question Image](images/2_4_40-003.png)
@@ -33894,6 +37112,8 @@ Das Verkehrszeichen kündigt eine gefährliche Linkskurve an. Verringern Sie Ihr
 #### Frage 2.4.40-004
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Wie verhalten Sie sich im Bereich dieser Gefahrstrecke?**
 
@@ -33918,6 +37138,8 @@ Achtung Wildwechsel: Dieses Schild wird auf solchen Strecken aufgestellt, auf de
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Worauf müssen Sie sich bei diesem Verkehrszeichen einstellen?**
 
 ![Question Image](images/2_4_40-005.png)
@@ -33939,6 +37161,8 @@ Dieses Verkehrszeichen weist auf einen Streckenabschnitt mit Seitenwind hin. Die
 #### Frage 2.4.40-006
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Worauf müssen Sie sich bei diesem Verkehrszeichen einstellen?**
 
@@ -33963,6 +37187,8 @@ Wenn Ihnen dieses Verkehrszeichen begegnet, müssen Sie sich auf starken Seitenw
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Womit sollten Sie bei diesem Verkehrszeichen rechnen?**
 
 ![Question Image](images/2_4_40-007.png)
@@ -33985,6 +37211,8 @@ Aufgrund von Bäumen können hohe Fahrzeuge plötzlich bremsen und ausweichen. H
 #### Frage 2.4.40-201
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, L, T
 
 **Womit müssen Sie bei diesem Verkehrszeichen rechnen?**
 
@@ -34012,6 +37240,8 @@ Alle 3 Antworten sind richtig. Bäume können in deinem Verkehrsraum liegen, Äs
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Mofa
+
 **Was ist ab diesem Verkehrszeichen richtig?**
 
 ![Question Image](images/2_4_41-001.png)
@@ -34032,6 +37262,8 @@ Dieses Zeichen zeigt an, dass keine Fahrzeuge fahren können, Sie können also n
 #### Frage 2.4.41-002
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1E
 
 **Worauf bezieht sich bei diesem Verkehrszeichen die Angabe „12 t“?**
 
@@ -34054,6 +37286,8 @@ Die Gesamtmasse (12 t) bezieht sich auf das Fahrzeug inklusiv Ladung.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, C1E, DE
+
 **Bei Ihrem Kraftfahrzeug von 10 m Länge ragt die Ladung 60 cm über die hintere Fahrzeugbegrenzung hinaus. Was gilt für Sie bei diesem Verkehrszeichen?**
 
 ![Question Image](images/2_4_41-003.png)
@@ -34074,6 +37308,8 @@ Die Länge deines Lkw beträgt wie beschrieben 10,6 m. (10 m Lkw + 60 cm der Lad
 #### Frage 2.4.41-004-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
 
 **Sie fahren auf dieser Autobahn. Wie verhalten Sie sich richtig?**
 
@@ -34096,6 +37332,8 @@ Der linke Fahrstreifen ist gesperrt. Ihn darfst du in keinem Fall befahren. Auch
 #### Frage 2.4.41-005-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wie verhalten Sie sich jetzt richtig?**
 
@@ -34120,6 +37358,8 @@ Du darfst beschleunigen, da du die Baustelle mit der Geschwindigkeitsbeschränku
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Was müssen Sie bei diesem Verkehrszeichen beachten?**
 
 ![Question Image](images/2_4_41-101.png)
@@ -34142,6 +37382,8 @@ Dieses Verkehrszeichen weist darauf hin, dass die nachfolgende Strecke nur mit S
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, L, T
+
 **Welches Verkehrszeichen bezieht sich auf die zulässige Gesamtmasse?**
 
 ![Question Image](images/2_4_41-102.png)
@@ -34160,6 +37402,8 @@ Handelt es sich um das Gewicht in Tonnen "t" im Hauptschild, so ist die tatsäch
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, L, T
+
 **Welches Verkehrszeichen bezieht sich auf die tatsächliche Masse?**
 
 ![Question Image](images/2_4_41-103.png)
@@ -34177,6 +37421,8 @@ Handelt es sich um das Gewicht in Tonnen "t" im Hauptschild, so ist die tatsäch
 #### Frage 2.4.41-104
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B, L, T
 
 **Für welche Fahrzeuge ist das Befahren einer so beschilderten Straße verboten?**
 
@@ -34199,6 +37445,8 @@ Das Verkehrszeichen verbietet das Befahren der Strecke für Fahrzeuge, die das i
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, L, T
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/2_4_41-105.png)
@@ -34220,6 +37468,8 @@ Das Verkehrszeichen „Verbot für Fahrzeuge über die angegebene Breite einschl
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Durch welche Fahrzeuge können bei Missachtung dieses Verkehrszeichens schwere Unfälle entstehen?**
 
 ![Question Image](images/2_4_41-106.png)
@@ -34240,6 +37490,8 @@ Dieses Verkehrszeichen richtet sich an Lkws und warnt vor höhenbegrenzten Durch
 #### Frage 2.4.41-107
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B, L, T
 
 **Mit welchen Fahrzeugen dürfen Sie eine so gekennzeichnete Straße nicht befahren?**
 
@@ -34263,6 +37515,8 @@ Der rote runde Kreis im Verkehrszeichen deutet immer auf ein Verbot hin. Fahrzeu
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T
+
 **Welche Fahrzeuge dürfen Sie bei diesem Verkehrszeichen überholen?**
 
 ![Question Image](images/2_4_41-108.png)
@@ -34284,6 +37538,8 @@ Du darfst nicht überholen, weder ein- noch mehrspurige Fahrzeuge.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Für welche Kraftfahrzeuge gilt das so gekennzeichnete Überholverbot?**
 
 ![Question Image](images/2_4_41-109.png)
@@ -34304,6 +37560,8 @@ Dieses Verkehrsschild schreibt ein Überholverbot für Kraftfahrzeuge mit einem 
 #### Frage 2.4.41-201
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, L, T, C1E
 
 **Welche Fahrzeuge dürfen eine so gekennzeichnete Straße nicht befahren?**
 
@@ -34327,6 +37585,8 @@ Die auf dem Schild gekennzeichnete Straße darst du nicht befahren, wenn du Zugm
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, L, T, C1E
+
 **Welche Fahrzeuge müssen hier den Mindestabstand von 70 m einhalten?**
 
 ![Question Image](images/2_4_41-202.png)
@@ -34348,6 +37608,8 @@ Sowohl Zugmaschinen als auch Lkw mit einer zulässigen Gesamtmasse von über 3,5
 #### Frage 2.4.41-203
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, L, T, C1E
 
 **Welche Fahrzeuge dürfen hier nicht überholen?**
 
@@ -34371,6 +37633,8 @@ Lkw und Lastzüge mit einer zulässigen Gesamtmasse über 3,5 t und Zugmaschinen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, T, C1E
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/2_4_41-204.png)
@@ -34391,6 +37655,8 @@ Dieses Verkehrszeichen weist auf ein Verbot für kennzeichnungspflichtige Kraftf
 #### Frage 2.4.41-205
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1E, D
 
 **Sie möchten in die so beschilderte Straße einfahren. Worauf bezieht sich die Angabe „12 t“?**
 
@@ -34413,6 +37679,8 @@ Dieses Schild bezieht sich auf die tatsächliche Masse des Fahrzeugs inklusive L
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C
+
 **Worauf bezieht sich die Angabe „12 t“ bei diesem Verkehrszeichen?**
 
 ![Question Image](images/2_4_41-206.png)
@@ -34430,6 +37698,8 @@ Dieses Schild bezieht sich auf die tatsächliche Masse des Fahrzeugs inklusive L
 #### Frage 2.4.41-207
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, CE
 
 **Sie fahren eine Fahrzeugkombination mit einer zulässigen Gesamtmasse von 30 t im Güterkraftverkehr. Unter welcher Voraussetzung dürfen Sie bei diesem Verkehrszeichen weiterfahren?**
 
@@ -34453,6 +37723,8 @@ Du darfst diese Straße nur befahren, wenn du eine Ladung an einen Anlieger (Bew
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C1, CE, D, D1
+
 **Sie fahren eine Fahrzeugkombination bestehend aus Kraftfahrzeug und Anhänger und möchten in die so beschilderte Straße einfahren. Worauf bezieht sich die Angabe „5,5 t“?**
 
 ![Question Image](images/2_4_41-208.png)
@@ -34473,6 +37745,8 @@ Das Verkehrszeichen bezieht sich auf die tatsächliche Masse jedes einzelnen Fah
 #### Frage 2.4.41-209
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, T
 
 **In welcher Situation müssen Sie bei diesem Verkehrszeichen einen Mindestabstand von 70 m zum Vorausfahrenden einhalten?**
 
@@ -34495,6 +37769,8 @@ Als Fahrer eines Lkw mit einer zulässigen Gesamtmasse über 3,5 Tonnen oder als
 #### Frage 2.4.41-401
 
 **Punkte:** 2 Punkte
+
+**Klassen:** L, T
 
 **Für welche Kraftfahrzeuge ist das Befahren einer so gekennzeichneten Straße verboten?**
 
@@ -34522,6 +37798,8 @@ Dies gilt nicht für Traktoren mit einer bauartbedingten Höchstgeschwindigkeit 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/2_4_42-001.png)
@@ -34542,6 +37820,8 @@ Dieses Verkehrsschild befindet sich am Ende der Autobahn.
 #### Frage 2.4.42-002
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -34564,6 +37844,8 @@ Das Verkehrszeichen steht am Ende einer Kraftfahrtstraße. Das heißt: Ab hier g
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Worauf weisen solche Verkehrszeichen hin?**
 
 ![Question Image](images/2_4_42-004.png)
@@ -34584,6 +37866,8 @@ Eine weiße Zahl auf blauem Grund mit einer weißen Umrandung bezeichnet die Num
 #### Frage 2.4.42-005
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Worauf weist die Zahl „26“ in diesem Verkehrszeichen hin?**
 
@@ -34606,6 +37890,8 @@ Alle Autobahnausfahrten sind zur besseren Orientierung durchnummeriert. Als Kfz-
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/2_4_42-006.png)
@@ -34626,6 +37912,8 @@ Dieses Verkehrszeichen verweist auf eine Bedarfsumleitung für den Autobahnverke
 #### Frage 2.4.42-007
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Was gilt nach diesem Verkehrszeichen?**
 
@@ -34649,6 +37937,8 @@ Nach diesem Verkehrszeichen gelten Vorschriften, die für den Verkehr innerhalb 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Was gilt nach diesem Verkehrszeichen?**
 
 ![Question Image](images/2_4_42-008-M.png)
@@ -34670,6 +37960,8 @@ Innerorts darf vom Rechtsfahrgebot abgewichen werden, das heißt du darfst bei m
 #### Frage 2.4.42-101
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was gilt nach diesem Verkehrszeichen?**
 
@@ -34693,6 +37985,8 @@ Kfz-FahrerInnen erkennen an diesem Verkehrszeichen, dass die für den Verkehr in
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Wie darf hier mit Fahrzeugen bis 2,8 t zulässiger Gesamtmasse geparkt werden?**
 
 ![Question Image](images/2_4_42-102.png)
@@ -34715,6 +38009,8 @@ Dieses Verkehrszeichen signalisiert dem/der Kfz-FahrerIn, dass Fahrzeuge bis 2,8
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/2_4_42-103.png)
@@ -34735,6 +38031,8 @@ Das quadratische Verkehrsschild mit blauem Rand zeigt an, dass sich in nächster
 #### Frage 2.4.42-104
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -34757,6 +38055,8 @@ Dieses Verkehrszeichen weist Kfz-FahrerInnen auf eine Erdgastankstelle hin, an d
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/2_4_42-105.png)
@@ -34777,6 +38077,8 @@ Die Aufschrift LPG auf dem viereckigen Verkehrszeichen ist eine Abkürzung für 
 #### Frage 2.4.42-106
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Worauf weist dieses Verkehrszeichen hin?**
 
@@ -34799,6 +38101,8 @@ Sie sehen auf dem Schild einen Stecker mit Kabel. Es zeigt Ihnen eine nahegelege
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Worauf weist dieses Verkehrszeichen hin?**
 
 ![Question Image](images/2_4_42-107.png)
@@ -34819,6 +38123,8 @@ Das Verkehrszeichen P + R auf blauem Hintergrund steht für „Parken und Reisen
 #### Frage 2.4.42-108
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Sie führen einen mautpflichtigen Lkw und nähern sich dem dargestellten Verkehrszeichen. Wie verhalten Sie sich?**
 
@@ -34842,6 +38148,8 @@ Du darfst hier ohne On-Board-Unit (OBU) nur weiterfahren, wenn für das Benutzen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T
+
 **Was ist in dieser Situation richtig?**
 
 ![Question Image](images/2_4_42-109-M.png)
@@ -34863,6 +38171,8 @@ Einen Schutzstreifen durchgängig zu befahren, ist nicht zulässig. Schutzstreif
 #### Frage 2.4.42-110
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Welches Dokument erlaubt es Ihnen, hier zu parken?**
 
@@ -34888,6 +38198,8 @@ Du darfst auf dem Parkplatz mit diesem Schild parken, wenn du selbst einen EU-Pa
 #### Frage 2.4.43-002
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie brauchen Hilfe auf der Autobahn. Welche Information gibt Ihnen dafür der Pfeil am Leitpfosten?**
 
@@ -34916,6 +38228,8 @@ Pfeile auf den Leitpfosten am Rand einer Autobahn zeigen in Richtung der nächst
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was können Sie tun, damit kein unnötiger Lärm entsteht?**
 
 **Optionen:**
@@ -34935,6 +38249,8 @@ Um unnötige Geräusche zu vermeiden, vermeiden Sie es, hohe Drehzahlen mit Ihre
 #### Frage 2.5.01-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Was können Sie zur Vermeidung von Lärmbelästigungen tun?**
 
@@ -34957,6 +38273,8 @@ Um einen über dem normalen Pegel liegenden Lärm, der als Lärmbelästigung bez
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Wodurch lässt sich Kraftstoff einsparen?**
 
 **Optionen:**
@@ -34976,6 +38294,8 @@ Kraftstoff können Sie als Kfz-FahrerIn sparen, wenn Sie mit Ihrem Fahrzeug mit 
 #### Frage 2.5.01-005
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Wodurch kann Lärm vermieden werden?**
 
@@ -34997,6 +38317,8 @@ Lärm entsteht ganz allgemein durch den laufenden Motor eines Kfz. Das Fahren mi
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Wodurch wird vermeidbarer Lärm verursacht?**
 
 **Optionen:**
@@ -35016,6 +38338,8 @@ Vermeidbarer Lärm kann durch das Fahren mit defekter Auspuffanlage oder beim �
 #### Frage 2.5.01-007
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Warum ist scharfes Anfahren zu vermeiden?**
 
@@ -35037,6 +38361,8 @@ Scharfes Anfahren ist eine zusätzliche Lärmbelästigung für andere Verkehrste
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Wie können Sie nach einem Kaltstart die Umwelt und den Motor schonen?**
 
 **Optionen:**
@@ -35055,6 +38381,8 @@ Lassen Sie Ihr Kfz möglichst nicht im Stand warmlaufen, da Sie so Motor und Umw
 #### Frage 2.5.01-010
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Welche Kraftfahrzeuge dürfen in die abgebildete Umweltzone?**
 
@@ -35078,6 +38406,8 @@ Mit ihren Fahrzeugen dürfen Kfz-FahrerInnen nur dann in eine Umweltzone einfahr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was hat das Fahren mit Winterreifen in den Sommermonaten zur Folge?**
 
 **Optionen:**
@@ -35097,6 +38427,8 @@ Jede/Jeder Kfz-FahrerIn sollte wissen, dass Winterreifen für die Benutzung bei 
 #### Frage 2.5.01-012
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
 
 **Welche Kraftfahrzeuge dürfen in die so gekennzeichnete Umweltzone einfahren?**
 
@@ -35120,6 +38452,8 @@ Das Zusatzschild zeigt welche Kraftfahrzeuge mit welcher Plakette hineinfahren d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie möchten Ihr Fahrzeug waschen. Wo sollten Sie dies im Interesse des Umweltschutzes tun?**
 
 **Optionen:**
@@ -35138,6 +38472,8 @@ Sie sollten Ihr Fahrzeug immer in einer Waschanlage waschen. Dort wird das Schmu
 #### Frage 2.5.01-014
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was erhöht den Kraftstoffverbrauch Ihres Fahrzeugs deutlich?**
 
@@ -35158,6 +38494,8 @@ Wenn Sie die Sitzheizung oder die Klimaanlage Ihres Fahrzeugs einschalten, wird 
 #### Frage 2.5.01-015
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Was kann den Kraftstoffverbrauch eines Nutzfahrzeugs verringern?**
 
@@ -35180,6 +38518,8 @@ Eine Verringerung können alle 3 Antworten bewirken. Die Verwendung von Luftleit
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Welche Auswirkungen hat das Fahren mit hoher Geschwindigkeit bei Kraftfahrzeugen mit Verbrennungsmotor?**
 
 **Optionen:**
@@ -35199,6 +38539,8 @@ Seien Sie sich bewusst, dass das schnelle Fahren mit hoher Geschwindigkeit einen
 #### Frage 2.5.01-017
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Wie können Sie beim Betrieb eines Kraftrads unnötigen Lärm vermeiden?**
 
@@ -35221,6 +38563,8 @@ Hochtouriges Anfahren führt zu unnötigem Lärm.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum wirkt sich eine umweltbewusste Fahrweise auch günstig auf die Verkehrssicherheit aus?**
 
 **Optionen:**
@@ -35240,6 +38584,8 @@ Auch mit alternativen Kraftstoffen kann schnell gefahren werden. Umweltschonend 
 #### Frage 2.5.01-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was müssen Sie über Katalysatoren wissen?**
 
@@ -35261,6 +38607,8 @@ Fahrzeuge mit Katalysator sollten Sie nicht abschleppen lassen. Hierdurch kann u
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Reifenverschleiß belastet die Umwelt. Wodurch kann die Lebensdauer von Reifen verlängert werden?**
 
 **Optionen:**
@@ -35281,6 +38629,8 @@ Der Verschleiß von Reifen ist am geringsten, wenn die Reifen bestimmungsgemäß
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wodurch können Sie Kraftstoff sparen, wenn Sie ein Kraftfahrzeug mit automatischem Getriebe fahren?**
 
 **Optionen:**
@@ -35299,6 +38649,8 @@ Vermeiden Sie den Kick-down. Der hochtourige Beschleunigungsgang verursacht erh�
 #### Frage 2.5.01-105
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wodurch können Sie die Umweltbelastung verringern?**
 
@@ -35321,6 +38673,8 @@ Um die Umwelt zu entlasten, sollten Sie als Kfz-FahrerIn mit anderen zusammen Fa
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wodurch erhöht sich der Kraftstoffverbrauch Ihres Pkws?**
 
 **Optionen:**
@@ -35341,6 +38695,8 @@ Mit einem erhöhten Kraftstoffverbrauch ist zu rechnen, wenn Sie zum Beispiel Da
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie können Sie Kraftstoff sparen?**
 
 **Optionen:**
@@ -35360,6 +38716,8 @@ Zusätzliche Beladung und zusätzliche Anbauteile wie etwa Dachgepäckträger od
 #### Frage 2.5.01-108
 
 **Punkte:** 3 Punkte
+
+**Klassen:** AM, B
 
 **Was ist aus Gründen des Umweltschutzes zu unterlassen?**
 
@@ -35382,6 +38740,8 @@ Sie sollten den Motor nicht im Stand warmlaufen lassen, nicht mit hoher Drehzahl
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Welches Verhalten ist umweltbewusst?**
 
 **Optionen:**
@@ -35403,6 +38763,8 @@ Vermeiden Sie unnötiges zielloses Herumfahren. Individualverkehr belastet die U
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie kann Lärm vermindert werden?**
 
 **Optionen:**
@@ -35421,6 +38783,8 @@ Das Fahren im hohen Drehzahlbereich verursacht mehr Lärm als eine niedertourige
 #### Frage 2.5.01-112
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wozu führt "Power-Sound" im Auto?**
 
@@ -35443,6 +38807,8 @@ Das Fahren im hohen Drehzahlbereich verursacht mehr Lärm als eine niedertourige
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Um wie viel Prozent erhöht sich bei Tempo 160 km/h im Allgemeinen der Kraftstoffverbrauch (l/100 km) eines Mittelklasse-Pkw gegenüber der Fahrt mit Richtgeschwindigkeit 130 km/h?**
 
 **Optionen:**
@@ -35461,6 +38827,8 @@ Gegenüber einer Fahrt mit Richtgeschwindigkeit bei 130 km/h erhöht sich der Kr
 #### Frage 2.5.01-116
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Wann dürfen Sie in eine Umweltzone einfahren?**
 
@@ -35482,6 +38850,8 @@ In eine Umweltzone dürfen Sie als Kfz-FahrerIn nur einfahren, wenn an Ihrem Fah
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Wo ist die Feinstaub-Plakette zur Kennzeichnung schadstoffarmer Fahrzeuge anzubringen?**
 
 **Optionen:**
@@ -35500,6 +38870,8 @@ Sie als Kfz-FahrerIn müssen dafür sorgen, dass die Feinstaub-Plakette zur Kenn
 #### Frage 2.5.01-118
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Dürfen Sie mit Ihrem Pkw mit Ottomotor ohne Feinstaub-Plakette in eine so gekennzeichnete Umweltzone einfahren?**
 
@@ -35522,6 +38894,8 @@ Ohne sichtbar angebrachte Feinstaub-Plakette dürfen Kfz-FahrerInnen mit einem P
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wo können Sie Ihr Gepäck unterbringen, um den Kraftstoffverbrauch nicht unnötig zu erhöhen?**
 
 **Optionen:**
@@ -35542,6 +38916,8 @@ Das Gepäck sollten Sie nach Möglichkeit ausschließlich im Kofferraum Ihres Kf
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Reifenabrieb belastet die Umwelt. Wie können Sie diese Belastung verringern?**
 
 **Optionen:**
@@ -35561,6 +38937,8 @@ Um den Reifenabrieb zu verringern (also die Abnutzung der Reifen) kannst du vora
 #### Frage 2.5.01-121
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Welche Maßnahme kann zum umweltschonenden Fahren beitragen?**
 
@@ -35583,6 +38961,8 @@ Bilden Sie falls möglich Fahrgemeinschaften um die Fahrzeugmenge im Straßenver
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wodurch können Sie Kraftstoff sparen, wenn Sie einen Pkw mit Automatikgetriebe fahren?**
 
 **Optionen:**
@@ -35602,6 +38982,8 @@ Unnötig starkes beschleunigen führt zu hohem Kraftstoffverbrauch. Fahren Sie f
 #### Frage 2.5.01-123
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Welche Pkws, die eine ausgewiesene Umweltzone befahren, unterliegen der Kennzeichnungspflicht mit einer Feinstaub-Plakette?**
 
@@ -35624,6 +39006,8 @@ Grundsätzlich unterliegen alle Pkws in einer ausgewiesenen Umweltzone der Kennz
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Welche Auswirkung kann das Hören sehr lauter Musik beim Autofahren haben?**
 
 **Optionen:**
@@ -35644,6 +39028,8 @@ Die Reaktionsfähigkeit des Fahrers verschlechtert sich durch die laute Musik un
 #### Frage 2.5.01-125
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Der Luftwiderstand wirkt sich auf den Kraftstoffverbrauch eines Fahrzeugs aus. Was beeinflusst den Luftwiderstand am stärksten?**
 
@@ -35666,6 +39052,8 @@ Die Anzahl der Mitfahrer wirkt sich nicht direkt auf den Luftwiderstand aus.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie müssen wegen geschlossener Bahnschranken warten. Wie können Sie dabei die Umwelt schonen?**
 
 **Optionen:**
@@ -35684,6 +39072,8 @@ Durch die Nutzung der Start-Stopp-Automatik kann das Fahrzeug während des Warte
 #### Frage 2.5.01-127
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was erhöht die Reichweite eines Elektrofahrzeugs?**
 
@@ -35704,6 +39094,8 @@ Bremst du nur leicht, wird per Elektromotor gebremst und die Bewegungsenergie zu
 #### Frage 2.5.01-128
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Welchen Vorteil bietet die Rekuperation an einem Elektrofahrzeug?**
 
@@ -35726,6 +39118,8 @@ Rekuperation steht für „Rückgewinnung“ . So wie elektrische Energie in B
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Ihr Pkw ist mit einer Start-Stopp-Automatik ausgerüstet. Welchen Vorteil bietet die Nutzung dieses Fahrzeugsystems für den Umweltschutz?**
 
 **Optionen:**
@@ -35746,6 +39140,8 @@ Durch das Abschalten des Motors, etwa an Ampeln, kann durch die Start-Stopp-Auto
 #### Frage 2.5.01-130
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie fahren einen Pkw mit der Antriebsart Plug-in-Hybrid. Wie können Sie den Kraftstoffverbrauch optimieren?**
 
@@ -35768,6 +39164,8 @@ Ebenso reduzierst du durch das regelmäßige Aufladen der Batterie deines Plug-i
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, L, T, C1E
+
 **Wodurch können Sie unnötigen Lärm vermeiden?**
 
 **Optionen:**
@@ -35787,6 +39185,8 @@ Unnötigen Lärm vermeidest du, durch sachgemäßes Verstauen oder Benutzen der 
 #### Frage 2.5.01-203
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, L, T, C1E
 
 **Was kann Lärmbelästigungen verursachen?**
 
@@ -35809,6 +39209,8 @@ Unnötigen Lärm vermeidest du, durch sachgemäßes Verstauen oder Benutzen der 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, T, C1E
+
 **Wodurch können Sie innerorts besonders bei leeren Fahrzeugen Lärm vermindern?**
 
 **Optionen:**
@@ -35827,6 +39229,8 @@ Innerorts kannst du mit deinem leeren Fahrzeug Lärm durch angepasste Geschwindi
 #### Frage 2.5.01-205
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Welche Kraftfahrzeuge dürfen eine so beschilderte Straße befahren?**
 
@@ -35850,6 +39254,8 @@ Diese Straße führt in eine Umweltzone. Alle Busse mit einer entsprechenden Fei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Wie können Sie Lärm vermindern?**
 
 **Optionen:**
@@ -35869,6 +39275,8 @@ Lärm kannst du verhindern, indem du leere Druckluftbehälter möglichst aus ein
 #### Frage 2.5.01-207
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wie können Sie bereits bei der Planung Ihrer Fahrten zum Umweltschutz beitragen?**
 
@@ -35891,6 +39299,8 @@ Der Umwelt zuliebe sollten Kfz-FahrerInnen auf alle Fahrten verzichten, die nich
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie durchfahren Sie sicher eine Gefällestrecke?**
 
 **Optionen:**
@@ -35909,6 +39319,8 @@ Nutzen Sie auf einer Gefällestrecke die Motorbremse durch das Zurückschalten a
 #### Frage 2.5.01-209
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Welche Kraftfahrzeuge dürfen ohne Feinstaub-Plakette in eine Umweltzone einfahren?**
 
@@ -35929,6 +39341,8 @@ In eine Umweltzone dürfen ohne Feinstaub-Plakette alle zwei- und dreirädrigen 
 #### Frage 2.5.01-210
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **An welchen Herstellerangaben können Sie erkennen, ob Ihr Kraftfahrzeug umweltfreundlich ist?**
 
@@ -35951,6 +39365,8 @@ Die Emissionsklasse gibt Auskunft über den Ausstoß von Schadstoffen. Die per N
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Warum sind Kurzstreckenfahrten mit kaltem Motor besonders umweltschädlich?**
 
 **Optionen:**
@@ -35971,6 +39387,8 @@ Kurzstreckenfahrten mit kaltem Motor verbrauchen in der Regel mehr Kraftstoff al
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wodurch entsteht vermeidbarer Lärm?**
 
 **Optionen:**
@@ -35990,6 +39408,8 @@ Alle bei normalem Betrieb eines Fahrzeugs entstehenden Lärmbelästigungen gelte
 #### Frage 2.5.01-213
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Warum trägt der Eco-Roll-Modus bei Nutzfahrzeugen zur Reduzierung des Kraftstoffverbrauchs bei?**
 
@@ -36016,6 +39436,8 @@ Weil im Eco-Roll-Modus die Bewegungsenergie des Fahrzeuges maximal ausgenutzt wi
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wann müssen Motorräder zur Hauptuntersuchung?**
 
 **Optionen:**
@@ -36034,6 +39456,8 @@ Weil im Eco-Roll-Modus die Bewegungsenergie des Fahrzeuges maximal ausgenutzt wi
 #### Frage 2.6.01-003
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, L, T, C1E, D1E, DE, A80
 
 **Woran können Sie erkennen, wann Sie Ihr Fahrzeug zur nächsten Hauptuntersuchung vorführen müssen?**
 
@@ -36055,6 +39479,8 @@ Zum einen kannst du es an der Eintragung in der Zulassungsbescheinigung Teil I e
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Sie haben einen gebrauchten Pkw gekauft. Die Hauptuntersuchung ist neu. Wann ist die nächste Hauptuntersuchung fällig?**
 
 **Optionen:**
@@ -36074,6 +39500,8 @@ Liegt die Hauptuntersuchung bei einem gebraucht gekauften Pkw gerade erst zurüc
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Sie haben Ihren zugelassenen Wohnanhänger während des Winterhalbjahres auf einem Campingplatz abgestellt. Was gilt hinsichtlich der Hauptuntersuchung?**
 
 **Optionen:**
@@ -36092,6 +39520,8 @@ Auch wenn Sie Ihren Wohnanhänger auf einem Campingplatz abgestellt haben, müss
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Sie haben einen 3 Jahre alten Pkw gekauft und möchten diesen privat nutzen. Die Hauptuntersuchung ist neu. Welche Frist gilt für die nächste Hauptuntersuchung?**
 
 **Optionen:**
@@ -36107,6 +39537,8 @@ Die erste Hauptuntersuchung eines PKWs erfolgt nach drei Jahren, jede weitere Ha
 #### Frage 2.6.01-201
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Im Abstand von wie vielen Monaten müssen Lkws mit einer zulässigen Gesamtmasse über 3,5 t zur Hauptuntersuchung vorgeführt werden?**
 
@@ -36124,6 +39556,8 @@ Du musst deinen Lkw mit einer zulässigen Gesamtmasse über 3,5 t alle 12 Monate
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Im Abstand von wie vielen Monaten sind Busse zur Hauptuntersuchung vorzuführen?**
 
 **Optionen:**
@@ -36139,6 +39573,8 @@ Demnächst...
 #### Frage 2.6.01-205
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1E
 
 **Sie sollen einen Lkw mit einer zulässigen Gesamtmasse von 18 t zur Hauptuntersuchung vorführen. Welche Fahrzeugdokumente benötigen Sie?**
 
@@ -36160,6 +39596,8 @@ Mit deinem Lkw mit einer zulässigen Gesamtmasse von 18 t solltest du das Prüfb
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Sie sollen einen Kraftomnibus zur Sicherheitsprüfung vorführen. Welche Fahrzeugdokumente benötigen Sie?**
 
 **Optionen:**
@@ -36180,6 +39618,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** CE
+
 **Sie sollen einen Anhänger mit einer zulässigen Gesamtmasse von 18 t zur Hauptuntersuchung vorführen. Welche Fahrzeugdokumente benötigen Sie?**
 
 **Optionen:**
@@ -36199,6 +39639,8 @@ Beim Anhänger mit einer zulässigen Gesamtmasse von 18 t, welcher zur Hauptunte
 #### Frage 2.6.01-208
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, CE, D, D1, C1E, D1E, DE
 
 **Was wird im Prüfbuch eingetragen?**
 
@@ -36221,6 +39663,8 @@ Das Datum der Fahrteinschreibeüberprüfung gehört nicht dazu.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, D1, T, C1E, D1E, DE
+
 **Woran können Sie erkennen, wann Ihr Fahrzeug zur nächsten Sicherheitsprüfung vorgeführt werden muss?**
 
 **Optionen:**
@@ -36240,6 +39684,8 @@ Wann du das nächste Mal zu einer Sicherheitsprüfung vorgeführt werden musst, 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1
+
 **In welchem Zeitabstand müssen Kraftomnibusse zur Hauptuntersuchung vorgestellt werden?**
 
 **Optionen:**
@@ -36258,6 +39704,8 @@ Kraftomnibusse fahren sehr viel und transportieren Menschen, daher müssen Kraft
 #### Frage 2.6.02-002
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Welche Veränderungen können zum Erlöschen der Betriebserlaubnis führen?**
 
@@ -36279,6 +39727,8 @@ Das Hinzufügen eines Beiwagens oder das Aufziehen von Reifen anderer Größe wi
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Welche Veränderungen können zum Erlöschen der Betriebserlaubnis führen?**
 
 **Optionen:**
@@ -36298,6 +39748,8 @@ Durch den Einbau eines Motors mit anderer Leistung verliert die Betriebserlaubni
 #### Frage 2.6.02-005
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Welche Veränderungen können zum Erlöschen der Betriebserlaubnis führen?**
 
@@ -36319,6 +39771,8 @@ Eine Änderung des Übersetzungsverhältnisses oder der Motorleistung wirkt sich
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A1
+
 **Sie besitzen die Fahrerlaubnis der Klasse A1. Welches der beschriebenen Krafträder dürfen Sie fahren?**
 
 **Optionen:**
@@ -36338,6 +39792,8 @@ Mit einem A1-Führerschein können Sie ein Fahrzeug mit einer Höchstgeschwindig
 
 **Punkte:** 3 Punkte
 
+**Klassen:** AM, Mofa
+
 **Was ist vorgeschrieben, wenn die Haftpflichtversicherung Ihres Fahrzeugs erloschen ist?**
 
 **Optionen:**
@@ -36356,6 +39812,8 @@ Es ist erforderlich, eine Versicherung für Ihr Fahrzeug zu haben, ohne die Sie 
 #### Frage 2.6.02-011
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Mofa
 
 **Wann dürfen Sie mit einem Mofa auf öffentlichen Straßen nicht fahren?**
 
@@ -36377,6 +39835,8 @@ Ein motorisiertes Fahrrad muss gegen Schäden Dritter bei Unfällen versichert s
 
 **Punkte:** 2 Punkte
 
+**Klassen:** Mofa
+
 **Wie alt müssen Sie mindestens sein, um ein Mofa fahren zu dürfen?**
 
 **Optionen:**
@@ -36392,6 +39852,8 @@ Sie müssen mindestens 15 Jahre alt sein, um ein motorisiertes Fahrrad zu fahren
 #### Frage 2.6.02-013
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Mofa
 
 **Welche Folgen hat es, wenn Sie mit einem Mofa fahren, das durch "Frisieren" schneller als 25 km/h läuft?**
 
@@ -36413,6 +39875,8 @@ Wenn Sie Ihr motorisiertes Fahrrad so einstellen, dass es schneller als 25 km/h 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Mofa
+
 **Wodurch erlischt die Betriebserlaubnis eines Mofas?**
 
 **Optionen:**
@@ -36432,6 +39896,8 @@ Wenn Sie Ihr motorisiertes Fahrrad so einstellen, dass es schneller als 25 km/h 
 #### Frage 2.6.02-015
 
 **Punkte:** 2 Punkte
+
+**Klassen:** Mofa
 
 **Welche Papiere müssen Sie mitführen?**
 
@@ -36454,6 +39920,8 @@ Beim Fahren müssen Sie immer einen Versicherungsnachweis, eine Benutzungserlaub
 
 **Punkte:** 2 Punkte
 
+**Klassen:** AM, Mofa
+
 **Sie wollen auf öffentlichen Straßen fahren. Welche Versicherung muss für Ihr Fahrzeug abgeschlossen werden?**
 
 **Optionen:**
@@ -36472,6 +39940,8 @@ Sie sind gesetzlich verpflichtet, eine Kfz-Haftpflichtversicherung für das Füh
 #### Frage 2.6.02-017
 
 **Punkte:** 2 Punkte
+
+**Klassen:** AM, Mofa
 
 **Wodurch weisen Sie nach, dass Sie eine Haftpflichtversicherung für Ihr Fahrzeug abgeschlossen haben?**
 
@@ -36493,6 +39963,8 @@ Sie können eine Versicherungsbescheinigung vorlegen oder ein gültiges Versiche
 
 **Punkte:** 2 Punkte
 
+**Klassen:** AM, Mofa
+
 **Wie lange ist das Versicherungskennzeichen höchstens gültig?**
 
 **Optionen:**
@@ -36511,6 +39983,8 @@ Das Versicherungsnummernschild ist maximal 1 Jahr gültig.
 #### Frage 2.6.02-023
 
 **Punkte:** 3 Punkte
+
+**Klassen:** AM, Mofa
 
 **Das Versicherungskennzeichen Ihres Zweirades ist nicht mehr gültig. Welche Folgen hat es, wenn Sie damit weiterhin fahren?**
 
@@ -36532,6 +40006,8 @@ Es ist gesetzlich vorgeschrieben, eine Versicherung für das Fahren zu haben. Oh
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Welche Dokumente müssen Sie mitführen, wenn Sie ein Motorrad mit einem Hubraum von 200 cm³ fahren möchten?**
 
 **Optionen:**
@@ -36552,6 +40028,8 @@ Um fahren zu können, benötigen Sie Ihren Führerschein und den Teil 1 Ihrer Zu
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Welche Dokumente müssen Sie mitführen, wenn Sie ein Leichtkraftrad fahren?**
 
 **Optionen:**
@@ -36571,6 +40049,8 @@ Um fahren zu können, benötigen Sie Ihren Führerschein und den Teil 1 Ihrer Zu
 #### Frage 2.6.02-026
 
 **Punkte:** 2 Punkte
+
+**Klassen:** AM
 
 **Welche Dokumente müssen Sie mitführen, wenn Sie ein Kleinkraftrad fahren?**
 
@@ -36593,6 +40073,8 @@ Sie benötigen alle drei Dokumente, Ihren Führerschein, eine Versicherungsbesch
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, L, T
+
 **Welche Dokumente müssen Sie mitführen, wenn Sie ein zulassungspflichtiges Kraftfahrzeug führen möchten?**
 
 **Optionen:**
@@ -36613,6 +40095,8 @@ Als Kfz-FahrerIn müssen Sie immer Ihren Führerschein und Ihren Fahrzeugschein 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Welche der aufgeführten Dokumente müssen Sie mitführen, wenn Sie einen Bus im Gelegenheitsverkehr im Inland führen?**
 
 **Optionen:**
@@ -36632,6 +40116,8 @@ Demnächst...
 #### Frage 2.6.02-030
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, Mofa, A80
 
 **Durch eine technische Änderung an Ihrem Fahrzeug ist die Betriebserlaubnis erloschen. Mit welchen Folgen müssen Sie rechnen, wenn Sie das Fahrzeug dennoch auf öffentlichen Straßen benutzen?**
 
@@ -36654,6 +40140,8 @@ Wenn Sie Ihr Fahrzeug trotz erloschener Betriebserlaubnis auf öffentlichen Stra
 
 **Punkte:** 2 Punkte
 
+**Klassen:** L, T
+
 **Welche land- oder forstwirtschaftlich genutzten Anhänger müssen kein eigenes Kennzeichen führen?**
 
 **Optionen:**
@@ -36672,6 +40160,8 @@ Demnächst...
 #### Frage 2.6.02-032
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Sie wollen Gefahrgut transportieren und überschreiten dabei die zulässige Freimenge. Welche Voraussetzungen müssen Sie für den Transport erfüllen?**
 
@@ -36692,6 +40182,8 @@ Weil du die Freimenge überschritten hast, musst du für deine Fahrerlaubnis die
 #### Frage 2.6.02-034
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Was bedeuten die Zahlen auf einer solchen Tafel?**
 
@@ -36714,6 +40206,8 @@ Diese Zahlen geben Auskunft über das transportierte Gefahrgut. 33 ist die Gefah
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Sie möchten einen Lkw mit 8,0 t zulässiger Gesamtmasse führen, der mit orangefarbenen Warntafeln gekennzeichnet ist. Welche der folgenden Bedingungen müssen Sie erfüllen?**
 
 **Optionen:**
@@ -36734,6 +40228,8 @@ Mit deinem Lkw mit 8,0 t zulässiger Gesamtmasse, musst du folgende Bedingungen 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Wegen einer technischen Änderung an Ihrem Fahrzeug ist eine Begutachtung erfolgt. Wozu sind Sie verpflichtet?**
 
 **Optionen:**
@@ -36752,6 +40248,8 @@ Nach der technischen Veränderung eines Fahrzeugs wird bei der Begutachtung in d
 #### Frage 2.6.02-037
 
 **Punkte:** 3 Punkte
+
+**Klassen:** Mofa
 
 **Die bauartbedingte Höchstgeschwindigkeit eines Mofas beträgt durch eine unzulässige technische Änderung mehr als 25 km/h. Welche Folge hat die Nutzung eines solchen Mofas im öffentlichen Straßenverkehr für Sie?**
 
@@ -36773,6 +40271,8 @@ Sobald Sie etwas ohne allgemeine Betriebserlaubnis oder Abnahme an Ihrem Fahrzeu
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Nach Umbauten an Ihrem Fahrzeug ist eine Begutachtung erforderlich. Wann muss diese erfolgen?**
 
 **Optionen:**
@@ -36791,6 +40291,8 @@ Die Begutachtung muss umgehend nach dem Umbau erfolgen.
 #### Frage 2.6.02-039
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Welche technische Änderung führt bei einem Zweirad im Regelfall zum Erlöschen einer erteilten Betriebserlaubnis?**
 
@@ -36811,6 +40313,8 @@ Das ursprüngliche Übersetzungsverhältnis von Ritzel und Kettenrad ist Bestand
 #### Frage 2.6.02-040
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Welche technische Änderung am Zweirad kann zum Erlöschen der Betriebserlaubnis führen?**
 
@@ -36833,6 +40337,8 @@ Die Betriebserlaubnis deines Zweirads kann ihre Gültigkeit verlieren, wenn du z
 
 **Punkte:** 2 Punkte
 
+**Klassen:** AM, Mofa
+
 **Wann müssen Sie spätestens ein neues Versicherungskennzeichen an Ihrem Zweirad anbringen, um übergangslos weiterfahren zu dürfen?**
 
 **Optionen:**
@@ -36851,6 +40357,8 @@ Ab dem 1. März 2023 werden die neuen Versicherungskennzeichen ungültig. Um üb
 #### Frage 2.6.02-042
 
 **Punkte:** 3 Punkte
+
+**Klassen:** AM, Mofa
 
 **Die Gültigkeit des Versicherungskennzeichens Ihres Zweirads ist abgelaufen. Welche Folge hat dies für dessen Benutzung im öffentlichen Straßenverkehr?**
 
@@ -36873,6 +40381,8 @@ Du darfst dein Zweirad ohne gültiges Versicherungskennzeichen auf einem Gehweg 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wegen "Tieferlegung" Ihres Pkw ist eine Begutachtung erforderlich. Wann muss diese erfolgen?**
 
 **Optionen:**
@@ -36891,6 +40401,8 @@ Das Tieferlegen eines Pkws ist eine abnahmepflichtige Änderung, weil Veränderu
 #### Frage 2.6.02-104
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie besitzen die Fahrerlaubnis der Klasse B. Ihr Pkw hat folgende Daten: - Leermasse 1.900 kg - zulässige Gesamtmasse 2.400 kg - zulässige Anhängelast 1.500 kg Welchen Anhänger dürfen Sie mitführen?**
 
@@ -36911,6 +40423,8 @@ Unabhängig von den Angaben darf ein Fahrzeug plus Anhänger bei Fahrerlaubnis K
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1E
+
 **Sie besitzen die Fahrerlaubnis der Klasse C. Ihr Lkw hat folgende Daten: - Leermasse 9.000 kg - zulässige Gesamtmasse 18.000 kg - zulässige Anhängelast 22.000 kg Welchen Anhänger dürfen Sie mitführen?**
 
 **Optionen:**
@@ -36929,6 +40443,8 @@ Der Anhänger mit einer zulässigen Gesamtmasse von 750 kg darf bei Klasse C nic
 #### Frage 2.6.02-202
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C1
 
 **Sie besitzen die Fahrerlaubnis der Klasse C1. Ihr Lkw hat folgende Daten: - Leermasse 3.500 kg - zulässige Gesamtmasse 6.200 kg - zulässige Anhängelast 9.300 kg Welchen Anhänger dürfen Sie mitführen?**
 
@@ -36949,6 +40465,8 @@ Mit den genannten Daten darf dein Anhänger nicht mehr als 750 kg wiegen.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, DE
+
 **Sie besitzen die Fahrerlaubnis der Klasse D. Ihr Bus hat folgende Daten: - Leermasse 13.000 kg - zulässige Gesamtmasse 18.000 kg - zulässige Anhängelast 2.000 kg Welchen Anhänger dürfen Sie mitführen?**
 
 **Optionen:**
@@ -36968,6 +40486,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Für welche Dauer wird eine Fahrerlaubnis der Klasse D oder D1 höchstens erteilt?**
 
 **Optionen:**
@@ -36983,6 +40503,8 @@ Demnächst...
 #### Frage 2.6.02-206
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Was kann dazu führen, dass Ihre Eignung als Busfahrer überprüft werden muss?**
 
@@ -37004,6 +40526,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wann erlischt eine Fahrerlaubnis der Klasse D oder D1?**
 
 **Optionen:**
@@ -37022,6 +40546,8 @@ Demnächst...
 #### Frage 2.6.02-209
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Wann darf ein Busfahrer den Fahrdienst nicht ausüben?**
 
@@ -37044,6 +40570,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Ihr Bus ist an allen Sitzplätzen mit vorgeschriebenen Sicherheitsgurten ausgerüstet. Sie fahren im Gelegenheitsverkehr. Was ist richtig?**
 
 **Optionen:**
@@ -37064,6 +40592,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Welches Dokument ist im grenzüberschreitenden Verkehr mit einem Bus innerhalb der EU-Staaten mitzuführen?**
 
 **Optionen:**
@@ -37082,6 +40612,8 @@ Demnächst...
 #### Frage 2.6.02-225
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Was regelt das Güterkraftverkehrsgesetz?**
 
@@ -37103,6 +40635,8 @@ Das Güterkraftverkehrsgesetz regelt die entgeltliche Güterbeförderung & die g
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Sie führen einen internationalen Möbeltransport durch. Welches Beförderungsdokument müssen Sie mitführen?**
 
 **Optionen:**
@@ -37121,6 +40655,8 @@ Du musst bei einem internationalen Möbeltransport den CMR-Frachtbrief mitführe
 #### Frage 2.6.02-228
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Sie besitzen eine Genehmigungsurkunde gemäß Personenbeförderungsgesetz. Wann ist diese im Gelegenheitsverkehr mitzuführen?**
 
@@ -37142,6 +40678,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C1
+
 **Sie nehmen gegen Entgelt eine Wohnungsauflösung vor. Für den Möbeltransport nutzen Sie ein Kraftfahrzeug mit einer zulässigen Gesamtmasse von 4,5 t. Benötigen Sie für den Transport eine Erlaubnis nach dem Güterkraftverkehrsgesetz?**
 
 **Optionen:**
@@ -37160,6 +40698,8 @@ Da dein Lkw eine zulässige Gesamtmasse von 3,5 t hat, benötigst du bei einem M
 #### Frage 2.6.02-230
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Was müssen Sie bezüglich der Fahrerlaubnis der Klassen C, C1, D und D1 beachten?**
 
@@ -37182,6 +40722,8 @@ Alle 3 Antworten sind richtig. Die genannten Klassen sind alle auf 5 Jahre läng
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, CE
+
 **Sie sollen Gefahrgut transportieren und überschreiten dabei die freigestellte Menge. Welchen Nachweis müssen Sie für den Transport mitführen?**
 
 **Optionen:**
@@ -37199,6 +40741,8 @@ Alle 3 Antworten sind richtig. Die genannten Klassen sind alle auf 5 Jahre läng
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Wo finden Sie die Angaben zur Geltungsdauer Ihrer Fahrerlaubnis?**
 
 **Optionen:**
@@ -37214,6 +40758,8 @@ Alle 3 Antworten sind richtig. Die genannten Klassen sind alle auf 5 Jahre läng
 #### Frage 2.6.02-233
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Welchen Nachweis benötigen Sie zur Verlängerung der Geltungsdauer Ihrer Fahrerlaubnis?**
 
@@ -37234,6 +40780,8 @@ Zur Verlängerung der Geltungsdauer deiner Fahrerlaubnis benötigst du einen ern
 #### Frage 2.6.02-234
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1
 
 **Sie führen einen Lkw im gewerblichen Güterkraftverkehr. Was müssen Sie auf Verlangen nachweisen können?**
 
@@ -37261,6 +40809,8 @@ Das Mitführen dieser Dokumente ist gesetzlich vorgeschrieben und dient der Sich
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1
+
 **Wann benötigen Sie für die Beförderung von Gütern eine Berechtigung nach dem Güterkraftverkehrsgesetz?**
 
 **Optionen:**
@@ -37279,6 +40829,8 @@ Du benötigst diese Berechtigung ausschließlich für die Beförderung von Güte
 #### Frage 2.6.02-301
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Welches Dokument müssen Sie im Gelegenheitsverkehr auf Verlangen zuständigen Personen zur Prüfung aushändigen?**
 
@@ -37300,6 +40852,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Als Busfahrer befördern Sie Fahrgäste im grenzüberschreitenden Linienverkehr. Welche Dokumente müssen Sie mitführen?**
 
 **Optionen:**
@@ -37319,6 +40873,8 @@ Demnächst...
 #### Frage 2.6.02-403
 
 **Punkte:** 2 Punkte
+
+**Klassen:** L, T
 
 **Welche Bedingungen müssen erfüllt sein, damit ein landwirtschaftlicher Anhänger zulassungsfrei bleibt?**
 
@@ -37340,6 +40896,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** AM, Mofa
+
 **Welche Folgen hat ein ungültiges Versicherungskennzeichen für die Benutzung eines Fahrzeugs auf öffentlichen Straßen?**
 
 **Optionen:**
@@ -37358,6 +40916,8 @@ Es ist gesetzlich vorgeschrieben, eine Versicherung für das Fahren zu haben. Oh
 #### Frage 2.6.02-407
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Welche der aufgeführten Dokumente müssen Sie mitführen, wenn Sie einen Bus im grenzüberschreitenden Gelegenheitsverkehr innerhalb der EU-Staaten fahren möchten?**
 
@@ -37378,6 +40938,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Wie lange ist eine ADR-Bescheinigung über die Schulung der Fahrzeugführer zur Beförderung gefährlicher Güter gültig?**
 
 **Optionen:**
@@ -37396,6 +40958,8 @@ Die ADR-Bescheinigung (Schulung der Fahrzeugführer zur Beförderung gefährlich
 #### Frage 2.6.02-409
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Welche Pflichten haben Sie, wenn Sie ein Kraftfahrzeug im gewerblichen Güterverkehr führen möchten?**
 
@@ -37417,6 +40981,8 @@ Deine Pflichten bei einem gewerblichen Güterverkehr sind alle für die Sicherun
 
 **Punkte:** 3 Punkte
 
+**Klassen:** T
+
 **Welche Kraftfahrzeuge - auch mit Anhänger - dürfen mit einer Fahrerlaubnis der Klasse T bereits vor Vollendung des 18. Lebensjahres gefahren werden?**
 
 **Optionen:**
@@ -37436,6 +41002,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** T
+
 **Welche Kraftfahrzeuge - auch mit Anhänger - dürfen mit einer Fahrerlaubnis der Klasse T nach Vollendung des 18. Lebensjahres gefahren werden?**
 
 **Optionen:**
@@ -37454,6 +41022,8 @@ Demnächst...
 #### Frage 2.6.02-412
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Welche Veränderungen am Fahrzeug können zum Erlöschen der Betriebserlaubnis führen?**
 
@@ -37475,6 +41045,8 @@ Eine Änderung des Lenkradtyps oder der Auspuffanlage wirkt sich auf das Verhalt
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Welche der genannten Vorschriften regeln die Beförderung gefährlicher Güter auf der Straße?**
 
 **Optionen:**
@@ -37495,6 +41067,8 @@ Diese Vorschriften regeln  die Beförderung und sind enthalten in der  Gefahrgut
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Welche Gültigkeitsdauer besitzt die Genehmigung für Gelegenheitsverkehr (national) mit Kraftomnibussen?**
 
 **Optionen:**
@@ -37513,6 +41087,8 @@ Demnächst...
 #### Frage 2.6.02-416
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Welche Nachweise können für den grenzüberschreitenden Güterverkehr erforderlich sein?**
 
@@ -37538,6 +41114,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, L, T
+
 **Was ist beim Rückwärtsfahren mit einer Fahrzeugkombination richtig, wenn die Sicht nach hinten beeinträchtigt ist?**
 
 **Optionen:**
@@ -37556,6 +41134,8 @@ Fahren Sie mit einer Fahrzeugkombination rückwärts und ist Ihre Sicht nach hin
 #### Frage 2.6.03-002
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Welche Gültigkeitsdauer besitzt die Genehmigung für sonstigen Gelegenheitsverkehr (national) mit Kraftfahrzeugen?**
 
@@ -37576,6 +41156,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Wie viele Anhänger dürfen hinter einem Lkw der Klasse B mitgeführt werden?**
 
 **Optionen:**
@@ -37591,6 +41173,8 @@ Es darf hinter Kraftfahrzeugen (Klasse B) nur ein Anhänger mitgeführt werden. 
 #### Frage 2.6.03-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Auf einer Straße mit Schlaglöchern kommt Ihr Anhänger ins "Springen". Wie müssen Sie sich verhalten?**
 
@@ -37610,6 +41194,8 @@ Sie sollten nicht weiter beschleunigen, da dadurch der Anhänger aufschaukeln w�
 #### Frage 2.6.03-105
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Worauf müssen Sie achten, wenn Sie hinter Ihrem Pkw einen Anhänger mit Auflaufbremse mitführen wollen?**
 
@@ -37631,6 +41217,8 @@ Achten Sie darauf, dass das Abreißseil ordnungsgemäß befestigt ist. Es bewirk
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Was bezeichnet man als Anhängelast?**
 
 **Optionen:**
@@ -37649,6 +41237,8 @@ Als Anhängelast wird nur die tatsächlich gezogene Last bezeichnet, also das Ge
 #### Frage 2.6.03-111
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie möchten einen Anhänger mitführen. Wann müssen zusätzliche Rückspiegel an Ihrem Kraftfahrzeug angebracht werden?**
 
@@ -37669,6 +41259,8 @@ Sie als Kfz-FahrerIn sind für ausreichende Sicht am Fahrzeug verantwortlich. Wi
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Sie möchten einen gebremsten Anhänger mitführen. Wo finden Sie Angaben bzw. Hinweise zur zulässigen Anhängelast Ihres Pkws?**
 
 **Optionen:**
@@ -37687,6 +41279,8 @@ Die Information, wie viel Anhängelast ein Zugfahrzeug ziehen kann, befindet sic
 #### Frage 2.6.03-113
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Sie möchten an Ihren Pkw einen Anhänger ankuppeln. Wo können Sie die Angabe über die zulässige Stützlast Ihres Pkws finden?**
 
@@ -37707,6 +41301,8 @@ Informationen über die zulässige Anhängelast finden Sie in Teil 1 der Zulassu
 #### Frage 2.6.03-114
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie möchten einen Anhänger mitführen. Was müssen Sie beachten?**
 
@@ -37729,6 +41325,8 @@ Der Hersteller gibt vor wir hoch die maximale Stützlast, die Zuladung und die A
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie fahren mit einem Anhänger auf einer Straße mit Schlaglöchern. Ihre Fahrzeugkombination schaukelt sich auf. Wie müssen Sie sich jetzt verhalten?**
 
 **Optionen:**
@@ -37748,6 +41346,8 @@ Durch das Verringern der Geschwindigkeit kannst du das Schleudern verhindern.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Wie viele Anhänger dürfen hinter einem Pkw mitgeführt werden?**
 
 **Optionen:**
@@ -37763,6 +41363,8 @@ Laut  StVZO § 32 a Mitführen von Anhängern: Hinter Kraftfahrzeugen darf nur e
 #### Frage 2.6.03-117
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Sie möchten einen Anhänger mit einer zulässigen Gesamtmasse über 750 kg mit Ihrem Pkw verbinden. Was müssen Sie dabei beachten?**
 
@@ -37786,6 +41388,8 @@ Nachdem du alle Verbindungen geprüft hast, musst du vor Fahrtantritt auch noch 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie fahren einen Pkw mit einem voll beladenen auflaufgebremsten Anhänger. Welche Besonderheit ist zu beachten?**
 
 **Optionen:**
@@ -37808,6 +41412,8 @@ Die Auflaufbremse wird nur aktiviert, wenn der Anhänger auf das Zugfahrzeug auf
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was ist beim Führen eines Pkws zu beachten, nachdem Sie einen Wohnanhänger angekuppelt haben?**
 
 **Optionen:**
@@ -37828,6 +41434,8 @@ Beim Überholen verlängert sich dein Überholweg um die Länge des Wohnanhänge
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie besitzen eine Fahrerlaubnis der Klasse B. Welchen Anhänger dürfen Sie mitführen?**
 
 **Optionen:**
@@ -37847,6 +41455,8 @@ Fahrer mit der Führerscheinklasse B dürfen einen Anhänger mit einer zulässig
 #### Frage 2.6.03-121
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was kann die Fahrstabilität eines mitgeführten Anhängers beeinträchtigen?**
 
@@ -37872,6 +41482,8 @@ Auch ein bereits undichter Stoßdämpfer kann die Fahrstabilität deines Anhäng
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Wie schwer darf ein Anhänger hinter einem Lkw mit 10 t zulässiger Gesamtmasse bei durchgehender Bremsanlage höchstens sein?**
 
 **Optionen:**
@@ -37890,6 +41502,8 @@ Ein Anhänger hinter einem Lkw mit 10 t zulässiger Gesamtmasse mit einer durchg
 #### Frage 2.6.03-302
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Welche Massen (Gewichte) sind für die Berechnung der höchstzulässigen Anhängelast hinter einem Lkw (durchgehende Bremsanlage) ins Verhältnis zu setzen?**
 
@@ -37910,6 +41524,8 @@ Hier musst du die zulässige Gesamtmasse des Lkw zur tatsächlichen Masse des An
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Wie groß darf die Anhängelast hinter einem Lkw (durchgehende Bremsanlage) höchstens sein?**
 
 **Optionen:**
@@ -37929,6 +41545,8 @@ Die Anhängelast hinter einem Lkw darf nicht größer als das 1,5 fache der zul�
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Wie groß darf die Anhängelast hinter einem Lkw mit einer zulässigen Gesamtmasse von 15 t (durchgehende Bremsanlage) höchstens sein?**
 
 **Optionen:**
@@ -37944,6 +41562,8 @@ Die Anhängerlast darf höchstens 22,5 t wiegen, wenn du einen Lkw mit einer zul
 #### Frage 2.6.03-306
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Welche Besonderheiten weisen Lastzüge mit Kurzkuppelsystemen auf?**
 
@@ -37966,6 +41586,8 @@ Hier musst du alle Besonderheiten beachten. Die Kurvenlaufeigenschaften dieser Z
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, L, T
+
 **Sie möchten einen mehrachsigen Anhänger ankuppeln. Worauf müssen Sie achten?**
 
 **Optionen:**
@@ -37986,6 +41608,8 @@ Wenn du einen mehrachsigen Anhänger ankuppeln möchtest, musst du den Anhänger
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, L, T
+
 **Sie möchten einen Anhänger mitführen. Was müssen Sie hinsichtlich der elektrischen Verbindung zwischen Zugfahrzeug und Anhänger beachten?**
 
 **Optionen:**
@@ -38004,6 +41628,8 @@ Wenn du einen mehrachsigen Anhänger ankuppeln möchtest, musst du den Anhänger
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Wie viele Anhänger mit Auflaufbremse und mit Geschwindigkeitsschildern für 25 km/h dürfen Sie höchstens hinter einer Zugmaschine mitführen, deren bauartbestimmte Höchstgeschwindigkeit nicht mehr als 32 km/h beträgt?**
 
 **Optionen:**
@@ -38020,6 +41646,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Wie schnell dürfen Sie mit einem Zug höchstens fahren, der aus einer Zugmaschine und 2 Anhängern mit Auflaufbremse besteht?**
 
 **Optionen:**
@@ -38035,6 +41663,8 @@ Demnächst...
 #### Frage 2.6.03-403
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Sie wollen hinter Ihrer landwirtschaftlichen Zugmaschine mit einer bauartbestimmten Höchstgeschwindigkeit von 32 km/h zwei zulassungsfreie Anhänger mit Auflaufbremse mitführen. Was müssen Sie dabei beachten?**
 
@@ -38055,6 +41685,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Wie viele zulassungsfreie Anhänger mit Auflaufbremse dürfen hinter einer Zugmaschine mit einer bauartbestimmten Höchstgeschwindigkeit von 32 km/h höchstens mitgeführt werden?**
 
 **Optionen:**
@@ -38074,6 +41706,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** T
+
 **Wie viele Anhänger mit Auflaufbremse dürfen hinter einer Zugmaschine höchstens mitgeführt werden, wenn die Zugkombination mit mehr als 25 km/h gefahren werden soll?**
 
 **Optionen:**
@@ -38089,6 +41723,8 @@ Demnächst...
 #### Frage 2.6.03-406
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, L, T
 
 **Ein einachsiger Anhänger hat eine tatsächliche Gesamtmasse von 600 kg. Wie groß muss die Stützlast mindestens sein?**
 
@@ -38108,6 +41744,8 @@ Stützlast ist diejenige Masse, die auf der Anhängerkupplung des ziehenden Fahr
 #### Frage 2.6.03-408
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Sie fahren eine landwirtschaftliche Zugmaschine mit einer bauartbestimmten Höchstgeschwindigkeit von 40 km/h. Hinter dieser Zugmaschine möchten Sie einen zulassungsfreien Anhänger mitführen. Was müssen Sie dabei beachten?**
 
@@ -38129,6 +41767,8 @@ Zur Erhöhung der Transportkapazitäten können zwei Anhänger hinter einer Zugm
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Sie fahren eine landwirtschaftliche Zugmaschine mit einer bauartbedingten Höchstgeschwindigkeit von 40 km/h. Wie viele Anhänger mit einer zulässigen Höchstgeschwindigkeit von 25 km/h dürfen Sie höchstens mitführen?**
 
 **Optionen:**
@@ -38147,6 +41787,8 @@ Zur Erhöhung der Transportkapazitäten können zwei Anhänger hinter einer Zugm
 #### Frage 2.6.04-202
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1E
 
 **Wie viele Stunden dürfen Sie einen Lkw mit einer zulässigen Gesamtmasse von 16 t innerhalb von 2 Wochen höchstens lenken?**
 
@@ -38167,6 +41809,8 @@ Einen LKW mit einer zulässigen Gesamtmasse von 16 t darf man innerhalb von 2 Wo
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1E
+
 **Sie fahren einen Lkw mit einer zulässigen Gesamtmasse von 16 t. Wie lange muss die Lenkzeit nach 4 1/2 Stunden mindestens unterbrochen werden, bevor Sie weiterfahren?**
 
 **Optionen:**
@@ -38185,6 +41829,8 @@ Lkw mit einer Gesamtmasse von 16 t müssen nach 4 1/2 Stunden mindestens 45 Minu
 #### Frage 2.6.04-205
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1E
 
 **Wie viele Stunden beträgt die zulässige Tageslenkzeit, wenn Sie einen Lkw mit einer zulässigen Gesamtmasse von 16 t fahren?**
 
@@ -38205,6 +41851,8 @@ Mehr als 56 Stunden in der Woche darfst du nicht fahren. Deswegen ist 9 Stunden,
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Wie lang muss die tägliche Ruhezeit (ohne Verkürzung) mindestens sein, wenn Sie allein fahren?**
 
 **Optionen:**
@@ -38223,6 +41871,8 @@ Wenn du alleine fährst, musst du dich 11 Stunden ohne Verkürzung ausruhen. Beg
 #### Frage 2.6.04-211
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C1
 
 **Wie viel Stunden dürfen Sie einen Lkw mit einer zulässigen Gesamtmasse von 6 t innerhalb von zwei Wochen höchstens lenken?**
 
@@ -38243,6 +41893,8 @@ Mit deinem Lkw mit einer zulässigen Gesamtmasse von 6 t darfst du innerhalb von
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C1
+
 **Sie fahren einen Lkw mit einer zulässigen Gesamtmasse von 6 t. Wie lange müssen Sie nach 4 1/2 Stunden ununterbrochener Fahrt mindestens Pause machen?**
 
 **Optionen:**
@@ -38261,6 +41913,8 @@ Mit deinem Lkw mit einer zulässigen Gesamtmasse von 6 t musst du nach 4 1/2 Stu
 #### Frage 2.6.04-216
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Wie lange dürfen Sie im EU-Bereich ohne Pause einen Bus höchstens fahren?**
 
@@ -38281,6 +41935,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wie viele Stunden beträgt die zulässige Tageslenkzeit?**
 
 **Optionen:**
@@ -38300,6 +41956,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wie viele Stunden dürfen Sie im EU-Bereich einen Bus innerhalb von zwei Wochen höchstens lenken?**
 
 **Optionen:**
@@ -38315,6 +41973,8 @@ Demnächst...
 #### Frage 2.6.04-219
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Sie fahren im EU-Bereich einen Bus im Gelegenheitsverkehr. Wie lange muss die Lenkzeit nach 4 1/2 Stunden mindestens unterbrochen werden, bevor Sie weiterfahren?**
 
@@ -38335,6 +41995,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wie lang muss beim Einsatz im Gelegenheitsverkehr die tägliche Ruhezeit (ohne Verkürzung) mindestens sein, wenn Sie allein fahren?**
 
 **Optionen:**
@@ -38353,6 +42015,8 @@ Demnächst...
 #### Frage 2.6.04-223
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C1
 
 **Sie fahren einen Lkw mit einer zulässigen Gesamtmasse von 6 t. Wie muss die Lenkzeit nach 4 1/2 Stunden mindestens unterbrochen werden?**
 
@@ -38374,6 +42038,8 @@ Mit deinem Lkw mit einer zulässigen Gesamtmasse von 6 t musst du nach 4 1/2 Stu
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C1
+
 **Was gilt für den Fahrzeugführer eines Lkws mit einer zulässigen Gesamtmasse von 6 t im gewerblichen Güterverkehr als Fahrtunterbrechung?**
 
 **Optionen:**
@@ -38393,6 +42059,8 @@ Für dich als Fahrzeugführer deines Lkw mit einer zulässigen Gesamtmasse von 6
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1
+
 **Sie fahren einen Bus im Gelegenheitsverkehr. Wie lange muss die Lenkzeit nach 4 1/2 Stunden durchgängiger Lenkzeit unterbrochen werden, bevor Sie weiterfahren dürfen?**
 
 **Optionen:**
@@ -38406,6 +42074,8 @@ Für dich als Fahrzeugführer deines Lkw mit einer zulässigen Gesamtmasse von 6
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C1
+
 **Sie fahren einen Lkw mit einer zulässigen Gesamtmasse von 6 t im gewerblichen Güterverkehr. Wann müssen Sie die Lenkzeit für eine Pause spätestens unterbrechen?**
 
 **Optionen:**
@@ -38418,6 +42088,8 @@ Für dich als Fahrzeugführer deines Lkw mit einer zulässigen Gesamtmasse von 6
 #### Frage 2.6.04-227
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1
 
 **Sie fahren einen Lkw mit einer zulässigen Gesamtmasse von mehr als 3,5 t im gewerblichen Güterkraftverkehr. Welcher Zeitraum gilt für Sie als Fahrtunterbrechung?**
 
@@ -38440,6 +42112,8 @@ Zeiten, die der Fahrer auf dem Beifahrersitz verbringt, sind ebenfalls Fahrtunte
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Sie fahren ein Fahrzeug im gewerblichen Güter- oder Personenverkehr. Bis wann müssen Sie eine verkürzte wöchentliche Ruhezeit spätestens ausgeglichen haben?**
 
 **Optionen:**
@@ -38459,6 +42133,8 @@ Als Fahrer im gewerblichen Güter- oder Personenverkehr müssen Sie eine verkür
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Sie fahren ein Fahrzeug im gewerblichen Güter- oder Personenverkehr. Wie lang muss die regelmäßige wöchentliche Ruhezeit ohne Verkürzung mindestens sein?**
 
 **Optionen:**
@@ -38475,6 +42151,8 @@ Die Vorschrift schreibt vor, dass Fahrer eine regelmäßige Ruhezeit von mindest
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1
+
 **Für wen sind bei gewerblicher Güterbeförderung Lenk- und Ruhezeiten vorgeschrieben?**
 
 **Optionen:**
@@ -38490,6 +42168,8 @@ Die Lenk- und Ruhezeiten gelten für Fahrer von Fahrzeugen über 2,8 Tonnen, die
 #### Frage 2.6.04-302
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Wie viele Stunden dürfen Sie einen Lastzug mit einer zulässigen Gesamtmasse von 24 t innerhalb von 2 Wochen höchstens lenken?**
 
@@ -38510,6 +42190,8 @@ Innerhalb von 2 Wochen darfst du maximal 90 Stunden fahren, wenn du einen Lastzu
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE
+
 **Wie viele Stunden beträgt die zulässige Tageslenkzeit, wenn Sie einen Lastzug mit einer zulässigen Gesamtmasse von 24 t fahren?**
 
 **Optionen:**
@@ -38528,6 +42210,8 @@ Die zulässige Tageslenkzeit (24 t zulässige Gesamtmasse) beträgt 9 Stunden, z
 #### Frage 2.6.04-307
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE
 
 **Sie fahren einen Lastzug mit einer zulässigen Gesamtmasse von 24 t. Wie muss die Lenkzeit nach 4 1/2 Stunden mindestens unterbrochen werden?**
 
@@ -38549,6 +42233,8 @@ Nach 4 1/2 Stunden musst du eine Pause von 45 Minuten machen oder eine Pause von
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1E
+
 **Nach wie vielen Stunden Lenkzeit müssen Sie die Fahrt unterbrechen, wenn Sie einen Lkw mit einer zulässigen Gesamtmasse von 16 t fahren?**
 
 **Optionen:**
@@ -38567,6 +42253,8 @@ Faustregel: Immer die Hälfte der Tageslenkzeit. Da diese 9 Stunden beträgt, is
 #### Frage 2.6.04-311
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Für wen sind bei gewerblicher Güterbeförderung Lenk- und Ruhezeiten vorgeschrieben?**
 
@@ -38587,6 +42275,8 @@ Für Fahrzeugführer die gewerbliche Güter befördern gelten grundsätzlich Len
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C1
+
 **Nach wie vielen Stunden Lenkzeit müssen Sie die Fahrt unterbrechen, wenn Sie einen Lkw mit einer zulässigen Gesamtmasse von 6 t fahren?**
 
 **Optionen:**
@@ -38605,6 +42295,8 @@ Für dich in deinem Lkw mit einer zulässigen Gesamtmasse von 6 t, musst du die 
 #### Frage 2.6.04-313
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE
 
 **Nach wie vielen Stunden Lenkzeit müssen Sie die Fahrt unterbrechen, wenn Sie ein Sattelkraftfahrzeug mit einer zulässigen Gesamtmasse von 20 t fahren?**
 
@@ -38625,6 +42317,8 @@ Mit einer Gesamtmasse von 20 t deines Sattelkraftfahrzeuges musst du nach 4,5 St
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C1
+
 **Wie viele Stunden beträgt die zulässige Tageslenkzeit, wenn Sie einen Lkw mit einer zulässigen Gesamtmasse von 6 t als gewerblichen Gütertransport fahren?**
 
 **Optionen:**
@@ -38643,6 +42337,8 @@ Die zulässige Tageslenkzeit mit deinem Lkw mit einer zulässigen Gesamtmasse vo
 #### Frage 2.6.04-315
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1E
 
 **Was gilt für den Fahrzeugführer eines Lkws mit einer zulässigen Gesamtmasse von 16 t im gewerblichen Güterverkehr als Fahrtunterbrechung?**
 
@@ -38663,6 +42359,8 @@ Pausen und Ruhezeiten gelten als Fahrtunterbrechung. Radwechsel oder Hilfe beim 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE
+
 **Was gilt für den Fahrzeugführer eines Lkws mit einer zulässigen Gesamtmasse von 24 t im gewerblichen Güterverkehr als Fahrtunterbrechung?**
 
 **Optionen:**
@@ -38681,6 +42379,8 @@ Mit einer Gesamtmasse von 24 t im gewerblichen Güterverkehr musst du dich an Pa
 #### Frage 2.6.04-317
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Sie fahren im gewerblichen Güterverkehr einen Lkw, dessen zulässige Gesamtmasse 3,5 t übersteigt. Wie lange müssen Sie nach einer Lenkzeit von 4 1/2 Stunden mindestens Pause machen, bevor Sie weiterfahren?**
 
@@ -38702,6 +42402,8 @@ Die Lenkzeitunterbrechung dient deiner Erholung. 45 Minuten, wenn du vorher oder
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE
+
 **Sie fahren einen Lastzug mit einer zulässigen Gesamtmasse von 24 t im gewerblichen Güterverkehr. Wie lange müssen Sie mindestens Pause machen, wenn Sie bereits 4 1/2 Stunden ununterbrochen gefahren sind?**
 
 **Optionen:**
@@ -38718,6 +42420,8 @@ Nach 4 1/2 Stunden ununterbrochener Fahrt, musst du eine Pause von 45 Minuten ma
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE
+
 **Sie fahren eine Fahrzeugkombination mit einer zulässigen Zuggesamtmasse von 24 t. Wann müssen Sie die Lenkzeit für eine Pause spätestens unterbrechen?**
 
 **Optionen:**
@@ -38733,6 +42437,8 @@ Nach 4 1/2 Stunden ununterbrochener Fahrt, musst du eine Pause von 45 Minuten ma
 #### Frage 2.6.05-216
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Welchen Zweck erfüllt die Fahrerkarte?**
 
@@ -38755,6 +42461,8 @@ Mit der Fahrerkarte werden alle Aktivitäten der Fahrt gespeichert. Sie dient al
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Zu welchen Daten hat die Polizei mit Kontrollkarte Zugang?**
 
 ![Question Image](images/2_6_05-217.png)
@@ -38775,6 +42483,8 @@ Die Polizei hat mit der Kontrollkarte Zugang zu allen gespeicherten Daten. Inner
 #### Frage 2.6.05-219
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Wann ist der Verlust der Fahrerkarte anzuzeigen?**
 
@@ -38797,6 +42507,8 @@ Der Verlust der Fahrerkarte ist unverzüglich anzuzeigen. Nicht morgen oder nich
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Wann dürfen Kontrollbeamte eine Fahrerkarte einbehalten?**
 
 ![Question Image](images/2_6_05-220.png)
@@ -38817,6 +42529,8 @@ Sollten Kontrollbeamte eine Fahrerkarte eines anderen Fahrers vorgelegt bekommen
 #### Frage 2.6.05-221
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Was muss bei einem Antrag auf eine Fahrerkarte vorgelegt werden?**
 
@@ -38840,6 +42554,8 @@ Sowohl der Kartenführerschein als auch ein Lichtbild müssen vorgelegt werden d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Was wird mit diesem Fahrtenschreiber (Kontrollgerät) aufgezeichnet?**
 
 ![Question Image](images/2_6_05-226.png)
@@ -38862,6 +42578,8 @@ Mit dem Kontrollgerät (Fahrtenschreiber) wird die Lenkzeit und auch die gefahre
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Wie sind Ladezeiten bei diesem Fahrtenschreiber (Kontrollgerät) vor der Abfahrt nachzuweisen?**
 
 ![Question Image](images/2_6_05-227.png)
@@ -38882,6 +42600,8 @@ Durch die Eingabe in den Fahrtenschreiber (Kontrollgerät) kannst du alle Tätig
 #### Frage 2.6.05-228
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Wozu dient der Schacht 2 bei diesem Fahrtenschreiber (Kontrollgerät)?**
 
@@ -38907,6 +42627,8 @@ Wenn ein zweiter Fahrer mitfährt, ist der 2. Schacht für den Fahrtenschreiber 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, CE, L, T
+
 **Was müssen Sie beim Betrieb von Fahrzeugen hinsichtlich der Fahrzeughöhe beachten?**
 
 **Optionen:**
@@ -38928,6 +42650,8 @@ Vor Fahrtantritt solltest du dich über die tatsächliche Höhe des Fahrzeugs in
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1
+
 **Was bezeichnet man als zulässige Nutzlast?**
 
 **Optionen:**
@@ -38948,6 +42672,8 @@ Die zulässige Nutzlast - also das Gewicht, das du beladen darfst - ist leider n
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Wie lang darf eine Fahrzeugkombination bestehend aus Pkw und Anhänger ohne überstehende Ladung höchstens sein?**
 
 **Optionen:**
@@ -38963,6 +42689,8 @@ Ohne Ladung darf dein Pkw mit Anhänger bis zu 18,00 m lang sein.
 #### Frage 2.6.06-104
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, CE, L, T
 
 **Was gilt beim Betrieb von Fahrzeugen hinsichtlich der Fahrzeughöhe einschließlich der Höhe der Ladung?**
 
@@ -38985,6 +42713,8 @@ Falls die Ladung über den Fahrzeugumriss hinausragt, musst du die tatsächliche
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C1, L, T
+
 **Wie lang darf ein Zug, bestehend aus einem Kraftfahrzeug und einem Anhänger, einschließlich der Ladung höchstens sein?**
 
 **Optionen:**
@@ -39003,6 +42733,8 @@ Ein Zug bestehend aus einem Kraftfahrzeug und einem Anhänger, darf einschließl
 #### Frage 2.6.06-202
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Wann ist die Prüfung des Geschwindigkeitsbegrenzers vorgeschrieben?**
 
@@ -39024,6 +42756,8 @@ Die Prüfung des Geschwindigkeitsbegrenzers ist nach jeder Änderung der Kraftst
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Wer darf eine Bescheinigung über die Prüfung eines Geschwindigkeitsbegrenzers ausstellen?**
 
 **Optionen:**
@@ -39044,6 +42778,8 @@ Eine Bescheinigung über die Prüfung eines Geschwindigkeitsbegrenzers darf die 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, DE
+
 **Sie besitzen nur die Fahrerlaubnis der Klassen B und D und wollen hinter Ihrem Bus einen Anhänger mitführen. Welche zulässige Gesamtmasse des Anhängers darf nicht überschritten werden?**
 
 **Optionen:**
@@ -39062,6 +42798,8 @@ Demnächst...
 #### Frage 2.6.06-205
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Womit müssen Sie rechnen, wenn in einem vollbesetzten Reisebus alle Fahrgäste Gepäck mitführen?**
 
@@ -39083,6 +42821,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Was müssen Sie mit Ihrem Bus beim Durchfahren von engen Durchfahrten beachten?**
 
 **Optionen:**
@@ -39103,6 +42843,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D1, D1E
+
 **Sie besitzen nur die Fahrerlaubnis der Klassen B und D1. Ihr Bus hat folgende Daten: - Leermasse 5.000 kg - zulässige Gesamtmasse 7.500 kg - zulässige Anhängelast 2.000 kg Welche zulässige Gesamtmasse darf ein mitgeführter Anhänger höchstens haben?**
 
 **Optionen:**
@@ -39121,6 +42863,8 @@ Demnächst...
 #### Frage 2.6.06-211
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Was müssen Sie mit Ihrem Lkw beim Durchfahren von engen Durchfahrten beachten?**
 
@@ -39142,6 +42886,8 @@ Du solltest bei engen Durchfahrten darauf achten, dass die Außenspiegel über d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wann dürfen Sie in dieser Situation weiter auf dem linken Fahrstreifen verbleiben?**
 
 ![Question Image](images/2_6_06-213.png)
@@ -39162,6 +42908,8 @@ Das Verkehrszeichen gibt an, wie breit Ihr Fahrzeug einschließlich Außenspiege
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **In welchen Fahrzeugdokumenten finden Sie Angaben über die Abmessungen Ihres Busses?**
 
 **Optionen:**
@@ -39180,6 +42928,8 @@ Demnächst...
 #### Frage 2.6.06-216
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was müssen Sie in dieser Situation beachten?**
 
@@ -39203,6 +42953,8 @@ Das obere Verkehrszeichen zeigt an, dass sich die Fahrbahn auf die im Verkehrsze
 
 **Punkte:** 2 Punkte
 
+**Klassen:** CE
+
 **Wie lang darf ein Zug, bestehend aus einem Lkw und einem Anhänger, ohne dass Ladung hinausragt, höchstens sein?**
 
 **Optionen:**
@@ -39221,6 +42973,8 @@ Ein Zug bestehend aus einem Lkw und einem Anhänger, ohne dass die Ladung hinaus
 #### Frage 2.6.06-302
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Welche zulässige Gesamtmasse darf ein Sattelkraftfahrzeug (zweiachsige Zugmaschine, dreiachsiger Sattelanhänger, kein kombinierter Verkehr) höchstens haben?**
 
@@ -39241,6 +42995,8 @@ Die zulässige Gesamtmasse bei einem Sattelkraftfahrzeug darf höchstens 40 t sc
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Welche zulässige Gesamtmasse darf ein Sattelkraftfahrzeug (dreiachsige Zugmaschine, dreiachsiger Sattelanhänger) im kombinierten Verkehr mit 40-Fuß-ISO-Containern höchstens haben?**
 
 **Optionen:**
@@ -39259,6 +43015,8 @@ Die zulässige Gesamtmasse bei einem Sattelkraftfahrzeug welcher 3 Achsen in der
 #### Frage 2.6.06-304
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Welche Gesamtmasse darf ein Zug (zweiachsiger Lkw, dreiachsiger Anhänger, kein kombinierter Verkehr) nicht überschreiten?**
 
@@ -39279,6 +43037,8 @@ Die Gesamtmasse bei einem Zug (zweiachsiger Lkw, dreiachsiger Anhänger, kein ko
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Wie können Sie rechnerisch überprüfen, ob durch die Zusammenstellung eines Sattelkraftfahrzeugs (Sattellast = Aufliegelast) die höchstzulässige Gesamtmasse des Zuges überschritten wird?**
 
 **Optionen:**
@@ -39297,6 +43057,8 @@ Du kannst rechnerisch die zulässige Gesamtmasse der Zugmaschine plus die zuläs
 #### Frage 2.6.06-306
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Sie stellen ein Sattelkraftfahrzeug mit 5 Achsen zusammen (kein kombinierter Verkehr). Folgende Fahrzeugdaten sind Ihnen bekannt:
 zulässige Gesamtmasse (Zugmaschine) = 25 t
@@ -39321,6 +43083,8 @@ Der Betrieb dieser Kombi ist zulässig, wenn du auf mindestens 3 t Nutzlast verz
 
 **Punkte:** 2 Punkte
 
+**Klassen:** CE
+
 **Wie lang darf ein Zug, bestehend aus einem Lkw und Zweiachsanhänger, samt Ladung höchstens sein?**
 
 **Optionen:**
@@ -39336,6 +43100,8 @@ Dein Zug, bestehend aus einem Lkw und Zweiachsanhänger, samt Ladung darf höchs
 #### Frage 2.6.06-308
 
 **Punkte:** 2 Punkte
+
+**Klassen:** CE, T
 
 **Wie ermitteln Sie die zulässige Zuggesamtmasse einer Fahrzeugkombination bestehend aus einem Zugfahrzeug mit Starrdeichselanhänger?**
 
@@ -39357,6 +43123,8 @@ Zulässige Gesamtmasse des Zugfahrzeugs plus zulässige Gesamtmasse des Anhänge
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Wie breit darf diese Zugmaschine einschließlich Anbaugerät höchstens sein?**
 
 ![Question Image](images/2_6_06-401.png)
@@ -39374,6 +43142,8 @@ Demnächst...
 #### Frage 2.6.06-402
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Wie groß darf das Maß X bei landwirtschaftlichen Zugmaschinen höchstens sein?**
 
@@ -39396,6 +43166,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Wie groß darf das Maß X bei landwirtschaftlichen Zugmaschinen höchstens sein?**
 
 ![Question Image](images/2_6_06-403.png)
@@ -39417,6 +43189,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Wie lang darf der Zug mit Ladung höchstens sein?**
 
 ![Question Image](images/2_6_06-404.png)
@@ -39434,6 +43208,8 @@ Demnächst...
 #### Frage 2.6.06-405
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Bei welcher Breite müssen Zugmaschinen mit solchen Warntafeln ausgerüstet sein?**
 
@@ -39453,6 +43229,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L, T
+
 **Wie groß darf das Maß X höchstens sein?**
 
 ![Question Image](images/2_6_06-406.png)
@@ -39470,6 +43248,8 @@ Demnächst...
 #### Frage 2.6.06-407
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, C1E
 
 **Ab welcher zulässigen Gesamtmasse ist für Kraftfahrzeuge oder Fahrzeugkombinationen bei geschäftsmäßiger Beförderung von Gütern das Güterkraftverkehrsgesetz zu beachten?**
 
@@ -39489,6 +43269,8 @@ Ab einer zulässigen Gesamtmasse von 3,5 t für Kraftfahrzeuge oder Fahrzeugkomb
 #### Frage 2.6.06-408
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Die Geltungsdauer einer Ihrer Fahrerlaubnisklassen ist abgelaufen. Welche Folgen hat dies?**
 
@@ -39513,6 +43295,8 @@ Die Folgen sind das Führen von Kraftfahrzeugen dieser Klasse ist untersagt und 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, A80
+
 **Was müssen Sie bei der Benutzung von Navigationssystemen und Straßenkarten beachten?**
 
 **Optionen:**
@@ -39532,6 +43316,8 @@ Bei der Benutzung eines Navis, solltest du darauf achten, dass auch aktuelle Inh
 #### Frage 2.6.07-101
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Was sollten Sie bei der Streckenplanung ins Ausland beachten?**
 
@@ -39554,6 +43340,8 @@ Erkundigen Sie sich vor der Fahrt welche Bestimmungen im Ausland gelten.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Worauf ist bei der Streckenplanung zu achten?**
 
 **Optionen:**
@@ -39574,6 +43362,8 @@ Bei deiner Streckenplanung achte bitte auf mögliche Verkehrsbehinderungen durch
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Können die Angaben in den Straßenkarten von den tatsächlichen Gegebenheiten abweichen?**
 
 **Optionen:**
@@ -39593,6 +43383,8 @@ Straßenkarten können schon kurz nach der Veröffentlichung überholt und veral
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Was sagt der Maßstab 1:300 000 auf einer Straßenkarte aus?**
 
 **Optionen:**
@@ -39611,6 +43403,8 @@ Dieser Maßstab sagt, dass 1 Zentimeter auf der Straßenkarte 3 Kilometern entsp
 #### Frage 2.6.07-209
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Sie fahren auf der Autobahn und wollen auf direktem Weg nach Unterbach. An welcher Stelle verlassen Sie die Autobahn?**
 
@@ -39633,6 +43427,8 @@ Wenn du nach Unterbach möchtest, solltest du auf der Autobahnausfahrt Düsseldo
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Sie wollen mit Ihrem Fahrzeug von Hamburg nach Rom fahren. Welchen Kartenmaßstab sollten Sie wählen, um eine erste Gesamtstreckenplanung durchzuführen?**
 
 **Optionen:**
@@ -39651,6 +43447,8 @@ Bei deiner Fahrt von Hamburg nach Rom kannst du mit dem Maßstab  1:500.000 eine
 #### Frage 2.6.07-212
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Welche Informationen bietet die Legende zu einer Straßenkarte?**
 
@@ -39672,6 +43470,8 @@ Die Legende zu einer Straßenkarte bietet dir eine Erklärung der verwendeten Sy
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Die Nummerierungen der Autobahnen haben folgende Bedeutungen:**
 
 **Optionen:**
@@ -39692,6 +43492,8 @@ Die Nummerierungen auf Autobahnen bedeuten: Regionale Autobahnen führen dreiste
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, CE, C1E
+
 **Sie wollen mit Ihrem Lkw über 7,5 t zulässige Gesamtmasse auf der Autobahn von Hannover nach München fahren. Mit welcher Durchschnittsgeschwindigkeit können Sie rechnen?**
 
 **Optionen:**
@@ -39710,6 +43512,8 @@ Mit deinem Lkw über 7,5 t zulässige Gesamtmasse auf der Autobahn von Hannover 
 #### Frage 2.6.07-216
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Sie wollen lebende Tiere über eine große Entfernung transportieren. Was ist bei der Streckenplanung zu berücksichtigen?**
 
@@ -39732,6 +43536,8 @@ Wenn du lebende Tiere über eine große Entfernung transportieren möchtest, sol
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Sie wollen einen Routenplan erstellen, um von Frankfurt (Oder) nach Kiel zu fahren. An unterschiedlichen Zwischenstationen müssen Sie Ladung austauschen. Welche Angaben sind zur Routenplanung hinsichtlich Weg und Zeit nötig?**
 
 **Optionen:**
@@ -39751,6 +43557,8 @@ In deinem Routenplan von Frankfurt (Oder) nach Kiel, mit unterschiedlichen Zwisc
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Sie planen Ihre Fahrt mit einer Straßenkarte mit dem Maßstab 1:200.000. 1 cm auf der Karte entspricht wie vielen Kilometern in der Realität?**
 
 **Optionen:**
@@ -39769,6 +43577,8 @@ Bei deiner Planung mit einer Straßenkarte mit einem Maßstab von 1:200.000 ents
 #### Frage 2.6.07-219
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Was müssen Sie bei der Nutzung eines Navigationssystems im Fahrzeug beachten?**
 
@@ -39791,6 +43601,8 @@ Bei der Nutzung eines Navigationssystems, beachte bitte, dass die ausgegebenen I
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, T, C1E, D1E, DE
+
 **Welche Tätigkeiten können beim Fahren zu risikoreichen Ablenkungen führen?**
 
 **Optionen:**
@@ -39812,6 +43624,8 @@ Alle Anworten können zu risikoreichen Ablenkungen führen. Die Eingabe einer Ad
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Warum sind bei der Streckenplanung die Lenk- und Ruhezeiten zu berücksichtigen?**
 
 **Optionen:**
@@ -39831,6 +43645,8 @@ Bei der Streckenplanung die Lenk- und Ruhezeiten zu berücksichtigen ist deswege
 #### Frage 2.6.07-222
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Was sollte bei der Streckenplanung berücksichtigt werden?**
 
@@ -39853,6 +43669,8 @@ Du solltest die  Lenk- und Ruhezeiten bei deiner Streckenplanung berücksichtige
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Was ist bei der Benutzung eines elektronischen Navigationsgeräts zu beachten?**
 
 **Optionen:**
@@ -39872,6 +43690,8 @@ Prüfe bitte, ob ein Karten-Update in regelmäßigen Abständen durchgeführt wu
 #### Frage 2.6.07-224
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1
 
 **Was müssen Sie bei der Streckenplanung berücksichtigen?**
 
@@ -39894,6 +43714,8 @@ Bei der Streckenplanung solltest du alle 3 Antworten beachten. Die Lenk- und Ruh
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1
+
 **Was müssen Sie bei der Streckenplanung berücksichtigen?**
 
 **Optionen:**
@@ -39913,6 +43735,8 @@ Bei der Streckenplanung solltest du die Lenk- und Ruhezeiten berücksichtigen un
 #### Frage 2.6.07-226
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE
 
 **Was ist bei der Streckenplanung zu beachten?**
 
@@ -39935,6 +43759,8 @@ Du solltest bei einer Streckenplanung darauf achten, dass es mögliche Verkehrsb
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE
+
 **Sie transportieren Stückgut. Was ist bei der Streckenplanung zu berücksichtigen?**
 
 **Optionen:**
@@ -39956,6 +43782,8 @@ Beim Transport von Stückgut, solltest du alle 3 Antworten berücksichtigen. Die
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, D, D1
+
 **Was ist bei der Nutzung von Navigationssystemen zu beachten?**
 
 **Optionen:**
@@ -39972,6 +43800,8 @@ Beim Transport von Stückgut, solltest du alle 3 Antworten berücksichtigen. Die
 #### Frage 2.6.07-229
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1
 
 **Was müssen Sie im Winter bei Fahrten ins europäische Ausland beachten?**
 
@@ -39997,6 +43827,8 @@ Beim Transport von Stückgut, solltest du alle 3 Antworten berücksichtigen. Die
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Ihr Motorrad ist voll beladen. Wie fahren Sie auf einer langen Passstraße bergab?**
 
 **Optionen:**
@@ -40016,6 +43848,8 @@ Wenn Sie über längere Zeiträume hinunterfahren, besteht die Gefahr, dass die 
 #### Frage 2.7.01-009
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Wann besteht die Gefahr, dass das Vorderrad des Motorrads von der Fahrbahn abhebt?**
 
@@ -40037,6 +43871,8 @@ Schnelle und plötzliche Beschleunigungen könnten dazu führen, dass das Vorder
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie wechselten das Motorrad. Zum ersten Mal fahren Sie ein Motorrad mit Verkleidung. Was ist anders?**
 
 **Optionen:**
@@ -40056,6 +43892,8 @@ Verkleidungen verringern nicht die Sturzgefahr. Es erhöht jedoch die Empfindlic
 #### Frage 2.7.01-018
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Worauf ist beim Mitführen von seitlich angebrachten Koffern oder Packtaschen besonders zu achten?**
 
@@ -40077,6 +43915,8 @@ Das Hinzufügen von Gepäck zu Ihrem Motorrad wird sein Verhalten auf der Straß
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was geschieht, wenn man bei hoher Geschwindigkeit in einen zu niedrigen Gang kommt und schnell einkuppelt?**
 
 **Optionen:**
@@ -40097,6 +43937,8 @@ Wenn Sie einen zu niedrigen Gang einlegen und die Kupplung loslassen, bremst Ihr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was müssen Sie vor Fahrtantritt an Ihrem Motorrad kontrollieren?**
 
 **Optionen:**
@@ -40116,6 +43958,8 @@ Vergewissern Sie sich vor Fahrtantritt, dass der Rückspiegel korrekt installier
 #### Frage 2.7.01-022
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Wann ist höherer Reifendruck nötig?**
 
@@ -40138,6 +43982,8 @@ Der Reifendruck muss erhöht werden, wenn mit mehr Gewicht gefahren wird (zusät
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was müssen Sie bedenken, wenn Sie einen Beifahrer mitnehmen?**
 
 **Optionen:**
@@ -40157,6 +44003,8 @@ Ein Beifahrer erhöht das Gewicht auf Ihrem Motorrad. Dadurch wird das Beschleun
 #### Frage 2.7.01-024
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Was muss man tun, um bremsbereit zu sein?**
 
@@ -40178,6 +44026,8 @@ Wenn Sie Ihre Hand auf die Handbremsen legen und den Fuß über das Bremspedal s
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Warum neigt das Hinterrad eines Motorrads beim Bremsen eher zum Blockieren als das Vorderrad?**
 
 **Optionen:**
@@ -40196,6 +44046,8 @@ Beim Bremsen wird mehr Gewicht auf das Vorderrad und weniger auf das Hinterrad g
 #### Frage 2.7.01-026
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Was ist beim Befahren von Kurven in Gefällstrecken richtig?**
 
@@ -40217,6 +44069,8 @@ Beim Bergab fahren muss man mehr bremsen als in Kurven auf flachem Gelände. Sie
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Sie fahren zügig in eine Kurve, die in ihrem Verlauf enger wird, als es zunächst aussah. Was tun Sie?**
 
 **Optionen:**
@@ -40236,6 +44090,8 @@ In dieser Situation ist eine scharfe Lenkbewegung gefährlich und könnte zu ein
 #### Frage 2.7.01-028
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Was ist beim Aufbocken (Mittelständer) von Motorrädern besonders zu beachten?**
 
@@ -40257,6 +44113,8 @@ Um zu vermeiden, dass das Motorrad umkippt oder stürzt, müssen Sie darauf acht
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Warum ist das Gebot, auf Sicht zu fahren, in Kurven besonders wichtig?**
 
 **Optionen:**
@@ -40276,6 +44134,8 @@ In einer Kurve ist die Sicht aufgrund der Krümmung der Straße eingeschränkt. 
 #### Frage 2.7.01-030
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Wie können Sie der Fliehkraft entgegenwirken?**
 
@@ -40297,6 +44157,8 @@ Die Fliehkraft kann entweder durch Fahren mit geringerer Geschwindigkeit reduzie
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was kann geschehen, wenn ein Motorrad stark beschleunigt wird?**
 
 **Optionen:**
@@ -40317,6 +44179,8 @@ Durch die Beschleunigung beim Abbiegen erhöht sich die Fliehkraft, wodurch sich
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was muss vor dem Fahren mit hoher Zuladung verändert werden?**
 
 **Optionen:**
@@ -40336,6 +44200,8 @@ Achten Sie beim Fahren mit schweren Lasten darauf, den Reifendruck zu erhöhen u
 #### Frage 2.7.01-033
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Welche Kontrollen sind vor Fahrtbeginn besonders wichtig?**
 
@@ -40358,6 +44224,8 @@ Alle drei sind wichtig zu überprüfen, bevor Sie mit der Fahrt beginnen. Stelle
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **In welchen Fällen darf man nur sehr gefühlvoll bremsen?**
 
 **Optionen:**
@@ -40379,6 +44247,8 @@ Sie sollten auf rutschigem Untergrund wie nassen Straßen, Straßenbahnschienen,
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Wie ist ein Motorrad im Regelfall abzubremsen?**
 
 **Optionen:**
@@ -40397,6 +44267,8 @@ Sie sollten beide Bremsen betätigen, was zu einem kürzeren Bremsweg führt, al
 #### Frage 2.7.01-036
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Warum müssen beim Motorrad beide Bremsen immer voll wirksam sein?**
 
@@ -40418,6 +44290,8 @@ Beide Bremsen müssen funktionieren, falls eine von ihnen schlagartig versagt, k
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Bestehen Unterschiede bei der Blockierneigung der Räder?**
 
 **Optionen:**
@@ -40437,6 +44311,8 @@ Beim Bremsen wird mehr Gewicht auf das Vorderrad und weniger auf das Hinterrad g
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Bestehen Unterschiede in der Wirkung der Bremsen?**
 
 **Optionen:**
@@ -40455,6 +44331,8 @@ Beim Bremsen wird mehr Gewicht auf das Vorderrad und weniger auf das Hinterrad g
 #### Frage 2.7.01-039
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, Mofa, A80
 
 **Sie geraten unerwartet auf Rollsplitt. Welches Verhalten ist richtig?**
 
@@ -40476,6 +44354,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** AM, Mofa
+
 **Ihr Fahrzeug war längere Zeit bei feuchtem Wetter im Freien abgestellt. Womit müssen Sie bei den ersten Bremsungen rechnen?**
 
 **Optionen:**
@@ -40495,6 +44375,8 @@ Bei Nässe sind die Bremsen weniger effektiv und die Räder neigen dazu, stärke
 #### Frage 2.7.01-041
 
 **Punkte:** 4 Punkte
+
+**Klassen:** Mofa
 
 **Was kann die Ursache für das Wegrutschen eines Mofas beim Kurvenfahren sein?**
 
@@ -40517,6 +44399,8 @@ Die Schleudergefahr wird durch rutschige Oberflächen wie nasse Straße, Eis, Sa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** Mofa
+
 **Wann verlängert sich der Bremsweg?**
 
 **Optionen:**
@@ -40537,6 +44421,8 @@ Je schwerer das Fahrzeug, desto länger ist der Bremsweg. Auch Gefälle sowie ru
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Welche besondere Eigenschaft von Scheibenbremsen müssen Sie bei nasser Fahrbahn berücksichtigen?**
 
 **Optionen:**
@@ -40554,6 +44440,8 @@ Sie als Kfz-FahrerIn müssen berücksichtigen, dass bei Nässe die Wirkung von S
 #### Frage 2.7.01-044
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Was erhöht die Gefahr, bei schneller Fahrt aus der Kurve zu "fliegen"?**
 
@@ -40575,6 +44463,8 @@ Wenn Sie Ihr Kfz abbremsen oder beschleunigen, werden weniger Lenkkräfte übert
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, L, T, A80
+
 **Was ist beim Kontrollieren des Reifenluftdrucks zu berücksichtigen?**
 
 **Optionen:**
@@ -40595,6 +44485,8 @@ Wenn Sie den Reifenluftdruck überprüfen, müssen Sie auch die Temperatur und d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, T, A80
+
 **Sie befahren eine Kurve ein Mal mit 30 km/h und ein anderes Mal mit 60 km/h. Wie ändert sich dabei die Fliehkraft?**
 
 **Optionen:**
@@ -40613,6 +44505,8 @@ Die Fliehkraft vervierfacht sich mit der Verdoppelung der Geschwindigkeit, hier 
 #### Frage 2.7.01-047
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, T, A80
 
 **Wodurch wird die auf ein Fahrzeug wirkende Fliehkraft bei Kurvenfahrt vergrößert?**
 
@@ -40634,6 +44528,8 @@ Die Geschwindigkeit wirkt sich unmittelbar auf die Höhe der Fliehkraft aus. Ihr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie fahren ein Motorrad mit Beiwagen rechts. Welche Fahrtechnik ist in Kurven anzuwenden?**
 
 **Optionen:**
@@ -40654,6 +44550,8 @@ Wenn Sie mit einem Seitenwagen fahren, erhöhen Sie Ihr Gewicht, deshalb müssen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wo sollte zur Verminderung der Kippgefahr in Kurven ein Mitfahrer auf einem Motorrad mit Beiwagen sitzen?**
 
 **Optionen:**
@@ -40672,6 +44570,8 @@ Um ein Motorrad mit Seitenwagen stabil zu halten, sollte das Gewicht auf beide S
 #### Frage 2.7.01-050
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Was können Sie tun, wenn bei Ihrem Gespann (Beiwagen rechts) in einer Rechtskurve der Beiwagen abhebt?**
 
@@ -40693,6 +44593,8 @@ Beim Abbiegen nach rechts drückt eine Drehmoment kraft den Beiwagen nach oben. 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was kann bei einem Motorrad mit Beiwagen rechts bei zu schnellem Fahren in einer Rechtskurve passieren?**
 
 **Optionen:**
@@ -40710,6 +44612,8 @@ Beim Abbiegen nach rechts drückt eine Drehmoment kraft den Beiwagen nach oben. 
 #### Frage 2.7.01-052
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie haben bisher nur Solo-Motorräder gefahren. Jetzt steigen Sie auf ein Gespann um (Beiwagen rechts, ungebremst). Was ist fahrtechnisch anders?**
 
@@ -40731,6 +44635,8 @@ Da der Beiwagen rechts von Ihnen angebracht ist, können Sie sich nicht nach rec
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie haben bisher nur Solo-Motorräder gefahren. Jetzt steigen Sie auf ein Gespann um (Beiwagen rechts, ungebremst). Was ist anders?**
 
 **Optionen:**
@@ -40751,6 +44657,8 @@ Da der Beiwagen rechts von Ihnen angebracht ist, können Sie sich nicht nach rec
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Was müssen Sie über die Notbetätigung von Bustüren wissen?**
 
 **Optionen:**
@@ -40770,6 +44678,8 @@ Demnächst...
 #### Frage 2.7.01-055
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Was kann geschehen, wenn Sie Ihr Motorrad beim Anfahren sehr stark beschleunigen?**
 
@@ -40792,6 +44702,8 @@ Schnelle und plötzliche Beschleunigungen könnten dazu führen, dass das Vorder
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Sie führen einen Linienbus und wollen von einer Haltestelle abfahren. Worauf müssen Sie achten?**
 
 **Optionen:**
@@ -40813,6 +44725,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Sie fahren bei Nässe mit einem Pkw und Anhänger auf einer schmalen Landstraße und nähern sich einer übersichtlichen, aber engen Linkskurve. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -40832,6 +44746,8 @@ Verringern Sie vor der Kurve Ihre Geschwindigkeit. Berücksichtigen Sie dabei di
 #### Frage 2.7.01-060
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Was müssen Sie beim Aufbocken eines Motorrads auf den Mittelständer beachten?**
 
@@ -40853,6 +44769,8 @@ Das Aufstellen eines Motorrads auf dem Mittelständer erfordert mehr Kraftaufwan
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wie verhalten Sie sich, wenn Ihr Motorrad zu pendeln beginnt?**
 
 **Optionen:**
@@ -40872,6 +44790,8 @@ Wenn Ihr Motorrad ins Wanken gerät, bremsen Sie ab, kuppeln Sie aus und bremsen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie fahren ein Motorrad mit Antiblockiersystem (ABS). Wie führen Sie eine Gefahrbremsung durch?**
 
 **Optionen:**
@@ -40890,6 +44810,8 @@ Wenn sowohl die Fuß- als auch die Handbremse abgebremst werden, wird der kürze
 #### Frage 2.7.01-063
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **Wozu können Fahrerassistenzsysteme beitragen?**
 
@@ -40911,6 +44833,8 @@ Fahrassistenzsysteme sind technische Systeme und tragen natürlich nur zur Unter
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was müssen Sie beachten, wenn Sie in einer Kurve stark bremsen müssen?**
 
 **Optionen:**
@@ -40931,6 +44855,8 @@ Wenn du in einer Kurve stark abbremsen musst, achte darauf, dass dein Kraftrad s
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, L, T, A80
+
 **Was müssen Sie beim Fahren mit einem Quad beachten?**
 
 **Optionen:**
@@ -40950,6 +44876,8 @@ Verringern Sie die Geschwindigkeit bei Abbiegevorgängen, weil Quads durch Ihren
 #### Frage 2.7.01-066
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, AM, B, L, T, A80
 
 **Was ist beim Fahren mit einem Quad zu beachten?**
 
@@ -40972,6 +44900,8 @@ Das Quad hat keine Lenkunterstützung, deshalb könnte das Lenken schwerer sein 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Sie fahren ein Kraftrad mit manuellem Schaltgetriebe. Was müssen Sie tun, um bremsbereit zu sein?**
 
 **Optionen:**
@@ -40991,6 +44921,8 @@ Setzen Sie Fuß und Hand bereits über die Bremshebel um schneller den Bremsvorg
 #### Frage 2.7.01-068
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Sie möchten am Kraftrad seitlich angebrachte Koffer oder Packtaschen nutzen. Worauf ist dabei besonders zu achten?**
 
@@ -41013,6 +44945,8 @@ Achten Sie auf eine gleichmäßige Gewichtsverteilung um das Fahrverhalten zu st
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Ihr Motorrad ist mit einer Antriebs-Schlupf-Regelung (ASR) ausgerüstet. Welche Aufgabe hat dieses System?**
 
 **Optionen:**
@@ -41031,6 +44965,8 @@ Unter "Schlupf" versteht man die plötzliche Erhöhung der Drehzahl bei einem An
 #### Frage 2.7.01-070
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie fahren in einer Kurve, deren Kurvenradius sich im Verlauf verkleinert. Sie haben den Kurvenradius größer eingeschätzt. Wie müssen Sie darauf reagieren?**
 
@@ -41053,6 +44989,8 @@ Du kannst auch die Schräglage in der Kurve erhöhen, damit du engere Kurven fah
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was ist zu beachten, wenn Sie in einer Kurve unerwartet stark bremsen müssen?**
 
 **Optionen:**
@@ -41072,6 +45010,8 @@ Wenn du in der Kurve bremst, wird dein Kraftrad durch die Trägheitskraft aufger
 #### Frage 2.7.01-072
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Wodurch erhöht sich in Kurven mit schlechtem Straßenzustand das Risiko, ins Schleudern zu geraten?**
 
@@ -41096,6 +45036,8 @@ Denn dadurch können die Reifen nicht die gleiche Kraft auf die Straße bringen 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie befahren eine kurvenreiche Straße mit starkem Gefälle. Ihr Motorrad ist voll beladen. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -41116,6 +45058,8 @@ Verwende die Vorderrad- und Hinterradbremse gleichmäßig und versuche die Brems
 #### Frage 2.7.01-074
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Wann besteht die Gefahr, dass das Vorderrad des Motorrads von der Fahrbahn abhebt?**
 
@@ -41138,6 +45082,8 @@ Ebenso verlagert ein Sozius das Gewicht beim Beschleunigen zusätzlich nach hint
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was kann die Folge sein, wenn Sie bei hoher Geschwindigkeit in einen zu niedrigen Gang wechseln?**
 
 **Optionen:**
@@ -41157,6 +45103,8 @@ Der plötzliche, schnelle Anstieg der Motordrehzahl beim Einkuppeln erzeugt eine
 #### Frage 2.7.01-076
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Wie sollten Sie sich verhalten, wenn Ihr Motorrad zu pendeln beginnt?**
 
@@ -41178,6 +45126,8 @@ Indem du sofort das Gas wegnimmst, kannst du das Pendeln reduzieren und die Fahr
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Welche Aufgabe hat ein Not-Aus-Schalter an einem Motorrad?**
 
 **Optionen:**
@@ -41197,6 +45147,8 @@ Der Not-Aus-Schalter schaltet den Motor aus. Du kannst ihn verwenden, um in Gefa
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Was gilt für die Wirkung der Vorderrad- und Hinterradbremse insbesondere bei höherer Geschwindigkeit?**
 
 **Optionen:**
@@ -41215,6 +45167,8 @@ Beim Bremsvorgang verlagert sich das Gewicht nach vorn, was zu einer stärkeren 
 #### Frage 2.7.01-079
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Was kann bei hoher Geschwindigkeit zum Pendeln eines Motorrads führen?**
 
@@ -41238,6 +45192,8 @@ Wenn du das Heck deines Motorrads schwer beladen hast, wirkt weniger Gewicht auf
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Was ändert sich durch das Mitführen eines Wohnanhängers?**
 
 **Optionen:**
@@ -41257,6 +45213,8 @@ Führen Sie als Kfz-FahrerIn einen Wohnanhänger mit, so erhöht sich nicht nur 
 #### Frage 2.7.01-103
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Was ändert sich durch das Mitführen eines zweiachsigen Anhängers hinter einem Pkw?**
 
@@ -41278,6 +45236,8 @@ Das Gespann aus Pkw und Anhänger benötigt mehr Platz beim Befahren von Kurven 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Sie fahren mit Ihrem Pkw und Anhänger auf einer Straße mit Gegenverkehr und wollen nach links abbiegen. Was ist beim Wiederanfahren besonders wichtig?**
 
 **Optionen:**
@@ -41297,6 +45257,8 @@ Mit einem Anhänger haben Sie ein geringeres Beschleunigungsvermögen, eine ver�
 #### Frage 2.7.01-105
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Sie fahren einen Pkw mit einem ungebremsten Anhänger. Es kommt ein längeres, starkes Gefälle. Was ist richtig?**
 
@@ -41318,6 +45280,8 @@ Verringern Sie die Geschwindigkeit rechtzeitig. Legen Sie einen möglichst niedr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was müssen Sie bei einem Pkw mit Wohnanhänger vor Fahrtbeginn prüfen?**
 
 **Optionen:**
@@ -41338,6 +45302,8 @@ Wohnanhänger schränken die Sicht nach hinten ein. Deswegen müssen Sie vor Fah
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie fahren einen Pkw mit voll beladenem Anhänger ohne eigene Bremse. Was ist richtig?**
 
 **Optionen:**
@@ -41356,6 +45322,8 @@ Beachten Sie, dass der voll beladene Anhänger ohne eigene Bremse den Bremsweg u
 #### Frage 2.7.01-109
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie wollen an Ihren Pkw einen einachsigen Wohnwagen anhängen. Was müssen Sie prüfen?**
 
@@ -41377,6 +45345,8 @@ Der Wohnwagen mindert die Sicht nach hinten. Sie als Kfz-FahrerIn müssen prüfe
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie wollen mit einem Automatik-Pkw (hydraulischer Wandler) losfahren. Was müssen Sie wissen?**
 
 **Optionen:**
@@ -41395,6 +45365,8 @@ Geben Sie als Kfz-FührerIn einem Fahrzeug mit Automatikgetriebe ein „Go“ mi
 #### Frage 2.7.01-111
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Worauf ist beim Luftdruck der Reifen zu achten?**
 
@@ -41416,6 +45388,8 @@ Durch die regelmäßige Überprüfung des Luftdrucks der Reifen lassen sich Reif
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie mussten nach einer Reifenpanne das Notrad montieren. Was ist bei der Weiterfahrt verboten?**
 
 **Optionen:**
@@ -41435,6 +45409,8 @@ Noträder haben eine andere Bauform als herkömmliche Räder und sind nur bis zu
 #### Frage 2.7.01-113
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Beim Fahren merken Sie, dass Ihr Pkw stets nach links zieht. Welche Ursachen sind möglich?**
 
@@ -41456,6 +45432,8 @@ Zieht Ihr Fahrzeug nach links, sodass Gegenlenken erforderlich ist, könnte zu w
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wozu neigt ein Pkw mit Vorderradantrieb, wenn man in der Kurve zu viel Gas gibt?**
 
 **Optionen:**
@@ -41475,6 +45453,8 @@ Als Kfz-FahrerIn müssen Sie stets damit rechnen, dass Ihr Fahrzeug mit Vorderra
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wozu neigt ein Pkw mit Hinterradantrieb, wenn man in der Kurve zu viel Gas gibt?**
 
 **Optionen:**
@@ -41493,6 +45473,8 @@ Sie sollten stets damit rechnen, dass Ihr Fahrzeug mit Hinterradantrieb nach hin
 #### Frage 2.7.01-118
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Welche Vorteile bietet eine Antriebs-Schlupf-Regelung (ASR)?**
 
@@ -41514,6 +45496,8 @@ Die Antriebs-Schlupf-Regelung (ASR) eines Kfz verhindert, dass die Räder des Fa
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, L, T
+
 **Sie wollen einen Anhänger mit Kugelkupplung ankuppeln. Was ist richtig?**
 
 **Optionen:**
@@ -41533,6 +45517,8 @@ Bei einem Anhänger mit Kugelkupplung muss die Kupplungsklaue den Kugelkopf fest
 #### Frage 2.7.01-121
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, L, T
 
 **Was müssen Sie nach dem Ankuppeln eines einachsigen Anhängers mit Auflaufbremse tun?**
 
@@ -41555,6 +45541,8 @@ Das Abrissseil muss an der Anhängerkupplung des Zugfahrzeuges eingehängt werde
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Was müssen Sie beim Beladen eines einachsigen Anhängers beachten?**
 
 **Optionen:**
@@ -41576,6 +45564,8 @@ Beim Beladen eines einachsigen Anhängers müssen Sie darauf achten, dass die Ge
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Sie wollen Ihren einachsigen Anhänger (Auflaufbremse, 1.000 kg zulässige Gesamtmasse) im Gefälle abstellen. Was müssen Sie tun?**
 
 **Optionen:**
@@ -41595,6 +45585,8 @@ Sie müssen Ihren Anhänger immer gegen ein mögliches Wegrollen sichern. Dazu m
 #### Frage 2.7.01-124
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B, L, T
 
 **Welche gefährlichen Mängel können an einem auflaufgebremsten Anhänger nach längerer Standzeit vorhanden sein?**
 
@@ -41616,6 +45608,8 @@ Wenn Sie einen Anhänger längere Zeit stehen lassen, können durch die Witterun
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Was müssen Sie beim Beladen eines Anhängers beachten?**
 
 **Optionen:**
@@ -41635,6 +45629,8 @@ Achten Sie immer auf die sachgerechte Sicherung Ihrer Ladung. Um sich und andere
 #### Frage 2.7.01-126
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, T
 
 **Warum soll beim Befahren eines längeren Gefälles nicht die Kupplung getreten und der Motor gleichzeitig ausgeschaltet werden?**
 
@@ -41656,6 +45652,8 @@ Bei ausgeschaltetem Motor kann die Motorbremse (Bremskraftverstärker) nicht wir
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Warum soll ein längeres, starkes Gefälle nicht mit getretener Kupplung durchfahren werden?**
 
 **Optionen:**
@@ -41675,6 +45673,8 @@ Treten Sie im Gefälle die Kupplung, wirkt die Motorbremse nicht und Sie müssen
 #### Frage 2.7.01-128
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE, T
 
 **Was ist beim Ankuppeln eines Mehrachsanhängers richtig?**
 
@@ -41696,6 +45696,8 @@ Du solltest beim Ankuppeln eines Mehrachsanhängers darauf achten, dass sich ein
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie fahren zu zweit mit Gepäck. Was ist bei einer Vollbremsung zu beachten?**
 
 **Optionen:**
@@ -41716,6 +45718,8 @@ Wenn Sie mit mehr Gewicht fahren, sollten Sie mehr Bremskraft einsetzen. Durch d
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Sie müssen in einer Kurve auf nasser Fahrbahn plötzlich bremsen. Welche Besonderheiten bestehen bei einem Fahrzeug mit Antiblockiersystem (ABS)?**
 
 **Optionen:**
@@ -41734,6 +45738,8 @@ Auf nasser Fahrbahn verhindert ABS das Blockieren der Räder und verkürzt den B
 #### Frage 2.7.01-131
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wie wirken sich die Kurvenlaufeigenschaften einer Fahrzeugkombination (Pkw mit Wohnanhänger) beim Abbiegen aus?**
 
@@ -41755,6 +45761,8 @@ Trotz sorgfältiger Fahrweise ist es möglich, dass der Anhänger die Kurve schn
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **An Ihrem Motorrad treten Pendelbewegungen auf. Wodurch können diese ausgelöst worden sein?**
 
 **Optionen:**
@@ -41775,6 +45783,8 @@ Wenn Ihr gesamtes Motorrad nach vorne und hinten schwingt, kann dies durch eine 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, C, C1, D, D1, C1E, D1E, DE
+
 **Was kann die Funktion eines Spurhalteassistenten einschränken?**
 
 **Optionen:**
@@ -41794,6 +45804,8 @@ Der Spurhalteassistent ist ein elektronisches Hilfsmittel, welches den Fahrer wa
 #### Frage 2.7.01-134
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Worüber sollten Sie sich vor einer Fahrt mit einem reinen Elektrofahrzeug informieren?**
 
@@ -41816,6 +45828,8 @@ Der/die Kfz-FahrerIn sollte sich vor dem Fahrtantritt unbedingt über die Reichw
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Sie planen eine längere Reise mit einem reinen Elektrofahrzeug. Was sollten Sie beachten?**
 
 **Optionen:**
@@ -41837,6 +45851,8 @@ Wenn Sie eine längere Reise mit einem reinen Elektrofahrzeug planen, sollten Si
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was sollten Sie beim Laden von reinen Elektrofahrzeugen beachten?**
 
 **Optionen:**
@@ -41856,6 +45872,8 @@ Beim Laden von reinen Elektrofahrzeugen müssen Sie beachten, dass sie nicht an 
 #### Frage 2.7.01-137
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was unterscheidet reine Elektrofahrzeuge von Fahrzeugen mit Verbrennungsmotor?**
 
@@ -41877,6 +45895,8 @@ Reine Elektrofahrzeuge sind nahezu geräuschlos. Reine Elektrofahrzeuge haben ke
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie fahren ein reines Elektrofahrzeug in einem Wohngebiet. Worauf sollten Sie sich aufgrund Ihrer geringen Fahrgeräusche einstellen?**
 
 **Optionen:**
@@ -41897,6 +45917,8 @@ Mit einem reinen Elektrofahrzeug sind Sie nahezu geräuschlos unterwegs und kön
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B, C, C1, D, D1, C1E, D1E, DE
+
 **Sie fahren ein Kraftfahrzeug mit einem Automatischen Blockierverhinderer (ABV). Wie erreichen Sie einen möglichst kurzen Bremsweg?**
 
 **Optionen:**
@@ -41915,6 +45937,8 @@ Bei einer Gefahrenbremsung ist der Bremsweg der kürzeste und deswegen ist schla
 #### Frage 2.7.01-140
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1, C1E, D1E, DE
 
 **Ein Spurhalte-Assistent mit Lenkeingriff kann Sie beim Fahren unterstützen. Was sollten Sie beachten?**
 
@@ -41936,6 +45960,8 @@ Spurhalte-Assistenten mit Lenkeingriff kann das Kraftfahrzeug bei guter Fahrstre
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Sie fahren sehr schnell in eine enge Kurve. Was kann passieren, wenn Sie plötzlich stark bremsen müssen?**
 
 **Optionen:**
@@ -41955,6 +45981,8 @@ Wenn du schnell in eine enge Kurve fährst, verlierst du bei einer starken Brems
 #### Frage 2.7.01-142
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was kann in Kurven zum Schleudern Ihres Kraftfahrzeugs führen?**
 
@@ -41976,6 +46004,8 @@ Durch starke Lenkeinschläge kann es in Kurven dazu kommen, dass dein Fahrzeug i
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Der Spurhalte-Assistent warnt Sie durch akustische, haptische oder optische Signale. Was kann die Ursache dafür sein?**
 
 **Optionen:**
@@ -41994,6 +46024,8 @@ Geraten Sie aus Ihrem Fahrstreifen erkennt das der Spurhalte-Assistent, indem es
 #### Frage 2.7.01-144
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, D1
 
 **In welcher Situation kann Sie der Spurhalte-Assistent mit Lenkeingriff unterstützen?**
 
@@ -42016,6 +46048,8 @@ Durch schlechte Markierungen und enger Fahrbahnen in Baustellen ist der Lenkeing
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, D1
+
 **Bei welcher Fahraufgabe kann der Spurhalte-Assistent mit Lenkeingriff den Fahrzeugführer unterstützen?**
 
 **Optionen:**
@@ -42035,6 +46069,8 @@ Beim Abbiegen kreuzt du Fahrstreifen und Markierungen, der Spurhalte-Assistent k
 #### Frage 2.7.01-146
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, D1
 
 **Was kann die Funktion des Spurhalte-Assistenten mit Lenkeingriff beeinträchtigen?**
 
@@ -42058,6 +46094,8 @@ Die Witterungsverhältnisse können die Sensoren des Spurhalte-Assistenten beein
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, D1
+
 **Unter welcher Voraussetzung funktioniert der Spurhalte-Assistent mit Lenkeingriff bestmöglich?**
 
 **Optionen:**
@@ -42079,6 +46117,8 @@ Die Witterungsverhältnisse können die Sensoren des Spurhalte-Assistenten beein
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Welches Fahrerassistenzsystem bietet ein hohes Verkehrssicherheitspotenzial?**
 
 **Optionen:**
@@ -42099,6 +46139,8 @@ Zu spätes oder zu zaghaftes Bremsen sind oftmals Ursachen für Verkehrsunfälle
 #### Frage 2.7.01-149
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Wie können Fahrerassistenzsysteme Sie unterstützen?**
 
@@ -42122,6 +46164,8 @@ Droht eine Gefahr, können sie dich durch Licht-, Ton- und Haptiksignale warnen.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was kann die Folge sein, wenn Sie bei einem Pkw mit Frontantrieb in der Kurve zu stark beschleunigen?**
 
 **Optionen:**
@@ -42141,6 +46185,8 @@ Gibst du bei einem Pkw mit Frontantrieb in der Kurve zu viel Gas, kann er über 
 #### Frage 2.7.01-151
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Unter welcher Voraussetzung kann ein Aktiver Spurwechsel-Assistent einen Fahrstreifenwechsel durchführen?**
 
@@ -42163,6 +46209,8 @@ Der Spurwechsel-Assistent führt erst einen Spurwechsel durch, wenn er kein Fahr
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D1
+
 **Ihr Kraftfahrzeug ist mit einem Aktiven Spurhalte-Assistenten ausgerüstet. Welche Information kann über die Statusanzeige dieses Systems angezeigt werden?**
 
 **Optionen:**
@@ -42184,6 +46232,8 @@ Das System muss anzeigen können, wenn es eingeschaltet, ausgeschaltet ist oder 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Ihr Kraftfahrzeug ist mit einem Spurhalte-Assistenten ausgerüstet. In welcher Situation kann Sie dieses System unterstützen?**
 
 **Optionen:**
@@ -42202,6 +46252,8 @@ Der Spurhalte-Assistent unterstützt dich dabei, die Fahrspur zu halten. Er warn
 #### Frage 2.7.01-154
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Sie nutzen in Ihrem Kraftfahrzeug den Spurhalte-Assistenten. Er warnt Sie während der Fahrt mit einem Signal. Was kann die Ursache dafür sein?**
 
@@ -42222,6 +46274,8 @@ Bei unbeabsichtigtem Verlassen deines Fahrstreifens warnt der Spurhalte-Assisten
 #### Frage 2.7.01-155
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Sie nutzen in Ihrem Kraftfahrzeug während der Fahrt den Spurhalte-Assistenten. Das System reagiert beim Verlassen des Fahrstreifens nicht. Was kann die Ursache dafür sein?**
 
@@ -42244,6 +46298,8 @@ Durch fehlende Fahrstreifenmarkierungen, unzureichende Fahrbahnausleuchtung und 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Ihr Kraftfahrzeug ist mit einem Spurwechsel-Assistenten ohne Lenkeingriff ausgerüstet. Im Bereich des linken Außenspiegels leuchtet während der Fahrt die Warnleuchte auf. Worauf weist Sie diese Warnleuchte hin?**
 
 **Optionen:**
@@ -42263,6 +46319,8 @@ Befindet sich ein Fahrzeug im Überwachungsbereich, wird dies durch das Aufleuch
 #### Frage 2.7.01-157
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Sie nutzen während der Fahrt den Aktiven Spurhalte-Assistenten. Wie können Sie dieses Fahrerassistenzsystem im Falle des Systemeingriffs manuell übersteuern?**
 
@@ -42284,6 +46342,8 @@ Durch Gegenlenken und Betätigen des Blinkers wird der Eingriff des Spurhalte-As
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **In welcher Situation kann ein Aktiver Spurwechsel-Assistent sinnvoll eingesetzt werden?**
 
 **Optionen:**
@@ -42303,6 +46363,8 @@ Auf Autobahnen oder autobahnähnlichen Straßen sind die Fahrstreifenmarkierunge
 #### Frage 2.7.01-159
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie möchten überholen und haben über den Aktiven Spurwechsel-Assistenten einen Spurwechsel eingeleitet. Was ist richtig?**
 
@@ -42324,6 +46386,8 @@ Der Aktive Spurwechsel-Assistent kann den Spurwechsel nach Einleitung selbststä
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Welches Fahrerassistenzsystem müssen Sie manuell aktivieren, wenn Sie in bestimmten Situationen unterstützt werden möchten?**
 
 **Optionen:**
@@ -42343,6 +46407,8 @@ Der aktive Parkassistent und die Adaptive Geschwindigkeitsregelanlage (AGR) zäh
 #### Frage 2.7.01-161
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie möchten mit dem dargestellten Kleintransporter (bis 3,5 t) Möbel transportieren. Was müssen Sie im Vergleich zum Führen eines Pkws beachten?**
 
@@ -42367,6 +46433,8 @@ Ein Transporter ist sehr viel höher, länger und breiter als ein normaler PKW. 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wie kann Sie der Aktive Park-Assistent beim Einparken unterstützen?**
 
 **Optionen:**
@@ -42385,6 +46453,8 @@ Der aktive Park-Assistent muss manuell von dir aktiviert werden. Nachdem du den 
 #### Frage 2.7.01-163
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Was kann der Grund dafür sein, dass ein Abbiegeassistent einen Radfahrer nicht zuverlässig erkennt?**
 
@@ -42407,6 +46477,8 @@ Ein Abbiegeassistent kann durch verschiedene Umstände fehlerhaft arbeiten. So i
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Was müssen Sie bei der Nutzung des Aktiven Park-Assistenten beachten?**
 
 **Optionen:**
@@ -42425,6 +46497,8 @@ Nachdem du den aktiven Park-Assistenten aktiviert hast, unterstützt dich das Sy
 #### Frage 2.7.01-165
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie fahren ein Elektrofahrzeug. In welchem Fall kann die Bremswirkung durch Rekuperation eingeschränkt sein?**
 
@@ -42446,6 +46520,8 @@ Durch die Rekuperation funktioniert der Motor des Elektrofahrzeugs beim Bremsen 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Ihr Fahrzeug ist mit einer Berganfahrhilfe ausgerüstet. Welchen Vorteil bietet Ihnen dieses Assistenzsystem?**
 
 **Optionen:**
@@ -42465,6 +46541,8 @@ Die Berganfahrhilfe kann dir das Anfahren an einem Berg erleichtern, indem sie d
 #### Frage 2.7.01-167
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Was gilt bei der Nutzung von Fahrerassistenzsystemen für die Längs- und Querführung Ihres Kraftfahrzeugs?**
 
@@ -42487,6 +46565,8 @@ Wenn du eine Fehlfunktion des Fahrerassistenzsystems bemerkst, solltest du so sc
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Worauf müssen Sie sich einstellen, wenn Sie ein Tankfahrzeug mit teilbeladenen Kammern fahren?**
 
 **Optionen:**
@@ -42506,6 +46586,8 @@ Bei einem Tankfahrzeug, welches du mit teil beladenen Kammern fährst, musst du 
 #### Frage 2.7.01-204
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, D, D1, C1E, D1E, DE
 
 **Wie können Sie in einem längeren Gefälle die Betriebsbremse schonen?**
 
@@ -42527,6 +46609,8 @@ Durch rechtzeitiges zurückschalten kannst du die Betriebsbremse schonen um eine
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, DE
+
 **Sie befahren mit einem voll besetzten Bus ein Gefälle und haben dieses unterschätzt. Die Geschwindigkeit nimmt trotz eingeschalteter Dauerbremse merklich zu. Was müssen Sie tun?**
 
 **Optionen:**
@@ -42544,6 +46628,8 @@ Demnächst...
 #### Frage 2.7.01-206
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, DE
 
 **Was müssen Sie beim Ein- und Aussteigen von Fahrgästen beachten?**
 
@@ -42565,6 +46651,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, DE
+
 **Was müssen Sie bei fremdkraftbetätigten Fahrgasttüren in Ihrem Bus beachten?**
 
 **Optionen:**
@@ -42584,6 +46672,8 @@ Demnächst...
 #### Frage 2.7.01-208
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Worauf müssen Sie im Linienverkehr achten?**
 
@@ -42605,6 +46695,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Bei welchen Fahrten dürfen keine Personen auf Stehplätzen befördert werden?**
 
 **Optionen:**
@@ -42624,6 +46716,8 @@ Demnächst...
 #### Frage 2.7.01-211
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Wofür müssen Sie im Winter sorgen?**
 
@@ -42645,6 +46739,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Worauf müssen Sie bei Bustüren achten?**
 
 **Optionen:**
@@ -42664,6 +46760,8 @@ Demnächst...
 #### Frage 2.7.01-216
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Wozu dürfen Sie im Linienverkehr eine Lautsprecheranlage benutzen?**
 
@@ -42685,6 +46783,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Was muss im Linienverkehr den Fahrgästen auf Verlangen vorgelegt werden?**
 
 **Optionen:**
@@ -42704,6 +46804,8 @@ Demnächst...
 #### Frage 2.7.01-218
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Wogegen müssen Sie als Busfahrer einschreiten?**
 
@@ -42726,6 +46828,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wogegen müssen Sie als Busfahrer einschreiten?**
 
 **Optionen:**
@@ -42745,6 +46849,8 @@ Demnächst...
 #### Frage 2.7.01-220
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Welchen Personen können Sie die Beförderung verweigern?**
 
@@ -42766,6 +46872,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Was darf in einem Bus nicht mitgenommen werden?**
 
 **Optionen:**
@@ -42785,6 +46893,8 @@ Demnächst...
 #### Frage 2.7.01-222
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Was ist bei der Beförderung von Gepäck in Bussen zu beachten?**
 
@@ -42806,6 +46916,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Was ist bei der Mitnahme von Tieren in Bussen zu beachten?**
 
 **Optionen:**
@@ -42826,6 +46938,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Womit müssen Sie als Schulbusfahrer an einer Haltestelle rechnen?**
 
 **Optionen:**
@@ -42845,6 +46959,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wann muss ein Schulbus mit den orangefarbenen Schulbusschildern gekennzeichnet sein?**
 
 **Optionen:**
@@ -42862,6 +46978,8 @@ Demnächst...
 #### Frage 2.7.01-227
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Was müssen Sie als Schulbusfahrer tun, bevor Sie von der Haltestelle abfahren?**
 
@@ -42884,6 +47002,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wann müssen Sie als Schulbusfahrer während der Fahrt einschreiten?**
 
 **Optionen:**
@@ -42903,6 +47023,8 @@ Demnächst...
 #### Frage 2.7.01-229
 
 **Punkte:** 4 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Was müssen Sie als Fahrer eines Linien- oder Schulbusses beim Heranfahren an Haltestellen beachten?**
 
@@ -42924,6 +47046,8 @@ Demnächst...
 
 **Punkte:** 4 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Sie wollen mit einem Linienbus von einer Haltestelle abfahren. Was ist richtig?**
 
 **Optionen:**
@@ -42943,6 +47067,8 @@ Demnächst...
 #### Frage 2.7.01-232
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Was müssen Sie beachten, wenn Sie bei einem Bus die Rampe oder die Hubeinrichtung (Lift) benutzen wollen?**
 
@@ -42964,6 +47090,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Sie fahren einen Bus im Gelegenheitsverkehr. Fahrgäste bitten Sie, eine Pause einzulegen. Was ist zu beachten?**
 
 **Optionen:**
@@ -42981,6 +47109,8 @@ Demnächst...
 #### Frage 2.7.01-238
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
 
 **Ein Kraftfahrzeug mit Druckluftbremsanlage war mehrere Tage nicht in Betrieb. Wann dürfen Sie frühestens losfahren (Fahrzeug voll ausgelastet)?**
 
@@ -43000,6 +47130,8 @@ Wenn dein Fahrzeug mehrere Tage stand, solltest du darauf achten, dass die Druck
 #### Frage 2.7.01-242
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Was haben Sie nach einem Radwechsel zu beachten?**
 
@@ -43021,6 +47153,8 @@ Radmuttern bitte immer nach Herstelleranweisungen anziehen. Nicht zu fest. Radmu
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, CE, C1E
+
 **Ein voll beladenes Fahrzeug hat einen Reifenschaden an der Liftachse. Was können Sie tun?**
 
 **Optionen:**
@@ -43041,6 +47175,8 @@ Bei einem Reifenschaden an der Liftachse musst du den Radwechsel gemäß der Bed
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Welcher Gütertransport ist vom Güterkraftverkehrsgesetz ausgenommen?**
 
 **Optionen:**
@@ -43059,6 +47195,8 @@ In dem Güterkraftverkehrsgesetz ist geregelt, dass gewerblicher Gütertransport
 #### Frage 2.7.01-251
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Für welche Fahrzeuge im gewerblichen Güterverkehr muss eine Erlaubnisurkunde vorliegen?**
 
@@ -43080,6 +47218,8 @@ Erlaubnis-urkunden im gewerblichen Güterverkehr müssen dann vorliegen, wenn f�
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Ihr Bus ist mit einer fremdkraftbetätigten Rampe oder einer fremdkraftbetätigten Hubeinrichtung (Lift) ausgerüstet. Was müssen Sie regelmäßig überprüfen?**
 
 **Optionen:**
@@ -43100,6 +47240,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wo dürfen an 100 km/h-Bussen keine nachgeschnittenen Reifen verwandt werden?**
 
 **Optionen:**
@@ -43118,6 +47260,8 @@ Demnächst...
 #### Frage 2.7.01-255
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Worauf müssen Sie bei der Befestigung eines Rades achten?**
 
@@ -43138,6 +47282,8 @@ Bitte achte auf das Anziehen der Radmuttern mit dem vorgeschriebenen Drehmoment 
 #### Frage 2.7.01-256
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1
 
 **Worauf müssen Sie beim Betrieb Ihres Kraftfahrzeugs unter winterlichen Verhältnissen achten?**
 
@@ -43160,6 +47306,8 @@ Um die Sicherheit zu gewährleisten müssen Sie mit Winterreifen fahren, ausreic
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, D, D1
+
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Wie können Sie beim Befahren eines längeren Gefälles die Betriebsbremse schonen?**
 
 **Optionen:**
@@ -43180,6 +47328,8 @@ Schalten Sie runter um die Motorbremswirkung zu erhöhen.
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Was kann der Grund dafür sein, wenn der Abbiegeassistent Sie warnt?**
 
 **Optionen:**
@@ -43199,6 +47349,8 @@ Ein Abbiegeassistent überwacht beim Rechtsabbiegen den Bereich rechts neben dem
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Ihr Kraftfahrzeug ist mit einem Abbiegeassistenten ausgerüstet. Welche Funktion erfüllt dieser beim Abbiegevorgang?**
 
 **Optionen:**
@@ -43217,6 +47369,8 @@ Ein Abbiegeassistent überwacht beim Rechtsabbiegen den Bereich rechts neben dem
 #### Frage 2.7.01-260
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1
 
 **Was ist zu erwarten, wenn Sie mit einem schwer beladenen Lkw eine enge Kurve befahren?**
 
@@ -43238,6 +47392,8 @@ Ein schwer beladener Lkw kann beim Befahren einer engen Kurve umkippen oder unzu
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE
+
 **Welche Einrichtungen am Anhänger sind nicht betriebsfähig, wenn die elektrischen Verbindungen zum Zugfahrzeug unterbrochen oder die Kabel nicht angeschlossen sind?**
 
 **Optionen:**
@@ -43257,6 +47413,8 @@ Wenn die Kabel vom Anhänger nicht betriebsfähig sind, weil die elektronische V
 #### Frage 2.7.01-305
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Was sollten Sie bei einem mitgeführten Ersatzrad regelmäßig prüfen?**
 
@@ -43278,6 +47436,8 @@ Beim mitgeführten Ersatzrad solltest du auf die sichere Befestigung achten und 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Sie befahren mit einem beladenen Lkw eine Straße mit Gefälle. Die Geschwindigkeit nimmt trotz eingeschalteter Dauerbremse merklich zu. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -43296,6 +47456,8 @@ Du solltest die Motorbremswirkung deines Lkws bei einem Gefälle versuchen zu er
 #### Frage 2.7.01-307
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Was ist bei Motorrädern mit herkömmlichem Antiblockiersystem (ABS) beim Bremsen in Kurven zu beachten?**
 
@@ -43317,6 +47479,8 @@ Selbst wenn Ihr Motorrad mit ABS ausgestattet ist, sollten Sie dennoch kontrolli
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was kann das Pendeln eines Motorrads begünstigen?**
 
 **Optionen:**
@@ -43337,6 +47501,8 @@ Das Wackeln nimmt bei höherer Geschwindigkeit zu und wenn das Gewicht nicht gut
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wodurch kann das Pendeln beim Motorradfahren ausgelöst werden?**
 
 **Optionen:**
@@ -43356,6 +47522,8 @@ Das Wackeln kann auf unausgeglichene Gewichte (mehr Gewicht auf der rechten oder
 #### Frage 2.7.01-310
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, L, T
 
 **Wie wirken sich die Kurvenlaufeigenschaften einer Fahrzeugkombination (Kraftfahrzeug mit Anhänger) beim Abbiegen aus?**
 
@@ -43380,6 +47548,8 @@ Die Kurvenlaufeigenschaften einer Fahrzeugkombination kann beim Abbiegen ausschw
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie stellen am Lenkkopflager Spiel fest. Was ist zu tun?**
 
 **Optionen:**
@@ -43398,6 +47568,8 @@ Ein loser Lenker mit etwas Spiel ist gefährlich und erschwert die Kontrolle üb
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Beim Bewegen des Lenkers stellen Sie einen Rastpunkt im Lenkkopflager fest. Was ist zu tun?**
 
 **Optionen:**
@@ -43415,6 +47587,8 @@ Wenn Sie Spiel im Lenkkopflager feststellen, ist Ihr Motorrad schwieriger zu kon
 #### Frage 2.7.02-003
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Wozu kann Spiel im Lenkkopflager führen?**
 
@@ -43435,6 +47609,8 @@ Ein loser Lenker mit etwas Spiel ist gefährlich und erschwert die Kontrolle üb
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wie kann sich ein defekter Lenkungsdämpfer auf das Fahrverhalten auswirken?**
 
 **Optionen:**
@@ -43454,6 +47630,8 @@ Ein defekter Lenkungsstoßdämpfer kann das Lenkrad zum Vibrieren/Schütteln bri
 #### Frage 2.7.02-005
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Was kann das Fahrverhalten entscheidend verschlechtern?**
 
@@ -43476,6 +47654,8 @@ Alle drei verschlechtern die Lenkung Ihres Motorrads und erschweren die Kontroll
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie stellen an Ihrem Motorrad ein schlechtes Spurverhalten fest. Woran kann das liegen?**
 
 **Optionen:**
@@ -43494,6 +47674,8 @@ Sowohl das Spiel in den Radlagern als auch die ausgelenkte Hinterradgabel könne
 #### Frage 2.7.02-007
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Ihr Motorrad fährt nicht mehr spurtreu. Was kann defekt sein?**
 
@@ -43515,6 +47697,8 @@ Eine verbogene Gabel oder ein verbogener Rahmen kann dazu führen, dass Ihr Moto
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Beim plötzlichen Gaswegnehmen ohne auszukuppeln fährt Ihr Motorrad nicht mehr spurtreu. Was kann die Ursache hierfür sein?**
 
 **Optionen:**
@@ -43535,6 +47719,8 @@ Sowohl das Spiel im Hinterradlager als auch im Gabellager kann dazu führen, das
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie stellen fest, dass der Hebelweg der hydraulischen Vorderradbremse Ihres Motorrads wesentlich länger geworden ist. Was müssen Sie tun?**
 
 **Optionen:**
@@ -43554,6 +47740,8 @@ Es ist ein Zeichen für eine defekte Vorderradbremse, die repariert oder ersetzt
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Die Spiegelhalterung an Ihrem Motorrad ist lose. Was tun Sie?**
 
 **Optionen:**
@@ -43571,6 +47759,8 @@ Sie sollten niemals Ihren Spiegel entfernen und müssen ihn reparieren, da er je
 #### Frage 2.7.02-015
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Was können Sie am Reifen kontrollieren?**
 
@@ -43593,6 +47783,8 @@ Der/Die Kfz-FahrerIn kann am Reifen kontrollieren, ob die vorgeschriebene Profil
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Wann müssen Bremsbeläge erneuert werden?**
 
 **Optionen:**
@@ -43613,6 +47805,8 @@ Der/Die Kfz-FahrerIn muss die Bremsbeläge am Fahrzeug erneuern, wenn diese star
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Gleich nach dem Losfahren machen Sie eine Bremsprobe. Warum?**
 
 **Optionen:**
@@ -43630,6 +47824,8 @@ Unmittelbar nach Fahrtbeginn sollten Sie die Wirksamkeit der Betriebsbremse durc
 #### Frage 2.7.02-019
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Warum muss die Bremsflüssigkeit nach Anweisung des Fahrzeugherstellers ausgetauscht werden?**
 
@@ -43651,6 +47847,8 @@ Die Bremsflüssigkeit zieht Wasser auch aus der Luft, mit der Zeit steigt also d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **In welchen Fällen ist eine Bremsprobe unerlässlich?**
 
 **Optionen:**
@@ -43670,6 +47868,8 @@ Eine Bremsprobe ist immer dann unerlässlich, wenn ein Fahrzeug über einen län
 #### Frage 2.7.02-021
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Worauf müssen Sie in regelmäßigen Abständen die Reifen Ihres Fahrzeugs überprüfen?**
 
@@ -43692,6 +47892,8 @@ In regelmäßigen Abständen sollten Sie bei den Reifen Ihres Fahrzeugs den Luft
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Welche Folgen kann zu hoher oder zu niedriger Luftdruck in den Reifen haben?**
 
 **Optionen:**
@@ -43712,6 +47914,8 @@ Ist der Reifeninnendruck zu hoch oder zu gering, verschlechtert sich das Fahrver
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Sie sind mit einem Reifen heftig gegen ein hartes Hindernis gefahren. Was müssen Sie tun?**
 
 **Optionen:**
@@ -43729,6 +47933,8 @@ Reifen und Felge müssen vor der Weiterfahrt gründlich überprüft werden. Sch�
 #### Frage 2.7.02-024
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Was geschieht, wenn Sie mit wesentlich zu niedrigem Reifenluftdruck fahren?**
 
@@ -43750,6 +47956,8 @@ Wenn Sie mit wesentlich zu niedrigem Reifeninnendruck fahren, kann sich der Reif
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Was kann die Ursache für den Ausfall eines Schlusslichtes sein?**
 
 **Optionen:**
@@ -43770,6 +47978,8 @@ Wenn das Schlusslicht ausfällt, sollten Sie zuerst die Glühlampe überprüfen.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Die Kontrollleuchte des Blinkers blinkt erheblich schneller als üblich. Welche Ursache kann vorliegen?**
 
 **Optionen:**
@@ -43787,6 +47997,8 @@ Das Blinkintervall der Kontrolllampe verkürzt sich deutlich, wenn eine Glühlam
 #### Frage 2.7.02-027
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Warum muss eine durchgerostete Auspuffanlage unverzüglich repariert werden?**
 
@@ -43808,6 +48020,8 @@ Sie müssen eine durchgerostete Auspuffanlage unverzüglich reparieren, weil son
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Das Auspuffgeräusch ist plötzlich lauter als normal. Was tun Sie?**
 
 **Optionen:**
@@ -43826,6 +48040,8 @@ Es ist zu vermuten, dass die Auspuffanlage defekt oder durchgerostet ist. Eine d
 #### Frage 2.7.02-029
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Woran kann es liegen, wenn die Hupe nicht funktioniert?**
 
@@ -43847,6 +48063,8 @@ Sollte die Hupe Ihres Fahrzeuges nicht funktionieren, kann das an einer defekten
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Beim Bremsen bemerken Sie, dass Ihr Fahrzeug nach rechts zieht. Wie verhalten Sie sich?**
 
 **Optionen:**
@@ -43865,6 +48083,8 @@ Von einer defekten Bremsanlage geht eine erhebliche Gefahr aus, die zu Unfällen
 #### Frage 2.7.02-031
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Was können Ursachen für einen zu großen Bremszylinderhub sein?**
 
@@ -43886,6 +48106,8 @@ Eine Ursache für einen zu großen Bremszylinderhub ist eine ausgeschlagene Lage
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A2, B, A80
+
 **Welche Profiltiefe müssen alle Reifen Ihres Fahrzeugs am Hauptprofil mindestens aufweisen?**
 
 **Optionen:**
@@ -43901,6 +48123,8 @@ Reifen von Krafträder und PKW müssen eine Profiltiefe von mindesten 1,6 mm auf
 #### Frage 2.7.02-033
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Das Bremslicht Ihres Fahrzeugs funktioniert nicht. Was kann die Ursache sein?**
 
@@ -43922,6 +48146,8 @@ Ein funktionierendes Bremslicht ist erheblich für die Teilnahme am Straßenverk
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, L, T, A80
+
 **Wie müssen Sie sich verhalten, wenn nach dem Motorstart die Öldruckkontrollleuchte nicht erlischt?**
 
 **Optionen:**
@@ -43941,6 +48167,8 @@ Um Schäden am Motor zu vermeiden, sollten Sie den Motor umgehend abstellen und 
 #### Frage 2.7.02-035
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Wann muss die Bremsanlage an Ihrem Kraftrad umgehend überprüft werden?**
 
@@ -43963,6 +48191,8 @@ Die Bremskontrolleuchte warnt vor defekter Bremsanlage, leuchtet diese während 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wie überprüfen Sie mit einer Sichtprüfung die Funktion der Bremsleuchte richtig?**
 
 **Optionen:**
@@ -43981,6 +48211,8 @@ Um sicherzugehen, dass sowohl bei der Hand- als auch bei der Fußbremse die Brem
 #### Frage 2.7.02-037
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Sie sind mit einem Rad heftig gegen eine Bordsteinkante gefahren. Was sollten Sie beachten?**
 
@@ -44004,6 +48236,8 @@ Wenn das Rad bei dem Zusammenstoß Schaden genommen hat, könnte sich dieser neg
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, C, C1, D, D1, L, T, A80
+
 **Die Schlussleuchte Ihres Fahrzeugs funktioniert nicht. Was kann die Ursache dafür sein?**
 
 **Optionen:**
@@ -44023,6 +48257,8 @@ Eine durchgebrannte Sicherung oder eine defekte Glühlampe können die Ursache f
 #### Frage 2.7.02-039
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Woran können Sie den Verschleiß des Bremsbelags an einer Scheibenbremsanlage erkennen?**
 
@@ -44044,6 +48280,8 @@ Die Verschleißmarkierungen am Bremsbelag dienen dazu, den Verschleißzustand de
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Das Bremslicht an Ihrem Fahrzeug ist ohne Funktion. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -44063,6 +48301,8 @@ Wenn das Leuchtmittel defekt ist, funktioniert das Bremslicht des Fahrzeugs nich
 #### Frage 2.7.02-041
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Das Auspuffgeräusch ist plötzlich ungewöhnlich laut. Was ist richtig?**
 
@@ -44084,6 +48324,8 @@ Wenn das Leuchtmittel defekt ist, funktioniert das Bremslicht des Fahrzeugs nich
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie stellen deutliches Spiel am Lenkkopflager Ihres Motorrads fest. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -44102,6 +48344,8 @@ Ein deutliches Spiel am Lenkkopflager deutet darauf hin, dass das Lager kaputt i
 #### Frage 2.7.02-043
 
 **Punkte:** 4 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Woran können Sie Mängel am Lenkkopflager Ihres Motorrads erkennen?**
 
@@ -44125,6 +48369,8 @@ Wenn der Lenker z.B. schwer zu drehen ist, kann das am Lenkkopflager liegen. Ein
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, C, C1, D, D1, A80
+
 **Wie können Sie einen defekten Blinker erkennen?**
 
 **Optionen:**
@@ -44146,6 +48392,8 @@ Wenn die Blinker-Kontrollleuchte während der Fahrt schneller als üblich blinkt
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie stellen fest, dass der Leerweg am Bremshebel der hydraulischen Vorderradbremse erheblich größer geworden ist. Was müssen Sie tun?**
 
 **Optionen:**
@@ -44164,6 +48412,8 @@ Wenn der Leerweg am Bremshebel der hydraulischen Vorderradbremse größer geword
 #### Frage 2.7.02-046
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Das Spurverhalten Ihres Motorrads hat sich verschlechtert. Was kann die Ursache dafür sein?**
 
@@ -44186,6 +48436,8 @@ Wenn die Kettenspanner deines Motorrads ungleichmäßig nachgestellt wurden, kö
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **In welcher Verkehrssituation kann eine verschlissene und damit rutschende Kupplung die Verkehrssicherheit beeinträchtigen?**
 
 **Optionen:**
@@ -44205,6 +48457,8 @@ Eine verschlissene und rutschende Kupplung erkennst du daran, dass sie nicht meh
 #### Frage 2.7.02-048
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie befinden sich auf einer längeren Reise und machen einen Tankstopp. Welche Kontrolle sollten Sie an Ihrem Motorrad dabei durchführen?**
 
@@ -44227,6 +48481,8 @@ Vor dem Antritt längerer Fahrten solltest du deine Beleuchtung und deine Bereif
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, C1, D1, L, A80
+
 **Eine Anzeige Ihres flüssigkeitsgekühlten Kraftfahrzeugs informiert Sie über eine zu hohe Motortemperatur. Wie sollten Sie sich jetzt verhalten?**
 
 **Optionen:**
@@ -44245,6 +48501,8 @@ Halte so schnell wie möglich an einer geeigneten Stelle an und schalte den Moto
 #### Frage 2.7.02-050
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, C, C1, D, D1, L, T, A80
 
 **Eine Anzeige Ihres flüssigkeitsgekühlten Fahrzeugs informiert Sie über eine zu hohe Kühlmitteltemperatur. Was kann die Ursache dafür sein?**
 
@@ -44269,6 +48527,8 @@ Wenn der Kühlerlüfter defekt ist, steigt die Temperatur schnell an. Prüfe den
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wodurch verschlechtert sich die Fahrstabilität eines Motorrads?**
 
 **Optionen:**
@@ -44289,6 +48549,8 @@ Wenn deine Stoßdämpfer verschlissen sind, können sie die Unebenheiten der Str
 #### Frage 2.7.02-052
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Der Motor Ihres Motorrads ist flüssigkeitsgekühlt. Was sollten Sie beachten?**
 
@@ -44311,6 +48573,8 @@ Ablagerungen und Schmutz können die Funktion des Kühlers beeinträchtigen. Ver
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Das Lenkrad lässt sich schwerer als normal drehen. Was kann die Ursache dafür sein?**
 
 **Optionen:**
@@ -44330,6 +48594,8 @@ Ist die Lenkung schwergängig, kann ein Defekt am Lenkgetriebe die Ursache dafü
 #### Frage 2.7.02-107
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Die Bremse an Ihrem Pkw wirkt stark einseitig. Welche Folgen können beim Bremsen eintreten?**
 
@@ -44351,6 +48617,8 @@ Wirkt die Bremse am Pkw stark einseitig, hat dies erhebliche negative Auswirken 
 
 **Punkte:** 5 Punkte
 
+**Klassen:** B
+
 **Das Bremspedal lässt sich bis zum Fahrzeugboden durchtreten. Erst bei mehrmaliger Betätigung wird der Pedalweg kürzer. Was müssen Sie tun?**
 
 **Optionen:**
@@ -44371,6 +48639,8 @@ Lässt sich das Bremspedal bis zum Fahrzeugboden durchtreten und wird der Pedalw
 
 **Punkte:** 4 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Die Bremsleuchten sind ohne Funktion. Was tun Sie?**
 
 **Optionen:**
@@ -44389,6 +48659,8 @@ Ein Defekt an den Bremsleuchten muss sofort behoben werden, um im Straßenverkeh
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Woran können Sie während der Fahrt eine defekte Blinkleuchte erkennen?**
 
 **Optionen:**
@@ -44406,6 +48678,8 @@ Eine defekte Blinkleuchte macht sich dadurch bemerkbar, dass die Kontrolllampe i
 #### Frage 2.7.02-114
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie fahren bei Dunkelheit mit Abblendlicht. Entgegenkommende blenden auf und ab. Was kann das bedeuten?**
 
@@ -44427,6 +48701,8 @@ Das Auf- und Abblenden der entgegenkommenden Kfz-FahrerInnen ist ein typisches Z
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Das Spiegelglas des linken Außenspiegels ist gesprungen. Was tun Sie?**
 
 **Optionen:**
@@ -44444,6 +48720,8 @@ An jedem Fahrzeug ist ein linker Außenspiegel zwingend vorgeschrieben. Wenn das
 #### Frage 2.7.02-117
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Die Scheibenwaschanlage funktioniert nicht. Woran kann das liegen?**
 
@@ -44466,6 +48744,8 @@ Wenn die Scheibenwaschanlage nicht funktioniert, kann das entweder an verstopfte
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Aus den Düsen der Scheibenwaschanlage kommt zu wenig Wasser. Was kann die Ursache dafür sein?**
 
 **Optionen:**
@@ -44485,6 +48765,8 @@ Die Düsen der Scheibenwaschanlage Ihres Fahrzeugs könnten teilweise verstopft 
 #### Frage 2.7.02-119
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Woran kann es liegen, wenn die Scheibenwischer nicht mehr sauber wischen?**
 
@@ -44506,6 +48788,8 @@ Wenn die Scheibenwischer nicht mehr sauber wischen, kann das an einem Ölfilm au
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Die Scheibenwischer an Ihrem Pkw funktionieren nicht. Was kann die Ursache dafür sein?**
 
 **Optionen:**
@@ -44526,6 +48810,8 @@ Wenn die Scheibenwischer an Ihrem Pkw nicht funktionieren, kann das an einem def
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Das Schloss eines Sicherheitsgurtes schließt nicht. Was tun Sie?**
 
 **Optionen:**
@@ -44544,6 +48830,8 @@ Wenn das Schloss eines Sicherheitsgurtes nicht richtig schließt, müssen Sie si
 #### Frage 2.7.02-122
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Der Sicherheitsgurt rollt sich nicht mehr automatisch auf. Woran kann das liegen?**
 
@@ -44564,6 +48852,8 @@ Manchmal passiert es beim Abschnallen, dass sich der Gurt verdreht und in der vo
 #### Frage 2.7.02-123
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **In Ihrem Pkw flattert das Lenkrad während der Fahrt. Woran kann das liegen?**
 
@@ -44586,6 +48876,8 @@ Wenn das Lenkrad während der Fahrt flattert, können defekte Stoßdämpfer der 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Woran kann es liegen, wenn sich an der Vorderachse ein Reifen einseitig stärker abnutzt?**
 
 **Optionen:**
@@ -44604,6 +48896,8 @@ Grundsätzlich sind zwei Ursachen für die unterschiedlich starke Abnutzung der 
 #### Frage 2.7.02-125
 
 **Punkte:** 3 Punkte
+
+**Klassen:** AM, B
 
 **Was kann die Ursache für eine übermäßige Abnutzung der Reifen sein?**
 
@@ -44625,6 +48919,8 @@ Falscher Reifeninnendruck und Schäden an der Federung sind die häufigsten Ursa
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Während der Fahrt zieht Ihr Fahrzeug nach rechts. Woran kann das liegen?**
 
 **Optionen:**
@@ -44644,6 +48940,8 @@ Wenn während der Fahrt Ihr Fahrzeug nach rechts zieht, kann dafür die Radstell
 #### Frage 2.7.02-127
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B, C, C1, D, D1, T, C1E, D1E, DE
 
 **Welche Auswirkung hat das Lenken im Stand für Ihr Fahrzeug?**
 
@@ -44665,6 +48963,8 @@ Während des Lenkens im Stand können auf der Lauffläche des Reifens Beschädig
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Wann sollten Sie bei Ihrem Pkw die Bremsanlage überprüfen lassen?**
 
 **Optionen:**
@@ -44684,6 +48984,8 @@ Die Bremskontrolleuchte warnt vor defekter Bremsanlage, leuchtet diese während 
 #### Frage 2.7.02-129
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Während der Fahrt merken Sie, dass Ihr Pkw beim Bremsen stark nach links zieht. Wie verhalten Sie sich richtig?**
 
@@ -44706,6 +49008,8 @@ Das Bremsen mit der Handbremse kann dazu führen, dass dein Pkw aus der Spur aus
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T
+
 **Ihr Fahrzeug lässt sich deutlich schwerer lenken als üblich. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -44725,6 +49029,8 @@ Weitere Fahrten würden zu viel Risiko mit sich bringen. Dadurch würdest du dic
 #### Frage 2.7.02-131
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B, C, C1, D, D1
 
 **Sie stellen fest, dass die Reifen an der Vorderachse Ihres Fahrzeugs ungleichmäßig abgenutzt sind. Was sollte überprüft werden?**
 
@@ -44748,6 +49054,8 @@ Ein defekter Stoßdämpfer oder auch eine falsche Fahrwerkseinstellung kann zu u
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Während der Fahrt zieht Ihr Fahrzeug nach rechts. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -44770,6 +49078,8 @@ Weitere Fahrten würden zu viel Risiko mit sich bringen.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Wann müssen Sie Ihren Pkw in einer Werkstatt überprüfen lassen?**
 
 **Optionen:**
@@ -44790,6 +49100,8 @@ Stellst du Mängel an deinem Fahrwerk oder an der Lenkanlage fest, solltest du u
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Die Kontrollleuchte des Blinkers blinkt erheblich schneller als üblich. Was kann die Ursache dafür sein?**
 
 **Optionen:**
@@ -44808,6 +49120,8 @@ Als Hinweis auf eine defekte Glühlampe blinkt die Kontrollleuchte des Blinkers 
 #### Frage 2.7.02-135
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wann sollten Sie Ihren Pkw in einer Werkstatt überprüfen lassen?**
 
@@ -44832,6 +49146,8 @@ Im Normalfall fährt dein Auto, auch ohne das Lenkrad festzuhalten, geradeaus. M
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **Beim Beschleunigen stellen Sie fest, dass das Lenkrad „flattert“. Wie sollten Sie sich verhalten?**
 
 **Optionen:**
@@ -44851,6 +49167,8 @@ Wenn das Lenkrad bei Beschleunigung "flattert" solltest du dir die Vorderräder 
 #### Frage 2.7.02-137
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Der Sicherheitsgurt für den Beifahrer ist defekt. Wie müssen Sie sich verhalten?**
 
@@ -44872,6 +49190,8 @@ Ein defekter Sicherheitsgurt muss fachmännisch ausgetauscht werden. Solange der
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Sie fahren bei Dunkelheit innerorts. Entgegenkommende Fahrzeugführer warnen Sie mit der Lichthupe. Was kann das in dieser Situation bedeuten?**
 
 **Optionen:**
@@ -44891,6 +49211,8 @@ Geben dir entgegenkommende Fahrzeuge eine Lichthupe, dann kann dies daran liegen
 #### Frage 2.7.02-139
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B
 
 **Die Kontrollleuchte der Fahrdynamikregelung (ESC) Ihres Pkws leuchtet dauerhaft. Worauf kann das hinweisen?**
 
@@ -44913,6 +49235,8 @@ Solltest du bei einer dauerhaft leuchtenden ESP Warnlampe das System nicht selbs
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B
+
 **In Ihrem Pkw ist der Sicherheitsgurt für den Beifahrer defekt. Wie verhalten Sie sich richtig?**
 
 **Optionen:**
@@ -44932,6 +49256,8 @@ Ein Sitzplatz mit defektem Sicherheitsgurt darf nicht mehr benutzt werden. Dazu 
 #### Frage 2.7.02-202
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
 
 **Woran kann es liegen, wenn die Fülldauer der Druckluftbremsanlage länger als normal ist?**
 
@@ -44953,6 +49279,8 @@ Sollte die Fülldauer der Druckluftbremsanlage länger als normal sein, prüfe b
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Die Druckwarneinrichtung der Bremsanlage spricht während der Fahrt an. Was bedeutet dies?**
 
 **Optionen:**
@@ -44972,6 +49300,8 @@ Wenn die Druckwarneinrichtung die während der Fahrt anspricht, bedeutet dies, d
 #### Frage 2.7.02-204
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
 
 **Was kann bei einer Bremsanlage mit Mehrkreisschutzventil Ursache dafür sein, dass der Luftpresser ununterbrochen Druckluft fördert?**
 
@@ -44993,6 +49323,8 @@ Wenn der Luftpresser ununterbrochen Druckluft fördert, ist die Ursache, dass ei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Welche Mängel können als Ursache für eine zu geringe Förderleistung des Luftpressers in Frage kommen?**
 
 **Optionen:**
@@ -45013,6 +49345,8 @@ Für eine zu geringe Förderleistung des Luftpressers kommen schadhafte Luftpres
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Bei einem Fahrzeug mit druckluftunterstützter hydraulischer Bremsanlage ist die Druckluftunterstützung ausgefallen. Kann mit der Betriebsbremse noch gebremst werden?**
 
 **Optionen:**
@@ -45031,6 +49365,8 @@ Wenn bei deinem Fahrzeug mit druckluftunterstützter hydraulischer Bremsanlage d
 #### Frage 2.7.02-209
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
 
 **Bei einem Kraftfahrzeug mit Druckluftbremsanlage bricht während der Fahrt die Leitung zu einem Radbremszylinder der Vorderachse. Wie können Sie diesen Schaden erkennen?**
 
@@ -45053,6 +49389,8 @@ Den Schaden kannst du an der geringeren Bremswirkung bemerken. Beim Bremsen am D
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Bei einem Kraftfahrzeug mit Druckluftbremse bricht während der Fahrt eine Leitung am Vorratsbehälter des Bremskreises der Vorderachse. Wie können Sie den Schaden erkennen?**
 
 **Optionen:**
@@ -45073,6 +49411,8 @@ Den Schaden kannst du an der geringeren Bremswirkung erkennen und am Doppeldruck
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, D, C1E, DE
+
 **Welche Auswirkungen kann ein stark undichter Luftfederbalg für die Verkehrssicherheit haben?**
 
 **Optionen:**
@@ -45092,6 +49432,8 @@ Ein stark undichter Luftfederbalg kann die Bremswirkung durch falschen Steuerdru
 #### Frage 2.7.02-212
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Welche Auswirkungen kann der Bruch mehrerer Federblätter eines Federpaketes für die Verkehrssicherheit haben?**
 
@@ -45114,6 +49456,8 @@ Alle 3 sind richtig. Der Geradeauslauf des Fahrzeuges wird beim Bruch der Federb
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, T
+
 **Bei Ihrem Kraftfahrzeug ist die Bremsleitung an einem Radbremszylinder stark undicht. Woran können Sie diesen Schaden erkennen?**
 
 **Optionen:**
@@ -45134,6 +49478,8 @@ Wenn deine Bremsleitung an einem Radbremszylinder undicht ist, kannst du das sow
 #### Frage 2.7.02-214
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE
 
 **Welche Auswirkung kann die Beschädigung wesentlicher Bauteile der Achsfederung auf die Verkehrssicherheit haben?**
 
@@ -45156,6 +49502,8 @@ Gibt es eine Beschädigung wesentlicher Bauteile der Achsfederung, kann dies das
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1, T
+
 **Welche Ursache kann für eine zu geringe Förderleistung des Luftpressers infrage kommen?**
 
 **Optionen:**
@@ -45176,6 +49524,8 @@ Eine der Ursachen für eine zu geringe Förderleistung des Luftpressers kann ein
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Wie sollten Sie sich verhalten, wenn während der Fahrt die rote Warnanzeige für die Motortemperatur aufleuchtet?**
 
 **Optionen:**
@@ -45194,6 +49544,8 @@ Schauen Sie in der Betriebsanleitung was jetzt zu tun ist.
 #### Frage 2.7.02-302
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, T
 
 **Welche Auswirkung hat ein Bruch der Vorratsleitung zum Anhänger bei einer Zweileitungs-Bremsanlage?**
 
@@ -45215,6 +49567,8 @@ Das Anhängerbremsventil einer Zweileitungs-Bremsanlage, schließt den Anhänger
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, T
+
 **Woran können Sie nach dem Lösen der Feststellbremse erkennen, ob das Anhängerbremsventil arbeitet (Luftbehälter gefüllt)?**
 
 **Optionen:**
@@ -45234,6 +49588,8 @@ Ob das Anhängerbremsventil arbeitet, kannst du feststellen, indem beim Abkuppel
 #### Frage 2.7.02-304
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
 
 **Was geschieht, wenn während der Fahrt bei einer Zweikreis-Druckluftbremsanlage ein Kreis der Betriebsbremse undicht wird?**
 
@@ -45255,6 +49611,8 @@ Wenn einer von 2 Kreisen der Betriebsbremse einer Zweikreis-Druckluftbremse undi
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Die elektrischen Verbindungen zu Ihrem Zugfahrzeug sind unterbrochen. Welche Einrichtung am Anhänger ist somit nicht betriebsfähig?**
 
 **Optionen:**
@@ -45274,6 +49632,8 @@ Wenn die elektronischen Verbindungen unterbrochen sind, funktionieren weder ABV 
 #### Frage 2.7.02-306
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE
 
 **Welche Einrichtung am Anhänger ist ohne Funktion, wenn die elektrische Verbindung zum Zugfahrzeug fehlt oder unterbrochen ist?**
 
@@ -45298,6 +49658,8 @@ Eine der Funktionen am Anhänger bei einer Trennung der elektronischen Verbindun
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Ihr Zweirad ist mit einem Kettenantrieb zum Hinterrad ausgerüstet. Was sollten Sie regelmäßig an der Kette überprüfen?**
 
 **Optionen:**
@@ -45321,6 +49683,8 @@ Ebenso solltest du die Schmierung der Kette regelmäßig überprüfen und sie be
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, Mofa, A80
+
 **Ihr Zweirad ist mit einem Kettenantrieb zum Hinterrad ausgerüstet. Was müssen Sie beim Spannen der Kette beachten?**
 
 **Optionen:**
@@ -45342,6 +49706,8 @@ Der Durchhang der Kette ist wichtig und muss den Vorgaben des Herstellers entspr
 #### Frage 2.7.03-003
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Ihr Motorrad ist mit einem Riemenantrieb zum Hinterrad ausgerüstet. Was sollten Sie regelmäßig überprüfen?**
 
@@ -45365,6 +49731,8 @@ Eben so kann zu wenig Spannung am Riemen bei deinem Motorrad zu Leistungsverlust
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T
+
 **Welche Folge kann eine zu geringe Menge Kühlflüssigkeit im Motor haben?**
 
 **Optionen:**
@@ -45385,6 +49753,8 @@ Eine zu geringe Menge Kühlflüssigkeit kann zu einem Motorschaden führen und s
 
 **Punkte:** 2 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Sie fahren mit Schrittgeschwindigkeit in einem Stau. Wann ist der Kupplungsverschleiß an Ihrem Kraftfahrzeug mit manuellem Schaltgetriebe am geringsten?**
 
 **Optionen:**
@@ -45403,6 +49773,8 @@ Kuppeln Sie vollständig ein um die Kupplung nicht unnötig abzunutzen. Wählen 
 #### Frage 2.7.03-201
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Warum nennt man den Dieselmotor auch Selbstzündungsmotor?**
 
@@ -45423,6 +49795,8 @@ Weil Dieselmotoren ohne Zündkerzen auskommen wird der Arbeitstakt durch die Ent
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Welche Aufgabe hat die Nockenwelle bei einem Dieselmotor?**
 
 **Optionen:**
@@ -45441,6 +49815,8 @@ Die Aufgabe der Nockenwelle in einem Dieselmotor ist die Ventile im Motor zu ste
 #### Frage 2.7.03-205
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Welche Aufgabe hat ein Kühlmittelthermostat im Kühlkreislauf des Motors?**
 
@@ -45461,6 +49837,8 @@ Wie der Name schon sagt, regelt das Kühlmittelthermostat die Betriebstemperatur
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Wodurch kann im Winter an einer Kühlanlage des Motors Schaden entstehen?**
 
 **Optionen:**
@@ -45479,6 +49857,8 @@ Durch nicht ausreichenden Frostschutz kann ein Motorschaden entstehen. Bitte ach
 #### Frage 2.7.03-207
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Welches Motoröl deckt den größten Temperaturbereich ab?**
 
@@ -45499,6 +49879,8 @@ Die kleinere Zahl (10) (Dünnflüssiges Öl) bei SAE 10 W 40 gibt den geringsten
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Ihr Dieselmotor springt im Winter nicht an. Woran kann dies liegen?**
 
 **Optionen:**
@@ -45518,6 +49900,8 @@ Wenn du noch Sommerdiesel im Tank hast, kann es sein, dass der Motor im Winter n
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Sie fahren mit Ihrem Fahrzeug mit Schrittgeschwindigkeit in einem Stau. In welchen Fällen ist der Kupplungsverschleiß am geringsten?**
 
 **Optionen:**
@@ -45536,6 +49920,8 @@ Wenn du beim Fahren in einem kleinen Gang möglichst ohne den Einsatz der Kupplu
 #### Frage 2.7.03-211
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, L, T, C1E, DE
 
 **Welche Aufgabe hat eine Differenzialsperre?**
 
@@ -45557,6 +49943,8 @@ Die Differenzialsperre verteilt das Antriebsmoment gleichmäßig auf die Antrieb
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, L, T, C1E, DE
+
 **Wann ist das Einschalten der Differenzialsperre hilfreich?**
 
 **Optionen:**
@@ -45576,6 +49964,8 @@ Die Differenzialsperre solltest du auf glatter Fahrbahn beim langsamen geradeaus
 #### Frage 2.7.03-213
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, L, T, C1E, DE
 
 **Wann können Sie die Differenzialsperre einschalten, ohne dass dadurch Schäden am Kraftfahrzeug zu erwarten sind?**
 
@@ -45597,6 +49987,8 @@ Wenn dein Kfz steht und du mit Schrittgeschwindigkeit fährst, solltest du keine
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Was erhöht den Kupplungsverschleiß bei Kraftfahrzeugen mit manuellem Schaltgetriebe?**
 
 **Optionen:**
@@ -45617,6 +50009,8 @@ Bei manuellem Schaltgetriebe erhöht sich der Kupplungsverschleiß bei Kraftfahr
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Wie können Sie die Kupplungsbauteile bei Kraftfahrzeugen mit manuellem Schaltgetriebe schonen?**
 
 **Optionen:**
@@ -45636,6 +50030,8 @@ Um die Kupplungsbauteile bei Kraftfahrzeugen mit manuellem Schaltgetriebe zu sch
 #### Frage 2.7.03-216
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, L, T
 
 **Welche Aufgabe hat eine Differenzialsperre (mechanisch gesperrtes Differenzialgetriebe)?**
 
@@ -45660,6 +50056,8 @@ Die Differentialsperre verbessert die Traktion bei langsamer Geländefahrt und r
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, C, C1, D, D1, L, T, C1E, D1E, DE, A80
+
 **Was sollten Sie beim Nachfüllen von Motoröl beachten?**
 
 **Optionen:**
@@ -45679,6 +50077,8 @@ Da es sehr unterschiedliche Öle gibt, solltest du darauf achten, das das verwen
 #### Frage 2.7.04-002
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, AM, B, C, D, D1, L, T, A80
 
 **Welche Aufgabe hat Motoröl in einem Verbrennungsmotor?**
 
@@ -45701,6 +50101,8 @@ Motoröl wirkt sich verschieden auf einen Verbrennungsmotor aus. Es dient dem Ve
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Wie können Sie den Motorölstand kontrollieren?**
 
 **Optionen:**
@@ -45720,6 +50122,8 @@ Es gibt ein Schauglas an dem der Ölstand abgelesen werden kann. Sonst können S
 #### Frage 2.7.04-101
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B, C, C1, D, D1, L, T
 
 **Wie können Sie den Motorölstand kontrollieren?**
 
@@ -45741,6 +50145,8 @@ Je nach Fahrzeug lässt sich der Motorölstand auf unterschieldiche Weise kontro
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Warum muss vor Beginn der Winterzeit die Kühlflüssigkeit auf ausreichenden Frostschutz überprüft werden?**
 
 **Optionen:**
@@ -45760,6 +50166,8 @@ Um eine Gefrierung der Kühlflüssigkeit (dehnt sich aus) zu vermeiden solltest 
 #### Frage 2.7.04-203
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Welche Aufgaben erfüllen Frostschutzmittel im Kühlflüssigkeitskreislauf?**
 
@@ -45781,6 +50189,8 @@ Frostschutzmittel schützen vor Korrosion (Rost) und sie schützen das Kühlsyst
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Warum ist Motoröl in Diesel- und Ottomotoren notwendig?**
 
 **Optionen:**
@@ -45800,6 +50210,8 @@ Motoröl ist in Diesel- und Ottomotoren deswegen notwendig, weil es zur Verringe
 #### Frage 2.7.04-206
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Welche Anforderungen werden an Schmieröle von Dieselmotoren gestellt?**
 
@@ -45825,6 +50237,8 @@ Schmieröle von Dieselmotoren dienen der Hitzebeständigkeit, der Fließfähigke
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, C, C1, CE, D, D1, Mofa, T, C1E, D1E, DE, A80
+
 **Welche Bedeutung hat das auf dem Reifen angegebene Herstellungsdatum „1217“?**
 
 ![Question Image](images/2_7_05-001.png)
@@ -45846,6 +50260,8 @@ Das Herstellerdatum 1217 bedeutet, dass der Reifen in der 12. Kalenderwoche des 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, B, C, C1, CE, D, D1, L, Mofa, T, A80
+
 **Wann sollten Sie den Reifendruck überprüfen?**
 
 **Optionen:**
@@ -45866,6 +50282,8 @@ Den Reifendruck solltest du regelmäßig bei kalten Reifen und unmittelbar nach 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Mofa
+
 **Welche Profiltiefe müssen die Reifen Ihres Mofas mindestens aufweisen?**
 
 **Optionen:**
@@ -45881,6 +50299,8 @@ Die Profiltiefe deines Mofas muss 1 mm sein.
 #### Frage 2.7.05-004
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, A80
 
 **Welche Folge kann zu hoher oder zu niedriger Luftdruck in den Reifen des Kraftrads haben?**
 
@@ -45902,6 +50322,8 @@ Der Reifenverschließ erhöht sich durch größere Reibung. Der Reifen verformt 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, AM, B, A80
+
 **Sie fahren mit deutlich zu niedrigem Reifenfülldruck im Straßenverkehr. Was ist die Folge?**
 
 **Optionen:**
@@ -45921,6 +50343,8 @@ Ein niedriger Reifendruck hat zur Folge, dass eine größere Fläche vom Reifen 
 #### Frage 2.7.05-006
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, A80
 
 **Worauf müssen Sie bei der regelmäßigen Überprüfung der Reifen Ihres Fahrzeugs achten?**
 
@@ -45944,6 +50368,8 @@ Gerade vor längeren Fahrten oder bei einer höheren Beladung solltest du darauf
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, AM, A80
+
 **Wovon ist die Haftung eines Reifens auf der Fahrbahn abhängig?**
 
 **Optionen:**
@@ -45965,6 +50391,8 @@ Die Haftung eines Reifens auf der Fahrbahn ist stark von den Fahrbahnverhältnis
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Was kann einen schleichenden Verlust des Reifenfülldrucks verursachen?**
 
 **Optionen:**
@@ -45985,6 +50413,8 @@ Beschädigungen am Reifen durch z.B. einen Nagel oder ähnliche Fremdkörper kö
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Sie fahren ein Motorrad mit einem Hubraum von über 125 cm³. Welche gesetzlich vorgeschriebene Mindestprofiltiefe müssen alle Reifen Ihres Motorrads aufweisen?**
 
 **Optionen:**
@@ -46000,6 +50430,8 @@ Die gesetzlich vorgeschriebene Mindestprofiltiefe der Reifen beträgt 1,6 mm.
 #### Frage 2.7.05-101
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B, C, C1, D, D1, L, T, C1E, D1E, DE
 
 **Was ist beim Radwechsel mit einem Wagenheber zu beachten?**
 
@@ -46021,6 +50453,8 @@ Der Wagenheber darf nur an den vom Fahrzeughersteller festgelegten Aufnahmepunkt
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, L, T, C1E, D1E, DE
+
 **Sie müssen ein defektes Rad demontieren. In welcher Reihenfolge sollten Sie vorgehen?**
 
 **Optionen:**
@@ -46039,6 +50473,8 @@ Die richtige Reihenfolge ist: Fahrzeug gegen Wegrollen sichern, Wagenheber anset
 #### Frage 2.7.05-103
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was bedeutet das rot gekennzeichnete Symbol auf dem Reifen?**
 
@@ -46062,6 +50498,8 @@ Das Zeichen bedeutet, dieser Reifen ist für winterliche Wetterverhältnisse gee
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was müssen Sie beim Fahren mit Winterreifen besonders beachten?**
 
 **Optionen:**
@@ -46080,6 +50518,8 @@ Mit Winterreifen musst du darauf achten, dass du die zulässige Höchstgeschwind
 #### Frage 2.7.05-105
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Ihr Pkw ist mit Winterreifen ausgerüstet. Welche Bedeutung hat der Geschwindigkeits-Aufkleber „max. 190 km/h“ am Armaturenbrett?**
 
@@ -46100,6 +50540,8 @@ Du darfst die Geschwindigkeit von maximal 190 km/h deiner Winterreifen nicht üb
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Was ist nach dem Anbau von Winterreifen an Ihrem Pkw zu beachten?**
 
 **Optionen:**
@@ -46119,6 +50561,8 @@ Nach dem Anbau von Winterreifen solltest du den Reifendruck der entsprechenden H
 #### Frage 2.7.05-107
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Diese Kontrollleuchte leuchtet auf. Was kann die Ursache dafür sein?**
 
@@ -46143,6 +50587,8 @@ Aber auch durch einen kürzlich erfolgten Reifenwechsel kann mit den Reifendruck
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Welche gesetzlich vorgeschriebene Mindestprofiltiefe müssen alle Reifen Ihres Pkws am Hauptprofil aufweisen?**
 
 **Optionen:**
@@ -46158,6 +50604,8 @@ Die gesetzlich vorgeschriebene Mindestprofiltiefe der Reifen beträgt 1,6 mm. Da
 #### Frage 2.7.05-203
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, CE, D, D1, C1E, D1E, DE
 
 **Wie wirkt sich falscher Reifendruck aus?**
 
@@ -46178,6 +50626,8 @@ Falscher Reifendruck erhöht die Möglichkeit des Verschleißes der Reifen. Bitt
 #### Frage 2.7.05-205
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, CE, D, D1, C1E, D1E, DE
 
 **Wozu kann zu niedriger Reifendruck führen?**
 
@@ -46200,6 +50650,8 @@ Da die Luft den Reifen sozusagen trägt, ist mit einer Überhitzung bei zu niedr
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Wann sollten Sie den Reifendruck messen lassen?**
 
 **Optionen:**
@@ -46220,6 +50672,8 @@ Du solltest den Reifendruck unmittelbar nach jedem Wechsel messen lassen und min
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Was ist unter der Kennzeichnung „TWI“ (Tread Wear Indicator) zu verstehen?**
 
 **Optionen:**
@@ -46239,6 +50693,8 @@ An der Reifenverschleiß Anzeige (Abnutzungs-Indikator oder auch Tread Wear Indi
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Woran erkennen Sie, ob Reifen runderneuert sind?**
 
 **Optionen:**
@@ -46257,6 +50713,8 @@ Eine Runderneuerung der Reifen erkennst du an der Kennzeichnung RETREAD auf der 
 #### Frage 2.7.05-213
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Was müssen Sie bei der Kontrolle der Ersatzradbefestigung beachten?**
 
@@ -46279,6 +50737,8 @@ Bei der Kontrolle der Ersatzradbefestigung musst du alle 3 beachten. Die Kontrol
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Wann sollten Sie die Bezeichnung auf dem Reifen auf Zulässigkeit überprüfen?**
 
 **Optionen:**
@@ -46298,6 +50758,8 @@ Die Bezeichnung auf dem Reifen auf Zulässigkeit zu überprüfen ist bei jedem R
 #### Frage 2.7.05-215
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, CE, D, D1, C1E, D1E, DE
 
 **Was müssen Sie vor Fahrtantritt an der Bereifung überprüfen?**
 
@@ -46319,6 +50781,8 @@ Vor Fahrtantritt an der Bereifung ist das Überprüfen sichtbarer Beschädigunge
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Wo finden Sie Angaben zum Reifendruck für Ihr Fahrzeug?**
 
 **Optionen:**
@@ -46337,6 +50801,8 @@ Die Angaben zum Reifendruck deines Fahrzeuges findest du in der Betriebsanleitun
 #### Frage 2.7.05-217
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Welche Folgen kann es haben, wenn die Radbefestigungen nach einem Radwechsel nicht nachgezogen werden?**
 
@@ -46358,6 +50824,8 @@ Wenn die Radbefestigungen nach einem Radwechsel nicht nachgezogen werden bzw. di
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Sie müssen das rechte Vorderrad Ihres zweiachsigen Kraftfahrzeugs wechseln. Gegen unbeabsichtigtes Wegrollen sichern Sie das Kraftfahrzeug mit einem Unterlegkeil. Was müssen Sie dabei beachten?**
 
 **Optionen:**
@@ -46378,6 +50846,8 @@ Du solltest ein Rad der Hinterachse sichern und das Kraftfahrzeug sollte auf ein
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Sie müssen das rechte Vorderrad Ihres dreiachsigen Kraftfahrzeugs auf ebener Fläche wechseln. Was sollten Sie dabei beachten?**
 
 **Optionen:**
@@ -46396,6 +50866,8 @@ Du solltest zwei Unterlegkeile an einem Rad der Hinterasche auf einem möglichst
 #### Frage 2.7.05-220
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Was bedeutet die Kennzeichnung „L“ in der folgenden Reifenbezeichnung: 315/80 R 22.5 156/150 L?**
 
@@ -46418,6 +50890,8 @@ Das L steht in diesem Fall für die zulässige Höchstgeschwindigkeit des Reifen
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Was bedeutet die Kennzeichnung „156/150“ in der folgenden Reifenbezeichnung: 315/80 R 22.5 156/150 L?**
 
 ![Question Image](images/2_7_05-221.png)
@@ -46439,6 +50913,8 @@ Die Kennzeichnung 156/150 steht für die Tragfähigkeitskennzahl der Einzel- und
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Das Reifendruckkontrollsystem (RDKS) zeigt Ihnen einen Druckverlust an einem der Zwillingsreifen an. Wie sollten Sie sich verhalten?**
 
 **Optionen:**
@@ -46457,6 +50933,8 @@ Beim Druckverlust an einem Zwillingsreifen solltest du an der nächsten geeignet
 #### Frage 2.7.05-223
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Was bedeutet das rot gekennzeichnete Symbol auf dem Reifen?**
 
@@ -46480,6 +50958,8 @@ Das Symbol auf diesem Reifen bedeutet, er ist für winterliche Wetterverhältnis
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, CE
+
 **Was sollten Sie bei einem mitgeführten Ersatzrad kontrollieren?**
 
 **Optionen:**
@@ -46501,6 +50981,8 @@ Alle Antworten sind richtig. Die sichere Befestigung des Ersatzrads, die doppelt
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, D, D1
+
 **Wann sollten Sie die Zulässigkeit Ihrer Reifen anhand der Reifenbezeichnung überprüfen?**
 
 **Optionen:**
@@ -46520,6 +51002,8 @@ Die Zulässigkeit anhand der Reifenbezeichnung überprüfst du bei jedem Radwech
 #### Frage 2.7.05-226
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, CE, D, D1, L, T
 
 **Was müssen Sie vor Fahrtantritt an der Bereifung überprüfen?**
 
@@ -46541,6 +51025,8 @@ Mit einer Sichtprüfung kannst du die Bereifung überprüfen und feststellen ob 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1
+
 **Sie fahren einen Kraftomnibus. Worauf müssen Sie bei winterlichen Verhältnissen achten?**
 
 **Optionen:**
@@ -46558,6 +51044,8 @@ Mit einer Sichtprüfung kannst du die Bereifung überprüfen und feststellen ob 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1
+
 **Sie fahren ein Kraftfahrzeug zur Güterbeförderung mit mehr als 3,5 t zulässiger Gesamtmasse. Worauf müssen Sie bei winterlichen Verhältnissen achten?**
 
 **Optionen:**
@@ -46574,6 +51062,8 @@ Mit einer Sichtprüfung kannst du die Bereifung überprüfen und feststellen ob 
 #### Frage 2.7.05-229
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE
 
 **Was sollten Sie bei einem außerhalb der Karosserie mitgeführten Ersatzrad regelmäßig überprüfen?**
 
@@ -46598,6 +51088,8 @@ Bei einem außerhalb der Karosserie mitgeführten Ersatzrad ist es wichtig, rege
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Welchen Vorteil hat ein Motorrad mit Automatischem Blockierverhinderer (ABV)?**
 
 **Optionen:**
@@ -46616,6 +51108,8 @@ Bei Gefahrenbremsungen neigen die Räder zum Blockieren und du könntest stürze
 #### Frage 2.7.06-002
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, A80
 
 **Sie fahren ein Motorrad mit Automatischem Blockierverhinderer (ABV). Was ist zu beachten, wenn Sie in einer Kurve bremsen müssen?**
 
@@ -46639,6 +51133,8 @@ Trotzdem solltest du in Schräglage dosiert bremsen, weil das Motorrad durch sta
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, A80
+
 **Ihr Motorrad ist mit einem schräglagenoptimierten Automatischen Blockierverhinderer (ABV) ausgerüstet. Welche Funktion hat dieses Assistenzsystem?**
 
 **Optionen:**
@@ -46658,6 +51154,8 @@ Der ABV verhindert das Blockieren der Räder beim Bremsen. So kannst du in Kurve
 #### Frage 2.7.06-101
 
 **Punkte:** 4 Punkte
+
+**Klassen:** B
 
 **Was bewirkt ein Antiblockiersystem (ABS)?**
 
@@ -46679,6 +51177,8 @@ Ein Antiblockiersystem (ABS) bewirkt, dass die Räder eines Fahrzeugs auch dann 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Welche Vorteile bietet ein Antiblockiersystem (ABS)?**
 
 **Optionen:**
@@ -46699,6 +51199,8 @@ Das Antiblockiersystem (ABS) bietet den Vorteil, dass es beim Bremsen auf nassen
 
 **Punkte:** 4 Punkte
 
+**Klassen:** B
+
 **Welche Vorteile bietet ein Antiblockiersystem (ABS)?**
 
 **Optionen:**
@@ -46718,6 +51220,8 @@ Ein Antiblockiersystem ist besonders hilfreich bei starken Bremsungen auf nasser
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, L, T
+
 **Wann tritt bei einem Anhänger mit Auflaufbremse die Bremswirkung ein?**
 
 **Optionen:**
@@ -46736,6 +51240,8 @@ Beim Auflaufen des Anhängers auf das Zugfahrzeug tritt bei einem Anhänger mit 
 #### Frage 2.7.06-107
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Wann ist für eine Fahrzeugkombination die Gefahr besonders groß, auf glatter Fahrbahn einzuknicken oder zu schleudern?**
 
@@ -46757,6 +51263,8 @@ Bei einer Fahrzeugkombination ist die Gefahr dann besonders groß,  wenn ruckart
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE
+
 **Wann ist für einen druckluftgebremsten Lastzug die Gefahr besonders groß, auf glatter Fahrbahn einzuknicken oder zu schleudern?**
 
 **Optionen:**
@@ -46777,6 +51285,8 @@ Wenn der Lkw bei Kurvenfahrt stärker bremst als der Anhänger, ist die Gefahr a
 
 **Punkte:** 3 Punkte
 
+**Klassen:** L
+
 **Sie nutzen einen Anhänger mit Auflaufbremse. Was müssen Sie beachten?**
 
 **Optionen:**
@@ -46795,6 +51305,8 @@ Demnächst...
 #### Frage 2.7.06-110
 
 **Punkte:** 2 Punkte
+
+**Klassen:** B, C, C1, D, D1, C1E, D1E, DE
 
 **Was kann aus einem zu späten Ausschalten der Geschwindigkeitsregelanlage (Tempomat) folgen?**
 
@@ -46817,6 +51329,8 @@ Aus einem zu späten Ausschalten der Geschwindigkeitsregelanlage (Tempomat) kann
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, C1E, D1E, DE
+
 **Wobei kann Sie eine Geschwindigkeitsregelanlage (Tempomat) unterstützen?**
 
 **Optionen:**
@@ -46836,6 +51350,8 @@ Eine Geschwindigkeitsregelanlage (Tempomat) kann dich beim Einhalten einer gleic
 #### Frage 2.7.06-112
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1, C1E, D1E, DE
 
 **Was sollten Sie bei der Benutzung einer adaptiven Geschwindigkeitsregelanlage beachten?**
 
@@ -46858,6 +51374,8 @@ Bei der Benutzung einer adaptiven Geschwindigkeitsregelanlage solltest du beacht
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, C1E, D1E, DE
+
 **Welche Funktion übernimmt eine adaptive Geschwindigkeitsregelanlage bei Kraftfahrzeugen?**
 
 **Optionen:**
@@ -46877,6 +51395,8 @@ Die adaptive Geschwindigkeitsregelanlage übernimmt folgende Funktionen: Das Sys
 #### Frage 2.7.06-114
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B, C, C1, D, D1, T
 
 **Welchen Vorteil bringt die Nutzung einer Geschwindigkeitsregelanlage (Tempomat) für den Fahrer eines Kraftfahrzeugs?**
 
@@ -46898,6 +51418,8 @@ Der Tempomat hält eine konstant eingestellte Fahrgeschwindigkeit auf ebener Fah
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, CE, D, D1
+
 **In welcher Situation ist die Nutzung einer Adaptiven Geschwindigkeitsregelanlage (AGR) zweckmäßig?**
 
 **Optionen:**
@@ -46917,6 +51439,8 @@ Die Adaptive Geschwindigkeitsregelanlage kontrolliert den Abstand zum vorausfahr
 #### Frage 2.7.06-116
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Wie können Sie eine aktivierte Geschwindigkeitsregelanlage (einen Tempomaten) manuell übersteuern?**
 
@@ -46938,6 +51462,8 @@ Eine aktive Geschwindigkeitregelanlage wird durch Betätigen der Bremse oder bei
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1, A, A1, A2, A80
+
 **Welche Funktion übernimmt eine Adaptive Geschwindigkeitsregelanlage (AGR) bei Kraftfahrzeugen?**
 
 **Optionen:**
@@ -46958,6 +51484,8 @@ Außerdem bremst es ab, wenn es vorausfahrende Fahrzeuge erkennt. Es bremst nich
 #### Frage 2.7.06-118-M
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie nutzen während der Fahrt die Adaptive Geschwindigkeitsregelanlage (AGR). Die Geschwindigkeit ist auf 100 km/h eingestellt. Worauf müssen Sie sich vor der Kurve einstellen?**
 
@@ -46984,6 +51512,8 @@ Du hast die Geschwindigkeit der AGR auf 100 km/h eingestellt. Weil das vorausfah
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B, C, C1, D, D1
+
 **Welche Funktion erfüllt der Notbremsassistent?**
 
 **Optionen:**
@@ -47004,6 +51534,8 @@ Ein Notbremsassistent ist ein Sicherheitssystem für Kraftfahrzeuge, das dich in
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Was geschieht, wenn bei eingeschalteter Dauerbremse die Betriebsbremse betätigt wird?**
 
 **Optionen:**
@@ -47022,6 +51554,8 @@ Wenn bei eingeschalteter Dauerbremse die Betriebsbremse betätigt wird, passiert
 #### Frage 2.7.06-203
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, C1E, DE
 
 **Welche Vorteile bietet der Geschwindigkeitsregler (Tempomat) beim Fahren eines Kraftfahrzeuges?**
 
@@ -47044,6 +51578,8 @@ Vorteile bei einem Tempomat sind Entlastung beim Gasgeben, Kraftstoffeinsparung 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Wann sollte der Geschwindigkeitsregler (Tempomat) benutzt werden?**
 
 **Optionen:**
@@ -47063,6 +51599,8 @@ Ein Tempomat sollte dann benutzt werden, wenn die Verkehrsverhältnisse eine gle
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Was ist unter automatisch-lastabhängiger Bremskraftregelung (ALB) zu verstehen?**
 
 **Optionen:**
@@ -47081,6 +51619,8 @@ Unter ALB (automatisch-lasten Abhängige Bremskraftregelung) versteht man, dass 
 #### Frage 2.7.06-209
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Die Hinterräder eines mit einer automatisch-lastabhängigen Bremskraftregelung (ALB) ausgerüsteten Fahrzeugs, das unbeladen ist, blockieren bei jeder stärkeren Bremsung. Welche Ursache kann das haben?**
 
@@ -47102,6 +51642,8 @@ Die Ursachen können defekte oder ein falsch eingestelltes ALB sein,  oder auch 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Wie unterscheiden sich automatisch-lastabhängige Bremskraftregelung (ALB) und Antiblockiersystem (ABS) in ihrer Wirkung?**
 
 **Optionen:**
@@ -47121,6 +51663,8 @@ Beim ABS verhindern die Bremsen automatisch die Blockierung der Räder. Bei ALB 
 #### Frage 2.7.06-211
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Welche Bremsen arbeiten ohne nennenswerten Verschleiß?**
 
@@ -47142,6 +51686,8 @@ Ohne nennenswerten Verschleiß arbeiten die Retarder (Wirbelstrombremse, Strömu
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Wodurch wird bei einer Federspeicher-Bremse die Bremsung bewirkt?**
 
 **Optionen:**
@@ -47161,6 +51707,8 @@ Die Federspeicher-Bremse wird durch die Federkraft bewirkt. Dabei wird der Feder
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Wie funktioniert die Federspeicher-Bremse?**
 
 **Optionen:**
@@ -47179,6 +51727,8 @@ Beim Betätigen des Handbremsventils wird der Federspeicher-brems Zylinder entl�
 #### Frage 2.7.06-215
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Bei einem wegen Motorschaden liegen gebliebenen Kraftfahrzeug ist die Federspeicher-Bremse eingelegt. Der Luftvorrat ist erschöpft. Wie wirkt sich das aus?**
 
@@ -47200,6 +51750,8 @@ Wenn du dein Fahrzeug abschleppen lassen möchtest, muss die Federspeicher-Brems
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Welche Hilfslöseeinrichtungen für Federspeicher-Bremszylinder gibt es?**
 
 **Optionen:**
@@ -47220,6 +51772,8 @@ Es gibt sowohl mechanische als auch pneumatische Hilfseinrichtungen für Federsp
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, DE
+
 **Sie fahren einen Bus, der mit einer Haltestellenbremse ausgerüstet ist. Wann dürfen Sie die Haltestellenbremse benutzen?**
 
 **Optionen:**
@@ -47238,6 +51792,8 @@ Demnächst...
 #### Frage 2.7.06-220
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
 
 **Worauf ist bei einer Druckluftbremsanlage mit Lufttrockner zu achten?**
 
@@ -47259,6 +51815,8 @@ Bei einer Druckluftbremsanlage mit Lufttrockner solltest du darauf  achten, dass
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Welcher Druckabfall im Luftbehälter eines Kraftfahrzeugs ist unbedenklich, wenn Sie das Bremspedal voll durchtreten (Abschaltdruck ca. 7 bis 8 bar Überdruck)?**
 
 **Optionen:**
@@ -47277,6 +51835,8 @@ Wenn du das Bremspedal voll durchtrittst (Abschaltdruck ca. 7 bis 8 bar Überdru
 #### Frage 2.7.06-223
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
 
 **Welche Aufgabe hat ein Vierkreisschutzventil in einer Druckluftbremsanlage?**
 
@@ -47298,6 +51858,8 @@ Ein Vierkreisschutzventil in einer Druckluftbremsanlage stellt die Druckluftvers
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Welche regelmäßigen Kontroll- und Wartungsarbeiten sind an einem Luftpresser erforderlich?**
 
 **Optionen:**
@@ -47318,6 +51880,8 @@ Zu den Regelmäßigen Kontroll- und Wartungsarbeiten eines Luftpresser gehört: 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Warum ist ein Druckabfall über 0,7 bar im Luftbehälter eines Kraftfahrzeuges problematisch, wenn Sie das Bremspedal voll durchtreten (Abschaltdruck ca. 7 - 8 bar)?**
 
 **Optionen:**
@@ -47337,6 +51901,8 @@ Sollte der Druckabfall im Luftbehälter höher als 0,7 bar sein, während du das
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Bei einem Kraftfahrzeug mit einer automatisch-lastabhängigen Bremskraftregelung (ALB) fällt die Bremskraft an den Hinterrädern aus. Woran kann das liegen?**
 
 **Optionen:**
@@ -47355,6 +51921,8 @@ Die Ursache liegt in der fehlerhaften ALB-Einstellung. Bitte überprüfe Sie dam
 #### Frage 2.7.06-228
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Ihr Kraftfahrzeug verfügt über ein Elektronisches Bremssystem (EBS). Was passiert beim Ausfall des EBS?**
 
@@ -47376,6 +51944,8 @@ Beim Ausfall des EBS (Elektronisches Bremssystem) wird das Kraftfahrzeug mithilf
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Ihr Kraftfahrzeug verfügt über ein Elektronisches Bremssystem (EBS). Was bewirkt das EBS?**
 
 **Optionen:**
@@ -47396,6 +51966,8 @@ Ein EBS bewirkt, dass eine optimale Abstimmung der Bremskräfte zwischen den ein
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, D
+
 **Was geschieht, wenn bei eingeschalteter Dauerbremse die Betriebsbremse betätigt wird?**
 
 **Optionen:**
@@ -47415,6 +51987,8 @@ Bei eingeschalteter Dauerbremse die Betriebsbremse zu betätigen wirkt sich wie 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, T
+
 **Sie treten das Bremspedal Ihres Kraftfahrzeugs voll durch. Welcher maximale Druckabfall in der Bremsanlage ist bei vollständig gefülltem Luftbehälter unbedenklich?**
 
 **Optionen:**
@@ -47433,6 +52007,8 @@ Ein maximaler Druckabfall von 0,7 Bar ist bei vollständig gefülltem Luftbehäl
 #### Frage 2.7.06-232
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, D, D1, T
 
 **Warum ist ein Druckabfall über 0,7 bar in der Druckluftanlage eines Kraftfahrzeugs problematisch, wenn Sie das Bremspedal einmal voll durchtreten (Abschaltdruck etwa 10 bis 13 bar)?**
 
@@ -47454,6 +52030,8 @@ Bei einem Druckabfall über 0,7 Bar in der Druckluftanlage deines Kraftfahrzeugs
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Welche Funktion hat eine automatisch-lastabhängige Bremskraftregelung (ALB)?**
 
 **Optionen:**
@@ -47472,6 +52050,8 @@ Die Funktion der Bremskraft mit ALB wird der tatsächlichen Fahrzeugmasse angepa
 #### Frage 2.7.06-234
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D
 
 **Welches Bremssystem an Kraftfahrzeugen arbeitet ohne nennenswerten Verschleiß?**
 
@@ -47492,6 +52072,8 @@ Ohne nennenswerten Verschleiß arbeiten die Motorbremse und der Retarder (elektr
 #### Frage 2.7.06-235
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Ihr Kraftfahrzeug verfügt über ein Elektronisches Bremssystem (EBS). Was bewirkt das EBS?**
 
@@ -47514,6 +52096,8 @@ Alle Antworten sind richtig. Der Bremsweg mit EBS verkürzt sich, die Bremsstabi
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, D
+
 **Sie fahren ein beladenes Kraftfahrzeug mit manuellem Schaltgetriebe. Auf einem starken Gefälle nimmt die Geschwindigkeit trotz eingeschalteter Dauerbremse kontinuierlich zu. Was sollten Sie tun?**
 
 **Optionen:**
@@ -47532,6 +52116,8 @@ Wenn deine Geschwindigkeit auf einem starken Gefälle zunimmt bremse mit der Bet
 #### Frage 2.7.06-237
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Ihr Kraftfahrzeug ist mit einem Notbremsassistenten ausgerüstet. Was ist richtig?**
 
@@ -47552,6 +52138,8 @@ Ist er vorhanden, sollte er aktiviert sein. Er stellt eine große Hilfe bei der 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Ihr Kraftfahrzeug ist mit einem Notbremsassistenten ausgerüstet. Was ist richtig?**
 
 **Optionen:**
@@ -47570,6 +52158,8 @@ Ist er vorhanden, sollte er aktiviert sein. Er stellt eine große Hilfe bei der 
 #### Frage 2.7.06-239
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D
 
 **Warum sollten Sie die Dauerbremse (Retarder) in Ihrem Kraftfahrzeug nutzen?**
 
@@ -47591,6 +52181,8 @@ Eine Dauerbremse ist eine Einrichtung, die länger andauerndes und auch verschle
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D
+
 **Welchen Vorteil hat die Nutzung einer Adaptiven Geschwindigkeitsregelanlage (AGR) auf Autobahnen?**
 
 **Optionen:**
@@ -47611,6 +52203,8 @@ Das Fahrerassistenzsystem sorgt für den richtigen Sicherheitsabstand zum voraus
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D
+
 **Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Welches Verhalten ist sinnvoll, damit eine Geschwindigkeitsregelanlage (Tempomat) zu einer kraftstoffsparenden Fahrweise beitragen kann?**
 
 **Optionen:**
@@ -47630,6 +52224,8 @@ Die Drehzahl muss so niedrig wie möglich sein.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1
+
 **Aus welchem Grund kann sich der Notbremsassistent in einem Kraftfahrzeug automatisch deaktivieren?**
 
 **Optionen:**
@@ -47646,6 +52242,8 @@ Die Drehzahl muss so niedrig wie möglich sein.
 #### Frage 2.7.06-243
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Ihr Kraftfahrzeug ist mit einem Notbremsassistenten ausgestattet. Was ist richtig?**
 
@@ -47665,6 +52263,8 @@ Als Fahrer eines Lkw bist du verpflichtet, den Notbremsassistenten bei Geschwind
 #### Frage 2.7.06-303
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Wie wirkt es sich bei einem Lastzug aus, wenn die Federspeicher-Bremse des Zugfahrzeugs eingelegt wird?**
 
@@ -47686,6 +52286,8 @@ Wenn du bei deinem Lastzug die Federspeicher-Bremse deines Zugafahrzeuges einleg
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, T
+
 **In welchen Fällen müssen Sie das Löseventil betätigen?**
 
 **Optionen:**
@@ -47704,6 +52306,8 @@ Das Löseventil musst du betätigen wenn der Anhänger bei gefüllten Luftbehäl
 #### Frage 2.7.06-307
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, T
 
 **Welche Auswirkung hat der Bruch der Bremsleitung (Schlauch) zwischen Zugfahrzeug (Zweikreis-Bremsanlage) und Anhänger beim Bremsen?**
 
@@ -47725,6 +52329,8 @@ Bei einem Bruch der Bremsleitung (Schlauch) zwischen Zugfahrzeug (Zweikreis-Brem
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE, T
+
 **Bei einem Zugfahrzeug mit druckluft-hydraulischer Zweikreisbremsanlage mit Vorspannzylinder und luftgesteuertem Anhängersteuerventil bricht die Bremsleitung am rechten Vorderrad. Wie wirkt sich das auf den Zug aus?**
 
 **Optionen:**
@@ -47745,6 +52351,8 @@ Die Wirkungen sind folgende: Beim Anhänger bleibt die Betriebsbremse voll funkt
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE, T
+
 **Welche Gefahr besteht, wenn die Kolben der Bremszylinder eines druckluftgebremsten Anhängers beim Bremsen bis zum Anschlag ausstoßen?**
 
 **Optionen:**
@@ -47763,6 +52371,8 @@ Die Gefahr die besteht, wenn die Kolben der Bremszylinder eines druckluftgebrems
 #### Frage 2.7.06-310
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE
 
 **Was kann eintreten, wenn ein Lastzug in einem langen Gefälle ständig nur mit der Betriebsbremse abgebremst wird?**
 
@@ -47783,6 +52393,8 @@ Bei einem langen Gefälle werden die Radbremsen so stark erhitzt, dass die Brems
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE
+
 **Sie befahren mit einem beladenen Lastzug ein Gefälle und haben dieses unterschätzt. Die Geschwindigkeit nimmt trotz eingeschalteter Dauerbremse merklich zu. Was müssen Sie tun?**
 
 **Optionen:**
@@ -47800,6 +52412,8 @@ Du solltest mit der Betriebsbremse abbremsen um zurückschalten zu können, wenn
 #### Frage 2.7.06-313
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, L, T
 
 **Sie stellen einen Anhänger mit Druckluft-Bremsanlage kurzzeitig ab. Wie können Sie die Betriebsbremse des Anhängers lösen?**
 
@@ -47819,6 +52433,8 @@ Durch das Betätigen des Löseventils kannst du die Betriebsbremse des Anhänger
 #### Frage 2.7.06-314
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE
 
 **Bei einem Lastzug ist nur das Zugfahrzeug mit einem Automatischen Blockierverhinderer (ABV) ausgerüstet. Wie kann sich das bei einer Vollbremsung auf nasser Fahrbahn auswirken?**
 
@@ -47840,6 +52456,8 @@ Bei einer Vollbremsung kann beim Blockieren der Räder der Anhänger ausbrechen 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** CE
+
 **Die Verbindung des Elektronischen Bremssystems (EBS) zum Anhänger ist unterbrochen. Welche Auswirkung kann dies beim Bremsen für den Anhänger haben?**
 
 **Optionen:**
@@ -47860,6 +52478,8 @@ Bei einer Unterbrechung der Verbindung des EBS Elektronisches Bremssystem) kann 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Zugfahrzeug und Anhänger verfügen über ein Elektronisches Bremssystem (EBS). Wie können Sie bei gefüllten Vorratsbehältern die elektronische Verbindung zum Anhänger prüfen?**
 
 **Optionen:**
@@ -47878,6 +52498,8 @@ Die bei gefüllten Vorratsbehältern elektronische Verbindung zum Anhänger prü
 #### Frage 2.7.06-317
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, T
 
 **Welche Auswirkung hat der Abriss des Bremsschlauchs mit gelbem Kupplungskopf zwischen Zugfahrzeug und Anhänger beim Bremsen?**
 
@@ -47899,6 +52521,8 @@ Wenn der Bremsschlauch (mit gelbem Kupplungskopf) zwichen Zugfahrzeug und Anhän
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE, T
+
 **Ein Kolben der druckluftbetätigten Bremszylinder Ihres Anhängers fährt beim Bremsen bis zum Anschlag aus. Welche Gefahr kann hieraus entstehen?**
 
 **Optionen:**
@@ -47917,6 +52541,8 @@ Die Gefahr die für dich entstehen kann ist, dass die Bremswirkung des Anhänger
 #### Frage 2.7.06-319
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE, T
 
 **Sie fahren ein Zugfahrzeug mit Druckluftbremsanlage. Die Bremsleitung am rechten Vorderrad bricht. Wie wirkt sich das im Anhängerbetrieb aus?**
 
@@ -47938,6 +52564,8 @@ Sollte die am rechten Vorderrad befindliche Bremsleitung brechen, kannst du mit 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Sie fahren einen Lkw mit Anhänger und durchgehender Druckluftbremsanlage. Welche Funktion übernimmt dabei die Kontrollstellung des Handbremsventils?**
 
 **Optionen:**
@@ -47958,6 +52586,8 @@ Die Funktion der Kontrollstellung des Handbremsventils (bei deinem Lkw mit durch
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Wie wirkt es sich bei einem Lastzug aus, wenn der Feststellbremshebel im Zugfahrzeug betätigt wird (nicht in Kontrollstellung)?**
 
 **Optionen:**
@@ -47974,6 +52604,8 @@ Die Funktion der Kontrollstellung des Handbremsventils (bei deinem Lkw mit durch
 #### Frage 2.7.06-402
 
 **Punkte:** 3 Punkte
+
+**Klassen:** T
 
 **Sie möchten eine landwirtschaftliche Zugmaschine mit zwei druckluftgebremsten Anhängern fahren. Was müssen Sie hinsichtlich des handbetätigten Bremskraftreglers am jeweiligen Anhänger beachten?**
 
@@ -47994,6 +52626,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, C1E, DE
+
 **Was ist erforderlich, damit ein Geschwindigkeitsregler (Tempomat) zu einer kraftstoffsparenden Fahrweise beitragen kann?**
 
 **Optionen:**
@@ -48013,6 +52647,8 @@ Die Auswahl des richtigen Ganges kann zu einer Kraftstoffsparenden Fahrweise mit
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Welche Funktion übernimmt eine automatisch-lastabhängige Bremskraftregelung?**
 
 **Optionen:**
@@ -48031,6 +52667,8 @@ Die Funktion des ALB-Reglers bewirkt, dass die Bremskraft der tatsächlichen Ges
 #### Frage 2.7.06-405
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Sie möchten mit einem Fahrzeug mit auflaufgebremstem Anhänger fahren. Was müssen Sie vor Fahrtantritt überprüfen?**
 
@@ -48052,6 +52690,8 @@ Beachten Sie, dass eine Auflaufbremse eine mechanische Einrichtung ist, deren Ve
 #### Frage 2.7.06-406
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Was müssen Sie regelmäßig am Luftpresser kontrollieren?**
 
@@ -48076,6 +52716,8 @@ Am Luftpresser solltest du regelmäßig den Anschluss der Druckleitung und die K
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, C1E
+
 **Welche Kontroll- und Wartungsarbeiten müssen an einer Sattelkupplung regelmäßig vorgenommen werden?**
 
 **Optionen:**
@@ -48096,6 +52738,8 @@ Bei Kontroll- und Wartungsarbeiten muss die Sattelkupplung abgeschmiert werden u
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Wie weit darf ein Kupplungsbolzen einer selbsttätigen Anhängekupplung mit einem Durchmesser im Neuzustand von 38,0 mm höchstens abgenutzt sein?**
 
 **Optionen:**
@@ -48113,6 +52757,8 @@ Der Kupplungsbolzen darf maximal bis zu einem Durchmesser von 36,5 mm abgenutzt 
 #### Frage 2.7.07-204
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Was kann Längsspiel der Zugstange einer Anhängekupplung für Folgen haben?**
 
@@ -48134,6 +52780,8 @@ Beim Längenspiel der Zugstange kann es zu Schäden an der Traverse kommen und d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Darf die Zugstange einer Anhängekupplung Längsspiel haben?**
 
 **Optionen:**
@@ -48152,6 +52800,8 @@ Die Antwort lautet Nein. Eine Anhängerkupplung darf kein Längsspiel haben.
 #### Frage 2.7.07-208
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
 
 **Was ist beim Ankuppeln eines Anhängers mit Kugelkupplung zu beachten?**
 
@@ -48174,6 +52824,8 @@ Die Kupplungsklaue muss dabei sicher schließen. Der Boden wird während des Ank
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, D, D1, C1E, D1E, DE
+
 **Was ist nach dem Ankuppeln eines mehrachsigen Anhängers an eine selbsttätig wirkende Anhängekupplung zu überprüfen?**
 
 **Optionen:**
@@ -48193,6 +52845,8 @@ Bei dem Ankuppeln eines mehrachsigen Anhängers an eine selbsttätig wirkende An
 #### Frage 2.7.07-302
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE
 
 **Was müssen Sie nach dem Aufsatteln eines Sattelanhängers tun?**
 
@@ -48214,6 +52868,8 @@ Nach dem Aufsatteln eines Sattelanhängers solltest du alle Schlauch- und Kabelv
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE
+
 **Wie viel Höhenspiel darf der Kupplungsbolzen höchstens haben?**
 
 **Optionen:**
@@ -48232,6 +52888,8 @@ Der Kupplungsbolzen darf höchstens 4 mm Höhenspiel haben. Ist er zu hoch, ruck
 #### Frage 2.7.07-304
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE
 
 **Sie übernehmen einen von Ihnen bisher nicht benutzten Sattelanhänger. Worauf müssen Sie vor dem Aufsatteln achten?**
 
@@ -48252,6 +52910,8 @@ Der Kupplungsbolzen darf höchstens 4 mm Höhenspiel haben. Ist er zu hoch, ruck
 #### Frage 2.7.07-305
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Was müssen Sie vor dem Absatteln eines Sattelanhängers tun?**
 
@@ -48274,6 +52934,8 @@ Alle 3 Antworten sind richtig. Alle Schlauch- und Kabelverbindungen zwichen Satt
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE, L, T
+
 **Was ist beim Ankuppeln eines Mehrachsanhängers richtig?**
 
 **Optionen:**
@@ -48293,6 +52955,8 @@ Während des Ankuppeln eines Mehrachsanhängers wird das Zugfahrzeug zum Anhäng
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, L, T
+
 **Wodurch soll die Zuggabel eines mehrachsigen Anhängers in Kupplungshöhe des heranfahrenden Zugfahrzeugs gehalten werden?**
 
 **Optionen:**
@@ -48311,6 +52975,8 @@ Der Mehrachsige Anhänger wird  in Kupplungshöhe des heranfahrenden Zugfahrzeug
 #### Frage 2.7.07-309
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE, T
 
 **Wovon müssen Sie sich vor dem Ankuppeln eines mehrachsigen Anhängers überzeugen?**
 
@@ -48332,6 +52998,8 @@ Während des Ankuppeln eines mehrachsigen Anhängers, musst du dich davon überz
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, T
+
 **Sie haben einen von Ihnen bisher nicht benutzten mehrachsigen Anhänger angekuppelt. Wie können Sie einen gefährlichen Verschleißzustand an Zuggabel und Drehkranz feststellen?**
 
 **Optionen:**
@@ -48350,6 +53018,8 @@ Mit dem Zugfahrzeug mehrfach kurz anrucken, sollte beim gebremsten Anhänger ein
 #### Frage 2.7.07-312
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE, T
 
 **Wie können Sie erkennen, ob bei einer selbsttätigen Anhängekupplung der Kupplungsbolzen richtig eingerastet ist?**
 
@@ -48370,6 +53040,8 @@ Damit du kontrollieren kannst, ob der Kupplungsbolzen richtig eingerastet ist, k
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, T
+
 **Wie groß darf der Verschleiß an der Zugöse höchstens sein?**
 
 **Optionen:**
@@ -48389,6 +53061,8 @@ Der Verschleiß der Zugöse darf höchsten 1,5 mm sein.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, T
+
 **Wie viel Spiel in Zugrichtung darf die Zuggabel in den Lagerbuchsen höchstens haben?**
 
 **Optionen:**
@@ -48407,6 +53081,8 @@ Die Zuggabel darf in den Lagerbuchsen (Zugrichtung) kein merkliches Spiel haben.
 #### Frage 2.7.07-317
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE, T
 
 **Welche Folgen kann Längsspiel der Zugstange einer Anhängekupplung haben?**
 
@@ -48428,6 +53104,8 @@ Die Folgen des Längsspiels der Zugstange sind folgende: Rissbildung an der Trav
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, T
+
 **Wie sind die Druckluftleitungen beim Abkuppeln eines Anhängers zu trennen?**
 
 **Optionen:**
@@ -48447,6 +53125,8 @@ Die Druckluftleitungen trennst du beim Abkuppeln eines Anhängers, indem du zuer
 #### Frage 2.7.07-320
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, T
 
 **Was müssen Sie beim Ankuppeln eines Anhängers beachten?**
 
@@ -48468,6 +53148,8 @@ Beim Ankuppeln eines Anhängers mit kombinierten Kupplungsköpfen schließe beid
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, T
+
 **Was müssen Sie beim Ankuppeln eines Anhängers beachten?**
 
 **Optionen:**
@@ -48487,6 +53169,8 @@ Beim Ankuppeln eines Anhängers, bitte nach dem Ankuppeln die Feststellbremse l�
 #### Frage 2.7.07-322
 
 **Punkte:** 4 Punkte
+
+**Klassen:** CE, T
 
 **Worauf müssen Sie nach dem Ankuppeln eines Anhängers an eine selbsttätig wirkende Anhängekupplung achten?**
 
@@ -48508,6 +53192,8 @@ An einer selbsttätig wirkenden Anhängerkupplung (automatisch) solltest du auf 
 
 **Punkte:** 4 Punkte
 
+**Klassen:** CE
+
 **Welche Voraussetzung muss vor dem Aufsatteln eines Sattelanhängers erfüllt sein?**
 
 **Optionen:**
@@ -48527,6 +53213,8 @@ Beim Aufsatteln eines Sattelanhängers muss die Sattelkupplung (Zugfahrzeug) ent
 #### Frage 2.7.07-324
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, L, T
 
 **Der Kupplungsbolzen Ihrer Anhängekupplung hat im Neuzustand 38 mm Durchmesser. Was müssen Sie bei Verschleiß beachten?**
 
@@ -48548,6 +53236,8 @@ Stellst du Verschleiß beim Kupplungsbolzen fest (z. B. 2 mm) musst du den Bolze
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, L, T
+
 **In der Zugeinrichtung des Anhängers tritt erhebliches Längsspiel auf. Welche Auswirkung kann das haben?**
 
 **Optionen:**
@@ -48568,6 +53258,8 @@ Wenn du erhebliches Längsspiel in der Zugeinrichtung des Anhängers feststellst
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, T
+
 **Wie viel Längsspiel darf die Zugstange der Anhängekupplung haben?**
 
 **Optionen:**
@@ -48586,6 +53278,8 @@ Ein Längsspiel in der Zugstange deines Anhängers ist nicht zulässig und muss 
 #### Frage 2.7.07-327
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, L, T
 
 **Die Zuggabel eines Deichselanhängers soll in Kupplungshöhe des heranfahrenden Zugfahrzeugs gehalten werden. Wodurch sollte dies geschehen?**
 
@@ -48606,6 +53300,8 @@ Um die Zuggabel eines Deichselanhängers in Kupplungshöhe zu bringen, benutze d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, L, T
+
 **Wie sollten Sie den Verschleißzustand an der Zuggabel oder dem Drehkranz an einem Deichselanhänger überprüfen?**
 
 **Optionen:**
@@ -48624,6 +53320,8 @@ Ob Verschleiß an der Zuggabel oder dem Drehkranz des Anhängers vorhanden ist, 
 #### Frage 2.7.07-329
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE, L, T
 
 **Wie groß darf der Verschleiß an der Zugöse der Anhängekupplung im Durchmesser höchstens sein?**
 
@@ -48644,6 +53342,8 @@ Der Verschleiß an der Zugöse darf höchstens im Durchmesser 1,5 mm groß sein.
 
 **Punkte:** 3 Punkte
 
+**Klassen:** CE, L, T
+
 **Wie groß darf der Verschleiß an der Zugöse einer Zuggabel im Durchmesser höchstens sein?**
 
 **Optionen:**
@@ -48662,6 +53362,8 @@ Der Durchmesser darf maximal 1,5 mm betragen.
 #### Frage 2.7.07-401
 
 **Punkte:** 3 Punkte
+
+**Klassen:** L, T
 
 **Ihre Zugmaschine ist mit einem Kupplungssystem K 80 mit manueller Verriegelung ausgerüstet. Was müssen Sie beim Ankuppeln eines Anhängers beachten?**
 
@@ -48686,6 +53388,8 @@ Du musst den Niederhalter am Kupplungssystem nach dem Ankuppeln verriegeln und d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Warum müssen Sie die Bremsflüssigkeit regelmäßig nach Vorgaben des Fahrzeugherstellers austauschen lassen?**
 
 **Optionen:**
@@ -48706,6 +53410,8 @@ Die Bremsflüssigkeit nach Vorgaben des Herstellers solltest du regelmäßig aus
 #### Frage 2.7.08-201
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, D, D1, C1E, D1E, DE
 
 **Welche Folgen hat ein Verzicht auf den regelmäßigen Luftfilterwechsel für den Motor?**
 
@@ -48728,6 +53434,8 @@ Ein Verzicht auf den regelmäßigen Luftfilterwechsel kann den Schadstoffanteil 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, D, D1, C1E, D1E, DE
+
 **Warum sollte die Lauffläche der Reifen regelmäßig überprüft werden?**
 
 **Optionen:**
@@ -48748,6 +53456,8 @@ Ein Verzicht auf den regelmäßigen Luftfilterwechsel kann den Schadstoffanteil 
 #### Frage 2.7.08-203
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, D, D1, C1E, D1E, DE
 
 **Warum sollten Sie vor Beginn der kalten Jahreszeit Ihr Fahrzeug überprüfen?**
 
@@ -48770,6 +53480,8 @@ Weil die Scheibenwaschanlage einfrieren kann und weil die Batterie ausfallen kan
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, D1, C1E, D1E, DE
+
 **Welche Wartungsarbeiten können Sie vorbeugend an der Batterie durchführen?**
 
 **Optionen:**
@@ -48790,6 +53502,8 @@ Kabelanschlüsse und Batteriehalterung auf festen Sitz prüfen und säubern und 
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, D, D1, C1E, D1E, DE
+
 **Warum ist eine regelmäßige Überprüfung der Kühlflüssigkeit des Motors wichtig?**
 
 **Optionen:**
@@ -48809,6 +53523,8 @@ Eine regelmäßige Überprüfung der Kühlflüssigkeit ist deshalb wichtig, weil
 #### Frage 2.7.08-207
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, CE, D, D1, C1E, D1E, DE
 
 **Warum sollten die vorgesehenen Inspektionen an Ihrem Fahrzeug durchgeführt werden?**
 
@@ -48831,6 +53547,8 @@ Die vorgesehenen Inspektionen solltest du deswegen durchführen, weil damit umwe
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, CE, D, D1, C1E, D1E, DE
+
 **Warum sollten Sie immer eine Abfahrtkontrolle an Ihrem Fahrzeug durchführen?**
 
 **Optionen:**
@@ -48852,6 +53570,8 @@ Eine Abfahrtkontrolle an deinem Fahrzeug solltest du aus allen genannten Gründe
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, CE, D, D1, C1E, D1E, DE
+
 **Wie werden Schmierstellen an Kraftfahrzeugen und Anhängern abgeschmiert?**
 
 **Optionen:**
@@ -48872,6 +53592,8 @@ Die Schmierstellen werden bei manueller Schmierung mit einer Festpresse an den d
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, CE, D, D1, L, T, C1E, D1E, DE
+
 **Was ist beim Abschmieren eines Fahrzeugs zu beachten?**
 
 **Optionen:**
@@ -48891,6 +53613,8 @@ Du solltest darauf achten, dass ein merklicher Fetteintrag zu erkennen ist und d
 #### Frage 2.7.08-301
 
 **Punkte:** 3 Punkte
+
+**Klassen:** CE
 
 **Welche Wartungsarbeiten sind am Anhänger erforderlich?**
 
@@ -48915,6 +53639,8 @@ Du musst alle beweglichen Teile (Zuggabel & Drehkranz) am Anhänger warten.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, CE, C1E
+
 **Wie breit darf ein Fahrzeug einschließlich Ladung höchstens sein (ausgenommen Fahrzeuge mit land- oder forstwirtschaftlichen Erzeugnissen und Kühlfahrzeuge)?**
 
 **Optionen:**
@@ -48931,6 +53657,8 @@ Die Breite deines Fahrzeuges (ausgenommen Fahrzeuge mit land- oder forstwirtscha
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, CE, C1E
+
 **Wie hoch darf ein Fahrzeug einschließlich Ladung höchstens sein (ausgenommen Fahrzeuge mit land- oder forstwirtschaftlichen Erzeugnissen)?**
 
 **Optionen:**
@@ -48946,6 +53674,8 @@ Die Höhe deines Fahrzeuges einschließlich Ladung (ausgenommen Fahrzeuge mit la
 #### Frage 2.7.09-204
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, CE, C1E
 
 **Eine nach hinten hinausragende Ladung muss kenntlich gemacht werden. Welche Mittel sind bei Tage zulässig?**
 
@@ -48967,6 +53697,8 @@ Bei Tage sind folgende Mittel bei einer nach hinten hinausragende Ladung zuläss
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, CE, C1E
+
 **Welche Vorsichtsmaßnahmen sind vor Inbetriebnahme eines Ladekranes zu treffen?**
 
 **Optionen:**
@@ -48986,6 +53718,8 @@ Vor der Inbetriebnahme eines Ladekranes musst du sicher sein, dass sich im Schwe
 #### Frage 2.7.09-209
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, CE, C1E
 
 **Unter welchen Voraussetzungen dürfen Sie eine Ladetätigkeit am Fahrbahnrand durchführen?**
 
@@ -49007,6 +53741,8 @@ Wenn du eine Ladetätigkeit am Fahrbahnrand durchführen möchtest, achte bitte 
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, CE, C1E
+
 **Welche Höhe des Fahrzeugs ist einschließlich der Ladung zulässig (ausgenommen Fahrzeuge mit land- oder forstwirtschaftlichen Erzeugnissen)?**
 
 **Optionen:**
@@ -49025,6 +53761,8 @@ Bei der Ladung zulässig (ausgenommen Fahrzeuge mit land- oder forstwirtschaftli
 #### Frage 2.7.09-211
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, CE, C1E
 
 **Welche Maßnahmen haben Sie zu treffen, wenn Sie mit einer heiß zu transportierenden Ladung (z. B.: Bitumentransport) mit einer Panne liegen bleiben?**
 
@@ -49047,6 +53785,8 @@ Bei einer Panne mit einer heiß zu transportierenden Ladung, solltest du Hilfe o
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, CE, C1E
+
 **Welche Verhaltensmaßregeln haben Sie zu beachten, wenn Sie Kühlgut transportieren?**
 
 **Optionen:**
@@ -49066,6 +53806,8 @@ Bei einem Kühlguttransport achte bitte darauf, ständig auf die Einhaltung der 
 #### Frage 2.7.09-220
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Beim Transport bestimmter Güter sind besondere Vorschriften zu beachten. Für welche Güter gilt dies?**
 
@@ -49088,6 +53830,8 @@ Sowohl für Abfallgüter, als auch lebende Tiere und gefährliche Güter sind be
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Wie ist die Ladung zu kennzeichnen, wenn sie seitlich mehr als 0,4 m über die Fahrzeugbegrenzungsleuchten hinausragt?**
 
 **Optionen:**
@@ -49106,6 +53850,8 @@ Die Kennzeichnung bei seitlich mehr als 0,4 m über die Fahrzeugbegrenzungsleuch
 #### Frage 2.7.09-222
 
 **Punkte:** 4 Punkte
+
+**Klassen:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Was müssen Sie bei der Beladung Ihres Fahrzeugs beachten?**
 
@@ -49128,6 +53874,8 @@ Bei deiner Beladung deines Fahrzeuges, achte bitte auf die Einhaltung der zuläs
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Was bedeutet diese Tafel?**
 
 ![Question Image](images/2_7_09-224.png)
@@ -49149,6 +53897,8 @@ Diese Tafel bedeutet Abfalltransporte.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, CE, C1E
+
 **Wo können Sie Vorgaben zur Beförderung und Befestigung von Ladung auf Fahrzeugen finden?**
 
 **Optionen:**
@@ -49168,6 +53918,8 @@ Die Vorgaben findest du in der StVO (Straßenverkehrsordnung) und in anerkannten
 #### Frage 2.7.09-226
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, C1E
 
 **Sie fahren einen Stückguttransport mit unterschiedlich großen und schweren Transporteinheiten. Wie sollten Sie diese Ladung sichern?**
 
@@ -49189,6 +53941,8 @@ Fährst du einen Stückguttransport mit unterschiedlich großen und schweren Tra
 
 **Punkte:** 4 Punkte
 
+**Klassen:** C, CE, L, T, C1E
+
 **Sie transportieren Baumstämme. Die Fahrstrecke führt Sie auch über schlechte Straßen. Was müssen Sie tun?**
 
 **Optionen:**
@@ -49209,6 +53963,8 @@ Beim Baumstämmetransport über schlechte Straßen, solltest du die Ladungssiche
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, C1E
+
 **Was müssen Sie bei der Entgegennahme beschädigter Ladung beachten, wenn von der Ladung eine Gefahr beim Transport zu erwarten ist?**
 
 **Optionen:**
@@ -49227,6 +53983,8 @@ Bei der Entgegennahme beschädigter Ladung, solltest du beachten, dass die Ladun
 #### Frage 2.7.09-229
 
 **Punkte:** 3 Punkte
+
+**Klassen:** C, C1, CE, L, T, C1E
 
 **Wann müssen Sie Schüttgut auf Ihrem Fahrzeug abdecken?**
 
@@ -49248,6 +54006,8 @@ Du musst Schüttgut auf deinem Fahrzeug vor dem herabfallen abdecken und vom dar
 
 **Punkte:** 3 Punkte
 
+**Klassen:** C, C1, CE, L, T, C1E
+
 **Was gehört zur Ladungssicherung?**
 
 **Optionen:**
@@ -49267,6 +54027,8 @@ Zur deiner Ladungssicherung gehört, dass sichere Verstauen und Befestigen und d
 #### Frage 2.7.09-231
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, CE
 
 **Auf welche Art von Transporten weist diese am Fahrzeug angebrachte Tafel hin?**
 
@@ -49289,6 +54051,8 @@ Zur deiner Ladungssicherung gehört, dass sichere Verstauen und Befestigen und d
 
 **Punkte:** 3 Punkte
 
+**Klassen:** Mofa
+
 **Was muss an einem Mofa ständig betriebsbereit sein?**
 
 **Optionen:**
@@ -49310,6 +54074,8 @@ Alle drei müssen auf der Straße sichtbar sein und Ihre Sicherheit garantieren.
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, DE
+
 **Ein Bus hat 32 Fahrgastplätze. Wie viele Verbandkästen müssen mindestens vorhanden sein?**
 
 **Optionen:**
@@ -49329,6 +54095,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** B
+
 **Ein Pkw ist mit Winterreifen (M+S) ausgerüstet. Am Armaturenbrett ist ein Aufkleber "Mit M+S 160" angebracht. Was bedeutet das?**
 
 **Optionen:**
@@ -49347,6 +54115,8 @@ Sie dürfen bei Fahrten mit diesen Reifen die auf dem Aufkleber angegebene Gesch
 #### Frage 2.7.10-102
 
 **Punkte:** 3 Punkte
+
+**Klassen:** B
 
 **Was ist nach der Umrüstung auf Winterreifen (M+S) zu beachten?**
 
@@ -49368,6 +54138,8 @@ Der optimale Luftdruck für Winterreifen kann ein anderer sein, wenn kein Schnee
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Sie fahren einen Bus im Linienverkehr. Wo ist die Zahl der zugelassenen Sitz- und Stehplätze angegeben?**
 
 **Optionen:**
@@ -49387,6 +54159,8 @@ Demnächst...
 #### Frage 2.7.10-203
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Welche Ausrüstungsgegenstände sind in einem Bus bei ungünstigen Straßen- und Witterungsverhältnissen mitzuführen?**
 
@@ -49408,6 +54182,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Ihr Bus hat eine zulässige Gesamtmasse von 4 t. Was müssen Sie mitführen?**
 
 **Optionen:**
@@ -49427,6 +54203,8 @@ Demnächst...
 #### Frage 2.7.10-206
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Welche Anforderungen müssen Feuerlöscher erfüllen, die in Bussen mitzuführen sind?**
 
@@ -49448,6 +54226,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **In welchen Zeitabständen müssen Feuerlöscher auf Gebrauchsfähigkeit geprüft werden?**
 
 **Optionen:**
@@ -49466,6 +54246,8 @@ Demnächst...
 #### Frage 2.7.10-210
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Was muss in Bussen deutlich gekennzeichnet sein?**
 
@@ -49487,6 +54269,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Was müssen Sie vor Fahrtbeginn an den Notausstiegen überprüfen?**
 
 **Optionen:**
@@ -49507,6 +54291,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Ein Bus hat 15 Fahrgastplätze. Wie viel normgerechte Verbandkästen müssen mindestens vorhanden sein?**
 
 **Optionen:**
@@ -49525,6 +54311,8 @@ Demnächst...
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wie viele betriebsfertige Feuerlöscher müssen in einem Bus (Eindecker) mindestens mitgeführt werden?**
 
 **Optionen:**
@@ -49542,6 +54330,8 @@ Demnächst...
 #### Frage 2.7.10-214
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1, D1E, DE
 
 **Wo müssen sich vorgeschriebene Feuerlöscher in einem Doppeldeckbus befinden?**
 
@@ -49563,6 +54353,8 @@ Demnächst...
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D, D1, D1E, DE
+
 **Wo können Sie die Angabe zur Prüffrist eines im Fahrzeug mitgeführten Feuerlöschers finden?**
 
 **Optionen:**
@@ -49582,6 +54374,8 @@ Demnächst...
 #### Frage 2.7.10-216
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D
 
 **Sie fahren einen Doppeldeckerbus. Wo muss sich ein Feuerlöscher befinden?**
 
@@ -49609,6 +54403,8 @@ Gemäß § 35g der Straßenverkehrs-Zulassungs-Ordnung (StVZO) müssen in Doppel
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Wie lange dauert normalerweise die Probezeit?**
 
 **Optionen:**
@@ -49627,6 +54423,8 @@ Im Normalfall dauert die Probezeit 2 Jahre. Es gibt aber auch Situationen, in de
 #### Frage 2.8.01-009
 
 **Punkte:** 2 Punkte
+
+**Klassen:** A, A1, A2, B, A80
 
 **Sie befinden sich in der Probezeit und sind bisher nicht auffällig geworden. Welche Folgen können eintreten, wenn Sie an dem Verkehrszeichen „Halt. Vorfahrt gewähren.“ nicht anhalten und dadurch andere Verkehrsteilnehmer gefährden?**
 
@@ -49648,6 +54446,8 @@ Das Nichtbeachten des Verkehrszeichens „Halt. Vorfahrt gewähren“ ist ein sc
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Was soll mit der Teilnahme an einem Aufbauseminar innerhalb der Probezeit erreicht werden?**
 
 **Optionen:**
@@ -49668,6 +54468,8 @@ Mit einer Teilnahme am Aufbauseminar für Fahranfänger in der Probezeit (ASF) s
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Aufgrund mehrerer Verstöße innerhalb der Probezeit hat die Behörde die Teilnahme an einem Aufbauseminar angeordnet. Der Fahranfänger kommt dieser Anordnung nicht nach. Womit muss er jetzt rechnen?**
 
 **Optionen:**
@@ -49686,6 +54488,8 @@ Wenn der Fahranfänger einer Teilnahme am Aufbauseminar nicht wie gefordert nach
 #### Frage 2.8.01-012
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, L, T, A80
 
 **Womit muss ein Fahrerlaubnisbewerber rechnen, wenn er beim Fahren ohne Fahrerlaubnis erwischt wird?**
 
@@ -49707,6 +54511,8 @@ Ein Fahrerlaubnisbewerber muss nicht nur die dafür erforderlichen körperlichen
 
 **Punkte:** 2 Punkte
 
+**Klassen:** A, A1, A2, B, A80
+
 **Ein Fahranfänger hat innerhalb der Probezeit mehrere Verstöße begangen. Die Behörde hat die Teilnahme an einem Aufbauseminar angeordnet. Der Fahranfänger kommt dieser Anordnung nicht nach. Womit muss er jetzt rechnen?**
 
 **Optionen:**
@@ -49725,6 +54531,8 @@ Die Probezeit für Fahranfänger beträgt 2 Jahre. Während dieser Zeit gelten s
 #### Frage 2.8.01-014
 
 **Punkte:** 3 Punkte
+
+**Klassen:** A, A1, A2, AM, B, L, T, A80
 
 **Ein Fahrerlaubnisbewerber übt das praktische Fahren ohne Fahrlehrer im öffentlichen Verkehrsraum. Womit muss er rechnen, wenn er von der Polizei kontrolliert wird?**
 
@@ -49747,6 +54555,8 @@ Die Polizei kann eine Überprüfung der Fahreignung anordnen. So riskiert du als
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE
+
 **Sie transportieren mit einem Lkw gewerblich Güter. Was ist das Ziel der 35-stündigen Weiterbildung, an der Sie innerhalb von 5 Jahren teilnehmen müssen?**
 
 **Optionen:**
@@ -49767,6 +54577,8 @@ Bei einem Transport mit gewerblichen Gütern ist das Ziel der 35-stündigen Weit
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C, C1, CE, D, D1
+
 **Die Tätigkeit als Berufskraftfahrer erfordert das Absolvieren einer Grundqualifikation und die regelmäßige Teilnahme an Weiterbildungen. Wo finden Sie die Angaben zur Befristung Ihrer Grundqualifikation zum Berufskraftfahrer?**
 
 **Optionen:**
@@ -49785,6 +54597,8 @@ Die Angaben zur Befristung findest du auf dem Führerschein auf der Rückseite.
 #### Frage 2.8.01-203
 
 **Punkte:** 2 Punkte
+
+**Klassen:** D, D1
 
 **Sie befördern mit einem Bus gewerblich Personen. Was ist das Ziel der 35-stündigen Weiterbildung, an der Sie innerhalb von 5 Jahren teilnehmen müssen?**
 
@@ -49806,6 +54620,8 @@ Wenn du gewerblich mit dem Bus Personen beförderst, lernst du innerhalb der 35-
 
 **Punkte:** 3 Punkte
 
+**Klassen:** D, D1
+
 **Was kann dazu führen, dass Ihre Eignung als Busfahrer überprüft werden muss?**
 
 **Optionen:**
@@ -49822,6 +54638,8 @@ Wenn du gewerblich mit dem Bus Personen beförderst, lernst du innerhalb der 35-
 #### Frage 2.8.01-205
 
 **Punkte:** 3 Punkte
+
+**Klassen:** D, D1
 
 **Aus welchem Grund kann eine Eignungsuntersuchung gegenüber einem Busfahrer durch die Behörde angeordnet werden?**
 
@@ -49841,6 +54659,8 @@ Wenn du gewerblich mit dem Bus Personen beförderst, lernst du innerhalb der 35-
 
 **Punkte:** 2 Punkte
 
+**Klassen:** C
+
 **Nach dem erstmaligen Erwerb der Fahrerlaubnis der Klasse C möchten Sie gewerblich Güter transportieren. Auf welche Weise können Sie die Voraussetzung erfüllen?**
 
 **Optionen:**
@@ -49858,6 +54678,8 @@ Wenn du gewerblich mit dem Bus Personen beförderst, lernst du innerhalb der 35-
 
 **Punkte:** 2 Punkte
 
+**Klassen:** D
+
 **Nach dem erstmaligen Erwerb der Fahrerlaubnis der Klasse D möchten Sie gewerblich Personen befördern. Auf welche Weise können Sie die Voraussetzung erfüllen?**
 
 **Optionen:**
@@ -49874,6 +54696,8 @@ Wenn du gewerblich mit dem Bus Personen beförderst, lernst du innerhalb der 35-
 #### Frage 2.8.01-208
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Ihre Tätigkeit als Berufskraftfahrer erfordert eine Grundqualifikation sowie regelmäßige Weiterbildungen. Wo werden die Nachweise dokumentiert?**
 
@@ -49894,6 +54718,8 @@ Berufskraftfahrer, die im Güter- oder Personenverkehrs auf öffentlichen Straß
 #### Frage 2.8.01-209
 
 **Punkte:** 2 Punkte
+
+**Klassen:** C, C1, D, D1
 
 **Was wird auf dem Fahrerqualifizierungsnachweis dokumentiert?**
 

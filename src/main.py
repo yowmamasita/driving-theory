@@ -50,7 +50,7 @@ class DrivingTheoryBot:
         
         # Questions are now in the same directory level
         questions_dir = Path(__file__).parent.parent
-        self.question_loader = QuestionLoader(questions_dir)
+        self.question_loader = QuestionLoader(questions_dir, os.getenv('LICENSE_CLASS'))
         
         # Rate limiter: 10 requests per minute per user, burst of 15
         self.rate_limiter = RateLimiter(rate=10, window=60, burst=15)

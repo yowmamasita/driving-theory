@@ -7,14 +7,26 @@ from functools import lru_cache
 import asyncio
 
 
+# Labels the site uses for the basic material (Grundstoff) shared by all classes
+BASIC_LABELS = {'Basic material', 'Grundstoff'}
+
+
+def in_class(q: Dict[str, Any], license_class: str) -> bool:
+    """True if the question belongs to the pool of the given licence class, e.g. 'B'"""
+    # ponytail: Mofa's basic set is labelled GM, not Basic material; filtering for Mofa needs that label too
+    licenses = q.get('licenses', [])
+    return license_class in licenses or bool(BASIC_LABELS & set(licenses))
+
+
 class QuestionLoader:
     """
     Optimized question loader with caching and efficient memory usage.
     Designed to handle thousands of concurrent users.
     """
     
-    def __init__(self, questions_dir: Path):
+    def __init__(self, questions_dir: Path, license_class: Optional[str] = None):
         self.questions_dir = questions_dir
+        self.license_class = license_class  # e.g. 'B' to only ask car questions
         self._questions_cache = {}
         self._cache_lock = asyncio.Lock()
         self._question_index = {}  # Fast lookup by ID
@@ -61,11 +73,15 @@ class QuestionLoader:
         if isinstance(data, list):
             transformed = []
             for q in data:
+                if self.license_class and not in_class(q, self.license_class):
+                    continue
+                
                 # Extract correct answers
                 correct_answers = []
                 if q.get('correct_answers'):
                     for ca in q.get('correct_answers', []):
-                        correct_answers.append(ca['text'])
+                        # Number-input answers only have the value in 'letter'
+                        correct_answers.append(ca['text'] or ca['letter'])
                 elif q.get('correct_answer'):
                     ca = q.get('correct_answer')
                     if isinstance(ca, dict):

@@ -11,6 +11,8 @@
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you understand by defensive driving?**
 
 **Options:**
@@ -30,6 +32,8 @@ Defensive driving means that, on the one hand, you do not insist on your right o
 #### Question 1.1.01-002
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What can be the causes of rear-end collisions?**
 
@@ -52,6 +56,8 @@ There are several possible scenarios that lead to rear-end collisions. If someon
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which of these is a good example of "anticipatory driving"?**
 
 **Options:**
@@ -71,6 +77,8 @@ Driving with foresight is essential when it comes to road safety. You should alw
 #### Question 1.1.01-004
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are to drive a motor vehicle with which you are unfamiliar. Why do you have to be particularly careful to begin with?**
 
@@ -93,6 +101,8 @@ Every driver is accustomed to the driving behaviour and characteristics of his o
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are driving in a built-up area behind a vehicle with number plates that are not local. What could happen?**
 
 **Options:**
@@ -113,6 +123,8 @@ If you identify a non-local road user from the number plate, you must expect une
 #### Question 1.1.01-102
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What can cause unnecessary obstructions?**
 
@@ -135,6 +147,8 @@ One avoidable obstruction to road traffic is stalling the engine. This is especi
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Why must you not drive extra slowly for no good reason?**
 
 **Options:**
@@ -156,6 +170,8 @@ Road traffic regulations prohibit unnecessary slow driving, as it impedes the fl
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What can present a danger?**
 
 **Options:**
@@ -176,6 +192,8 @@ Safety risks include incorrectly adjusted headlamps. If they are set too low, th
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **How can you tell that you are getting tired while you are driving?**
 
 **Options:**
@@ -195,6 +213,8 @@ Fatigue leads to prolonged reaction times as well as reduced attention while dri
 #### Question 1.1.01-108
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What can happen if you ignore signs of tiredness?**
 
@@ -217,6 +237,8 @@ You should never ignore the first signs of tiredness, such as dwindling concentr
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What should you do if you start feeling tired while driving?**
 
 **Options:**
@@ -236,6 +258,8 @@ Since tiredness can lead to dangerous situations during car journeys, you should
 #### Question 1.1.01-110
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **How does tiredness affect your driving?**
 
@@ -258,6 +282,8 @@ Fatigue at the wheel increases the risk of accidents for the following reasons: 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **How could a dangerous situation arise?**
 
 **Options:**
@@ -277,6 +303,8 @@ A major cause of danger in road traffic is driving too fast. This is especially 
 #### Question 1.1.01-112
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What could cause the vehicle to leave the road?**
 
@@ -298,6 +326,8 @@ Drivers often drift off the road due to inattention or lack of concentration. Di
 #### Question 1.1.01-113
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is a frequent cause of serious accidents?**
 
@@ -323,6 +353,8 @@ Serious accidents often result: from risky overtaking manoeuvres and rear-end co
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you reckon with when approaching children?**
 
 **Options:**
@@ -341,6 +373,8 @@ Children can always behave ill-considered and are therefore exempt from the prin
 #### Question 1.1.02-005
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What conduct must you expect of children at zebra crossings?**
 
@@ -361,6 +395,8 @@ Children generally do not have the necessary training to always behave according
 #### Question 1.1.02-009-B
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you do?**
 
@@ -383,6 +419,8 @@ If a child suddenly runs across the road without paying attention to the traffic
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What do you have to reckon with when children are waiting at traffic lights?**
 
 **Options:**
@@ -404,6 +442,8 @@ Due to a lack of life experience as well as insufficient education, children do 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **A group of children are cycling on a cycle path that ends. What do you have to reckon with?**
 
 **Options:**
@@ -423,6 +463,8 @@ Children in particular, who are generally not overly familiar with traffic rules
 #### Question 1.1.02-024-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Which statements are correct?**
 
@@ -444,6 +486,8 @@ If you do not obstruct or endanger the passengers getting on or off the tram, yo
 #### Question 1.1.02-026-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you heed in this situation?**
 
@@ -467,6 +511,8 @@ If a public bus or school bus has its hazard lights on and is still moving, you 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What do you have to reckon with when elderly persons using walking frames cross the road?**
 
 **Options:**
@@ -488,6 +534,8 @@ When elderly people with walking aids cross the road, you have a higher duty of 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **A person in a wheelchair is travelling along the road although there is a pavement on the right. What do you do?**
 
 **Options:**
@@ -507,6 +555,8 @@ Disabled and elderly people sometimes do not behave in a roadworthy manner due t
 #### Question 1.1.02-029
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Having crossed the road, a person in a wheelchair cannot get up the curb and onto the pavement. What do you do?**
 
@@ -528,6 +578,8 @@ You should help the person. To do this, you may stop and switch on the hazard wa
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Who has a severe visual handicap?**
 
 ![Question Image](images/1_1_02-032.png)
@@ -548,6 +600,8 @@ You must expect a severe visual impairment in the case of persons with the follo
 #### Question 1.1.02-036
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do you do?**
 
@@ -571,6 +625,8 @@ Visually impaired pedestrians often wear an armband and have a guide dog with a 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you be aware of?**
 
 ![Question Image](images/1_1_02-037.png)
@@ -593,6 +649,8 @@ Where buses or trams wait at stops, you must always assume that people will sudd
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What risks must you be aware of?**
 
 ![Question Image](images/1_1_02-038-M.png)
@@ -613,6 +671,8 @@ Cyclists do not always behave in a way that is appropriate for traffic. Here, ev
 #### Question 1.1.02-039-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **How do you behave?**
 
@@ -636,6 +696,8 @@ Reduce speed and watch the two children very closely. Be careful and ready to br
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you be aware of?**
 
 ![Question Image](images/1_1_02-040-M.png)
@@ -657,6 +719,8 @@ It is always possible that cyclists do not behave in a way that is appropriate f
 #### Question 1.1.02-041-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What risks must you be aware of?**
 
@@ -680,6 +744,8 @@ If a ball is lying on the road, it can be assumed that a child will come and fet
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **How should you behave?**
 
 ![Question Image](images/1_1_02-042-M.png)
@@ -701,6 +767,8 @@ The rule here is: reduce speed immediately, be ready to brake and drive slowly p
 #### Question 1.1.02-043-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **How must you behave?**
 
@@ -724,6 +792,8 @@ Most likely, a child will come running into the road after the ball without payi
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **In this situation, which vehicles may drive past, at walking speed only, while ensuring there is no danger to any passengers?**
 
 ![Question Image](images/1_1_02-046-M.png)
@@ -744,6 +814,8 @@ When the hazard warning lights of a bus are switched on at a bus stop, all vehic
 #### Question 1.1.02-048-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What should you do now?**
 
@@ -767,6 +839,8 @@ Since there are children both on the left and right on the street, you should br
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What should you do in this situation?**
 
 ![Question Image](images/1_1_02-049.png)
@@ -789,6 +863,8 @@ Immediately perform emergency braking to prevent a collision with the cyclist co
 #### Question 1.1.02-050-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why must you drive slowly here and be ready to brake?**
 
@@ -814,6 +890,8 @@ The child behind the van on the left runs towards the roadway. You cannot see wh
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the correct course of action in this situation?**
 
 ![Question Image](images/1_1_02-051-M.png)
@@ -834,6 +912,8 @@ The man is wearing a yellow armband and has a guide dog with him. He is blind or
 #### Question 1.1.02-052
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Why must you anticipate that children might behave unpredictably in road traffic situations?**
 
@@ -857,6 +937,8 @@ In addition to the perception of the direction, the perception of distances, spe
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **A child is walking on the pavement with a dog on a lead. Can this cause a dangerous situation?**
 
 **Options:**
@@ -876,6 +958,8 @@ Dangerous situations can arise here. The dog could break loose, and the child co
 #### Question 1.1.02-108-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you heed in this situation?**
 
@@ -899,6 +983,8 @@ When public transport and school buses are at a stop and their hazard warning li
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Which statements are correct in this situation?**
 
 ![Question Image](images/1_1_02-109-B.png)
@@ -920,6 +1006,8 @@ Vehicles coming from both directions may only pass public buses, school buses an
 #### Question 1.1.02-110-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Which statements are correct in this situation?**
 
@@ -943,6 +1031,8 @@ If a bus is at a stop and its hazard warning lights are switched on, you as the 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **In a residential area a ball rolls out in front of your vehicle. How must you react?**
 
 **Options:**
@@ -962,6 +1052,8 @@ If a ball rolls in front of your vehicle in a residential area, you must expect 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are approaching children playing on the pavement. How must you behave?**
 
 **Options:**
@@ -980,6 +1072,8 @@ Children playing on the pavement could unexpectedly run onto the roadway. The pr
 #### Question 1.1.02-114
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What should you anticipate in this situation?**
 
@@ -1002,6 +1096,8 @@ In this situation, you should be prepared for the danger of the dog running into
 #### Question 1.1.02-115
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **In this situation, do you have to proceed slowly and be ready to brake?**
 
@@ -1027,6 +1123,8 @@ As the bus is at the stop and flashing on the right, you should only drive past 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **The tram has just become stationary at the stop. What is the right course of action?**
 
 ![Question Image](images/1_1_02-116.png)
@@ -1048,6 +1146,8 @@ You may carefully pass a stopping tram at walking speed - but only if this does 
 #### Question 1.1.02-117
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **Why must you pause here?**
 
@@ -1072,6 +1172,8 @@ It's not clear what the child will do. It would be possible for the child to run
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you do?**
 
 ![Question Image](images/1_1_02-119.png)
@@ -1094,6 +1196,8 @@ Special caution is always required towards children in road traffic. In this sit
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What should you do?**
 
 ![Question Image](images/1_1_02-120-M.png)
@@ -1114,6 +1218,8 @@ Pedestrians always have absolute priority at pedestrian crossings. Therefore, br
 #### Question 1.1.02-121-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What should you do?**
 
@@ -1136,6 +1242,8 @@ When pedestrians wait at a zebra crossing to cross the road, they have priority.
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What actions should you anticipate at such stops?**
 
 ![Question Image](images/1_1_02-122.png)
@@ -1157,6 +1265,8 @@ Pedestrians are required to wait at such traffic islands. You are therefore allo
 #### Question 1.1.02-123-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You want to turn right. What must you be prepared for?**
 
@@ -1181,6 +1291,8 @@ If you want to turn right, road users travelling in a straight line here have pr
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you be prepared for?**
 
 ![Question Image](images/1_1_02-124-M.png)
@@ -1203,6 +1315,8 @@ Where there are many parked cars, you should always drive carefully and consider
 #### Question 1.1.02-125-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What should you anticipate?**
 
@@ -1227,6 +1341,8 @@ The "Children" danger sign on the right makes it clear that increased attention 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Why are older pedestrians at more risk than younger ones from road traffic?**
 
 **Options:**
@@ -1248,6 +1364,8 @@ Older road users see less well, hear less well, react more slowly and misjudge t
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you be aware of in residential areas with low traffic volumes?**
 
 **Options:**
@@ -1267,6 +1385,8 @@ In residential areas, low traffic levels often give children and adults a feelin
 #### Question 1.1.02-128
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What actions should you anticipate from persons at the pedestrian crossing?**
 
@@ -1289,6 +1409,8 @@ Zebra crossings have a protective function for pedestrians. They give them prior
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **A pedestrian with a white stick wants to cross the road in front of you. What should you do?**
 
 **Options:**
@@ -1307,6 +1429,8 @@ The white cane shows you that this road user is blind or at least severely visua
 #### Question 1.1.02-130-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What should you anticipate?**
 
@@ -1329,6 +1453,8 @@ The "Children" danger sign on the right warns you to take extra care. With many 
 #### Question 1.1.02-131
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What should you anticipate?**
 
@@ -1353,6 +1479,8 @@ In a traffic situation with several parked vehicles and different road users, th
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What is your assessment of this situation?**
 
 ![Question Image](images/1_1_02-132.png)
@@ -1375,6 +1503,8 @@ You should only pass the waiting pedestrian at the side of the road with an appr
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **A person at the side of the road is wearing a yellow armband with three black spots. What does this armband indicate?**
 
 **Options:**
@@ -1394,6 +1524,8 @@ If you see a person at the side of the road wearing a yellow armband with three 
 #### Question 1.1.02-134-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why do you have to reduce your speed here?**
 
@@ -1418,6 +1550,8 @@ If a van is parked in front of a house and a child runs out of the house, the ch
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you anticipate when pedestrians are crossing the road?**
 
 **Options:**
@@ -1438,6 +1572,8 @@ When a pedestrian crosses the roadway, it is not certain that he will continue t
 #### Question 1.1.02-136-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why must you drive slowly now, and be ready to brake?**
 
@@ -1462,6 +1598,8 @@ You must drive slowly and be ready to brake because passengers can cross the roa
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Why are you required to brake here?**
 
 ![Question Image](images/1_1_02-137-M.png)
@@ -1484,6 +1622,8 @@ A child is behind the parked vehicle and will probably cross the road in the nex
 #### Question 1.1.02-138-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -1509,6 +1649,8 @@ Since the dog, most likely, will run onto the street from the left, you have to 
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **Why are you required to stop here?**
 
 ![Question Image](images/1_1_02-201-M.png)
@@ -1532,6 +1674,8 @@ You should stop here because there are 2 pedestrians in front of the bus and the
 #### Question 1.1.02-202-M
 
 **Points:** 5 Points
+
+**Licenses:** GM classes
 
 **Why are you required to brake now?**
 
@@ -1559,6 +1703,8 @@ The child could run onto the roadway at any moment. Brake to avoid an accident.
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **Where must you particularly reckon with dirt on the roadway and therefore danger of skidding?**
 
 **Options:**
@@ -1578,6 +1724,8 @@ At junctions of dirt roads and at construction sites, the roadway is likely to b
 #### Question 1.1.03-002
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Why must the safe distance maintained be much greater on a wet roadway than on a dry roadway?**
 
@@ -1600,6 +1748,8 @@ On wet roads, the adhesion between the tyre and the road is poorer due to the wa
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Where must you especially reckon with ice on the roadway?**
 
 **Options:**
@@ -1620,6 +1770,8 @@ You must expect increased icing on the road in the following areas: in damp, sha
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What are the special conditions when driving along tree-lined avenues in the cold season?**
 
 **Options:**
@@ -1639,6 +1791,8 @@ The particularities of driving along avenues in the cold season result from the 
 #### Question 1.1.03-005
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **There is oil on the road. What should you do now?**
 
@@ -1661,6 +1815,8 @@ If there is oil on the road, avoid jerky steering and heavy braking; there is a 
 #### Question 1.1.03-006-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you be prepared for here?**
 
@@ -1685,6 +1841,8 @@ Due to the weather and the corresponding conditions on the road, you have to be 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are driving following a heavy rain shower. What should you be aware of in this situation?**
 
 ![Question Image](images/1_1_03-007-M.png)
@@ -1707,6 +1865,8 @@ When it rains, your view worsens. Therefore, you should enlarge your safety dist
 #### Question 1.1.03-102-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Why does driving on this stretch of road require greater alertness on the part of the motorist?**
 
@@ -1731,6 +1891,8 @@ A tram may come towards you on the tracks, in which case the lane becomes much n
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **The road is icy for a short distance. What should you avoid here, if possible?**
 
 **Options:**
@@ -1752,6 +1914,8 @@ On icy roads, your tyres do not grip as well as usual. Therefore, you should avo
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **While driving, how can you safely check whether the road is icy?**
 
 **Options:**
@@ -1770,6 +1934,8 @@ Test the condition of the road by braking carefully at low speed. Be sure to pay
 #### Question 1.1.03-108-B
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Why must you drive with particular caution here?**
 
@@ -1794,6 +1960,8 @@ Snow makes the road slippery. There is a curve in front of you that is difficult
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Where must you be prepared to encounter sudden fog?**
 
 **Options:**
@@ -1815,6 +1983,8 @@ Humidity at low temperatures favours the formation of fog. Therefore, fog is mor
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What do you do if visibility is drastically reduced by fog?**
 
 **Options:**
@@ -1834,6 +2004,8 @@ Adjust your speed and driving style to the visibility conditions. Make sure that
 #### Question 1.1.03-112-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action here?**
 
@@ -1856,6 +2028,8 @@ Even if the lane marking is not visible, the traffic signs show the presence of 
 #### Question 1.1.03-114-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Why do you have to pay particular attention here?**
 
@@ -1880,6 +2054,8 @@ There is a long curve in front of you, the end of which you cannot see. A fast-m
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You want to exit the motorway; to which must you pay particularly close attention?**
 
 ![Question Image](images/1_1_03-115.png)
@@ -1902,6 +2078,8 @@ In the video you see a red motorcycle on the deceleration lane. Later it is no l
 #### Question 1.1.03-116
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Why might taking the right turn be dangerous here?**
 
@@ -1926,6 +2104,8 @@ The winter weather makes the road slippery and increases the braking distance at
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You are driving on this road which is not inside a built-up area. What should you prepare yourself for?**
 
 ![Question Image](images/1_1_03-117.png)
@@ -1947,6 +2127,8 @@ On the right you will see the sign for a car park. Expect pedestrians walking aw
 #### Question 1.1.03-118
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of?**
 
@@ -1972,6 +2154,8 @@ The fog is so dense here that you cannot see farther than 50 meters. With such a
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Why is it necessary to maintain a larger safety distance to the vehicle ahead?**
 
 ![Question Image](images/1_1_03-119-M.png)
@@ -1995,6 +2179,8 @@ There is a risk of aquaplaning on wet roads. The braking distance is longer than
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What is the correct course of action in this situation?**
 
 ![Question Image](images/1_1_03-120.png)
@@ -2016,6 +2202,8 @@ Drive carefully, slowly and avoid abrupt steering or braking, because slippery s
 #### Question 1.1.03-121
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **While driving, it suddenly begins to rain heavily. What should you do?**
 
@@ -2040,6 +2228,8 @@ Extra care should be taken when driving in heavy rain. This includes adjusting s
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You turn from a brightly lit road into an unlit road. What do you have to bear in mind?**
 
 **Options:**
@@ -2059,6 +2249,8 @@ Pupils are contracted in brightness and wide open in darkness. Immediately after
 #### Question 1.1.04-103-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you do in this situation when you are dazzled?**
 
@@ -2081,6 +2273,8 @@ If you are dazzled by a high beam or incorrectly adjusted headlights, do not loo
 #### Question 1.1.04-107
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of here?**
 
@@ -2105,6 +2299,8 @@ The numerous neon signs distract from traffic and in particular from traffic lig
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Why might driving along this road become dangerous?**
 
 ![Question Image](images/1_1_04-108.png)
@@ -2126,6 +2322,8 @@ If you are on a lighted roadway with dark sections, you must pay particular atte
 #### Question 1.1.04-109
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Why is it possible that vehicle drivers do not take notice of the "Give way" sign?**
 
@@ -2150,6 +2348,8 @@ Even if the better lighting leads you to believe that you have priority over the
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What must you watch out for when you drive into an underground car park?**
 
 **Options:**
@@ -2170,6 +2370,8 @@ When entering an underground car park, drivers are bothered by the change from d
 #### Question 1.1.04-111
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What should you do in this kind of visibility?**
 
@@ -2196,6 +2398,8 @@ In poor visibility conditions, you must first reduce your speed. If you are blin
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Where does driving fast often lead to accidents?**
 
 **Options:**
@@ -2216,6 +2420,8 @@ Excessive speed is one of the main causes of accidents. The faster you drive, th
 #### Question 1.1.05-002
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Where is fast driving particularly dangerous?**
 
@@ -2238,6 +2444,8 @@ In blind bends, fast driving is particularly dangerous because suddenly appearin
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How do you take tight bends?**
 
 **Options:**
@@ -2257,6 +2465,8 @@ You should reduce your speed before entering a tight bend and only accelerate ag
 #### Question 1.1.05-103
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of?**
 
@@ -2282,6 +2492,8 @@ You may only pass a bus at a bus stop with its hazard lights on at walking speed
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What do you have to be aware of in this situation?**
 
 ![Question Image](images/1_1_05-105.png)
@@ -2305,6 +2517,8 @@ If a bus stops at a bus stop, you must always approach carefully. You have to st
 #### Question 1.1.05-107-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you be aware of here?**
 
@@ -2332,6 +2546,8 @@ They are crossing a residential area. The road is wide and tempts them to drive 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **Is it irresponsible to overtake a truck and trailer a short distance before a crossroads?**
 
 **Options:**
@@ -2351,6 +2567,8 @@ Under no circumstances should you start an overtaking manoeuvre just before a cr
 #### Question 1.1.06-005-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **Why are you not allowed to overtake now?**
 
@@ -2374,6 +2592,8 @@ You are not allowed to overtake because the cyclist could turn and the oncoming 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What mistakes make overtaking dangerous even on clear and straight roads?**
 
 **Options:**
@@ -2393,6 +2613,8 @@ Overtaking maneuvers are dangerous even on straight and open roads. This is espe
 #### Question 1.1.06-104
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **When are you in danger when overtaking?**
 
@@ -2414,6 +2636,8 @@ If you notice that the vehicle behind you wants to overtake you, do not increase
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **In which cases must you abandon overtaking?**
 
 **Options:**
@@ -2433,6 +2657,8 @@ Sudden oncoming traffic requires that an overtaking manoeuvre be stopped immedia
 #### Question 1.1.06-106
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **When is overtaking forbidden?**
 
@@ -2462,6 +2688,8 @@ Before overtaking, make sure that you do not endanger other road users and oncom
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Why can it be dangerous to overtake even on clearly visible, straight roads?**
 
 **Options:**
@@ -2481,6 +2709,8 @@ On a straight stretch of road, you may be able to see oncoming traffic from a di
 #### Question 1.1.06-113
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What should you do in this situation?**
 
@@ -2505,6 +2735,8 @@ You must not overtake the cyclist: you must not cross the continuous centre line
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you do?**
 
 ![Question Image](images/1_1_06-114.png)
@@ -2528,6 +2760,8 @@ You just want to start overtaking the cyclist, when the blue car suddenly drives
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What must you anticipate in this situation?**
 
 ![Question Image](images/1_1_06-121-M.png)
@@ -2549,6 +2783,8 @@ Your lane is blocked by a stopped vehicle. You must swerve into the oncoming lan
 #### Question 1.1.06-122
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What should you anticipate, if you want to overtake?**
 
@@ -2573,6 +2809,8 @@ On snow-covered roads, the braking and stopping distance is longer and there is 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You want to overtake. What should you prepare yourself for?**
 
 ![Question Image](images/1_1_06-123.png)
@@ -2595,6 +2833,8 @@ A cyclist might shake as one-handed driving and the heavy load on the rack make 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **You want to overtake cyclists on a narrow road. The width of the road means that the maximum possible space between them and the car is 50 cm. What should you do?**
 
 **Options:**
@@ -2613,6 +2853,8 @@ To avoid danger, as a vehicle driver you must always keep a sufficient safety di
 #### Question 1.1.06-125
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **You want to overtake cyclists. What should be noted when selecting the distance between the cyclists and the car?**
 
@@ -2633,6 +2875,8 @@ If you want to overtake a cyclist, you must consider the following with regard t
 #### Question 1.1.06-127-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action?**
 
@@ -2657,6 +2901,8 @@ The cyclist will overtake the lorry and pull out to do so. It is too dangerous t
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **In which situation is overtaking prohibited?**
 
 **Options:**
@@ -2677,6 +2923,8 @@ Overtaking is prohibited here, because in these situations you greatly increase 
 #### Question 1.1.06-129-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You want to overtake. What should you be prepared for now?**
 
@@ -2700,6 +2948,8 @@ The cyclist directly in front of you wants to cross onto the pedestrian path, in
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Why can it be dangerous to overtake on an unobscured, straight road?**
 
 **Options:**
@@ -2720,6 +2970,8 @@ If you misjudge the speed and distance of an oncoming vehicle, your overtaking d
 #### Question 1.1.06-131-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -2744,6 +2996,8 @@ The vehicle overtaking you has estimated its overtaking path too short. You shou
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **Why may you not overtake in this situation?**
 
 ![Question Image](images/1_1_06-201-M.png)
@@ -2767,6 +3021,8 @@ The overtaking lane is not visible due to the cyclists and the course of the roa
 #### Question 1.1.06-202-M
 
 **Points:** 4 Points
+
+**Licenses:** GM classes
 
 **Why are you not allowed to overtake now?**
 
@@ -2794,6 +3050,8 @@ The cyclist swings to the left and looks over his shoulder. He will probably tur
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you be prepared for when a truck in front of you wishes to turn right into a narrow street?**
 
 **Options:**
@@ -2814,6 +3072,8 @@ Keep a large distance from the lorry and under no circumstances overtake on the 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What do you have to particularly remember at crossroads and junctions in a built-up area?**
 
 **Options:**
@@ -2832,6 +3092,8 @@ By driving on a wide and well-developed road, you don't automatically have the r
 #### Question 1.1.07-005-B
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you be prepared for?**
 
@@ -2855,6 +3117,8 @@ The wet leaves on the road significantly increase the braking distance of your v
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **Why must you be particularly careful here?**
 
 ![Question Image](images/1_1_07-006-B.png)
@@ -2877,6 +3141,8 @@ The wet leaves on the road result in a longer braking distance and a high risk o
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to pull out of a row of parked vehicles into the stream of moving traffic. Behind you is a parked truck and trailer. How do you assess this situation?**
 
 **Options:**
@@ -2897,6 +3163,8 @@ Because of the truck, you can hardly see the traffic behind you. It also obscure
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are approaching a school. Children are leaving the school grounds. What must you reckon with?**
 
 **Options:**
@@ -2916,6 +3184,8 @@ In the vicinity of schools, you must always be prepared for children crossing th
 #### Question 1.1.07-010
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do hazard warning lights draw your attention to?**
 
@@ -2938,6 +3208,8 @@ The use of the hazard warning lights is subject to strict rules. You may only sw
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **A big combine harvester in front of you wishes to turn right. What is correct?**
 
 **Options:**
@@ -2958,6 +3230,8 @@ The combine harvester needs to gain amplitude to turn because the turn is very n
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are driving behind a farm vehicle with a trailer carrying a high load. What must you reckon with?**
 
 **Options:**
@@ -2977,6 +3251,8 @@ If you are riding behind an agricultural vehicle with a heavily loaded trailer, 
 #### Question 1.1.07-014-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What should you anticipate?**
 
@@ -3001,6 +3277,8 @@ You must expect to have to stop before the intersection when turning. For one th
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you do in this situation?**
 
 ![Question Image](images/1_1_07-015-M.png)
@@ -3022,6 +3300,8 @@ The driver of the vehicle coming out of the exit cannot see the cross traffic. H
 #### Question 1.1.07-016
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why do you have to wait before turning right?**
 
@@ -3047,6 +3327,8 @@ If you want to turn right, you will need to let all the vehicles drive past that
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What should you anticipate in this situation?**
 
 ![Question Image](images/1_1_07-017.png)
@@ -3069,6 +3351,8 @@ Because the oncoming vehicle is being slowed down by a bicycle, you should expec
 #### Question 1.1.07-019-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You want to turn right at the junction. What is the right thing to do?**
 
@@ -3093,6 +3377,8 @@ You may only use the protective lane to change lanes, swerve or turn. If you use
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **When could a dangerous situation arise here?**
 
 ![Question Image](images/1_1_07-020-M.png)
@@ -3114,6 +3400,8 @@ You can see that the cycle path ends immediately in front of you. The cyclist wo
 #### Question 1.1.07-021
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What must you watch out for when turning right here?**
 
@@ -3138,6 +3426,8 @@ Before you can turn right, you have to let the cyclist on the bike path to your 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What should you do?**
 
 ![Question Image](images/1_1_07-022.png)
@@ -3161,6 +3451,8 @@ Since there is a car in the blind spot to the left of you and on the other side 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you note about electric bicycles (e-bikes) participating in road traffic?**
 
 **Options:**
@@ -3180,6 +3472,8 @@ E-bikes are just as quiet as classic bikes and are therefore often perceived lat
 #### Question 1.1.07-025-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action now?**
 
@@ -3203,6 +3497,8 @@ You should be ready to brake and watch the cyclist carefully, because the cyclis
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You wish to overtake a farm tractor with a mounted implement extending beyond its back. What must you remember?**
 
 **Options:**
@@ -3222,6 +3518,8 @@ You should always refrain from an overtaking maneuver when the tractor wants to 
 #### Question 1.1.07-103-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What must you anticipate on the other side of this crest in the road?**
 
@@ -3246,6 +3544,8 @@ Due to the height of the crest, it is not possible to see what is behind it. Exp
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What do you do?**
 
 ![Question Image](images/1_1_07-105-B.png)
@@ -3265,6 +3565,8 @@ When a truck overtakes a cyclist crossing the continuous line, you must never tr
 #### Question 1.1.07-107-B
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What must you be prepared for in this situation?**
 
@@ -3288,6 +3590,8 @@ In the area of ​​a construction site you have to drive carefully and reduce 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What must you be prepared for in this situation?**
 
 ![Question Image](images/1_1_07-109-B.png)
@@ -3310,6 +3614,8 @@ Due to the weather and the slush you have to expect a slippery road surface and 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You are waiting at a traffic light and want to turn right. What should you remember?**
 
 **Options:**
@@ -3328,6 +3634,8 @@ If other road users are next to you, you must give priority to them if you wish 
 #### Question 1.1.07-113
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **You are driving on a new road through a woodland area. What must you reckon with?**
 
@@ -3349,6 +3657,8 @@ When roads are newly constructed in forested areas, they often pass through the 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Several deer run across the road in front of your vehicle. What must you reckon with?**
 
 **Options:**
@@ -3369,6 +3679,8 @@ If several deer flee across the road in front of your vehicle, you have to expec
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **At which time of the day do you have to reckon with increased wild animals crossing?**
 
 **Options:**
@@ -3388,6 +3700,8 @@ Expect more deer crossings during the morning and evening twilight. This transit
 #### Question 1.1.07-118
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Which dangers must you reckon with above all in rural areas?**
 
@@ -3410,6 +3724,8 @@ Where farming is practised, tractors and other agricultural vehicles travel at s
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **A farm tractor is approaching you at dawn with its headlights switched on. What must you reckon with?**
 
 **Options:**
@@ -3431,6 +3747,8 @@ In agricultural vehicles, the lights are sometimes broken. They can also be cove
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What must you observe when you enter a tunnel?**
 
 **Options:**
@@ -3450,6 +3768,8 @@ Before entering a tunnel, you must note the following: there is a light obligati
 #### Question 1.1.07-121
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you do in case of a traffic jam in a tunnel?**
 
@@ -3471,6 +3791,8 @@ If there is a traffic jam in a tunnel, stop and turn off the engine. By keeping 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What can impair your attention when driving through a tunnel?**
 
 **Options:**
@@ -3490,6 +3812,8 @@ When passing through a tunnel, the following factors may interfere with your att
 #### Question 1.1.07-123
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you observe particularly when driving through a tunnel?**
 
@@ -3512,6 +3836,8 @@ Driving noises in a tunnel are considerably louder due to the reverberation of t
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Which basic code of conduct must you observe in a tunnel?**
 
 **Options:**
@@ -3532,6 +3858,8 @@ The following rules of conduct are mandatory in all tunnels: on the entire route
 #### Question 1.1.07-132
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why are you required to stop here?**
 
@@ -3557,6 +3885,8 @@ You want to turn left. A van approaching from the opposite lane also wants to tu
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What should you do now?**
 
 ![Question Image](images/1_1_07-136.png)
@@ -3580,6 +3910,8 @@ The white reversing lights of the vehicle that turned in front of you indicate t
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You want to turn right. What should you do?**
 
 ![Question Image](images/1_1_07-137.png)
@@ -3601,6 +3933,8 @@ Before you can turn, you have to check in the rear-view mirror if the road is cl
 #### Question 1.1.07-138
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What should you anticipate?**
 
@@ -3625,6 +3959,8 @@ The other road users can react to this situation with all the different scenario
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Ahead of the motorbike a car is seeking to reverse on the road. What should you anticipate?**
 
 ![Question Image](images/1_1_07-139.png)
@@ -3648,6 +3984,8 @@ Car drivers often underestimate the speed of approaching motorcyclists; the same
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are driving quickly along a main road and some distance ahead you see a deer close to the carriageway. What should you do?**
 
 **Options:**
@@ -3667,6 +4005,8 @@ If the deer is not yet on the road, you should under no circumstances perform em
 #### Question 1.1.07-141
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Why are you particularly at risk, if you are riding a two-wheeler?**
 
@@ -3689,6 +4029,8 @@ Especially in restrictive visibility conditions such as fog and darkness, the sm
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Driving on a very busy road with several lanes, you have manoeuvred yourself into the lane for taking a left turn. Now instead of turning left, you want to turn right. What should you do?**
 
 **Options:**
@@ -3707,6 +4049,8 @@ A lane change or turning right could endanger other road users due to the heavy 
 #### Question 1.1.07-143
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **There is a tunnel on my route. What should I know?**
 
@@ -3727,6 +4071,8 @@ If there is a tunnel on your route, you should know the appropriate traffic sign
 #### Question 1.1.07-144
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **While driving through a tunnel, you notice a fire in your vehicle. You are not able to exit the tunnel. What should you do?**
 
@@ -3749,6 +4095,8 @@ If a fire in your vehicle prevents you from leaving a tunnel: Park the vehicle u
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **While driving in a tunnel you were forced to bring your vehicle to a halt due to a fire. What should you do now?**
 
 **Options:**
@@ -3768,6 +4116,8 @@ If you have to park your vehicle in a tunnel due to a fire, you should: stop the
 #### Question 1.1.07-146
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What should you anticipate?**
 
@@ -3793,6 +4143,8 @@ You see that the truck wants to turn in front of you. The vehicle obscures the v
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What must you watch out for now?**
 
 ![Question Image](images/1_1_07-147.png)
@@ -3817,6 +4169,8 @@ You want to turn right, so does the car driver in front of you. The pedestrian t
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Why are you required to stop here?**
 
 ![Question Image](images/1_1_07-148.png)
@@ -3839,6 +4193,8 @@ The cyclist must be given priority because she is on the right-of-way. Wait unti
 #### Question 1.1.07-149
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why are you required to stop here?**
 
@@ -3863,6 +4219,8 @@ The traffic on the main road is jammed. The red car drives around the parked veh
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What is the right course of action now?**
 
 ![Question Image](images/1_1_07-150.png)
@@ -3885,6 +4243,8 @@ When an animal walks on the road from the right, an evasive maneuver is a natura
 #### Question 1.1.07-151
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What should you do now?**
 
@@ -3910,6 +4270,8 @@ You can see that the animal is about to run on the road. Horns may help stop it.
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What must you look out for when the traffic lights turn green?**
 
 ![Question Image](images/1_1_07-152-M.png)
@@ -3934,6 +4296,8 @@ While you wait at the red light, a motorcyclist pushes past the waiting vehicles
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you be prepared for in this situation?**
 
 ![Question Image](images/1_1_07-153-M.png)
@@ -3957,6 +4321,8 @@ The truck blocks your view. You can therefore recognize neither the oncoming tra
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What should you do when driving through a tunnel?**
 
 **Options:**
@@ -3976,6 +4342,8 @@ When driving through a tunnel, proceed as follows: Make sure to pay attention to
 #### Question 1.1.07-155-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you watch out for now?**
 
@@ -4001,6 +4369,8 @@ You intend to turn left. Two cyclists move in the same direction. You must pay p
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What should you do now?**
 
 ![Question Image](images/1_1_07-156-M.png)
@@ -4024,6 +4394,8 @@ Since the dog (from the right) seems to be walking into the street, please perfo
 #### Question 1.1.07-157-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **For what should your prepare yourself in this situation?**
 
@@ -4049,6 +4421,8 @@ Please be prepared for people behind the bus to enter the lane and for the bus t
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What kind of behaviour must you anticipate from cyclists?**
 
 **Options:**
@@ -4069,6 +4443,8 @@ All 3 answers are correct. Cyclists use one-way streets in both directions, they
 #### Question 1.1.07-159-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you be prepared for here?**
 
@@ -4093,6 +4469,8 @@ The traffic sign indicates a rambler parking area, which means that people can w
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Why are you required to stop now?**
 
 ![Question Image](images/1_1_07-160-M.png)
@@ -4116,6 +4494,8 @@ As you do not have a full view of the traffic situation and must give the cyclis
 #### Question 1.1.07-161-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **You want to continue driving straight ahead. What is the correct course of action in this situation?**
 
@@ -4142,6 +4522,8 @@ The electric scooter does not have right of way, so to avoid an accident you sho
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **I want to re-join the road. What is the correct assessment of this situation?**
 
 ![Question Image](images/1_1_07-162-M.png)
@@ -4163,6 +4545,8 @@ As the vehicle parked behind you is very large, you will only see vehicles comin
 #### Question 1.1.07-163
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Why is it dangerous to carry on driving past this accident scene?**
 
@@ -4187,6 +4571,8 @@ The traffic situation is unclear, sudden braking manoeuvres by gawpers and pedes
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What must you watch out for when turning right here?**
 
 ![Question Image](images/1_1_07-164-M.png)
@@ -4209,6 +4595,8 @@ The cyclist has the right of way. When turning right, you must always pay attent
 #### Question 1.1.07-165-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -4233,6 +4621,8 @@ The scooter does not seem to see you coming and takes the right of way. To avoid
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What must you anticipate in this situation?**
 
 ![Question Image](images/1_1_07-166-M.png)
@@ -4255,6 +4645,8 @@ Since the obstacle is on your side, you must wait in this case. In addition, the
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You are driving through a tunnel. What special aspect applies here?**
 
 **Options:**
@@ -4275,6 +4667,8 @@ In a tunnel, the emergency exits and SOS emergency telephones are clearly signpo
 #### Question 1.1.07-168-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -4298,6 +4692,8 @@ The vehicle that is still parked wants to enter the road and has obviously overl
 #### Question 1.1.07-169-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What should you anticipate now?**
 
@@ -4324,6 +4720,8 @@ The [yellow] vehicle will stop, so you must be ready for the driver to open the 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You are driving on a section of road where a traffic jam has been reported. What is the right course of action?**
 
 **Options:**
@@ -4343,6 +4741,8 @@ You should be extra attentive on curves and before hilltops, because the traffic
 #### Question 1.1.07-171
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Why are you required to stop now?**
 
@@ -4367,6 +4767,8 @@ The "Give way" sign in combination with the additional bicycle sign shows you th
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What is the correct course of action in this situation?**
 
 ![Question Image](images/1_1_07-172-M.png)
@@ -4390,6 +4792,8 @@ If a cyclist suddenly comes from the left, you must do an emergency stop.
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **While driving, a deer crosses the road in front of your vehicle. What should you be aware of?**
 
 **Options:**
@@ -4409,6 +4813,8 @@ A deer is very unpredictable, maybe it runs back into the forest, maybe it will 
 #### Question 1.1.07-174-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action?**
 
@@ -4433,6 +4839,8 @@ As the lorry in front of you is parking in reverse, you must continue to slow do
 #### Question 1.1.07-175-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What should you anticipate in this situation?**
 
@@ -4459,6 +4867,8 @@ The yellow car flashes and turns left. Although it does not have right of way, a
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What is the right behaviour now?**
 
 ![Question Image](images/1_1_07-176-M.png)
@@ -4483,6 +4893,8 @@ In this situation you have to brake to avoid a collision with the overtaking car
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **What is the right course of action in this situation?**
 
 ![Question Image](images/1_1_07-201-M.png)
@@ -4506,6 +4918,8 @@ The cyclist from the left does not seem to slow down, so brake sharply.
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **Why must you brake now?**
 
 ![Question Image](images/1_1_07-202-M.png)
@@ -4528,6 +4942,8 @@ Because the cyclist wants to be in your lane, brake because of the cyclist.
 #### Question 1.1.07-203-M
 
 **Points:** 4 Points
+
+**Licenses:** GM classes
 
 **What must you watch out for now?**
 
@@ -4553,6 +4969,8 @@ The cyclist on the right is riding on the roadway. There is a cyclist on the lef
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **What should you anticipate in this situation?**
 
 ![Question Image](images/1_1_07-204-M.png)
@@ -4576,6 +4994,8 @@ As you are driving behind a large vehicle, it can quickly happen that you are ov
 #### Question 1.1.07-205-M
 
 **Points:** 5 Points
+
+**Licenses:** GM classes
 
 **You are driving outside of a built-up area. What is the correct course of action in this situation?**
 
@@ -4602,6 +5022,8 @@ You must still make sure that the road is clear for crossing.
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **Why should you be ready to brake now?**
 
 ![Question Image](images/1_1_07-206-M.png)
@@ -4624,6 +5046,8 @@ The brown vehicle has just stopped, there is a high risk that a person will get 
 #### Question 1.1.07-207-M
 
 **Points:** 4 Points
+
+**Licenses:** GM classes
 
 **What is the right thing to do in this situation?**
 
@@ -4651,6 +5075,8 @@ The cyclist is obviously crossing the road without paying attention to the traff
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **A motorist has had too much alcohol to drink and therefore must not drive. How is it not possible for him to recover his ability to drive in a short time?**
 
 **Options:**
@@ -4672,6 +5098,8 @@ After heavy consumption of alcohol, there's no quick way to restore your ability
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which substances can impair fitness to drive in a similar way to alcohol?**
 
 **Options:**
@@ -4690,6 +5118,8 @@ Drugs, in particular, change perceptions and impair the ability to respond quick
 #### Question 1.1.09-004
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What can impair fitness to drive?**
 
@@ -4712,6 +5142,8 @@ Anything that negatively affects the sense organs can reduce the ability to driv
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **In general, how long does it take before an alcohol level of 1.0 per mille (100 mg/100 ml) is cleared from the blood stream?**
 
 **Options:**
@@ -4730,6 +5162,8 @@ The rule of thumb is: 0.1 permille is being broken down per hour. After 10 hours
 #### Question 1.1.09-007
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What can increase the intoxicating effect of alcohol?**
 
@@ -4752,6 +5186,8 @@ The effect of alcohol is enhanced by medication. Especially large amounts of alc
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What can be the effects of even small quantities of alcohol?**
 
 **Options:**
@@ -4773,6 +5209,8 @@ Even small amounts of alcohol affect your central nervous system and worsen your
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What effects can drugs have?**
 
 **Options:**
@@ -4792,6 +5230,8 @@ Drug substances affect the central nervous system and distort sensory perception
 #### Question 1.1.09-010
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Which drugs can make a person temporarily unfit to drive even when consumed on a single occasion?**
 
@@ -4814,6 +5254,8 @@ The use of drugs even in small quantities leads to temporary inability to drive.
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **When is a drug-dependent person fit to drive a motor vehicle again?**
 
 **Options:**
@@ -4833,6 +5275,8 @@ Anyone who was caught driving under the influence of drugs had to hand in his dr
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How is the intoxicating substance in hashish broken down by the body?**
 
 **Options:**
@@ -4851,6 +5295,8 @@ Drugs such as hashish are not broken down evenly in the body - in contrast to al
 #### Question 1.1.09-017
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What are the consequences for a person driving a motor vehicle under the influence of drugs (e.g. hashish, heroin, cocaine)?**
 
@@ -4873,6 +5319,8 @@ Driving a vehicle under the influence of drugs such as hashish, cocaine or heroi
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What are the possible effects of hashish consumption?**
 
 **Options:**
@@ -4892,6 +5340,8 @@ The consumption of hashish leads to states of intoxication in which the feeling 
 #### Question 1.1.09-019
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What are the possible effects of hashish consumption?**
 
@@ -4914,6 +5364,8 @@ The use of hashish puts the user in a state of intoxication in which the ability
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Who is not allowed to drink alcohol when driving motor vehicles?**
 
 **Options:**
@@ -4934,6 +5386,8 @@ During the probation period or before the age of 21, a limit of 0.0 permille app
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Are drivers during their probation period allowed to be under the influence of alcohol when driving motor vehicles?**
 
 **Options:**
@@ -4952,6 +5406,8 @@ During the probationary period you must not drink any alcohol if you want to dri
 #### Question 1.1.09-024
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Why can fitness to drive be impaired even by just a small quantity of alcohol?**
 
@@ -4973,6 +5429,8 @@ Even small amounts of alcohol have a negative effect on vision, responsiveness a
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How can the consumption of cannabis products affect driving performance?**
 
 **Options:**
@@ -4992,6 +5450,8 @@ The consumption of cannabis products is counterproductive to the ability to driv
 #### Question 1.1.09-026
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Why is consuming drugs even just once, dangerous for driving on public roads?**
 
@@ -5014,6 +5474,8 @@ Drugs usually cause perceptual disorders. Even the one-time use of drugs can lea
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How long does cannabis and its degradation products remain detectable in urine?**
 
 **Options:**
@@ -5032,6 +5494,8 @@ Cannabis and its breakdown products are traceable in your urine for a period bet
 #### Question 1.1.09-028
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Why is an individual unfit to drive after consuming the drug crystal meth?**
 
@@ -5054,6 +5518,8 @@ Cannabis and its breakdown products are traceable in your urine for a period bet
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How can your fitness to drive be quickly restored following the excessive consumption of alcohol?**
 
 **Options:**
@@ -5072,6 +5538,8 @@ As alcohol degrades very slowly in the body, nothing can restore your driving ab
 #### Question 1.1.09-030
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What can affect ability to drive in a similar way to alcohol?**
 
@@ -5093,6 +5561,8 @@ Alcohol, drugs and medication have a negative effect on our reaction time, inhib
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How can the consumption of cannabis products affect the driver?**
 
 **Options:**
@@ -5112,6 +5582,8 @@ After cannabis use, your perception is clouded and your ability to concentrate d
 #### Question 1.1.09-032
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What effects can result from taking drugs?**
 
@@ -5134,6 +5606,8 @@ Furthermore, there may be an increase in the risk of risk, since it is very comm
 #### Question 1.1.09-033
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Consuming what substance before or while driving, can make you unfit to drive?**
 
@@ -5160,6 +5634,8 @@ Drugs and alcohol at the wheel lead to a significant risk to road traffic becaus
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **When ambient temperatures are high, this negatively affects driver concentration during long journeys and accident numbers rise. Which of the following is it advisable to do, so that you remain alert and can drive safely, even during high summer?**
 
 **Options:**
@@ -5179,6 +5655,8 @@ When temperatures are high, make sure you drink enough water and take regular br
 #### Question 1.1.10-002
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You should refrain from driving any vehicle if you are experiencing what physical symptoms?**
 
@@ -5208,6 +5686,8 @@ Dizziness, nausea and fever affect your concentration and your ability to drive,
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Participation in road traffic requires caution at all times and consideration towards other road users. What does this mean for you?**
 
 **Options:**
@@ -5227,6 +5707,8 @@ Always count on the mistakes of others as well as your own. Stick to an anticipa
 #### Question 1.2.01-003
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **To which road users must you show particular care?**
 
@@ -5251,6 +5733,8 @@ You must be particularly careful towards the following road users: all those who
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **When may you use the right-hand hard shoulder?**
 
 ![Question Image](images/1_2_02-101-B.png)
@@ -5273,6 +5757,8 @@ The right side strip may be used in the following cases: 1. for holding and park
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You have manoeuvred into the left lane by mistake, but would like to take a right turn. What is the right course of action?**
 
 ![Question Image](images/1_2_02-104-M.png)
@@ -5294,6 +5780,8 @@ With a solid line as a road edge marking, you must under no circumstances turn r
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **When driving on main roads, which vehicles must use the hard shoulders where possible?**
 
 **Options:**
@@ -5313,6 +5801,8 @@ Slow-moving vehicles such as tractors, mopeds must use the hard shoulder. Other 
 #### Question 1.2.02-107
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What should you do in this situation?**
 
@@ -5337,6 +5827,8 @@ In a street where vehicles park on both sides, the range of movement is limited.
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **A horse-drawn carriage is coming towards you. What should you do?**
 
 **Options:**
@@ -5356,6 +5848,8 @@ Drive as far to the right as possible when you encounter a horse-drawn carriage.
 #### Question 1.2.02-109
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is correct in this situation?**
 
@@ -5378,6 +5872,8 @@ At the traffic sign "Intersection or junction with right-of-way", you must follo
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **What do you have to watch out for, when crossing a priority road?**
 
 **Options:**
@@ -5399,6 +5895,8 @@ When crossing a priority road, you must keep in mind: 1. the width of the priori
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You want to use an autobahn. To allow you to do so, what type-specific maximum speed must be entered in Part I of the registration certificate or in the operating licence?**
 
 **Options:**
@@ -5414,6 +5912,8 @@ According to the German Road Traffic Regulations (Straßenverkehrsordnung - StVO
 #### Question 1.2.02-201
 
 **Points:** 4 Points
+
+**Licenses:** GM classes
 
 **You are driving in a built-up area on a cycle path on which mopeds are permitted. What should you anticipate?**
 
@@ -5439,6 +5939,8 @@ If you ride on a bike path in town, you should expect everything. Doors of parke
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which factors lengthen your braking distance?**
 
 **Options:**
@@ -5459,6 +5961,8 @@ The braking distance of a vehicle is extended: 1. on a steep hill, 2. on a wet o
 #### Question 1.2.03-002
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What does the braking distance depend on?**
 
@@ -5481,6 +5985,8 @@ The braking distance of your vehicle depends on the tires, the brake system and 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What is the permissible top speed generally in built-up areas?**
 
 **Options:**
@@ -5498,6 +6004,8 @@ If this speed is exceeded, you will no longer be able to process information in 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You double the speed at which you are travelling. How does this affect the braking distance?**
 
 **Options:**
@@ -5513,6 +6021,8 @@ It also depends on your speed: At twice the speed, the braking distance will be 
 #### Question 1.2.03-103
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you take into consideration when selecting your speed?**
 
@@ -5535,6 +6045,8 @@ You are only allowed to drive your vehicle at maximum legal speed. The actual pe
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **By which rule of thumb can you determine from the speed the distance in metres a motor vehicle travels in one second?**
 
 **Options:**
@@ -5553,6 +6065,8 @@ With the following rule of thumb and the help of speed, you can calculate the di
 #### Question 1.2.03-105
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **By which rule of thumb can you determine the braking distance in metres from speed when braking normally?**
 
@@ -5573,6 +6087,8 @@ The braking distance is the distance you travel from the start of braking until 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You are travelling at 30 km/h. According to the rule of thumb, the braking distance is 9 metres when braking normally. How long is the braking distance under the same conditions when travelling at 60 km/h?**
 
 **Options:**
@@ -5591,6 +6107,8 @@ If you double your speed to 60 km/h, the braking distance will quadruple. Just p
 #### Question 1.2.03-107
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You are driving on a wide road on which oncoming traffic can pass by you, unobstructed. Within what distance must you be able to stop in any event?**
 
@@ -5614,6 +6132,8 @@ You must be able to stop within the distance you can see in case obstacles such 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What does the distance to be maintained from the vehicle ahead depend on?**
 
 **Options:**
@@ -5634,6 +6154,8 @@ The distance to the vehicle in front depends on the speed as well as the visibil
 #### Question 1.2.04-102
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action?**
 
@@ -5659,6 +6181,8 @@ If a driver in front of you suddenly intervenes and reduces the safety distance 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What is the right course of action?**
 
 ![Question Image](images/1_2_04-103.png)
@@ -5681,6 +6205,8 @@ If you are overtaken by a car, you must not increase your pace. On the contrary,
 #### Question 1.2.04-104
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What benefit can be obtained by maintaining an adequate distance between you and the vehicle ahead?**
 
@@ -5705,6 +6231,8 @@ You should always maintain a sufficiently large safety distance to the car in fr
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **When driving outside of a built-up area, you want to overtake cyclists or pedestrians. What is the minimum space to the side that you must maintain?**
 
 **Options:**
@@ -5720,6 +6248,8 @@ Outside built-up areas, the minimum distance to be maintained for pedestrians, c
 #### Question 1.2.05-004
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Driving within a built-up area, you want to overtake a cyclist. What is the minimum space to the side that you must maintain?**
 
@@ -5737,6 +6267,8 @@ When overtaking, you must keep a sufficient distance to the side so as not to en
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Driving within a built-up area, you want to overtake an electric scooter. What is the minimum space to the side that you must maintain?**
 
 **Options:**
@@ -5752,6 +6284,8 @@ When overtaking, you must keep a sufficient distance to the side so as not to en
 #### Question 1.2.05-101
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Where is overtaking prohibited?**
 
@@ -5773,6 +6307,8 @@ Overtaking is prohibited in the following cases: 1. in the event of an unclear t
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What is the correct procedure for pulling out to overtake?**
 
 **Options:**
@@ -5793,6 +6329,8 @@ For pulling out when overtaking the following rules apply: You need to convince 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What must you do to end an overtaking manoeuvre?**
 
 **Options:**
@@ -5812,6 +6350,8 @@ As an overtaking driver, you must merge right as soon as possible. However, do n
 #### Question 1.2.05-105
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What are the regulations governing speed when overtaking?**
 
@@ -5834,6 +6374,8 @@ You may only overtake a vehicle in front of you if you are significantly (at lea
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What must you do when you are being overtaken?**
 
 **Options:**
@@ -5854,6 +6396,8 @@ Drive as far to the right as possible so as not to jeopardize the oncoming traff
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **On which side must you overtake a tram which is travelling in the middle of the roadway (not a one-way street)?**
 
 **Options:**
@@ -5872,6 +6416,8 @@ Trams must in general be overtaken on the right. If vehicles are parked here, yo
 #### Question 1.2.05-108
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **When may a tram be overtaken on the left?**
 
@@ -5893,6 +6439,8 @@ Rail vehicles such as trams may basically only be overtaken on the right. For on
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Which vehicles may be overtaken only by maintaining a specially great lateral distance?**
 
 **Options:**
@@ -5912,6 +6460,8 @@ When overtaking you must always keep sufficient distance to the road users next 
 #### Question 1.2.05-110
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **When must you signal?**
 
@@ -5933,6 +6483,8 @@ Whenever you want to make a lane change or turn, you need to indicate. This also
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Where is it forbidden to overtake?**
 
 **Options:**
@@ -5952,6 +6504,8 @@ When overtaking, you must exclude dangerous situations for other road users. It 
 #### Question 1.2.05-116
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are driving a slow-moving vehicle on a main road. How can you facilitate faster-moving vehicles in overtaking?**
 
@@ -5974,6 +6528,8 @@ To allow faster vehicles to overtake you on a country road, you can dodge on a s
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **When overtaking, what do you have to observe regarding spacing?**
 
 **Options:**
@@ -5993,6 +6549,8 @@ When overtaking, you must ensure that you have sufficient lateral distance to ot
 #### Question 1.2.05-119
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **How can you tell if a horse-drawn carriage wants to change direction?**
 
@@ -6015,6 +6573,8 @@ When a horse-drawn carriage wants to change its driving direction, it can be rec
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You want to overtake a horse-drawn carriage on a rural road. What should you do?**
 
 **Options:**
@@ -6034,6 +6594,8 @@ Drive past the horses at an appropriate speed and with as much distance as possi
 #### Question 1.2.05-121
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You want to overtake a horse-drawn carriage on a rural road. What should you do?**
 
@@ -6055,6 +6617,8 @@ If you want to overtake a horse-drawn carriage on a country road, you must do th
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are driving a slow-moving vehicle on a rural road. A line of vehicles is forming behind you. What should you do?**
 
 **Options:**
@@ -6074,6 +6638,8 @@ A long queue behind a slow-moving vehicle leads to dangerous overtaking maneuver
 #### Question 1.2.05-123
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You want to overtake a horse-drawn carriage on a rural road. What is the right course of action?**
 
@@ -6095,6 +6661,8 @@ When overtaking a carriage, you must pay attention to hand signals from the coac
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What amount of side clearance must you maintain when overtaking pedestrians and cyclists?**
 
 **Options:**
@@ -6114,6 +6682,8 @@ To protect cyclists and pedestrians, you must keep a distance of at least 1.5 me
 #### Question 1.2.05-125-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you note when overtaking the cyclists in this situation?**
 
@@ -6137,6 +6707,8 @@ Due to the commuting of cyclists, a larger minimum distance is recommended.
 #### Question 1.2.05-126-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What is the correct course of action in this situation?**
 
@@ -6164,6 +6736,8 @@ The driving lane line is solid. Therefore, overtaking is forbidden here.
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which vehicle must wait when half the roadway is closed because of roadworks?**
 
 **Options:**
@@ -6182,6 +6756,8 @@ If you want to drive past a parked car or a barrier on your side of the street, 
 #### Question 1.2.06-002-B
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **Who must wait?**
 
@@ -6202,6 +6778,8 @@ If you want to drive past a parked car or a barrier on the left side of the road
 #### Question 1.2.06-004
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why should you drive especially slowly here?**
 
@@ -6227,6 +6805,8 @@ In front of you, a standing truck narrows the road. The view of traffic is limit
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What is the right course of action?**
 
 ![Question Image](images/1_2_06-005.png)
@@ -6250,6 +6830,8 @@ You want to drive around the vehicles parked on the right side of the road. But 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What should you do now?**
 
 ![Question Image](images/1_2_06-006.png)
@@ -6272,6 +6854,8 @@ Your visibility is limited by the van and you cannot tell if vehicles are coming
 #### Question 1.2.06-101-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What is the correct course of action in this situation?**
 
@@ -6297,6 +6881,8 @@ You wait until the oncoming motorcyclist has passed, as the obstacle is on your 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you remember when you want to change lanes?**
 
 **Options:**
@@ -6317,6 +6903,8 @@ Turn the turn signal on and make sure that you do not endanger other road users 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **On a road with several lanes in one direction, one of the lanes ends ahead. You are driving on the lane which is coming to an end. What should you do?**
 
 **Options:**
@@ -6335,6 +6923,8 @@ If there is an obstacle on a road or if a multi-lane road narrows, then zip merg
 #### Question 1.2.07-104
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What do you do in a tunnel with oncoming traffic?**
 
@@ -6355,6 +6945,8 @@ In a tunnel with oncoming traffic, you must behave as follows: Orient yourself o
 #### Question 1.2.07-105-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the correct course of action in this situation?**
 
@@ -6380,6 +6972,8 @@ You drive as close as possible to the barrier and only change to the right-hand 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **In what situations is the alternate merging procedure to be used?**
 
 **Options:**
@@ -6400,6 +6994,8 @@ If the road narrows or if there is an obstacle on it so that a lane ends, zipper
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **A lane terminates on a road with several lanes heading in the same direction. What should you do when driving on the through-lane?**
 
 **Options:**
@@ -6418,6 +7014,8 @@ You must allow the driver, who is prevented from continuing to drive on the term
 #### Question 1.2.07-115
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You want to continue driving straight ahead. What should you do?**
 
@@ -6440,6 +7038,8 @@ If a lane ends, vehicles should only merge into the lane right before the beginn
 #### Question 1.2.07-116
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You want to turn right at the junction. What should you do?**
 
@@ -6467,6 +7067,8 @@ You would have to switch to the right lane, that is blocked by the waiting vehic
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to turn left. When must you check for traffic behind?**
 
 **Options:**
@@ -6485,6 +7087,8 @@ If you want to turn left, you must indicate this in a first step by pressing the
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **Two vehicles are approaching each other. Both want to turn left. What must they do as a rule?**
 
 **Options:**
@@ -6502,6 +7106,8 @@ Oncoming vehicles, each of which want to turn left from their direction of trave
 #### Question 1.2.09-010
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **Two vehicles are approaching each other. Both want to turn left. In which cases are you not allowed to turn left in front of each other?**
 
@@ -6523,6 +7129,8 @@ As a rule, you have to turn left before the oncoming vehicle (tangent turning). 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_2_09-012-M.png)
@@ -6542,6 +7150,8 @@ If you want to turn left, you have to give the oncoming vehicles right of way. T
 #### Question 1.2.09-013-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What driving line should you maintain up to the left turn?**
 
@@ -6563,6 +7173,8 @@ Left-turning drivers get themselves up to the middle of the roadway. The vehicle
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to turn left. When must you pay attention to the traffic following behind you?**
 
 **Options:**
@@ -6582,6 +7194,8 @@ When turning left, you should be aware of following traffic before turning and b
 #### Question 1.2.09-017
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **Two vehicles approach one another at an intersection. Both vehicles want to turn left. In what exceptional case do they have to turn one after the other?**
 
@@ -6603,6 +7217,8 @@ Always turn in front of each other. If the traffic situation or the design of th
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **Two vehicles approach one another at an intersection. Both vehicles want to turn left. What must both drivers do in the normal case?**
 
 **Options:**
@@ -6621,6 +7237,8 @@ If two left-turning vehicles come towards each other, they turn in front of each
 #### Question 1.2.09-019-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You want to turn left. What driving line should you maintain?**
 
@@ -6642,6 +7260,8 @@ Use the right-hand driving line. The left-hand driving line is intended for onco
 #### Question 1.2.09-020-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **To which road user must you give way here?**
 
@@ -6668,6 +7288,8 @@ Although your traffic lights are green, you must wait until the pedestrian has c
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to leave the roundabout at this exit. What is the right thing to do?**
 
 ![Question Image](images/1_2_09-021-M.png)
@@ -6691,6 +7313,8 @@ You must therefore allow cyclists and walkers to cross the carriageway.
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to turn right here. What is correct?**
 
 ![Question Image](images/1_2_09-022-M.png)
@@ -6712,6 +7336,8 @@ You must let both pedestrians cross the road. They do not change their direction
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What can give rise to particularly dangerous situations where several lanes turn off?**
 
 **Options:**
@@ -6731,6 +7357,8 @@ Drive at moderate speed into multi-lane turns. At too fast a pace you could get 
 #### Question 1.2.09-103-B
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **All three vehicles want to turn left. Which is in the correct lane?**
 
@@ -6753,6 +7381,8 @@ Only the yellow car merged into the lane correctly. He passed right, as it says 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **After turning left, you want to turn immediately right. How should you position your vehicle?**
 
 ![Question Image](images/1_2_09-104-B.png)
@@ -6773,6 +7403,8 @@ If you want to turn right again immediately after turning left, you get in prope
 #### Question 1.2.09-107-B
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Who must signal a change of direction here?**
 
@@ -6795,6 +7427,8 @@ The change of direction must indicate who changes it. This is true regardless of
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are on a roundabout. What should you remember?**
 
 **Options:**
@@ -6815,6 +7449,8 @@ In a roundabout you may only stop if this is unavoidable due to traffic, for exa
 #### Question 1.2.09-111
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **In what situation is it especially dangerous to perform a turn?**
 
@@ -6837,6 +7473,8 @@ When turning in poor visibility (fog), dangerous situations can arise. The same 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Who is required to indicate?**
 
 ![Question Image](images/1_2_09-112-M.png)
@@ -6858,6 +7496,8 @@ Changing the direction of travel must always be indicated by pressing the indica
 #### Question 1.2.09-113-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Who is required to indicate a change of driving direction here?**
 
@@ -6882,6 +7522,8 @@ The change of the direction of travel must always be indicated early enough. All
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Who is required to indicate a change of driving direction here?**
 
 ![Question Image](images/1_2_09-116-M.png)
@@ -6903,6 +7545,8 @@ The intention to change the direction of travel must be announced at an early st
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **When do have you to indicate a change in direction?**
 
 **Options:**
@@ -6922,6 +7566,8 @@ If you want to turn into a T-junction or a property, you have to indicate. The s
 #### Question 1.2.09-119
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Why are you required to stop now?**
 
@@ -6947,6 +7593,8 @@ Drivers who turn need to wait for vehicles from the opposite direction, even for
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to turn left. In what sequence do you prepare to take the left turn?**
 
 **Options:**
@@ -6965,6 +7613,8 @@ If you want to turn left, prepare the turn in the following order: 1. look, 2. i
 #### Question 1.2.09-121
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -6988,6 +7638,8 @@ In front of the traffic sign "Stop! Give way!", colloquially also called stop si
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How should you behave?**
 
 ![Question Image](images/1_2_09-122.png)
@@ -7008,6 +7660,8 @@ Turning drivers generally have to wait for oncoming vehicles. These include cycl
 #### Question 1.2.09-123
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You want to turn left. To whom must you give priority?**
 
@@ -7030,6 +7684,8 @@ The oncoming traffic when turning left, has always right of way. This also appli
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to turn left. What difficulties could arise here?**
 
 **Options:**
@@ -7050,6 +7706,8 @@ When turning left, vehicles approaching each other have to turn in front of each
 #### Question 1.2.09-125
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Why are you required to stop now?**
 
@@ -7074,6 +7732,8 @@ You are on a priority road and therefore you're allowed to drive before the whit
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What is the right course of action here?**
 
 ![Question Image](images/1_2_09-126.png)
@@ -7097,6 +7757,8 @@ You must not overtake the moped before the level crossing. In general, no vehicl
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Why are you required to brake now?**
 
 ![Question Image](images/1_2_09-127.png)
@@ -7119,6 +7781,8 @@ The motorcyclist comes from the left at high speed. He probably did not see you 
 #### Question 1.2.09-128-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why do you have to wait before turning right?**
 
@@ -7144,6 +7808,8 @@ If you want to turn, you must give priority to road users traveling straight ahe
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What must you be aware of here?**
 
 ![Question Image](images/1_2_09-129.png)
@@ -7168,6 +7834,8 @@ Since the blue car is already in the roundabout, you have to slow down. Only whe
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You want to turn left. What driving line should you maintain?**
 
 ![Question Image](images/1_2_09-130-M.png)
@@ -7189,6 +7857,8 @@ Since you are on a one-way street, you don't need to fear oncoming traffic. Indi
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **[The cyclist] wants to continue straight ahead. What is the right course of action here?**
 
 ![Question Image](images/1_2_09-131-M.png)
@@ -7208,6 +7878,8 @@ Vehicles that want to turn need to let bicycles pass that drive in their directi
 #### Question 1.2.09-132-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why must you wait before taking a turn in this situation?**
 
@@ -7233,6 +7905,8 @@ Because of the truck and the motorcycle. Here you have to pay attention to the t
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Who has to indicate in this situation?**
 
 ![Question Image](images/1_2_09-133-M.png)
@@ -7254,6 +7928,8 @@ You and the blue car are changing direction for this reason you must indicate th
 #### Question 1.2.09-134-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -7279,6 +7955,8 @@ The motorbike behind you has already changed to the left lane and will overtake 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Why are you not allowed to take the turn now?**
 
 ![Question Image](images/1_2_09-135-M.png)
@@ -7301,6 +7979,8 @@ At an intersection, drivers going straight ahead have the right of way. You must
 #### Question 1.2.09-136-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What must you anticipate in this situation?**
 
@@ -7325,6 +8005,8 @@ The blue car drives past the stopping bus and may want to continue straight on, 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Why are you required to stop now?**
 
 ![Question Image](images/1_2_09-137-M.png)
@@ -7347,6 +8029,8 @@ There is an electric scooter in the blind spot, so you must stop to avoid endang
 #### Question 1.2.09-138-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -7372,6 +8056,8 @@ The straight ahead traffic always has priority, whether the cyclist is riding on
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **Why are you required to stop now?**
 
 ![Question Image](images/1_2_09-201-M.png)
@@ -7394,6 +8080,8 @@ Because you want to turn left, you should wait for the tram before turning.
 #### Question 1.2.09-202-M
 
 **Points:** 5 Points
+
+**Licenses:** GM classes
 
 **In this situation, why do you have to wait before turning right?**
 
@@ -7419,6 +8107,8 @@ When turning, you must give priority to longitudinal traffic, for this reason yo
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **Why can you not turn off the road here?**
 
 ![Question Image](images/1_2_09-203-M.png)
@@ -7441,6 +8131,8 @@ The red car is still overtaking you and is travelling at a much higher speed tha
 #### Question 1.2.09-204-M
 
 **Points:** 5 Points
+
+**Licenses:** GM classes
 
 **In this situation, why do you have to wait before turning left?**
 
@@ -7465,6 +8157,8 @@ You are changing the direction of travel, so you must give the tram priority.
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **In this situation, why do you have to wait before turning left?**
 
 ![Question Image](images/1_2_09-205-M.png)
@@ -7487,6 +8181,8 @@ A motorbike is driving behind a red car; due to your change of direction, you mu
 #### Question 1.2.09-206-M
 
 **Points:** 5 Points
+
+**Licenses:** GM classes
 
 **Why are you required to wait now?**
 
@@ -7515,6 +8211,8 @@ The blue car and the cyclist are both going straight ahead, so they have the rig
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to turn out of a road with a sunken kerbstone into another road. A car is coming from the left. What applies here?**
 
 **Options:**
@@ -7533,6 +8231,8 @@ When there are drop kerbs (as it happens often in residential areas), the rule "
 #### Question 1.2.10-006-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You want to leave the [petrol station]. What is correct?**
 
@@ -7557,6 +8257,8 @@ The blue traffic sign with the white arrow means “right direction of travel”
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What must you do when leaving the edge of the roadway?**
 
 **Options:**
@@ -7576,6 +8278,8 @@ Anyone who wants to go from the edge of the lane into the moving traffic must ma
 #### Question 1.2.10-104
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You want to leave a traffic-calming zone and begin driving along a road. What should you do?**
 
@@ -7597,6 +8301,8 @@ If you enter another street from a traffic-calmed area, you will be required to 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to leave a traffic-calming zone and begin driving along a road. Cyclists are approaching from the left. Who is required to wait?**
 
 **Options:**
@@ -7615,6 +8321,8 @@ When entering a street from a traffic-calmed area, the "left yields to right" ru
 #### Question 1.2.10-106
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You want to leave a property lot and turn right into a road. Cyclists are approaching from the left. Who is required to wait?**
 
@@ -7635,6 +8343,8 @@ As a matter of principle, you have to wait at property exits and give priority t
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to leave a property lot and turn into a road while passing over a footpath. What must you look out for?**
 
 **Options:**
@@ -7654,6 +8364,8 @@ To turn from a property over the sidewalk onto the road, you have to note: You h
 #### Question 1.2.10-108
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You want to exit the property lot. What is the right thing to do?**
 
@@ -7676,6 +8388,8 @@ If you would like to drive out of a property exit, you have to wait for all othe
 #### Question 1.2.10-109
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **You want to exit a parking space and move into the moving traffic. What should you do?**
 
@@ -7701,6 +8415,8 @@ When you park out, you must not endanger other road users. Indicate that you wan
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which are the areas you must not drive into when there is traffic congestion?**
 
 **Options:**
@@ -7721,6 +8437,8 @@ In the case of stagnant traffic, the following areas must be kept free for examp
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which are the areas you must not drive into when there is traffic congestion?**
 
 **Options:**
@@ -7740,6 +8458,8 @@ If traffic slows down, you may only enter intersections if you can leave them qu
 #### Question 1.2.11-005-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do you do?**
 
@@ -7762,6 +8482,8 @@ Due to the traffic sign you have to wait here. The red arrow in your direction i
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **During traffic congestion, what parts of the road infrastructure must be kept clear?**
 
 **Options:**
@@ -7781,6 +8503,8 @@ The pedestrian crossing (“zebra crossing”) is intended to enable pedestrians
 #### Question 1.2.11-007-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You want to continue driving straight ahead. What is correct in this situation?**
 
@@ -7805,6 +8529,8 @@ So you have to wait until all vehicles drove past you and as long as you have to
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You want to continue driving straight ahead. What is the right course of action?**
 
 ![Question Image](images/1_2_11-103-M.png)
@@ -7826,6 +8552,8 @@ The car ahead blocks you in your lane. Nevertheless, you should not overtake on 
 #### Question 1.2.11-104
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What should you do?**
 
@@ -7850,6 +8578,8 @@ If tram rails lead through the left turn lane and you want to turn left when the
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What is the right course of action?**
 
 ![Question Image](images/1_2_11-105.png)
@@ -7872,6 +8602,8 @@ If a cyclist who moves to the left drives in front of you, you must not overtake
 #### Question 1.2.11-107
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action?**
 
@@ -7896,6 +8628,8 @@ On your side the road narrows. The cyclist will therefore move to the left. Beca
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **In which situations are you not allowed to enter a junction even though the traffic light is green?**
 
 **Options:**
@@ -7916,6 +8650,8 @@ In the following cases, you must not enter a crossroad, even though the traffic 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **In what instances may you not enter a junction, even though you have right of way?**
 
 **Options:**
@@ -7935,6 +8671,8 @@ If the traffic slows down, you may enter a crossroad with a green traffic light 
 #### Question 1.2.11-110-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Why must you slow down here and be ready to brake?**
 
@@ -7958,6 +8696,8 @@ You don't have to slow down because of pedestrians. He is far enough away from t
 #### Question 1.2.11-111
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **Why do you have to continue to brake?**
 
@@ -7983,6 +8723,8 @@ A garbage truck comes towards the blue truck and forces him to stop. Since the g
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You want to drive straight ahead. What should you do?**
 
 ![Question Image](images/1_2_11-112.png)
@@ -8005,6 +8747,8 @@ In case of halting traffic, you are not allowed to block any intersection or T-j
 #### Question 1.2.11-113-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **When may you begin driving?**
 
@@ -8030,6 +8774,8 @@ The truck was signaled by flasher that he waives his right of way. Therefore, is
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **When may you take the turn?**
 
 ![Question Image](images/1_2_11-114-M.png)
@@ -8054,6 +8800,8 @@ As you want to turn left, oncoming traffic has priority. Only when the lorry dri
 
 **Points:** 4 Points
 
+**Licenses:** GM classes
+
 **You want to drive straight ahead. What should you do if the [red] truck immediately drives off on “green”?**
 
 ![Question Image](images/1_2_11-201-M.png)
@@ -8075,6 +8823,8 @@ You should wait here and let the truck move off, giving warning signs if necessa
 #### Question 1.2.11-202-M
 
 **Points:** 4 Points
+
+**Licenses:** GM classes
 
 **You want to drive straight ahead. Where should you position yourself in this situation?**
 
@@ -8101,6 +8851,8 @@ The truck swerves to turn right, wait until the turn is completed. Then you can 
 #### Question 1.2.12-001
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **Where is stopping prohibited?**
 
@@ -8129,6 +8881,8 @@ blind turns
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **Where is parking prohibited?**
 
 **Options:**
@@ -8148,6 +8902,8 @@ As soon as you stop or leave your vehicle for more than three minutes without an
 #### Question 1.2.12-103
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Where is stopping prohibited?**
 
@@ -8177,6 +8933,8 @@ Watch out for two-wheelers!
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Where is stopping prohibited?**
 
 **Options:**
@@ -8195,6 +8953,8 @@ On and up to five meters in front of a pedestrian crossing, you must not stop be
 #### Question 1.2.12-105
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Where is parking prohibited?**
 
@@ -8216,6 +8976,8 @@ You are not allowed to park at the edge of the road, where you block marked park
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Where are you allowed to park on the left in the direction of travel?**
 
 **Options:**
@@ -8235,6 +8997,8 @@ You may only park in the direction of travel on the right-hand side of the road.
 #### Question 1.2.12-107
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Who is parked?**
 
@@ -8256,6 +9020,8 @@ If the car driver deliberately stops the vehicle and stays there for more than t
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What is the minimum distance you must leave clear when stopping or parking in front of a pedestrian crossing?**
 
 **Options:**
@@ -8271,6 +9037,8 @@ On a pedestrian crossing and up to 5 m in front no stopping or parking is allowe
 #### Question 1.2.12-109
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **Up to what distances before and behind crossroads and junctions is parking prohibited?**
 
@@ -8289,6 +9057,8 @@ A distance of 5 meters before and after a crossing or junction is required to ga
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What is the minimum distance you must leave clear when parking outside a built-up area before a St. Andrew's Cross?**
 
 **Options:**
@@ -8304,6 +9074,8 @@ At a railroad crossing with a St. Andrew's Cross sign, the view of the level cro
 #### Question 1.2.12-111
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **You want to park in front of a St. Andrew's Cross in a built-up area. What is the minimum distance you must leave clear?**
 
@@ -8322,6 +9094,8 @@ To avoid obscuring the view of the railway line, a safety distance of 5 meters m
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **Up to what distance is it prohibited to park before or after a bus or tram stop sign?**
 
 **Options:**
@@ -8338,6 +9112,8 @@ It is not allowed to park 15 meters before and after the stop sign to allow publ
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What is the maximum length of time you are allowed to stop at a bus stop provided you do not present an obstruction to buses?**
 
 **Options:**
@@ -8353,6 +9129,8 @@ The stopping time is limited to a maximum of 3 minutes. If a vehicle is stopped 
 #### Question 1.2.12-118
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **Which vehicles are allowed to stop in the second row alongside other vehicles?**
 
@@ -8371,6 +9149,8 @@ Even with the hazard lights on, waiting in the second row is only permitted for 
 #### Question 1.2.12-120-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Who has stopped wrongly?**
 
@@ -8393,6 +9173,8 @@ On the hard shoulder, the right vehicle is allowed to wait. However, it's not pe
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **Who is wrongly parked?**
 
 ![Question Image](images/1_2_12-121-M.png)
@@ -8414,6 +9196,8 @@ The zigzagged line shortens or extends a waiting or parking ban. As far as there
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **When are you not allowed to park on the right-hand lane?**
 
 **Options:**
@@ -8434,6 +9218,8 @@ In general, parking is prohibited if it could endanger other road users. Visual 
 #### Question 1.2.12-123-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of here?**
 
@@ -8457,6 +9243,8 @@ Never wait on the left of the lane mark. You would impede or even endanger subse
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What vehicles may be parked alongside other parked cars on the roadway?**
 
 **Options:**
@@ -8475,6 +9263,8 @@ In exceptional cases, taxis are only allowed to stop in the second row when pass
 #### Question 1.2.12-125
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Where is it forbidden to stop?**
 
@@ -8495,6 +9285,8 @@ You are not allowed to wait on acceleration or on deceleration lanes. Also, on l
 #### Question 1.2.12-126-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Who has stopped incorrectly?**
 
@@ -8517,6 +9309,8 @@ On pedestrian crossings and five meters before, waiting is prohibited. The aim o
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Where may you park here?**
 
 ![Question Image](images/1_2_12-128-M.png)
@@ -8538,6 +9332,8 @@ In one-way streets you're only allowed to drive in one direction. If you have a 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **A cycle path runs alongside your carriageway on the right. How many metres before and after an intersection are you prohibited from parking?**
 
 **Options:**
@@ -8553,6 +9349,8 @@ Parking is prohibited here up to 8 metres in front of a junction and intersectio
 #### Question 1.2.12-130
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **A cycle path runs alongside your carriageway on the right. How many metres are you prohibited from parking before and after a T-junction?**
 
@@ -8570,6 +9368,8 @@ Parking is prohibited here up to 8 metres in front of a junction and intersectio
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are looking for somewhere to park on the right edge of the street. There is no cycle path to the right of your lane. How many metres before and after a junction are you not allowed to park?**
 
 **Options:**
@@ -8585,6 +9385,8 @@ In order not to limit the view, you are not allowed to park 5 meters before and 
 #### Question 1.2.12-132
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Where is it forbidden to stop?**
 
@@ -8605,6 +9407,8 @@ Stopping occurs when a vehicle is stopped for less than 3 minutes for non-traffi
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are looking for a place to park on the right edge of the carriageway. A cycle path runs alongside to the right of the carriageway. How many metres before a junction or an intersection are you prohibited from parking?**
 
 **Options:**
@@ -8623,6 +9427,8 @@ To avoid obstructing visibility, you are not allowed to park 8 meters in front o
 #### Question 1.2.16-001
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you reckon with when you see a hazard warning light flash?**
 
@@ -8645,6 +9451,8 @@ A driver must exercise special caution when perceiving a hazard light. Drivers o
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you do if you see a vehicle with its hazard lights on?**
 
 **Options:**
@@ -8664,6 +9472,8 @@ If the hazard warning lights are switched on, there can be many reasons and caus
 #### Question 1.2.16-101
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **For which purposes is a horn allowed to be used outside built-up areas?**
 
@@ -8685,6 +9495,8 @@ You may announce your intention to overtake by horns or by flash light. You may 
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **For which purposes is a horn allowed to be used in built-up areas?**
 
 **Options:**
@@ -8703,6 +9515,8 @@ In built-up areas, the horn may only be used by the driver as a warning signal i
 #### Question 1.2.16-103
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What do you do in case of a breakdown in a tunnel?**
 
@@ -8723,6 +9537,8 @@ In the tunnel, the alternatives for subsequent traffic are low. Therefore, if po
 #### Question 1.2.16-104
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You are driving in a tunnel and approach the end of a traffic jam. What do you do?**
 
@@ -8746,6 +9562,8 @@ If you recognize a traffic jam in front of you, it is important to immediately p
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you remember concerning the lighting equipment of your vehicle?**
 
 **Options:**
@@ -8767,6 +9585,8 @@ The car driver must properly install the lighting equipment on the vehicle. In a
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What can cause even dipped headlights to dazzle oncoming traffic?**
 
 **Options:**
@@ -8787,6 +9607,8 @@ Head lamps set too high, wrongly installed bulbs, or loading a car the wrong way
 #### Question 1.2.17-102
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **How is it possible to prevent oncoming traffic being dazzled by the dipped headlights?**
 
@@ -8812,6 +9634,8 @@ In order not to dazzle oncoming traffic, you should pay attention to how your lo
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **A railway employee is waving a white-red-white flag at a level crossing. What does this mean?**
 
 **Options:**
@@ -8830,6 +9654,8 @@ If a railroad employee waves a white-red-white flag in front of a railroad cross
 #### Question 1.2.19-002
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **When must you wait at a level crossing?**
 
@@ -8852,6 +9678,8 @@ All road users are required to stop and wait immediately before a level crossing
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are approaching a level crossing with half barriers and flashing lights. The red light is flashing but the barrier is still open. What do you do?**
 
 **Options:**
@@ -8871,6 +9699,8 @@ When the red flashing light of a barrier system lights up before rail traffic, a
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **A railway employee is waving a red lamp at a level crossing. What does this mean?**
 
 **Options:**
@@ -8889,6 +9719,8 @@ All car drivers and other road users must wait at a safe distance before the cro
 #### Question 1.2.19-005
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are approaching a level crossing where the barriers are open. What do you do?**
 
@@ -8910,6 +9742,8 @@ Nevertheless, as you approach a railroad crossing with the barriers open, you mu
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **At the entrance to an industrial estate, there is a St. Andrew's Cross with the supplementary sign "Industrial estate, rail vehicles have precedence". What must you remember?**
 
 **Options:**
@@ -8929,6 +9763,8 @@ Even if there are no barriers and no diagonal crosses at the level crossings in 
 #### Question 1.2.19-009
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **These level crossing barriers have not moved for some time now. What is the right course of action?**
 
@@ -8953,6 +9789,8 @@ Inform the police about the fault at the railway crossing so that the problem ca
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are driving along a forest track and approach a level crossing without St. Andrew's Cross. What do you do?**
 
 **Options:**
@@ -8972,6 +9810,8 @@ Even without the diagonal cross, a car driver must always give priority to a rai
 #### Question 1.2.19-102
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What do you do at a level crossing when the barriers are closed?**
 
@@ -8993,6 +9833,8 @@ At a level crossing with closed gates, all car drivers have to wait in front of 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **When are you allowed to cross a level crossing with flashing lights but no barriers after a train has passed?**
 
 **Options:**
@@ -9012,6 +9854,8 @@ You may only cross the level crossing after the red flashing light turns off, as
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are approaching a level crossing with barriers. Where must you wait if you would have to stop on the rails in case of traffic congestion?**
 
 **Options:**
@@ -9030,6 +9874,8 @@ If you are unable to pass the railroad crossing quickly due to slow traffic, the
 #### Question 1.2.19-106-B
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What do you do here?**
 
@@ -9051,6 +9897,8 @@ All car drivers and other road users must wait at a safe distance if railway sta
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **The barrier of a level crossing inside a built-up area is closed. Where must you wait?**
 
 **Options:**
@@ -9069,6 +9917,8 @@ Trucks and vehicles with trailers (vehicles over 7.5 t permissible total mass) a
 #### Question 1.2.19-109
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign mean?**
 
@@ -9093,6 +9943,8 @@ The diagonal crosses indicate that rail transport has priority here. As a car dr
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **A light signal with no level crossing sign is positioned before a level crossing, and in front of a junction with a road to the right. The red light is illuminated. Where must you wait?**
 
 ![Question Image](images/1_2_19-110.png)
@@ -9115,6 +9967,8 @@ In the event of a red light, the car driver must stop in any case. In order not 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What must you do in this situation?**
 
 ![Question Image](images/1_2_19-111.png)
@@ -9136,6 +9990,8 @@ The railway employee secures the level crossing and therefore you should stop be
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Who is required to stop at a level crossing with a red flashing light in the form of an arrow point to the right?**
 
 **Options:**
@@ -9154,6 +10010,8 @@ A diagonal cross with a red flashing light in the form of an arrow to the right 
 #### Question 1.2.19-113
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign combination indicate?**
 
@@ -9176,6 +10034,8 @@ The traffic sign combination shows you a level crossing. The car driver may appr
 #### Question 1.2.19-114
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -9200,6 +10060,8 @@ If there is a risk that you might come to a stop on the rails due to a traffic j
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are approaching a rail crossing. The barrier begins to lower. What should you do?**
 
 **Options:**
@@ -9218,6 +10080,8 @@ When a driver approaches a gate that lowers, he/she must wait in front of the le
 #### Question 1.2.19-116
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Where do you have to anticipate encountering rail crossings with no technical safeguards?**
 
@@ -9240,6 +10104,8 @@ In industrial and port areas, on field and forest paths, as well as on roads wit
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You want to cross a level crossing with the barriers open. What is correct?**
 
 **Options:**
@@ -9259,6 +10125,8 @@ Even when the barriers are open, you must always approach level crossings with c
 #### Question 1.2.19-118-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What should you do now?**
 
@@ -9286,6 +10154,8 @@ Level crossings may not be crossed when the flashing lights above the St. Andrew
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **At a tramstop, passengers are getting on and off a tram onto the roadway. What do you do if you want to drive past on the right?**
 
 **Options:**
@@ -9305,6 +10175,8 @@ Tram passengers who get off the tram at one stop and walk to the sidewalk or wal
 #### Question 1.2.20-003
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do you do when a bus has stopped at a bus stop with its hazard warning lights switched on?**
 
@@ -9327,6 +10199,8 @@ A bus that stops at a stop with the hazard light on may only be passed at walkin
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which vehicles must you allow to set off from marked bus stops?**
 
 **Options:**
@@ -9347,6 +10221,8 @@ You have to give priority to public and school buses that want to drive away fro
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **A regular bus in the oncoming traffic has stopped at a bus stop on the same roadway with hazard warning lights switched on. What do you do?**
 
 **Options:**
@@ -9365,6 +10241,8 @@ Even if the bus is on the side of oncoming traffic, you are obliged to drive pas
 #### Question 1.2.20-101
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You are approaching a regular bus which has stopped in the opposite direction at a bus stop on your roadway and its hazard warning lights are switched on. What must you expect?**
 
@@ -9385,6 +10263,8 @@ It is to be expected that passers-by carelessly and without paying any attention
 #### Question 1.2.20-102
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -9409,6 +10289,8 @@ You have to slow down and stay behind the bus first. As long as the bus is drivi
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You would like to drive past a local transport bus, which has come to a stop at a bus stop. What must you be aware of?**
 
 **Options:**
@@ -9430,6 +10312,8 @@ It is allowed to drive past a public bus that stops at a bus stop. When passing 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are approaching a local transport bus, which has come to a stop at a bus stop. What must you watch out for when driving past it?**
 
 **Options:**
@@ -9450,6 +10334,8 @@ You may drive past a public bus, a tram or a designated school bus only with cau
 #### Question 1.2.20-105
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you be prepared for?**
 
@@ -9475,6 +10361,8 @@ The omnibus standing opposite of you will start driving. Thereby he could swing 
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **All vehicles have been waiting at the junction for a few seconds. What should you do in this situation?**
 
 ![Question Image](images/1_2_20-106.png)
@@ -9495,6 +10383,8 @@ Here, the traffic rule "left yields to right" applies and every driver must give
 #### Question 1.2.20-107-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action in this situation?**
 
@@ -9519,6 +10409,8 @@ As a car driver, you are obliged to respect public transport and its passengers.
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What is the correct course of action in this situation?**
 
 ![Question Image](images/1_2_20-108-M.png)
@@ -9540,6 +10432,8 @@ Passengers can step onto the road, you should increase your attention. But you c
 #### Question 1.2.20-109-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What do you have to be aware of in this situation?**
 
@@ -9566,6 +10460,8 @@ Therefore, watch out for people, slow down and stop if necessary.
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What is the right thing to do in this situation?**
 
 ![Question Image](images/1_2_20-110-M.png)
@@ -9588,6 +10484,8 @@ When buses move in traffic with their hazard lights on, other vehicles must alwa
 #### Question 1.2.20-111-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What do you need to consider in this situation?**
 
@@ -9612,6 +10510,8 @@ Buses at stops may be overtaken at walking speed if they are stationary and have
 #### Question 1.2.20-201-M
 
 **Points:** 3 Points
+
+**Licenses:** GM classes
 
 **What is the right course of action in this situation?**
 
@@ -9639,6 +10539,8 @@ You must not obstruct or endanger passengers. Therefore, stay behind the tram un
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What is the maximum distance a load may project backwards beyond the rear reflectors without a projection marker being necessary?**
 
 **Options:**
@@ -9654,6 +10556,8 @@ The lighting or the brake light signals the end of the vehicle. With this, you e
 #### Question 1.2.22-102
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **How must a load projecting more than 1 m beyond the rear reflectors of the vehicle be marked in darkness?**
 
@@ -9673,6 +10577,8 @@ If you carry cargo that protrudes more than 1 m from the end of the vehicle, it 
 #### Question 1.2.22-104
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What can be the effect of an overload of only 20%?**
 
@@ -9695,6 +10601,8 @@ The entire vehicle design, the drivability and the center of gravity of a car ar
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What is the significance of orange warning plates on a vehicle?**
 
 **Options:**
@@ -9713,6 +10621,8 @@ An orange warning sign indicates vehicles that are loaded with dangerous goods a
 #### Question 1.2.22-107
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of if you want to transport a load?**
 
@@ -9734,6 +10644,8 @@ The load must be carefully secured so that it can't fall down. The car driver ma
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **From what height it is permitted for loads to project up to 50 cm in front of your vehicle?**
 
 **Options:**
@@ -9752,6 +10664,8 @@ If your vehicle has a height of up to 2.5 m, the cargo may protrude forwards by 
 #### Question 1.2.22-109
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What do you have to make sure of regarding the load on your vehicle?**
 
@@ -9776,6 +10690,8 @@ When loading your vehicle, you must not exceed the permissible axial loads. You 
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **Who is responsible for the roadworthiness of a licensed vehicle?**
 
 **Options:**
@@ -9796,6 +10712,8 @@ Responsible for the roadworthy condition of a vehicle are both the owner of the 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you do when you are travelling and you notice that your vehicle is no longer roadworthy?**
 
 **Options:**
@@ -9815,6 +10733,8 @@ If a vehicle is not roadworthy, the driver must remove it from traffic as soon a
 #### Question 1.2.23-003
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Which defects of a vehicle can result in a danger for road traffic?**
 
@@ -9837,6 +10757,8 @@ Worn tires have a negative effect on the grip and could lead the car to skidding
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to make a telephone call while driving a vehicle. What must you be aware of?**
 
 **Options:**
@@ -9857,6 +10779,8 @@ Being on the phone or operating a telephone while driving distracts the driver. 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to make a telephone call while driving. What must you be aware of?**
 
 **Options:**
@@ -9876,6 +10800,8 @@ While driving, you're only allowed to use the speaker phone. If you do not have 
 #### Question 1.2.23-008
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **You want to use a motor vehicle on public roads. What must you observe?**
 
@@ -9900,6 +10826,8 @@ You may only use a vehicle on public roads if it is roadworthy and if there is l
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What applies immediately before and on zebra crossings?**
 
 **Options:**
@@ -9920,6 +10848,8 @@ There is a strict ban on passing in front of and on cross-walks. That is, so tha
 #### Question 1.2.26-007
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action?**
 
@@ -9944,6 +10874,8 @@ At a pedestrian crossing you have to allow the pedestrians to cross the road. Th
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What is correct in this situation?**
 
 ![Question Image](images/1_2_26-008-M.png)
@@ -9964,6 +10896,8 @@ You are at a pedestrian crossing. In this situation, you must not overtake the c
 #### Question 1.2.26-009-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you anticipate with traffic islands like this?**
 
@@ -9987,6 +10921,8 @@ Often cyclists and pedestrians think they have priority. Therefore, drive carefu
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the correct course of action in this situation?**
 
 ![Question Image](images/1_2_26-010-M.png)
@@ -10009,6 +10945,8 @@ Pedestrians always have priority at the pedestrian crossing. So you must be awar
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **The traffic light is green. You want to turn right. How do you respond to pedestrians wishing to cross the road into which you want to turn?**
 
 **Options:**
@@ -10028,6 +10966,8 @@ If the driver wants to turn right and the traffic light signals "green", he must
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How do you respond to pedestrians wishing to cross the road into which you want to turn?**
 
 **Options:**
@@ -10046,6 +10986,8 @@ If a car driver wants to turn into a street that is crossed by pedestrians, or p
 #### Question 1.2.26-110-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -10068,6 +11010,8 @@ The car has to wait until the pedestrians have crossed the street. If you want t
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **In which instances do you have to approach a pedestrian crossing with particular care?**
 
 **Options:**
@@ -10089,6 +11033,8 @@ Generally, motorists have to approach a pedestrian crossing cautiously. Particul
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **A pedestrian crossing is covered in snow; only the sign "Pedestrian crossing" is visible. A pedestrian wants to cross the road. What is the right thing to do?**
 
 **Options:**
@@ -10109,6 +11055,8 @@ The sign makes it clear that there is a pedestrian crossing. As a car driver, yo
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **A pedestrian wants to cross the road via the pedestrian crossing. What should you do?**
 
 **Options:**
@@ -10128,6 +11076,8 @@ Approach the pedestrian crossing at moderate speed and signal that you are compl
 #### Question 1.2.26-114
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What should you do in this situation?**
 
@@ -10151,6 +11101,8 @@ If at a pedestrian crossing a pedestrian clearly wants to cross the road, you mu
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **Why is it particularly important to adopt a defensive driving style when approaching pedestrian crossings?**
 
 **Options:**
@@ -10171,6 +11123,8 @@ Approaching this area defensively and braking slowly shows pedestrians that you 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **You are driving in the left-hand lane of a two-lane one-way street. About 30 m in front of you, a truck comes to a stop in the right-hand lane before a pedestrian crossing. What should you do?**
 
 **Options:**
@@ -10189,6 +11143,8 @@ In no case may a vehicle be overtaken before and on pedestrian crossings. The tr
 #### Question 1.2.26-117
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **A cyclist wishes - without dismounting - to cross the road at a pedestrian crossing. What should you do?**
 
@@ -10209,6 +11165,8 @@ The cyclist acts contrary to road traffic regulations. He has to dismount before
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **In front of you is a pedestrian crossing, beyond which the traffic in your lane is backed up. What should you do?**
 
 **Options:**
@@ -10227,6 +11185,8 @@ When traffic is halting, you must not stop on a pedestrian crossing. Here, the s
 #### Question 1.2.26-119-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -10252,6 +11212,8 @@ If you want to turn and you encounter pedestrians who want to cross the road, yo
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **You have damaged a parked vehicle. Though you have waited for a reasonable length of time, the injured party has not appeared. What must you do?**
 
 **Options:**
@@ -10270,6 +11232,8 @@ After leaving the personal data on the damaged vehicle, you must inform a nearby
 #### Question 1.2.34-004
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -10295,6 +11259,8 @@ If there has been an accident in the tunnel and if at least one car burns and th
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Under what emergency numbers can you call the police and the emergency services in Germany?**
 
 **Options:**
@@ -10314,6 +11280,8 @@ In Germany emergency numbers for the police are 110 as well as 112 for the accid
 #### Question 1.2.34-006
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are involved in an accident. What document must you present to the other person involved in the accident, if requested?**
 
@@ -10335,6 +11303,8 @@ In the event of a traffic accident, all parties involved must show the following
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are the first to arrive at the scene of the accident where there are injured people. You secure the scene of the accident and have gained an overview of the situation. What else do you have to do?**
 
 **Options:**
@@ -10354,6 +11324,8 @@ Before you take care of the injured, you must alert the ambulance service, after
 #### Question 1.2.34-008
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are involved in an accident in a carpark. The vehicle damage is minor. Everyone involved agrees that the police do not need to be informed. What would be helpful now for the claims process?**
 
@@ -10376,6 +11348,8 @@ You should exchange the most important information with the other party involved
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **Your vehicle has damaged someone else’s parked vehicle. Despite waiting a reasonable period of time, the owner of the damaged car fails to appear. What is the right course of action now?**
 
 **Options:**
@@ -10395,6 +11369,8 @@ StVO § 34 6. a) - 7. allows you to leave the scene of an accident after a reaso
 #### Question 1.2.34-010
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are involved in an accident with another vehicle to which the following orange-coloured sign is attached. You see a liquid leaking from the vehicle. What is the right course of action?**
 
@@ -10420,6 +11396,8 @@ In the event of an accident involving a hazardous goods transport, you must stat
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **Under what emergency telephone number can you call the emergency services anywhere in Europe?**
 
 **Options:**
@@ -10435,6 +11413,8 @@ You can reach the emergency call centre free of charge anywhere in Europe by dia
 #### Question 1.2.34-102
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You are the first person to arrive at the scene of an accident with injured persons. In which order do you proceed?**
 
@@ -10455,6 +11435,8 @@ The correct order of the necessary action steps is: 1. Secure the accident site 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You are the first person to arrive at the scene of an accident with injured persons. What should you do first as a rule?**
 
 **Options:**
@@ -10473,6 +11455,8 @@ If you are the first to reach an accident with an injured person, keep a cool he
 #### Question 1.2.34-106
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **How can you get help on an autobahn?**
 
@@ -10495,6 +11479,8 @@ In the event of a breakdown or accident on the highway, you can call for help at
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You notice an accident in the tunnel. What do you have to do?**
 
 **Options:**
@@ -10514,6 +11500,8 @@ In the event of an accident in a tunnel, the driver is obliged to immediately us
 #### Question 1.2.34-110
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are involved in a traffic accident. What are you obliged to do?**
 
@@ -10536,6 +11524,8 @@ If the damage is minor, the one who caused the accident must immediately move to
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You have an accident on a rural road. How do you secure the scene of the accident site?**
 
 **Options:**
@@ -10557,6 +11547,8 @@ Switching on the hazard light is the first measure, but insufficient to protect 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How can you tell the shortest way to the next emergency telephone on federal motorways?**
 
 **Options:**
@@ -10575,6 +11567,8 @@ You can recognize the shortest route to the nearest emergency call post using th
 #### Question 1.2.34-113
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What are you obliged to do, if you are involved in a road traffic accident?**
 
@@ -10596,6 +11590,8 @@ After an accident, the car driver and all other participants must stop and infor
 #### Question 1.2.34-114
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **A vehicle driver has slightly damaged another vehicle, and unlawfully leaves the scene. What consequence could this have?**
 
@@ -10622,6 +11618,8 @@ A hit-and-run can result in points in Flensburg, a driving ban of a maximum of t
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **A police officer is regulating the traffic at a crossroads even though the traffic lights are in operation. What applies?**
 
 **Options:**
@@ -10640,6 +11638,8 @@ Road traffic regulations have a defined ranking, which you must observe. Thus, a
 #### Question 1.2.36-002
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **A police officer is regulating the traffic at a crossroads where there are also traffic signs governing priority. What applies?**
 
@@ -10660,6 +11660,8 @@ The instructions of the policeman have the highest priority. You have to obey, n
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How important are instructions from police officers?**
 
 **Options:**
@@ -10678,6 +11680,8 @@ The driver must always follow the signs and instructions of police officers. Oth
 #### Question 1.2.36-004-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is correct?**
 
@@ -10701,6 +11705,8 @@ The police officer gives the traffic instructions by his body position and with 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is correct?**
 
 ![Question Image](images/1_2_36-005-B.png)
@@ -10720,6 +11726,8 @@ The police officer regulates traffic by the help of body gestures. A transversel
 #### Question 1.2.36-006-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is correct?**
 
@@ -10741,6 +11749,8 @@ The car driver, who sees the policeman from the side, can cross the intersection
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **In your rear-view mirror, you see the words "STOP POLIZEI" (Stop Police) in red illuminated letters on the roof of a police car immediately behind your car. Who does this apply to?**
 
 **Options:**
@@ -10760,6 +11770,8 @@ Since the request is displayed to the front and you are directly front of the po
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **The words "BITTE FOLGEN" (PLEASE FOLLOW) are illuminated on a police car immediately preceding your car. What does this mean?**
 
 **Options:**
@@ -10778,6 +11790,8 @@ Policemen are allowed to stop car drivers to carry out traffic checks and to che
 #### Question 1.2.36-011
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are overtaken by a police vehicle, which pulls in immediately in front of you. The words "BITTE FOLGEN" (PLEASE FOLLOW) appear illuminated in red on the roof. What should you do?**
 
@@ -10799,6 +11813,8 @@ The signal "PLEASE FOLLOW" always applies to the driver directly behind the poli
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are overtaken by a police vehicle, which pulls in immediately in front of you. The words "BITTE FOLGEN" (PLEASE FOLLOW) appear illuminated in red on the roof. To whom does this apply?**
 
 **Options:**
@@ -10817,6 +11833,8 @@ The signal "PLEASE FOLLOW" on a police car applies to the vehicle immediately be
 #### Question 1.2.36-013
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **A police signalling disc is displayed towards you from a vehicle driving in front of you. What does this mean?**
 
@@ -10837,6 +11855,8 @@ Basically, the driver who drives directly behind the police car has to follow th
 #### Question 1.2.36-014-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action now?**
 
@@ -10859,6 +11879,8 @@ The police officer is hierarchically first in the right-of-way. Basic rule "righ
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Who has priority here?**
 
 ![Question Image](images/1_2_36-015-M.png)
@@ -10880,6 +11902,8 @@ The traffic is regulated by the police so that the red car is allowed to drive f
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right thing to do in this situation?**
 
 ![Question Image](images/1_2_36-016-M.png)
@@ -10900,6 +11924,8 @@ If a traffic police officer is directing traffic, the instructions must be follo
 #### Question 1.2.36-101-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What applies here?**
 
@@ -10925,6 +11951,8 @@ The traffic policeman's gesture dictates the behavior in traffic. If the officer
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which conduct is right?**
 
 ![Question Image](images/1_2_37-002-B.png)
@@ -10947,6 +11975,8 @@ The traffic light system regulates the right of way for the traffic moving strai
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **The traffic lights are on flashing amber. What is the correct procedure?**
 
 ![Question Image](images/1_2_37-004-B.png)
@@ -10966,6 +11996,8 @@ The yellow flashing light indicates that the traffic light is out of order. Inst
 #### Question 1.2.37-007
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is permitted at these traffic lights with green arrow sign?**
 
@@ -10987,6 +12019,8 @@ The additional sign with green arrow on a black background allows you to turn ri
 #### Question 1.2.37-009
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **At these traffic lights with a green arrow sign, where should a vehicle stop before turning right?**
 
@@ -11010,6 +12044,8 @@ The car driver has to stop at the stop line. If none exists, then he has to stop
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **How should you behave in this situation?**
 
 ![Question Image](images/1_2_37-010-M.png)
@@ -11030,6 +12066,8 @@ The traffic light has priority over other traffic signs and lane markings. Cross
 #### Question 1.2.37-011-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **Where must you wait?**
 
@@ -11052,6 +12090,8 @@ A traffic light in operation has priority over traffic signs, which regulate the
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is correct in this situation?**
 
 ![Question Image](images/1_2_37-012-M.png)
@@ -11072,6 +12112,8 @@ If a traffic light turns red, car drivers who want to drive straight ahead or to
 #### Question 1.2.37-013
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What should you do?**
 
@@ -11095,6 +12137,8 @@ The traffic light switches from green to yellow directly in front of you. Your s
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is correct in this situation?**
 
 ![Question Image](images/1_2_37-015.png)
@@ -11115,6 +12159,8 @@ Basically, when turning left, you as a car driver have to grant the oncoming tra
 #### Question 1.2.37-016
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You want to turn right at these traffic lights with a green arrow sign. What is the right course of action?**
 
@@ -11138,6 +12184,8 @@ Thanks to the green arrow sign, you can turn at this traffic light even when it'
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you do?**
 
 ![Question Image](images/1_2_37-017.png)
@@ -11159,6 +12207,8 @@ In front of you you see a traffic light changing from green to yellow. You drive
 #### Question 1.2.37-018
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action now?**
 
@@ -11183,6 +12233,8 @@ If the yellow traffic light flashes, the traffic light system is out of operatio
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **Under what circumstances may you cross a junction during a red light?**
 
 **Options:**
@@ -11202,6 +12254,8 @@ You are allowed to run over a red traffic light at an intersection under the fol
 #### Question 1.2.37-020-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **You now want to turn right at these traffic lights with a green arrow sign. What is the right course of action?**
 
@@ -11225,6 +12279,8 @@ If there is a green arrow sign at a traffic light, you are allowed to cross a re
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the rule at this traffic-light-controlled junction with additional signage?**
 
 ![Question Image](images/1_2_37-021.png)
@@ -11245,6 +12301,8 @@ On traffic lights with this additional sign, only cyclists, even at red, can tur
 #### Question 1.2.37-022-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **The traffic lights facing you have already been “green” for some time now. What is the right course of action now?**
 
@@ -11270,6 +12328,8 @@ As the traffic light has been green for some time, there is a high probability t
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You want to turn left and the lights are "green". On your left there is a tram wanting to proceed straight ahead. What is correct?**
 
 **Options:**
@@ -11288,6 +12348,8 @@ Although you are allowed to drive, due to the green light, you have to grant the
 #### Question 1.2.37-102-B
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You have taken the right lane by mistake although you want to turn left. How are you allowed to proceed?**
 
@@ -11311,6 +12373,8 @@ Due to the solid line, you must not change the lane here. Follow only the arrows
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What is the right behaviour now?**
 
 ![Question Image](images/1_2_37-104.png)
@@ -11333,6 +12397,8 @@ Since this situation is a two-phase traffic light, there is no green signal. Aft
 #### Question 1.2.37-201-M
 
 **Points:** 4 Points
+
+**Licenses:** GM classes
 
 **What is the right course of action now?**
 
@@ -11360,6 +12426,8 @@ The traffic lights are out of order, therefore the right-of-way traffic signs ap
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **A vehicle with flashing blue light and siren is approaching. What do you do?**
 
 **Options:**
@@ -11380,6 +12448,8 @@ A blue flashing light and siren are used in emergency situations such as car acc
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **You hear a siren. Which questions must you ask yourself?**
 
 **Options:**
@@ -11399,6 +12469,8 @@ If you hear a siren, you should first determine which direction the emergency ve
 #### Question 1.2.38-003
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What can a flashing amber light on a vehicle be a warning for?**
 
@@ -11421,6 +12493,8 @@ A yellow flashing light warns against dangers that require particularly careful 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does it mean when the flashing blue light of a vehicle is switched on but not the siren?**
 
 **Options:**
@@ -11441,6 +12515,8 @@ A blue flashing light warns you of accidents or situations such as a fire run. A
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What can a flashing blue light (without siren) mean?**
 
 **Options:**
@@ -11460,6 +12536,8 @@ A blue flashing light without siren indicates to accidents or other emergencies 
 #### Question 1.2.38-104
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You are being followed by an ambulance with its blue lights flashing and siren sounding. What should you do?**
 
@@ -11490,6 +12568,8 @@ You are required to make space for the ambulance as soon as possible. Be careful
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **At which places where there are no traffic signs regulating priority does the rule "right before left" apply?**
 
 **Options:**
@@ -11508,6 +12588,8 @@ At intersections and T-junctions without a traffic-regulating traffic sign "left
 #### Question 1.3.01-002
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **At which places where there are no traffic signs regulating priority does the rule "right before left" apply?**
 
@@ -11528,6 +12610,8 @@ At intersections and T-junctions without priority signs, the vehicles coming fro
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are approaching a crossroads where the priority situation is not clear to you straightaway. What do you do?**
 
 **Options:**
@@ -11546,6 +12630,8 @@ There are situations that are difficult to understand in terms of the right of w
 #### Question 1.3.01-007-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -11569,6 +12655,8 @@ It is necessary to comply to the left yields to right rule. Grant the motorcycli
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-013-M.png)
@@ -11589,6 +12677,8 @@ Left yields to right applies in intersections and T-junctions without a traffic 
 #### Question 1.3.01-016-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -11612,6 +12702,8 @@ The traffic sign "Give way" regulates the right of way here. That means you have
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-017-M.png)
@@ -11633,6 +12725,8 @@ Here the traffic sign "right of way at the next intersection or T-junction" appl
 #### Question 1.3.01-018-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -11656,6 +12750,8 @@ The traffic sign "Give way" suspends the left yields to right regulation. Thus, 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-021-M.png)
@@ -11678,6 +12774,8 @@ The traffic sign stands for a "priority road". You may therefore turn in front o
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action here?**
 
 ![Question Image](images/1_3_01-034-M.png)
@@ -11699,6 +12797,8 @@ The right-of-way rule says that you have to let the yellow vehicle drive through
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right thing to do?**
 
 ![Question Image](images/1_3_01-035-M.png)
@@ -11719,6 +12819,8 @@ Since there are no signs at this intersection, which determine the priority of t
 #### Question 1.3.01-038-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right thing to do?**
 
@@ -11742,6 +12844,8 @@ According to the signage, the motorcyclist is on the priority road and is theref
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **Who has priority here?**
 
 ![Question Image](images/1_3_01-039-M.png)
@@ -11763,6 +12867,8 @@ The electric scooter follows the priority road and therefore has the right of wa
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action here?**
 
 ![Question Image](images/1_3_01-040-M.png)
@@ -11783,6 +12889,8 @@ The green and red cars are on a turning main road. You are on the secondary road
 #### Question 1.3.01-041-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action here?**
 
@@ -11806,6 +12914,8 @@ You and the yellow car are on a turning main road. The red car is on a secondary
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-042-M.png)
@@ -11827,6 +12937,8 @@ The sign at the intersection indicates that you must give way. Since you want to
 #### Question 1.3.01-043-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action here?**
 
@@ -11851,6 +12963,8 @@ According to the "right before left" rule at crossroads, you may drive in front 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action here?**
 
 ![Question Image](images/1_3_01-044-M.png)
@@ -11872,6 +12986,8 @@ At this intersection applies to the right before left. So you can drive first.
 #### Question 1.3.01-045-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action here?**
 
@@ -11896,6 +13012,8 @@ You must also let the lorry through, as you want to turn left and the lorry want
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-046-M.png)
@@ -11915,6 +13033,8 @@ You are on the turning priority road and follow its course. Therefore, you must 
 #### Question 1.3.01-047-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action here?**
 
@@ -11938,6 +13058,8 @@ You are approaching a priority road that is about to turn. As you are coming fro
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-048-M.png)
@@ -11958,6 +13080,8 @@ At an intersection, which has no traffic signs, "left yields to right" applies. 
 #### Question 1.3.01-049-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -11980,6 +13104,8 @@ The traffic sign indicates that you are on a priority road. The tram and the dri
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-050-M.png)
@@ -12000,6 +13126,8 @@ If you are traveling on a priority road, you are always allowed to drive first. 
 #### Question 1.3.01-051-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the correct conduct?**
 
@@ -12023,6 +13151,8 @@ This means you have to give priority to the tram because it is traveling on a pr
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-052.png)
@@ -12045,6 +13175,8 @@ Due to the rule "left yields to right" you would have priority over the green ca
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **You want to turn right into a priority road. What must you look out for?**
 
 **Options:**
@@ -12064,6 +13196,8 @@ If you turn right into a priority road, you must give priority to all road users
 #### Question 1.3.01-055-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -12087,6 +13221,8 @@ Since the right of way at this intersection is not determined by appropriate sig
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-056-M.png)
@@ -12107,6 +13243,8 @@ At this intersection you have right of way. This is indicated by the traffic sig
 #### Question 1.3.01-057-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -12130,6 +13268,8 @@ If you want to turn left from a priority road and another car is driving next to
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is correct in this situation?**
 
 ![Question Image](images/1_3_01-058-M.png)
@@ -12151,6 +13291,8 @@ You are on a turning priority road, but you don't want to follow it to the right
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **Who has priority?**
 
 ![Question Image](images/1_3_01-059-M.png)
@@ -12171,6 +13313,8 @@ You follow a turning priority road. Therefore, you have priority over the driver
 #### Question 1.3.01-060-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right thing to do?**
 
@@ -12194,6 +13338,8 @@ If no traffic signs have been erected to regulate the right of way, this is so-c
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Who is required to wait?**
 
 ![Question Image](images/1_3_01-101-M.png)
@@ -12213,6 +13359,8 @@ If a vehicle wants to turn from a field or forest path into a road, the car driv
 #### Question 1.3.01-103-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action?**
 
@@ -12234,6 +13382,8 @@ Who comes from the right, has right of way at intersections and T-junctions. Bec
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **You want to turn left. Who is required to wait?**
 
 ![Question Image](images/1_3_01-112.png)
@@ -12254,6 +13404,8 @@ At intersections and T-junctions without a traffic-regulating traffic sign, the 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-113.png)
@@ -12273,6 +13425,8 @@ If you want to turn into a roundabout, you will be asked to wait by the "Give wa
 #### Question 1.3.01-114-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -12296,6 +13450,8 @@ Here, "left yields to right" applies as well as the rules for left turns. The ca
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-115.png)
@@ -12317,6 +13473,8 @@ If a road user comes from the right, you must pay attention to the "left yields 
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-116.png)
@@ -12337,6 +13495,8 @@ At this spot, the right of way is not regulated by traffic signs. Therefore, at 
 #### Question 1.3.01-117-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -12361,6 +13521,8 @@ A vehicle coming from the left is already on the priority road. Therefore, it is
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-118-M.png)
@@ -12383,6 +13545,8 @@ Since the right of way here is not regulated by traffic signs, left yields to ri
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **You would like to cross over a priority road. The view to both sides is very restricted due to parked vehicles. What should you do?**
 
 **Options:**
@@ -12401,6 +13565,8 @@ If visibility is limited you should only proceed with caution. Slowly get into t
 #### Question 1.3.01-120-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -12424,6 +13590,8 @@ If you are on a priority road and you want to turn left, you will have to let on
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-121-M.png)
@@ -12445,6 +13613,8 @@ You are on the priority road. The tractor must therefore wait and let you turn l
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-122-M.png)
@@ -12464,6 +13634,8 @@ If you are at an intersection and you see the "Give way" traffic sign, you must 
 #### Question 1.3.01-123-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the right course of action?**
 
@@ -12485,6 +13657,8 @@ You and another road user are on a turning priority road. The other vehicle foll
 
 **Points:** 5 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-124-M.png)
@@ -12504,6 +13678,8 @@ You want to cross a turning priority road. Here you must give priority to all ve
 #### Question 1.3.01-125-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **What is the right course of action?**
 
@@ -12527,6 +13703,8 @@ Without additional priority-regulating traffic signs or traffic lights, the gene
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What is the right course of action?**
 
 ![Question Image](images/1_3_01-126-M.png)
@@ -12546,6 +13724,8 @@ At the traffic sign "right of way at the next intersection or T-junction", you m
 #### Question 1.3.01-127-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **In what sequence may each continue driving?**
 
@@ -12568,6 +13748,8 @@ You are on a turning priority road and you want to leave straight ahead. The cyc
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **Who can move first in this situation?**
 
 ![Question Image](images/1_3_01-128-M.png)
@@ -12589,6 +13771,8 @@ The basic rule "right before left" does not apply to vehicles driving out of a f
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **What is the right course of action here?**
 
 ![Question Image](images/1_3_01-129-M.png)
@@ -12609,6 +13793,8 @@ At intersections and junctions, whoever is coming from the right has the right o
 #### Question 1.3.01-130-M
 
 **Points:** 5 Points
+
+**Licenses:** Basic material
 
 **Which is correct in this situation?**
 
@@ -12639,6 +13825,8 @@ You can see from the signs that this is not a roundabout. Therefore, right befor
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What do you do when you see this traffic sign?**
 
 ![Question Image](images/1_4_40-001.png)
@@ -12660,6 +13848,8 @@ This traffic sign alerts you about an approaching, confusing intersection or T-j
 #### Question 1.4.40-002
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What should you remember when you see this traffic sign?**
 
@@ -12683,6 +13873,8 @@ This traffic sign warns you of an incline of up to 10%. This means that you must
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What do you do when you see this traffic sign?**
 
 ![Question Image](images/1_4_40-004.png)
@@ -12705,6 +13897,8 @@ Warning sign: It warns you of a narrowing of the lane in your direction of trave
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **You see this traffic sign. What must you reckon with?**
 
 ![Question Image](images/1_4_40-005.png)
@@ -12726,6 +13920,8 @@ If you see this traffic sign, you as a driver will have to expect on oncoming tr
 #### Question 1.4.40-006
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **What does this traffic sign require of you?**
 
@@ -12750,6 +13946,8 @@ The sign will point you to a school, kindergarten or playground nearby. Here you
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign combination indicate?**
 
 ![Question Image](images/1_4_40-008.png)
@@ -12770,6 +13968,8 @@ The exclamation mark indicates danger ahead. The sign with a rider shows that yo
 #### Question 1.4.40-009
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign combination indicate?**
 
@@ -12792,6 +13992,8 @@ The exclamation mark stands for a general hazard warning. The exact nature of th
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you anticipate when you see this road sign?**
 
 ![Question Image](images/1_4_40-010.png)
@@ -12813,6 +14015,8 @@ This is a danger sign warning you of a pedestrian crossing. The pedestrian cross
 #### Question 1.4.40-011
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you do upon seeing this traffic sign?**
 
@@ -12837,6 +14041,8 @@ This danger sign indicates that there is a pedestrian crossing in the immediate 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What danger is indicated to you by this traffic sign?**
 
 ![Question Image](images/1_4_40-012.png)
@@ -12858,6 +14064,8 @@ This traffic sign warns of strong crosswinds and that your vehicle could be disp
 #### Question 1.4.40-013
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are driving on a road with one lane in each direction. Which roadsign indicates that you must always give way to oncoming traffic?**
 
@@ -12887,6 +14095,8 @@ The traffic sign “Give priority to oncoming traffic” shows with the red arro
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **You pass this traffic sign while driving outside a built-up area. How far off is the hazard to be expected?**
 
 ![Question Image](images/1_4_40-101.png)
@@ -12907,6 +14117,8 @@ The sign warns of danger ahead. Expect the dangerous area outside of built-up ar
 #### Question 1.4.40-103
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What must you be prepared for when you pass these traffic signs?**
 
@@ -12930,6 +14142,8 @@ You must be prepared for skiers and tobogganers crossing the road. This traffic 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What do you do when you see this traffic sign?**
 
 ![Question Image](images/1_4_40-105.png)
@@ -12952,6 +14166,8 @@ The sign warns you of a double bend. First expect a right turn, then a left turn
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What do you have to expect after these traffic signs?**
 
 ![Question Image](images/1_4_40-106.png)
@@ -12972,6 +14188,8 @@ After this traffic sign, an incline of 10% starts. The additional sign informs a
 #### Question 1.4.40-107
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What do you do when you see this traffic sign?**
 
@@ -12994,6 +14212,8 @@ The traffic sign informs about a strong incline of 12%. Depending on the vehicle
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What should you do when you approach this traffic sign?**
 
 ![Question Image](images/1_4_40-108.png)
@@ -13014,6 +14234,8 @@ The road in front of you is uneven and may have diagonal or longitudinal grooves
 #### Question 1.4.40-109
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What dangers can arise if this traffic sign is ignored?**
 
@@ -13038,6 +14260,8 @@ Due to inappropriate driving there is a risk of skidding on this section of the 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign warn you of?**
 
 ![Question Image](images/1_4_40-112.png)
@@ -13059,6 +14283,8 @@ The road in front of you has an increased risk of skidding when it's wet or dirt
 #### Question 1.4.40-114
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What do you do when you see this traffic sign?**
 
@@ -13082,6 +14308,8 @@ This is a warning sign and it warns drivers of an imminent narrowing of the road
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What must you reckon with when you see these traffic signs?**
 
 ![Question Image](images/1_4_40-115.png)
@@ -13102,6 +14330,8 @@ Expect a narrowed lane 50 m ahead. Please drive slowly and ready for braking to 
 #### Question 1.4.40-116
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What must you reckon with when you see this traffic sign?**
 
@@ -13126,6 +14356,8 @@ When there's a construction site it is to be expected that construction site veh
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What must you reckon with when you see this traffic sign?**
 
 ![Question Image](images/1_4_40-118.png)
@@ -13148,6 +14380,8 @@ This traffic sign warns against congestion on this section. Adjust your speed an
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_40-121.png)
@@ -13168,6 +14402,8 @@ Please pay attention to a badly recognizable light indicator like a traffic ligh
 #### Question 1.4.40-127
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What do these traffic signs indicate?**
 
@@ -13190,6 +14426,8 @@ Pay attention to an unguarded level crossing, if you drive to the right at this 
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_40-130.png)
@@ -13210,6 +14448,8 @@ The sign that warns you of a level crossing ahead informs you about a level cros
 #### Question 1.4.40-131
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign indicate?**
 
@@ -13233,6 +14473,8 @@ The traffic sign shown is a one-lane distance beacon. The single red stripe mean
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign combination indicate?**
 
 ![Question Image](images/1_4_40-132.png)
@@ -13253,6 +14495,8 @@ About 240 meters in front of you there is a railroad crossing. The level crossin
 #### Question 1.4.40-133
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign combination indicate?**
 
@@ -13276,6 +14520,8 @@ Pay attention to sudden snow or ice in this area. Individual road sections can b
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What must you anticipate with this road sign combination?**
 
 ![Question Image](images/1_4_40-134.png)
@@ -13297,6 +14543,8 @@ This combination of traffic signs indicates cattle drive, as the animals are pol
 #### Question 1.4.40-135
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What do you have to be aware of when you see this traffic sign combination?**
 
@@ -13320,6 +14568,8 @@ The traffic signs warn you of a railroad crossing 240 meters away. From the thre
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What awaits you with this traffic sign combination?**
 
 ![Question Image](images/1_4_40-136.png)
@@ -13341,6 +14591,8 @@ The traffic sign warns you of a construction site in a distance of 100 meters. P
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You pass by this traffic sign combination at an outside temperature of +3 °C. What should you do?**
 
 ![Question Image](images/1_4_40-137.png)
@@ -13361,6 +14613,8 @@ The combination of these traffic signs warns of sudden ice formation on this sec
 #### Question 1.4.40-138
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What should you avoid when you see this danger sign?**
 
@@ -13385,6 +14639,8 @@ The combination of these traffic signs warns of loose chippings or gravel on thi
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign combination indicate?**
 
 ![Question Image](images/1_4_40-139.png)
@@ -13405,6 +14661,8 @@ In this combination, the traffic signs warn you of a moving bridge. Watch out fo
 #### Question 1.4.40-140
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of when you see this traffic sign combination?**
 
@@ -13427,6 +14685,8 @@ The combination of these traffic signs informs the car driver that the road lead
 #### Question 1.4.40-141
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of when you see this traffic sign combination?**
 
@@ -13451,6 +14711,8 @@ The combination of these traffic signs warns of falling or fallen rocks, meaning
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign combination indicate?**
 
 ![Question Image](images/1_4_40-142.png)
@@ -13471,6 +14733,8 @@ This traffic sign indicates that you will shortly be crossing a railroad crossin
 #### Question 1.4.40-143
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What must you anticipate with this road sign?**
 
@@ -13495,6 +14759,8 @@ This traffic sign warns of a sharp right turn. You should be aware that oncoming
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you anticipate with this road sign?**
 
 ![Question Image](images/1_4_40-144.png)
@@ -13515,6 +14781,8 @@ This traffic sign warns that cyclists can cross the road and could get into your
 #### Question 1.4.40-145
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What must you anticipate with this road sign combination?**
 
@@ -13538,6 +14806,8 @@ This traffic sign informs about flying over the road. Sudden aircraft noise can 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign combination indicate?**
 
 ![Question Image](images/1_4_40-146.png)
@@ -13559,6 +14829,8 @@ This combination of road signs indicates a pedestrian crossing. At a pedestrian 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_40-147.png)
@@ -13579,6 +14851,8 @@ This sign (triangular) indicates a danger zone in connection with horses.
 #### Question 1.4.40-148
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign indicate?**
 
@@ -13602,6 +14876,8 @@ This traffic sign indicates that it is slippery with snow and icy roads.
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What must you anticipate with this road sign?**
 
 ![Question Image](images/1_4_40-149.png)
@@ -13623,6 +14899,8 @@ This sign indicates that the road is very dirty and that you must watch out for 
 #### Question 1.4.40-150
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **How should you act at a point of danger indicated by this sign?**
 
@@ -13647,6 +14925,8 @@ You should keep as much distance as possible from the vehicle in front, avoid su
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_40-151.png)
@@ -13667,6 +14947,8 @@ This sign indicates a movable bridge.
 #### Question 1.4.40-152
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of when you see this road traffic sign?**
 
@@ -13689,6 +14971,8 @@ The shape of the sign indicates caution and the picture on the sign indicates wh
 #### Question 1.4.40-153
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of when you see this road traffic sign?**
 
@@ -13713,6 +14997,8 @@ Please watch out for stones that might be lying on the roadway. Avoid stopping a
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What must you anticipate with this road sign?**
 
 ![Question Image](images/1_4_40-154.png)
@@ -13736,6 +15022,8 @@ This sign says that you should expect distractions from other road users, sudden
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_40-155.png)
@@ -13756,6 +15044,8 @@ This shield (Attention) indicates a pedestrian crossing.
 #### Question 1.4.40-156
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **You are driving a motor vehicle with a manual gearbox. What must you consider when you see this road sign?**
 
@@ -13778,6 +15068,8 @@ In order not to exceed the speed on the slope, you may have to brake lightly thr
 #### Question 1.4.40-157
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **You are driving a motor vehicle with a manual gearbox. What is the correct thing to do when you see this traffic sign?**
 
@@ -13803,6 +15095,8 @@ In order to maintain the speed on the incline, you may have to shift down a gear
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **When must you wait at this traffic sign?**
 
 ![Question Image](images/1_4_41-001.png)
@@ -13827,6 +15121,8 @@ to a stop on the railroad crossing due to traffic jams, you must also wait in fr
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **What do you do when you see this traffic sign?**
 
 ![Question Image](images/1_4_41-004.png)
@@ -13848,6 +15144,8 @@ The traffic sign "Turn right here in front of the sign" only allows you to drive
 #### Question 1.4.41-005
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do you do when you see this traffic sign?**
 
@@ -13871,6 +15169,8 @@ The traffic sign "Turn left here in front of the sign" only allows to continue t
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **In which directions may you proceed?**
 
 ![Question Image](images/1_4_41-006.png)
@@ -13893,6 +15193,8 @@ The traffic sign "You must go straight or turn right" prohibits turning to the l
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you do when you see this traffic sign?**
 
 ![Question Image](images/1_4_41-007.png)
@@ -13913,6 +15215,8 @@ The traffic sign "Keep right of traffic" indicates that you have to drive past a
 #### Question 1.4.41-008
 
 **Points:** 5 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are approaching a bus stop marked like this. What do you do if you see children there?**
 
@@ -13935,6 +15239,8 @@ This stop is a bus stop where school buses operate at the times indicated. If yo
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you remember when you see this traffic sign?**
 
 ![Question Image](images/1_4_41-010.png)
@@ -13956,6 +15262,8 @@ The traffic sign "pedestrian area" prohibits motor vehicles entering this area, 
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which vehicles are not allowed to drive here?**
 
 ![Question Image](images/1_4_41-012.png)
@@ -13976,6 +15284,8 @@ The traffic sign "No Motorbikes Permitted" only applies to mopeds. It does not a
 #### Question 1.4.41-013
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you remember when you see this traffic sign?**
 
@@ -13999,6 +15309,8 @@ The traffic sign "Do not enter" forbids the entrance to the street or road witho
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you remember when you see this traffic sign?**
 
 ![Question Image](images/1_4_41-014.png)
@@ -14019,6 +15331,8 @@ The traffic sign "Absolutely no stopping" prohibits drivers to wait or stop, unl
 #### Question 1.4.41-015
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is allowed at this traffic sign?**
 
@@ -14042,6 +15356,8 @@ The sign "No parking. Waiting is allowed." sign allows you to wait for up to thr
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is permitted where you see these traffic signs?**
 
 ![Question Image](images/1_4_41-016.png)
@@ -14063,6 +15379,8 @@ The sign "No parking. Waiting is allowed." allows you to stop in order to let pe
 #### Question 1.4.41-017
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is true in the case of this traffic sign combination?**
 
@@ -14086,6 +15404,8 @@ The additional sign indicates that cycle traffic could be coming from the left a
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **What vehicles may enter a cycle highway that has this sign?**
 
 ![Question Image](images/1_4_41-018.png)
@@ -14107,6 +15427,8 @@ Vehicular traffic other than cyclists is not allowed to use cycle lanes unless p
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is true in relation to yellow road markings?**
 
 **Options:**
@@ -14126,6 +15448,8 @@ Yellow lane markings are placed temporarily, e.g. to change the course of the la
 #### Question 1.4.41-020-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is true in this situation?**
 
@@ -14147,6 +15471,8 @@ A restricted area may not be driven on as a matter of principle.
 #### Question 1.4.41-021
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **What vehicles may enter a zone with this sign?**
 
@@ -14171,6 +15497,8 @@ The traffic sign shows a bicycle zone with the additional sign "Anleger frei". I
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **Within a built-up area, what should you note when driving on a road where this traffic sign combination is displayed?**
 
 ![Question Image](images/1_4_41-022.png)
@@ -14192,6 +15520,8 @@ The one-way street sign also applies to cyclists, but with this traffic sign com
 #### Question 1.4.41-023
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **This traffic sign is displayed on the right-hand kerbside. What does it mean?**
 
@@ -14215,6 +15545,8 @@ The traffic sign indicates an absolute no-stopping zone in the area in front of 
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **This traffic sign is displayed on the right-hand kerbside. What does it indicate?**
 
 ![Question Image](images/1_4_41-024.png)
@@ -14235,6 +15567,8 @@ The traffic sign signals the beginning of an absolute prohibition to stop from t
 #### Question 1.4.41-025
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do you have to be aware of when you see with this traffic sign?**
 
@@ -14257,6 +15591,8 @@ The traffic sign indicates an absolute no-stopping zone in this area. You are no
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the right thing in this situation?**
 
 ![Question Image](images/1_4_41-026-M.png)
@@ -14277,6 +15613,8 @@ The sign indicates that you must give priority to oncoming traffic at the bottle
 #### Question 1.4.41-027
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **When may you stop here?**
 
@@ -14300,6 +15638,8 @@ The absolute stopping ban only applies on working days. You are allowed to stop 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What applies at this junction?**
 
 ![Question Image](images/1_4_41-028-M.png)
@@ -14322,6 +15662,8 @@ You do not necessarily have to stop at the traffic sign “Give way” and you c
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What does this road sign indicate?**
 
 ![Question Image](images/1_4_41-029.png)
@@ -14342,6 +15684,8 @@ Basically, the traffic sign “Prohibited all types of vehicles” means that ve
 #### Question 1.4.41-030
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are driving on a one-way street with signposting. What is correct?**
 
@@ -14365,6 +15709,8 @@ In order not to obstruct the traffic behind you when turning left, you must move
 #### Question 1.4.41-031
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **You are travelling on a main road. Which road sign ends your right of way?**
 
@@ -14394,6 +15740,8 @@ If you have previously been driving on a priority road, the traffic sign “Give
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Which of the following rules of the road requires you to stop before turning right?**
 
 ![Question Image](images/1_4_41-032.png)
@@ -14421,6 +15769,8 @@ The “green arrow” next to the red traffic light signals that you can turn ri
 #### Question 1.4.41-033
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **Which road sign forbids you from entering the signposted area?**
 
@@ -14450,6 +15800,8 @@ The traffic sign means “Entry prohibited”. Driving into the signposted area 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What do you do when you see this traffic sign?**
 
 ![Question Image](images/1_4_41-102.png)
@@ -14470,6 +15822,8 @@ The road is too narrow for two lanes. The traffic sign regulates the right of wa
 #### Question 1.4.41-106
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **In which directions are you allowed to continue?**
 
@@ -14493,6 +15847,8 @@ The traffic sign "You" only allows turning to the right or left" only allows you
 
 **Points:** 5 Points
 
+**Licenses:** Basic material
+
 **A school bus is stopping on the roadway approximately 80 m in front of you. Can this be dangerous?**
 
 ![Question Image](images/1_4_41-109.png)
@@ -14515,6 +15871,8 @@ If a school bus stops in front of you on the road about 80 m away, you have to e
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Who is allowed to drive a motor vehicle on this road?**
 
 ![Question Image](images/1_4_41-114.png)
@@ -14536,6 +15894,8 @@ The street is a declared sidewalk, with the additional sign "delivery vehicles o
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **Which vehicles are allowed to use the special lane marked like this?**
 
 ![Question Image](images/1_4_41-115.png)
@@ -14556,6 +15916,8 @@ The lane shown here is intended for public buses. Only they are allowed to use t
 #### Question 1.4.41-116
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **Who is allowed to enter a street sign-posted like this?**
 
@@ -14579,6 +15941,8 @@ The additional sign indicates that drivers who have to go on errands in this str
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **Which vehicles are not allowed to use a road sign-posted like this?**
 
 ![Question Image](images/1_4_41-118.png)
@@ -14601,6 +15965,8 @@ Cars, but also other multi-lane motor vehicles, may not drive on a road with thi
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **Which vehicles are not allowed to use a road sign-posted like this?**
 
 ![Question Image](images/1_4_41-119.png)
@@ -14621,6 +15987,8 @@ This round road sign with the red border prohibits the passage for cyclists. It 
 #### Question 1.4.41-120
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **Which vehicles are not allowed to use a road sign-posted like this?**
 
@@ -14643,6 +16011,8 @@ A round traffic sign with a red border indicates a general traffic ban for vehic
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What do these traffic signs indicate?**
 
 ![Question Image](images/1_4_41-121.png)
@@ -14664,6 +16034,8 @@ The traffic sign "Do not enter" forbids car drivers to enter this road with vehi
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_41-124.png)
@@ -14684,6 +16056,8 @@ The traffic sign indicates the beginning of a zone with a maximum speed of 30 km
 #### Question 1.4.41-125
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **A traffic calmed commercial zone (verkehrsberuhigter Bereich) starts here. What must you do?**
 
@@ -14707,6 +16081,8 @@ In a traffic calming zone with shops, road users are often distracted by the dis
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_41-126.png)
@@ -14728,6 +16104,8 @@ This traffic sign indicates the end of an area in which the permitted speed was 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Are you allowed to drive at a speed faster than 60 km/h here?**
 
 ![Question Image](images/1_4_41-127.png)
@@ -14747,6 +16125,8 @@ Due to the additional sign, the maximum permissible speed of 60 km/h applies onl
 #### Question 1.4.41-128
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What do you do when you see this traffic sign?**
 
@@ -14770,6 +16150,8 @@ This traffic sign dictates that you have to drive here at least at a speed of 60
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Which vehicles are you allowed to overtake where you see this traffic sign?**
 
 ![Question Image](images/1_4_41-129.png)
@@ -14790,6 +16172,8 @@ The restriction on overtaking prohibits a car driver from overtaking multi-lane 
 #### Question 1.4.41-130
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What do these traffic signs indicate?**
 
@@ -14812,6 +16196,8 @@ This traffic sign signals a restriction on overtaking on multi-lane motor vehicl
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What do these traffic signs indicate?**
 
 ![Question Image](images/1_4_41-131.png)
@@ -14833,6 +16219,8 @@ With this traffic sign the car driver is prohibited to overtake multi-lane vehic
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_41-132.png)
@@ -14853,6 +16241,8 @@ This traffic sign indicates the end of the speed limit of 60 km/h. The car drive
 #### Question 1.4.41-133
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **Which prohibitions cease to apply when you see this sign?**
 
@@ -14876,6 +16266,8 @@ This traffic sign cancels all road restrictions. For example, road restrictions 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What do these traffic signs indicate?**
 
 ![Question Image](images/1_4_41-134.png)
@@ -14896,6 +16288,8 @@ The traffic sign signals the car driver that it is forbidden to come to a stop o
 #### Question 1.4.41-135
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What is allowed in the zone which starts here?**
 
@@ -14919,6 +16313,8 @@ With the traffic sign "No parking. Waiting is allowed.", there is a restricted s
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What ends here?**
 
 ![Question Image](images/1_4_41-136.png)
@@ -14940,6 +16336,8 @@ Here the no parking zone ends. Note that this traffic sign is often only on plac
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **When must you indicate?**
 
 ![Question Image](images/1_4_41-140-B.png)
@@ -14959,6 +16357,8 @@ If you enter the roundabout, you do not need to indicate this because the entran
 #### Question 1.4.41-141
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **You are approaching this combination of traffic signs. What must you remember?**
 
@@ -14982,6 +16382,8 @@ Vehicles driving in the roundabout have right of way. Indicating when entering t
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign mean?**
 
 ![Question Image](images/1_4_41-142.png)
@@ -15002,6 +16404,8 @@ You have to give priority to the vehicles driving in the roundabout. In the roun
 #### Question 1.4.41-143
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign mean?**
 
@@ -15025,6 +16429,8 @@ The traffic signs indicate that the drivers in the roundabout have priority. The
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What must you do when you see this combination of traffic signs?**
 
 ![Question Image](images/1_4_41-144.png)
@@ -15047,6 +16453,8 @@ When driving in, you must give priority to the vehicles in that are already in t
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_41-145.png)
@@ -15068,6 +16476,8 @@ This traffic sign identifies a cycle path that cyclists must use but is prohibit
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign combination indicate?**
 
 ![Question Image](images/1_4_41-146.png)
@@ -15088,6 +16498,8 @@ The traffic sign announces that after a hundred meters you will find a priority 
 #### Question 1.4.41-147
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **What does this traffic sign indicate?**
 
@@ -15111,6 +16523,8 @@ The traffic sign "Footway" marks paths which may be used exclusively by pedestri
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What vehicles are permitted to use this road?**
 
 ![Question Image](images/1_4_41-148.png)
@@ -15131,6 +16545,8 @@ The traffic sign "No vehicles of any kind permitted" includes all vehicles. Only
 #### Question 1.4.41-149
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **How must you act when driving a vehicle during permitted delivery times?**
 
@@ -15154,6 +16570,8 @@ Since the traffic sign "Footway" is combined here with the additional sign "Deli
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What must you do upon seeing this traffic sign?**
 
 ![Question Image](images/1_4_41-150.png)
@@ -15174,6 +16592,8 @@ This traffic sign indicates the prohibition to turn in order to drive in the opp
 #### Question 1.4.41-151
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign indicate?**
 
@@ -15196,6 +16616,8 @@ Starting from these traffic signs a maximum of 60 km/h may be driven, regardless
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_41-152.png)
@@ -15216,6 +16638,8 @@ This traffic sign means "You must go straight ahead". You can only drive straigh
 #### Question 1.4.41-153
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do you do upon seeing this traffic sign?**
 
@@ -15239,6 +16663,8 @@ The traffic signal "Give way" signals that you are driving on a subordinate road
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_41-154.png)
@@ -15261,6 +16687,8 @@ This traffic sign shows you a riding path. Here riders move with their horses. O
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you do upon seeing this traffic sign?**
 
 ![Question Image](images/1_4_41-155.png)
@@ -15281,6 +16709,8 @@ The sign "Stop! Yield to cross traffic" requires you to stop and thereby slow do
 #### Question 1.4.41-156
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do you have to do in this traffic situation?**
 
@@ -15303,6 +16733,8 @@ At the traffic sign "Stop! Yield to cross traffic" you have to stop and give way
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What do you have to do in this traffic situation?**
 
 ![Question Image](images/1_4_41-157.png)
@@ -15324,6 +16756,8 @@ The traffic sign "Stop! Yield to cross traffic!" requires that you stop and give
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **You are driving along a priority road. Which traffic sign ends your right of way?**
 
 ![Question Image](images/1_4_41-158.png)
@@ -15344,6 +16778,8 @@ Example 1 means "Yield", you must give priority to other road users. Sign 2 gran
 #### Question 1.4.41-159
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do you have to be aware of with this traffic sign?**
 
@@ -15367,6 +16803,8 @@ This traffic sign regulates the direction of travel. You may only turn left here
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **What applies with this traffic sign?**
 
 ![Question Image](images/1_4_41-160.png)
@@ -15387,6 +16825,8 @@ This traffic sign prescribes from which side you have to circuit the obstacle. Y
 #### Question 1.4.41-161
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What applies in the area 15 m in front of and behind this traffic sign?**
 
@@ -15410,6 +16850,8 @@ At the traffic sign you can see that there is a tram or bus stop here. 15 meters
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What applies with this traffic sign?**
 
 ![Question Image](images/1_4_41-162.png)
@@ -15432,6 +16874,8 @@ The given direction of travel is binding. The car driver must turn right before 
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **What applies with this traffic sign?**
 
 ![Question Image](images/1_4_41-163.png)
@@ -15452,6 +16896,8 @@ The traffic sign indicates a taxi stand. There is basically a stopping restricti
 #### Question 1.4.41-164
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign combination indicate?**
 
@@ -15474,6 +16920,8 @@ This sign means "Danger zone" and the additional sign stands for "Winter sports 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What do you have to be aware of in this traffic situation?**
 
 ![Question Image](images/1_4_41-165.png)
@@ -15494,6 +16942,8 @@ You must not drive over the lane boundary (solid line) to the left, which is loc
 #### Question 1.4.41-166
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you be aware of on this priority road?**
 
@@ -15517,6 +16967,8 @@ The solid line in the middle between the two lanes prohibits crossing or crossin
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You want to overtake. What is the right thing to do?**
 
 ![Question Image](images/1_4_41-167.png)
@@ -15537,6 +16989,8 @@ You may overtake if other road users are not endangered. The one-sided lane boun
 #### Question 1.4.41-168
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **As a resident, you want to drive into a cycle highway that has this sign. What must you be aware of when doing so?**
 
@@ -15561,6 +17015,8 @@ A maximum speed of 30 km/h applies to traffic. Cycling traffic must not be endan
 
 **Points:** 2 Points
 
+**Licenses:** Basic material, GM classes
+
 **Who may enter a street that has this sign?**
 
 ![Question Image](images/1_4_41-169.png)
@@ -15582,6 +17038,8 @@ Vehicular traffic other than cyclists may not use cycle lanes unless permitted b
 #### Question 1.4.41-170
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **This road traffic sign is displayed for your lane. What must you be aware of?**
 
@@ -15605,6 +17063,8 @@ This traffic sign indicates the prescribed minimum speed. You must therefore dri
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What is the maximum speed a vehicle may drive in a zone with this sign?**
 
 ![Question Image](images/1_4_41-171.png)
@@ -15622,6 +17082,8 @@ Cyclists, light electric vehicles and other authorized vehicles may not drive mo
 #### Question 1.4.41-172
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What situation applies according to this traffic sign?**
 
@@ -15643,6 +17105,8 @@ The additional sign limits the speed limit between 10 pm and 6 am.
 #### Question 1.4.41-173
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What should you do when you see this road sign?**
 
@@ -15666,6 +17130,8 @@ You have to flash to indicate the change in driving direction.
 #### Question 1.4.41-174
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Which road sign indicates that turning around is not allowed?**
 
@@ -15700,6 +17166,8 @@ This traffic sign tells you that you are on a highway. U-turns are strictly proh
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **From which road sign onwards may you not exceed a permissible maximum speed of 60 km/h?**
 
 ![Question Image](images/1_4_41-175.png)
@@ -15729,6 +17197,8 @@ On a road with such a traffic sign you are not allowed to exceed the maximum per
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_42-001.png)
@@ -15749,6 +17219,8 @@ This traffic sign grants you priority in a specific place. Thus, the right of wa
 #### Question 1.4.42-005
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **What does this traffic sign indicate?**
 
@@ -15771,6 +17243,8 @@ The traffic sign indicates that the motorway starts here. This also gives effect
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What do the white markings on the road mean in this situation?**
 
 ![Question Image](images/1_4_42-009-M.png)
@@ -15791,6 +17265,8 @@ At intersections and junctions with “right before left” regulation, especial
 #### Question 1.4.42-010-M
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What is the rule created by the road markings in this situation?**
 
@@ -15815,6 +17291,8 @@ At intersections and junctions with “right before left” regulation, especial
 #### Question 1.4.42-011
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **From which road sign onwards are you only allowed to drive at walking speed?**
 
@@ -15841,6 +17319,8 @@ In a traffic-calmed area, you may only drive your vehicle at walking speed, as y
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **At which traffic sign at the next junction do you generally have right of way?**
 
 ![Question Image](images/1_4_42-012.png)
@@ -15866,6 +17346,8 @@ The traffic sign “One-time right of way” signals to you that you have the ri
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Which traffic sign gives right of way at the next crossroads?**
 
 ![Question Image](images/1_4_42-101.png)
@@ -15887,6 +17369,8 @@ Only the first traffic sign gives you right of way at the next intersection. The
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Which traffic sign gives right of way?**
 
 ![Question Image](images/1_4_42-102.png)
@@ -15907,6 +17391,8 @@ The correct traffic sign to observe the right of way is number two. Number one i
 #### Question 1.4.42-104
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What is allowed on priority roads outside built-up areas?**
 
@@ -15930,6 +17416,8 @@ On priority roads outside of built-up areas, you may: 1. wait at the right side 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What ends here?**
 
 ![Question Image](images/1_4_42-106.png)
@@ -15950,6 +17438,8 @@ This traffic sign announces the change of a priority rule. It marks the end of t
 #### Question 1.4.42-107
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What do you do when you see this traffic sign?**
 
@@ -15973,6 +17463,8 @@ The traffic sign gives you priority over oncoming traffic. The oncoming traffic 
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What do these traffic signs allow?**
 
 ![Question Image](images/1_4_42-109.png)
@@ -15993,6 +17485,8 @@ This traffic sign indicates a parking lot that may only be used by residents wit
 #### Question 1.4.42-110
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **Are you allowed to park here?**
 
@@ -16016,6 +17510,8 @@ There are special parking spaces for people with impaired mobility or the blind.
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What must you observe when parking here?**
 
 ![Question Image](images/1_4_42-111.png)
@@ -16037,6 +17533,8 @@ In this parking lot you are only allowed to park with a valid ticket. Attach the
 #### Question 1.4.42-112
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **Which vehicles are allowed to park here?**
 
@@ -16060,6 +17558,8 @@ The traffic sign regulates the parking situation for the road user. The sign all
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What must a motor vehicle's maximum speed, determined by its construction, be at least if you want to use this road?**
 
 ![Question Image](images/1_4_42-116.png)
@@ -16080,6 +17580,8 @@ You must be able to achieve at least a maximum speed of 60 km/h on a motor road 
 #### Question 1.4.42-119
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign indicate?**
 
@@ -16102,6 +17604,8 @@ This is a dead end. You can drive normally in a dead end, but the road ends so y
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_42-120.png)
@@ -16122,6 +17626,8 @@ This traffic sign shows that a first aid station such as "Red Cross" or "Samarit
 #### Question 1.4.42-125
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What must you remember when you see this traffic sign?**
 
@@ -16144,6 +17650,8 @@ If you see this sign at lanterns, then you have to secure your vehicle with your
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_42-126.png)
@@ -16164,6 +17672,8 @@ This traffic sign refers to a main road. The number stands for the number of the
 #### Question 1.4.42-128
 
 **Points:** 2 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign indicate?**
 
@@ -16186,6 +17696,8 @@ The diversion arrow points out to you as a car driver that you are on a traffic 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **During daylight, you enter a lit tunnel marked like this. What do you do?**
 
 ![Question Image](images/1_4_42-129.png)
@@ -16206,6 +17718,8 @@ As the car driver, you must turn on the low beam. The daytime lights are not eno
 #### Question 1.4.42-130
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What does this traffic sign indicate?**
 
@@ -16229,6 +17743,8 @@ This traffic sign shows you an emergency lay-by. There you can and should wait i
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What do you have to do when you see this traffic sign?**
 
 ![Question Image](images/1_4_42-131.png)
@@ -16251,6 +17767,8 @@ This traffic sign is located in front of the entrance to a tunnel. Turn on the l
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **You drive into a brightly lit tunnel which is indicated like this. What do you do?**
 
 ![Question Image](images/1_4_42-132.png)
@@ -16272,6 +17790,8 @@ Even a brightly lit tunnel cannot reach daylight conditions, so you need to driv
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign combination indicate?**
 
 ![Question Image](images/1_4_42-133.png)
@@ -16292,6 +17812,8 @@ The traffic sign points to the end of the traffic-calming zone. Now higher speed
 #### Question 1.4.42-134
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What does this traffic road sign mean?**
 
@@ -16315,6 +17837,8 @@ You drive on a priority road. The traffic sign is repeated at each intersection 
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_42-135.png)
@@ -16335,6 +17859,8 @@ This traffic sign indicates a numbered detour. Since there are several detours, 
 #### Question 1.4.42-136
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What do you have to be aware of when you see this traffic sign combination?**
 
@@ -16357,6 +17883,8 @@ The priority road is turning due to the additional sign. It's a turning priority
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What is the correct action on roads with these types of protective cycle lanes?**
 
 ![Question Image](images/1_4_42-137.png)
@@ -16377,6 +17905,8 @@ The directional sign indicates the safe area for cyclists. As the vehicle driver
 #### Question 1.4.42-138
 
 **Points:** 4 Points
+
+**Licenses:** Basic material
 
 **What must you do upon seeing this traffic sign?**
 
@@ -16401,6 +17931,8 @@ On pedestrian crossings pedestrians have precedence, so vehicles should always d
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you be prepared for here?**
 
 ![Question Image](images/1_4_42-139.png)
@@ -16422,6 +17954,8 @@ The traffic sign 'crossing guard', formerly school crossing guards, means that t
 #### Question 1.4.42-140
 
 **Points:** 4 Points
+
+**Licenses:** Basic material, GM classes
 
 **What applies according to this traffic sign?**
 
@@ -16446,6 +17980,8 @@ Within traffic calming zones you are allowed to travel at a maximum walking spee
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **What does this traffic sign combination mean to you?**
 
 ![Question Image](images/1_4_42-141.png)
@@ -16466,6 +18002,8 @@ The traffic sign indicates the course of the priority road. The additional sign 
 #### Question 1.4.42-142
 
 **Points:** 2 Points
+
+**Licenses:** Basic material, GM classes
 
 **What do you have to be aware of when you see this traffic sign?**
 
@@ -16490,6 +18028,8 @@ For this question, all three answers are correct. In a "traffic calming zone", p
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_42-143.png)
@@ -16511,6 +18051,8 @@ When you see this traffic sign, you approach a customs office. This means that y
 
 **Points:** 2 Points
 
+**Licenses:** Basic material
+
 **What is correct in this situation?**
 
 ![Question Image](images/1_4_42-144.png)
@@ -16531,6 +18073,8 @@ The village sign indicates the end of a closed village in the lower part. The up
 #### Question 1.4.42-145
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What do you have to observe in a traffic situation like this one?**
 
@@ -16555,6 +18099,8 @@ Guidelines have the task of separating the lanes. Therefore, you may only drive 
 
 **Points:** 4 Points
 
+**Licenses:** Basic material
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/1_4_42-146.png)
@@ -16575,6 +18121,8 @@ If you are driving a vehicle, you may only stop in an emergency stop and breakdo
 #### Question 1.4.42-147-M
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **You are driving on a road that has a protective lane for cyclists. How may you use the protective lane?**
 
@@ -16599,6 +18147,8 @@ You may use the cycle lane if necessary, provided you do not endanger or obstruc
 #### Question 1.4.43-101
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What can red-white warning plates on vehicles indicate?**
 
@@ -16626,6 +18176,8 @@ Red and white warning signs point to vehicles with excess width (e.g., abnormal 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What must you remember in the interests of environmental protection?**
 
 **Options:**
@@ -16645,6 +18197,8 @@ In the interests of environmental protection, you as a car driver must pay atten
 #### Question 1.5.01-003
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must be regularly serviced to prevent high fuel consumption and excessive pollutant emission?**
 
@@ -16667,6 +18221,8 @@ The fuel consumption of a vehicle should be as low as possible. As a car driver,
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What happens as a result of tyre pressures being well below the recommended levels?**
 
 **Options:**
@@ -16686,6 +18242,8 @@ Too low air pressure in the tire as well leads to increased fuel consumption. Th
 #### Question 1.5.01-005
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **When should you switch off the engine to save fuel and reduce pollution?**
 
@@ -16707,6 +18265,8 @@ In order to avoid unnecessary consumption of gasoline, the engine should be swit
 
 **Points:** 4 Points
 
+**Licenses:** Basic material, GM classes
+
 **Your vehicle loses oil. How much drinking water can be polluted by a single drop of oil?**
 
 **Options:**
@@ -16725,6 +18285,8 @@ You should urgently avoid oil loss. Because even a single drop of oil can contam
 #### Question 1.5.01-007
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What must you remember when refuelling?**
 
@@ -16746,6 +18308,8 @@ Inhaling fuel vapors is harmful to your health. Therefore, make sure that the di
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **The engine and exhaust system of a vehicle have been "souped up". What could be the effects?**
 
 **Options:**
@@ -16766,6 +18330,8 @@ A souped-up engine and muffler provide increased noise pollution. In addition, t
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How can you reduce the noise made by a car?**
 
 **Options:**
@@ -16784,6 +18350,8 @@ In the low-speed speed range, the engine runs quieter than in high-revving areas
 #### Question 1.5.01-010
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Where can used oil, lubricants and car batteries be taken to be disposed of properly?**
 
@@ -16805,6 +18373,8 @@ Waste oils, lubricants and vehicle batteries can be disposed of properly in the 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How can you drive fuel-efficiently when travelling at a constant speed?**
 
 **Options:**
@@ -16825,6 +18395,8 @@ At constant speed, you can save fuel with the following measures: 1. by driving 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **At which engine speed range will fuel consumption be lower?**
 
 **Options:**
@@ -16842,6 +18414,8 @@ An engine consumes the least fuel in the speed range just above the minimum spee
 #### Question 1.5.01-013
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **You have to wait because of a closed rail-crossing barrier. How can you now help protect the environment and save fuel?**
 
@@ -16861,6 +18435,8 @@ When waiting in front of closed gates it is recommended to switch off the engine
 #### Question 1.5.01-014
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What measures help protect the environment?**
 
@@ -16882,6 +18458,8 @@ Turning the air conditioning off saves fuel as well. Low rolling resistance tire
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What should you do to protect the environment?**
 
 **Options:**
@@ -16901,6 +18479,8 @@ You should avoid driving at high speeds. If the vehicle develops smoke, have it 
 #### Question 1.5.01-016
 
 **Points:** 3 Points
+
+**Licenses:** Basic material, GM classes
 
 **What can regular vehicle maintenance help achieve?**
 
@@ -16923,6 +18503,8 @@ Regular vehicle maintenance helps to ensure road safety, low fuel consumption an
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **In which situations should you switch off the engine to save fuel and reduce environmental pollution?**
 
 **Options:**
@@ -16942,6 +18524,8 @@ You should turn off the engine before a gated railway crossing or if you are in 
 #### Question 1.5.01-102
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What can cause unnecessary noise pollution when driving?**
 
@@ -16963,6 +18547,8 @@ If you drive at high speed or your muffler is defective, the noise level is incr
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How should you change gears in order to drive with particular consideration to the environment and fuel saving?**
 
 **Options:**
@@ -16982,6 +18568,8 @@ Changing gears environmentally friendly means to upshift early and shift down la
 #### Question 1.5.01-104
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What is important to avoid pollution and to save energy when driving?**
 
@@ -17003,6 +18591,8 @@ Low fuel consumption defines environmentally friendly and energy-saving driving.
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How is fuel wasted and the environment polluted?**
 
 **Options:**
@@ -17023,6 +18613,8 @@ If you drive hectically, switching constantly between braking and accelerating a
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What indicates excessive petrol consumption due to high wear or wrong tuning of the engine?**
 
 **Options:**
@@ -17040,6 +18632,8 @@ Dark smoke indicates increased fuel consumption. It may be causally related to a
 #### Question 1.5.01-109
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What kind of driving results in high fuel consumption?**
 
@@ -17062,6 +18656,8 @@ High speeds require more power due to the increased air resistance. As a result,
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How do you drive with consideration to the environment?**
 
 **Options:**
@@ -17082,6 +18678,8 @@ Avoid constant acceleration and braking. Accelerating consumes unnecessary fuel 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How can you cover more kilometres on less fuel?**
 
 **Options:**
@@ -17101,6 +18699,8 @@ The least fuel is consumed in the low-speed range. Timely upshifting avoids high
 #### Question 1.5.01-114
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What can help save fuel and reduce pollution?**
 
@@ -17123,6 +18723,8 @@ Before buying a car, the driver can check which model consumes little fuel. In a
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What can you do to help protect the environment?**
 
 **Options:**
@@ -17144,6 +18746,8 @@ The best way to protect the environment is to drive less. All journeys that are 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How can you achieve efficient fuel consumption and low pollutant emissions?**
 
 **Options:**
@@ -17164,6 +18768,8 @@ Before you drive off, you should make sure that the correct tire pressure is set
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **Other road users draw your attention to the persistent thick smoke coming from your exhaust. What do you have to do?**
 
 **Options:**
@@ -17182,6 +18788,8 @@ You should visit a workshop that checks the damage. Because the strong smoke is 
 #### Question 1.5.01-118
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **Why is it beneficial to use low viscosity engine oil?**
 
@@ -17203,6 +18811,8 @@ Low-friction oils are characterized by a better flow behavior. These are synthet
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What should you do after starting the vehicle?**
 
 **Options:**
@@ -17222,6 +18832,8 @@ After starting the car, you should drive off directly in the low-speed range. Wa
 #### Question 1.5.01-120
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **How can you save fuel?**
 
@@ -17243,6 +18855,8 @@ You can save fuel by: 1. driving smoothly and anticipatory while avoiding high e
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How can you minimise tyre wear?**
 
 **Options:**
@@ -17262,6 +18876,8 @@ Driving with winter tires in non-winter weather leads to increased tire wear. St
 #### Question 1.5.01-122
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What vehicles are generally exempt from the ban on road traffic in "environmental zones"?**
 
@@ -17283,6 +18899,8 @@ A traffic ban for "environmental zones" does not apply to ambulances that are on
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **When is it sensible to switch off a combustion engine?**
 
 **Options:**
@@ -17302,6 +18920,8 @@ Longer waiting times before a closed level crossing as well as loading and unloa
 #### Question 1.5.01-124
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **You are driving through city traffic in rush hour. What are the effects of stop-and-go driving?**
 
@@ -17324,6 +18944,8 @@ The fuel consumption in stop-and-go traffic is greater, because drivers have to 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **What is a pre-condition for environmentally-friendly and energy-saving driving?**
 
 **Options:**
@@ -17343,6 +18965,8 @@ Tyre pressure has a major impact on fuel consumption as it affects rolling resis
 #### Question 1.5.01-126
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **You are driving a motor vehicle with a manual gearbox. What style of driving results in higher fuel consumption within a built-up area?**
 
@@ -17364,6 +18988,8 @@ When accelerating hard, you consume more fuel than when accelerating normally. T
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are driving a motor vehicle with a manual gearbox. How can you reduce the fuel consumption of your vehicle?**
 
 **Options:**
@@ -17384,6 +19010,8 @@ The higher the engine speed, the more fuel is consumed. If you ride with foresig
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **How can you reduce the noise generated by your motor vehicle?**
 
 **Options:**
@@ -17403,6 +19031,8 @@ The higher the engine speed, the louder the engine will be. Tyres have differenc
 #### Question 1.5.01-129
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What should you do to help protect the environment?**
 
@@ -17425,6 +19055,8 @@ The engine also burns fuel when stationary, you should switch off the engine if 
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are driving a motor vehicle with a manual gearbox. When driving, what can cause avoidable noise pollution?**
 
 **Options:**
@@ -17446,6 +19078,8 @@ The higher the engine speed, the louder the engine. Tuned exhaust systems are us
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are driving a motor vehicle with a manual gearbox on a level carriageway. How should you change gears so as to drive in a particularly environmentally conscious and economical way?**
 
 **Options:**
@@ -17465,6 +19099,8 @@ When accelerating, always try to keep the engine speed as low as possible. When 
 #### Question 1.5.01-132
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **You are driving a motor vehicle with a manual gearbox. What type of behaviour pollutes the environment?**
 
@@ -17486,6 +19122,8 @@ Constant speed consumes less fuel than constant deceleration and acceleration. U
 
 **Points:** 3 Points
 
+**Licenses:** Basic material
+
 **You are driving a motor vehicle with a manual gearbox. How can you achieve efficient fuel consumption?**
 
 **Options:**
@@ -17505,6 +19143,8 @@ At constant speed, less is consumed than when constantly decelerating and accele
 #### Question 1.5.01-134
 
 **Points:** 3 Points
+
+**Licenses:** Basic material
 
 **What should you consider after starting your vehicle?**
 
@@ -17532,6 +19172,8 @@ Unnecessary standing with the engine running unnecessarily pollutes the environm
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **What influences the degree of centrifugal force on bends?**
 
 **Options:**
@@ -17551,6 +19193,8 @@ The centrifugal force can throw your vehicle out of the curve. When doubling the
 #### Question 1.7.01-006
 
 **Points:** 3 Points
+
+**Licenses:** GM classes
 
 **Wet conditions can impair the effectiveness of drum brakes. What should you do?**
 
@@ -17577,6 +19221,8 @@ The drum brake can run dry. For that you as the car driver brake cautiously. The
 
 **Points:** 3 Points
 
+**Licenses:** Basic material, GM classes
+
 **When will offences carrying two points be deleted from the Central Register of Road Traffic Offenders?**
 
 **Options:**
@@ -17602,6 +19248,8 @@ Registered misdemeanors, which have been scored and entered in Register of Drive
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What can cause skidding on bends?**
 
 **Options:**
@@ -17621,6 +19269,8 @@ Defective shock absorbers can be the cause of a vehicle skidding or swinging off
 #### Question 2.1.01-003
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **What can cause skidding on bends?**
 
@@ -17642,6 +19292,8 @@ In curves, the following factors can lead to skidding: 1. excessive speed; 2. we
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, L, T, A80
+
 **What can cause a dangerous situation?**
 
 **Options:**
@@ -17661,6 +19313,8 @@ When cutting a corner, the vehicle in the curve is directed inward and the oppos
 #### Question 2.1.01-005-B
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, L, T, A80
 
 **What do you do if the white car does not stop?**
 
@@ -17682,6 +19336,8 @@ Even if you are in the right of way: Do not take risks in case of bad traffic be
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What results in specific risks to motorcyclists?**
 
 **Options:**
@@ -17702,6 +19358,8 @@ If you ride with the visor open, an insect can fly into it at any time. This can
 #### Question 2.1.01-007-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What should you do now?**
 
@@ -17725,6 +19383,8 @@ The overtaking vehicle will probably not be able to complete its overtaking mano
 #### Question 2.1.01-008-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why should you allow the truck to change lane?**
 
@@ -17750,6 +19410,8 @@ If you are in the dead corner of the truck and the truck suddenly exhaust yourse
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **As a motorcyclist , why is it important that you adopt an anticipatory driving style especially on very winding stretches of road?**
 
 **Options:**
@@ -17770,6 +19432,8 @@ By riding with foresight, you can recognise the behaviour of oncoming traffic an
 #### Question 2.1.01-010
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **As a motorcyclist, you can easily go unnoticed by other vehicle drivers. How can you reduce this risk?**
 
@@ -17793,6 +19457,8 @@ If you are driving in a vehicle's side blind spot, the driver will not be able t
 
 **Points:** 4 Points
 
+**Licenses:** B, T
+
 **What can cause a dangerous situation?**
 
 **Options:**
@@ -17813,6 +19479,8 @@ If a foot brake has a strong one-sided effect, the vehicle may swing off lateral
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What are the effects of listening to loud music - especially with an extremely loud bass volume - in the car?**
 
 **Options:**
@@ -17832,6 +19500,8 @@ Loud music in the car leads to two negative effects: The driver is distracted by
 #### Question 2.1.01-103
 
 **Points:** 4 Points
+
+**Licenses:** B, L, T
 
 **What can create a hazard when driving?**
 
@@ -17857,6 +19527,8 @@ If the dipped headlights are not working, you will see poorly on the one hand an
 
 **Points:** 4 Points
 
+**Licenses:** B, T
+
 **You are driving on a narrow road. About 20 m ahead of you a child suddenly runs onto the roadway. When is a collision unavoidable despite emergency braking?**
 
 **Options:**
@@ -17875,6 +19547,8 @@ For this question, you must first calculate the thinking distance and the hazard
 #### Question 2.1.02-003
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **Why do you have to brake?**
 
@@ -17899,6 +19573,8 @@ You have to expect the person standing in front of the stationary truck to move 
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_1_02-004.png)
@@ -17922,6 +19598,8 @@ When turning right, you must always be aware of pedestrians and cyclists approac
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What must you anticipate in this situation?**
 
 ![Question Image](images/2_1_02-005-M.png)
@@ -17944,6 +19622,8 @@ In addition, you have to expect that people get off to the side of the road.
 #### Question 2.1.02-006-M
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What is the right course of action now?**
 
@@ -17971,6 +19651,8 @@ Since a person wants to cross the intersection, you have to stop and have the pe
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What must you reckon with when you are driving in the left-hand lane of an autobahn at high speed?**
 
 **Options:**
@@ -17990,6 +19672,8 @@ At high speed, motorcycles are very sensitive to wind from the side. Small fast 
 #### Question 2.1.03-002
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **When is there a danger of a motorcycle veering sideways at high speed?**
 
@@ -18011,6 +19695,8 @@ Sudden side wind increases the risk of a motorcycle to veer sideways. Sudden sid
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What must you reckon with when it starts raining after a longer period of dry weather?**
 
 **Options:**
@@ -18030,6 +19716,8 @@ Rain clean up part of the dirt on the road. If the weather was dry for a long pe
 #### Question 2.1.03-004
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **You come unexpectedly upon a stretch of road with loose chippings. What do you do?**
 
@@ -18051,6 +19739,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What can happen if you drive around a left-hand bend near the marked central line?**
 
 **Options:**
@@ -18070,6 +19760,8 @@ When turning left, being near the central line is dangerous. Due to the inclinat
 #### Question 2.1.03-007
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What are the dangers on wet cobblestones?**
 
@@ -18092,6 +19784,8 @@ Cobblestones are slippery and will therefore increase the risk of falling or tir
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **What should you particularly remember when it is raining?**
 
 **Options:**
@@ -18113,6 +19807,8 @@ Rain reduces visibility. The road surface is less visible when wet. The visibili
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **What should you remember when there are tramlines in your lane?**
 
 **Options:**
@@ -18133,6 +19829,8 @@ Tramlines are made of metal which is slippery. A motorcycle therefore has a high
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **What can cause the danger of falling on bends?**
 
 **Options:**
@@ -18152,6 +19850,8 @@ When turning on bends, slippery surfaces such as lane markings, oil on the road,
 #### Question 2.1.03-013
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **What can cause the danger of falling on bends?**
 
@@ -18174,6 +19874,8 @@ When turning on bends or braking, slippery surfaces such as lane markings, oil o
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **When must you apply the brakes with particular care?**
 
 **Options:**
@@ -18193,6 +19895,8 @@ Braking is less effective on slippery surfaces (wet road, cobblestones, dirt roa
 #### Question 2.1.03-015
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What can cause in aquaplaning (sliding on wet roads) on wet road surfaces?**
 
@@ -18214,6 +19918,8 @@ Aquaplaning - also known as hydroplaning - occurs when the tread depth of the ti
 #### Question 2.1.03-017-B
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why could overtaking be dangerous here?**
 
@@ -18238,6 +19944,8 @@ Overtaking in slush can lead to many dangers. Under the snow there could be a la
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What must you do if your vehicle is caught by a strong side wind?**
 
 **Options:**
@@ -18257,6 +19965,8 @@ If your vehicle is hit by strong crosswinds, you should not accelerate, slow dow
 #### Question 2.1.03-020
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **When can strong side wind be particularly dangerous?**
 
@@ -18278,6 +19988,8 @@ Changing wind directions are dangerous when driving. Sudden gusts can catch your
 #### Question 2.1.03-021-B
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What must you reckon with here?**
 
@@ -18301,6 +20013,8 @@ If you drive on the motorway in a strong crosswind from the right, the crosswind
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **A strong side wind is blowing from the right. When are you particularly exposed to danger when overtaking?**
 
 ![Question Image](images/2_1_03-022-B.png)
@@ -18323,6 +20037,8 @@ If there is strong crosswind from the right, you are particularly at risk as a c
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **Why must you reduce your speed in heavy rain?**
 
 **Options:**
@@ -18343,6 +20059,8 @@ Water on the windshield or visor breaks the light and worsens the view, whirling
 #### Question 2.1.03-024-B
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, T, A80
 
 **What adversely affects road safety here?**
 
@@ -18366,6 +20084,8 @@ The rain and the whirled-up water create a haze that can significantly affect tr
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **What can be caused if the road surface suddenly becomes worse?**
 
 **Options:**
@@ -18386,6 +20106,8 @@ As the road surface deteriorates, it always results in a change and deterioratio
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What are the special conditions when driving along tree-lined avenues?**
 
 **Options:**
@@ -18405,6 +20127,8 @@ The road is usually very narrow. In addition, it is often heavily curved to drai
 #### Question 2.1.03-028
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right course of action?**
 
@@ -18430,6 +20154,8 @@ While overtaking a cyclist, the oncoming truck also partly gets on your lane. Br
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, L, T, C1E, D1E, DE
+
 **Why should you brake now?**
 
 ![Question Image](images/2_1_03-029.png)
@@ -18453,6 +20179,8 @@ Snow is a special danger for you as a car driver. Your lane is covered in snow. 
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, L, T, C1E, D1E, DE
+
 **Why should you ready yourself to have to stop here?**
 
 ![Question Image](images/2_1_03-030.png)
@@ -18474,6 +20202,8 @@ The street looks very narrow. Expect that you have to stop when the truck approa
 #### Question 2.1.03-031-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What should you be prepared here?**
 
@@ -18497,6 +20227,8 @@ Dirt on the road can increase (not decrease) the braking distance and could make
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **While driving, you unexpectedly come upon a straight section of road with loose chippings. What is the right course of action?**
 
 **Options:**
@@ -18516,6 +20248,8 @@ On the straight unexpected section with rolling gravel you should carefully redu
 #### Question 2.1.03-033
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, C1, D, D1, A80
 
 **What is the right course of action now?**
 
@@ -18541,6 +20275,8 @@ Due to the bad weather conditions, you should reduce your speed and avoid jerky 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
+
 **What can be the effect of aquaplaning?**
 
 **Options:**
@@ -18560,6 +20296,8 @@ In the event of aquaplaning, your vehicle has no direct contact with the road su
 #### Question 2.1.03-035
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **A strong side wind is blowing. When is there a risk that your motorcycle will be shifted sideways at high speed?**
 
@@ -18581,6 +20319,8 @@ Wind conditions change when overtaking a truck, when driving up a bridge and whe
 #### Question 2.1.03-036
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the correct course of action in this situation?**
 
@@ -18604,6 +20344,8 @@ The traffic sign indicates a risk of skidding and sliding. To avoid skidding, yo
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
+
 **What should you be prepared for here?**
 
 ![Question Image](images/2_1_03-037.png)
@@ -18625,6 +20367,8 @@ Because of the rain, you should be prepared for the fact that other vehicles wil
 #### Question 2.1.03-038
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Where are you particularly at risk during an overtaking manoeuvre here?**
 
@@ -18648,6 +20392,8 @@ If there is a strong side wind from the right, you as a motorist are particularl
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What could happen if you pass through a bend close to the lane markings?**
 
 ![Question Image](images/2_1_03-039-M.png)
@@ -18670,6 +20416,8 @@ Always make sure that you and your motorbike are not overhanging the centre line
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What can increase the risk of a motorcycle fall while driving through road bends?**
 
 **Options:**
@@ -18691,6 +20439,8 @@ Unevenness in the road surface, such as bumps, reduces the grip of the tyres and
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **How can you reduce the risk of falling when encountering wet road markings?**
 
 **Options:**
@@ -18711,6 +20461,8 @@ Due to the wetness, you should avoid accelerating or braking here to minimise th
 #### Question 2.1.03-042
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What should you anticipate when driving on wet cobblestones?**
 
@@ -18734,6 +20486,8 @@ Locking tendency means that the front wheel is loaded more and the rear wheel is
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **What should you take into account when you drive a motorcycle during low ambient temperatures?**
 
 **Options:**
@@ -18754,6 +20508,8 @@ In addition, the handbrake lever is more difficult to operate with cold fingers.
 #### Question 2.1.03-044-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What must you anticipate in this situation?**
 
@@ -18778,6 +20534,8 @@ In addition, when entering the slipstream of the truck, you must be prepared for
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **Heavy rain has caused large puddles to form on the road surface. What is the right course of action now?**
 
 ![Question Image](images/2_1_03-045-M.png)
@@ -18799,6 +20557,8 @@ You can easily lose control of your motorbike when riding through large puddles.
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **What should you anticipate while driving, when it starts to rain after a long dry period?**
 
 **Options:**
@@ -18818,6 +20578,8 @@ Basically, you must always expect visibility through your helmet visor to be poo
 #### Question 2.1.03-101
 
 **Points:** 5 Points
+
+**Licenses:** B
 
 **Where does aquaplaning (sliding on wet roads) occur particularly often?**
 
@@ -18839,6 +20601,8 @@ If the speed is too high and/or there is more water than can be drained from the
 
 **Points:** 5 Points
 
+**Licenses:** B
+
 **What does aquaplaning (sliding on wet roads) lead to?**
 
 **Options:**
@@ -18858,6 +20622,8 @@ Aquaplaning or hydroplaning can lead to neither being able to brake or steer. As
 #### Question 2.1.03-103
 
 **Points:** 4 Points
+
+**Licenses:** B, L, T
 
 **What must you reckon with when it starts raining after a long period of dry weather?**
 
@@ -18879,6 +20645,8 @@ If rain sets in after prolonged drought, a dangerous film of lubricant forms on 
 
 **Points:** 4 Points
 
+**Licenses:** B, L, T
+
 **It starts raining. Why must you immediately increase the safe distance?**
 
 **Options:**
@@ -18899,6 +20667,8 @@ When it starts raining, you must immediately increase the safety distance for th
 
 **Points:** 4 Points
 
+**Licenses:** B, L, T
+
 **You are driving in dense fog on a federal road (Bundesstraße) outside a built-up area. Are you allowed to drive in the middle of the road continuously straddling the broken white line?**
 
 **Options:**
@@ -18917,6 +20687,8 @@ Driving on the center line is not allowed even in dense fog, especially as drive
 #### Question 2.1.03-106
 
 **Points:** 4 Points
+
+**Licenses:** B, L, T
 
 **What must you do on encountering sudden dense fog driving at daytime?**
 
@@ -18938,6 +20710,8 @@ As a car driver you must turn on low beam during the day when there's fog, snowf
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **How can you achieve sufficient visibility through the windscreen?**
 
 **Options:**
@@ -18957,6 +20731,8 @@ Turn your windscreen wipers to interval switching, during fog in order to remove
 #### Question 2.1.03-109
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **You want to overtake on a narrow avenue not within a built-up area. What must you be aware of in particular?**
 
@@ -18978,6 +20754,8 @@ Due to the narrow width of the lanes, even cyclists cannot be overtaken with onc
 #### Question 2.1.03-110
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What do you have to be aware of in this situation?**
 
@@ -19002,6 +20780,8 @@ A sudden and strong change of lighting conditions, you must reduce your speed, b
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **When overtaking several trucks, you are faced with this situation. What should you do now?**
 
 ![Question Image](images/2_1_03-111.png)
@@ -19024,6 +20804,8 @@ The visibility is very poor due to the weather and the road is not sufficiently 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **You are driving as part of a group of several motorcycles. What reduces the risk of accidents?**
 
 **Options:**
@@ -19042,6 +20824,8 @@ When driving together with a group of motorcycles, all should keep their distanc
 #### Question 2.1.03-113
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **When is there an increased risk of falling during steering and braking manoeuvres?**
 
@@ -19064,6 +20848,8 @@ When turning on bends or braking, slippery surfaces such as lane markings, oil o
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **Wet road markings increase the risk of a fall. How can you reduce this danger of falling?**
 
 **Options:**
@@ -19083,6 +20869,8 @@ Wet markings similarly to tram tracks are slippery. You should cross them as per
 #### Question 2.1.03-115
 
 **Points:** 4 Points
+
+**Licenses:** B, C, C1, D, D1, T, C1E, D1E, DE
 
 **What is the right course of action?**
 
@@ -19108,6 +20896,8 @@ There are two lanes in your direction of travel. You drive on the right side of 
 
 **Points:** 4 Points
 
+**Licenses:** B, C, C1, D, D1, T, C1E, D1E, DE
+
 **What should you do here?**
 
 ![Question Image](images/2_1_03-116-M.png)
@@ -19129,6 +20919,8 @@ In the event of lane damage before a turn, you should reduce your speed consider
 #### Question 2.1.03-117
 
 **Points:** 5 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **You are driving on the autobahn. What is the correct thing to do in this situation?**
 
@@ -19154,6 +20946,8 @@ Due to the severely restricted view on the motorway, you can switch on your rear
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **The electronic stability programme (ESP) display has flashed several times. What is the correct course of action in this situation?**
 
 ![Question Image](images/2_1_03-118.png)
@@ -19178,6 +20972,8 @@ If the ESP symbol is permanently lit, it is inactive or defective and needs to b
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **While driving, you use your vehicle’s adaptive cruise control (ACC) system. What must you anticipate in these weather conditions?**
 
 ![Question Image](images/2_1_03-119.png)
@@ -19200,6 +20996,8 @@ The adaptive cruise control system (ASC) independently estimates the distance an
 
 **Points:** 4 Points
 
+**Licenses:** B, C, C1, D, D1, T
+
 **You are driving along a narrow avenue. What must you be aware of?**
 
 **Options:**
@@ -19220,6 +21018,8 @@ The narrow width of the road and its often curved shape due to tree roots force 
 #### Question 2.1.03-121
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **The electronic stability control (ESC) display light has flashed several times. What is the correct course of action in this situation?**
 
@@ -19244,6 +21044,8 @@ You have to reduce your speed. Due to the slippery road surface and the obviousl
 
 **Points:** 4 Points
 
+**Licenses:** B, C, C1, CE, D, D1, T
+
 **What must you anticipate here?**
 
 ![Question Image](images/2_1_03-122.png)
@@ -19267,6 +21069,8 @@ In addition, you can see from the traffic sign that there is a parking area for 
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **While driving straight ahead, you lose control of your vehicle due to aquaplaning. What is the proper response now?**
 
 **Options:**
@@ -19286,6 +21090,8 @@ During aquaplaning, you cannot turn or change the direction of your car. You sho
 #### Question 2.1.03-124
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **Why is it dangerous to overtake on this snow-covered carriageway?**
 
@@ -19314,6 +21120,8 @@ In addition, the in front can also be thrown on the left lane due to the clearin
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **While driving at night on a country road you see pedestrians on your side. What do you do if you are dazzled by an oncoming vehicle?**
 
 **Options:**
@@ -19332,6 +21140,8 @@ If an oncoming vehicle dazzles you, be sure to reduce the speed so you can stop 
 #### Question 2.1.04-002
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **What must you do if wild animals suddenly appear in the full beam of your headlights?**
 
@@ -19352,6 +21162,8 @@ Hold the steering wheel tightly and brake. Dip the high beam, because it dazzles
 #### Question 2.1.04-005
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What do you have to be aware of in this situation?**
 
@@ -19375,6 +21187,8 @@ Due to the large number of trees and the constant change between light and shade
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **In the dark, an oncoming vehicle fails to dip its headlights. What can you do so that you can still see to a certain extent?**
 
 **Options:**
@@ -19393,6 +21207,8 @@ If you are dazzled by the light from an oncoming vehicle, look to the right side
 #### Question 2.1.04-102
 
 **Points:** 4 Points
+
+**Licenses:** B, L, T
 
 **You are driving on a country road in darkness and rain and encounter oncoming vehicles with dipped headlights. What must you remember?**
 
@@ -19414,6 +21230,8 @@ You must not turn on the high beam in this situation, as this can strongly dazzl
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **What risks could arise if you drive with your main beam lights on?**
 
 **Options:**
@@ -19433,6 +21251,8 @@ With high beam on, you can dazzle drivers in front of you and oncoming traffic, 
 #### Question 2.1.04-104
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **Driving at night-time on a rural road, you see persons on your side of the road. What do you do if you are dazzled by an oncoming vehicle?**
 
@@ -19454,6 +21274,8 @@ If you detect people on the side of the road at night as a car driver, you shoul
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving on an avenue, with a narrow carriageway. What must you be aware of?**
 
 **Options:**
@@ -19474,6 +21296,8 @@ On narrow avenues you are only allowed to drive at a speed that allows you to st
 #### Question 2.1.04-106
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, CE, D, D1, L, T
 
 **What increases the risk of an accident?**
 
@@ -19500,6 +21324,8 @@ You could also be dazzled if you drive towards the low sun. This could make you 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You have been driving at high speed for some time. What effects can this have?**
 
 **Options:**
@@ -19519,6 +21345,8 @@ You quickly get used to high speeds and you kind of enter a state of a rush. Esp
 #### Question 2.1.05-002
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What can result from driving for a long time at high speed?**
 
@@ -19540,6 +21368,8 @@ The senses have become accustomed to the fast pace and you start to underestimat
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **When is there a danger of underestimating your own speed?**
 
 **Options:**
@@ -19559,6 +21389,8 @@ The danger of underestimating one's own driving speed comes into place when you 
 #### Question 2.1.05-005
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What can lead to your dangerously underestimating your own speed?**
 
@@ -19580,6 +21412,8 @@ Wide and clear roads without changing roadside development can lead to dangerous
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are approaching a narrow left-hand bend at high speed. Why must you reduce speed already before entering the bend?**
 
 **Options:**
@@ -19599,6 +21433,8 @@ For you as the car driver there is a risk of skidding at increased speed. In the
 #### Question 2.1.05-007-B
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What must you do?**
 
@@ -19622,6 +21458,8 @@ In this situation, you should stay below the speed limit. Children or other pede
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are approaching a sharp left-hand bend at high speed. Why is it necessary to reduce your speed before you have actually reached the bend?**
 
 **Options:**
@@ -19642,6 +21480,8 @@ Due to your high speed, the centrifugal force may cause your vehicle to skid out
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **In what situation does a driver frequently underestimate their own speed?**
 
 **Options:**
@@ -19661,6 +21501,8 @@ When driving constantly at high speed, the ability to concentrate decreases. You
 #### Question 2.1.05-010
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What should you anticipate when driving at high speed on the motorway?**
 
@@ -19684,6 +21526,8 @@ In addition, at high speeds, even a slight crosswind can cause your vehicle to v
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What is especially important when choosing the speed for driving along tree-lined avenues with narrow roadways?**
 
 **Options:**
@@ -19703,6 +21547,8 @@ When driving on an avenue with narrow lane width, you must consider the followin
 #### Question 2.1.05-102
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why are you required to slow down now?**
 
@@ -19727,6 +21573,8 @@ An animal runs on the road from the right. Since there is no vehicle behind you,
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Where must you anticipate dangerous situations suddenly arising?**
 
 **Options:**
@@ -19747,6 +21595,8 @@ You must be aware of sudden, dangerous situations when: 1. visibility is severel
 #### Question 2.1.05-104-M
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, D, D1, D1E, DE, A80
 
 **Why do you have to lower your speed here?**
 
@@ -19771,6 +21621,8 @@ The vehicle overtaking in front of you dangerously carries an accident risk, as 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
+
 **What should you anticipate in this situation?**
 
 ![Question Image](images/2_1_05-105-M.png)
@@ -19793,6 +21645,8 @@ With a confusing right turn you have to expect different situations. Especially 
 #### Question 2.1.05-106-M
 
 **Points:** 5 Points
+
+**Licenses:** AM
 
 **Why do you have to reduce your speed and keep as far to the right as possible here?**
 
@@ -19820,6 +21674,8 @@ In this situation, because of the yellow car coming in the opposite direction, y
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why can it be dangerous if you, as the last in a queue, immediately overtake as soon as the oncoming traffic is past?**
 
 **Options:**
@@ -19840,6 +21696,8 @@ If a convoy has formed, drivers should basically overtake one after the other. T
 #### Question 2.1.06-003-B
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What must you remember if you want to overtake?**
 
@@ -19863,6 +21721,8 @@ In an overtaking maneuver you should make sure that the oncoming lane is free. B
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Are you allowed to overtake the black car on this autobahn on the right?**
 
 ![Question Image](images/2_1_06-004-B.png)
@@ -19883,6 +21743,8 @@ The black car may not be overtaken on the right in this example. On freeways and
 #### Question 2.1.06-005-B
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **Both cars are travelling at about 30 km/h. Are you allowed to overtake both before the bend?**
 
@@ -19906,6 +21768,8 @@ You may go over the broken line. An overtaking process would still be too danger
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **The driver of the overtaking car has evidently made a miscalculation. What must you do?**
 
 ![Question Image](images/2_1_06-006-B.png)
@@ -19925,6 +21789,8 @@ The car driver should reduce the speed. Otherwise an accident could occur. If th
 #### Question 2.1.06-007-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You want to overtake. What is the right course of action now?**
 
@@ -19948,6 +21814,8 @@ As the vehicle behind you has already started the overtaking process, you should
 #### Question 2.1.06-008-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You want to overtake. What should you do?**
 
@@ -19973,6 +21841,8 @@ Here you can overtake if you can see over the required distance and if there is 
 
 **Points:** 4 Points
 
+**Licenses:** B, T
+
 **Why are you not allowed to overtake here?**
 
 ![Question Image](images/2_1_06-009.png)
@@ -19995,6 +21865,8 @@ In general, you must not overtake if the entire overtaking distance is not visib
 
 **Points:** 5 Points
 
+**Licenses:** AM, B
+
 **You are being overtaken and the oncoming traffic is getting dangerously close. Despite this the other vehicle continues with the overtaking manoeuvre. What should you do?**
 
 **Options:**
@@ -20013,6 +21885,8 @@ You have to slow down and drive to the right, so that the overtaking vehicle dri
 #### Question 2.1.06-011
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, D, D1, D1E, DE, A80
 
 **Why should you brake hard now?**
 
@@ -20037,6 +21911,8 @@ Since the blue passenger car will most likely get on your lane, you have to slow
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right course of action?**
 
 ![Question Image](images/2_1_06-012-M.png)
@@ -20059,6 +21935,8 @@ As the car driver, you do not have to dodge to the middle lane when another car 
 #### Question 2.1.06-013
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You want to overtake. What is the right course of action now?**
 
@@ -20083,6 +21961,8 @@ You already indicated and want to overtake the truck. In the rearview mirror you
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right course of action?**
 
 ![Question Image](images/2_1_06-014.png)
@@ -20106,6 +21986,8 @@ While overtaking a truck, you observe a fast approaching car in the rearview mir
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right course of action?**
 
 ![Question Image](images/2_1_06-015.png)
@@ -20128,6 +22010,8 @@ A driver drives dangerously close to you on the left-hand lane and signals his/h
 #### Question 2.1.06-016-M
 
 **Points:** 5 Points
+
+**Licenses:** C1, D, D1, D1E, DE
 
 **What should you do now?**
 
@@ -20153,6 +22037,8 @@ As a vehicle is approaching from the front and want to overtake a car behind you
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why must you slow down here?**
 
 ![Question Image](images/2_1_06-017-M.png)
@@ -20175,6 +22061,8 @@ The oncoming car overtakes despite opposing traffic about 250 m in front of you.
 #### Question 2.1.06-018-M
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What should you do now?**
 
@@ -20200,6 +22088,8 @@ If a car overtakes you despite oncoming traffic, you should delay and try to dri
 
 **Points:** 4 Points
 
+**Licenses:** AM
+
 **Why are you not allowed to overtake in this situation?**
 
 ![Question Image](images/2_1_06-019-M.png)
@@ -20223,6 +22113,8 @@ You are not allowed to overtake because of the motorbike coming at a fast speed 
 #### Question 2.1.06-020-M
 
 **Points:** 5 Points
+
+**Licenses:** AM, L
 
 **What should you do now?**
 
@@ -20248,6 +22140,8 @@ Given the truck that is overtaking you has incoming traffic, you should slow dow
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You want to overtake. What is the right course of action now?**
 
 ![Question Image](images/2_1_06-021-M.png)
@@ -20270,6 +22164,8 @@ You should not overtake the truck, as you cannot see the distance required for t
 #### Question 2.1.06-022-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why must you abort your overtaking manoeuvre?**
 
@@ -20295,6 +22191,8 @@ You should abort the overtaking maneuver because the tractor wants to turn left 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_1_06-023-M.png)
@@ -20318,6 +22216,8 @@ You should not overtake because the tractor will swerve to the left (see indicat
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You want to overtake. What is the right course of action here?**
 
 ![Question Image](images/2_1_06-024-M.png)
@@ -20340,6 +22240,8 @@ The correct behavior (proactive) here is not to overtake as the yellow vehicle c
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_1_06-025-M.png)
@@ -20361,6 +22263,8 @@ As a vehicle is in your lane, you should slow down immediately and as far as pos
 #### Question 2.1.06-026-M
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, C1, D, D1, A80
 
 **Why are you not allowed to overtake now?**
 
@@ -20386,6 +22290,8 @@ Because of the motorcycle (oncoming traffic) and the course of the road and the 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why are you not allowed to overtake here now?**
 
 ![Question Image](images/2_1_06-027-M.png)
@@ -20409,6 +22315,8 @@ At this moment, a motorcyclist passes the tractor. Wait until you can safely beg
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why are you not allowed to overtake here?**
 
 ![Question Image](images/2_1_06-028-M.png)
@@ -20430,6 +22338,8 @@ Due to the curve and the trees, you cannot see the rest of the road sufficiently
 #### Question 2.1.06-029-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **Why are you not allowed to overtake here?**
 
@@ -20453,6 +22363,8 @@ The road is too small to allow enough side distance to cyclists and oncoming tra
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You want to overtake on a tree-lined avenue. What special aspect should you bear in mind?**
 
 **Options:**
@@ -20473,6 +22385,8 @@ The avenue is framed by trees. Therefore, the change of light and shadow often l
 #### Question 2.1.06-031-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why must you discontinue your overtaking manoeuvre here?**
 
@@ -20497,6 +22411,8 @@ The tractor starts to turn left. The tractor drives across the left lane of the 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving on a road with one lane for each direction. A convoy of motor vehicles is driving up ahead of you. Why should you refrain from overtaking in order to prevent a dangerous situation from occurring?**
 
 **Options:**
@@ -20518,6 +22434,8 @@ Because a closed association consists of several vehicles, you cannot really und
 #### Question 2.1.06-033-M
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why is it dangerous to overtake in this situation?**
 
@@ -20545,6 +22463,8 @@ On the left-hand bend, you cannot see the overtaking lane sufficiently. You will
 
 **Points:** 4 Points
 
+**Licenses:** AM
+
 **Why are you not permitted to overtake in this situation?**
 
 ![Question Image](images/2_1_06-034-M.png)
@@ -20570,6 +22490,8 @@ The motorbike is also approaching at high speed. It will probably overtake you a
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **The vehicles ahead of you are driving at about 30 km/h. Why are you not permitted to overtake before the road bend?**
 
 ![Question Image](images/2_1_06-035-M.png)
@@ -20591,6 +22513,8 @@ You are not allowed to overtake before the bend as your overtaking distance is t
 #### Question 2.1.06-103-M
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **Why do you have to switch to the right-hand lane?**
 
@@ -20616,6 +22540,8 @@ The lane is led into oncoming traffic through the narrowing, so you must be extr
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What is the right course of action here?**
 
 ![Question Image](images/2_1_06-104-M.png)
@@ -20638,6 +22564,8 @@ You should not overtake for the time being, as you are driving side by side and 
 #### Question 2.1.06-105
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What is the right course of action now?**
 
@@ -20663,6 +22591,8 @@ In such a situation, you must slow down to walking speed and keep to the right a
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_1_06-106-M.png)
@@ -20685,6 +22615,8 @@ You have to reduce your speed because the side distance to the cyclist cannot be
 #### Question 2.1.06-107-M
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **Why should you not overtake the moped rider in this situation?**
 
@@ -20713,6 +22645,8 @@ Due to the narrowness of the road, you cannot keep the required distance to the 
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, L, T
+
 **What is the right course of action here?**
 
 ![Question Image](images/2_1_06-201-M.png)
@@ -20739,6 +22673,8 @@ You cannot overtake the cyclist here because you cannot keep a sufficient distan
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What must you reckon with on this autobahn car park?**
 
 ![Question Image](images/2_1_07-002-B.png)
@@ -20761,6 +22697,8 @@ The surface of this freeway parking lot consists of cobblestones that are not on
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **What do you do if you want to drive straight on?**
 
 ![Question Image](images/2_1_07-004-B.png)
@@ -20781,6 +22719,8 @@ You behave correctly if you reduce the speed of your vehicle and allow the prece
 #### Question 2.1.07-006-B
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **You are approaching the vehicles in this picture. What do you do?**
 
@@ -20803,6 +22743,8 @@ Outside of built-up areas, slow vehicles such as tractors, trucks and mopeds oft
 #### Question 2.1.07-007-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What should you anticipate in this situation?**
 
@@ -20828,6 +22770,8 @@ The sign at the beginning of the video indicates "Beware of rolling gravel", so 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **[The white car] wants to turn left. What is the right course of action if [the car] fails to stop?**
 
 ![Question Image](images/2_1_07-008-M.png)
@@ -20849,6 +22793,8 @@ The white car wants to turn left and since you do not know whether it will stop 
 #### Question 2.1.07-009-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
 
 **Why must you brake now?**
 
@@ -20873,6 +22819,8 @@ You should brake because of the green vehicle, as it appears to be driving onto 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
+
 **What must you anticipate in this parking area?**
 
 ![Question Image](images/2_1_07-010-M.png)
@@ -20895,6 +22843,8 @@ Vehicles can leave the parking space, watch out for vehicles leaving the parking
 #### Question 2.1.07-011-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What is the right course of action now?**
 
@@ -20920,6 +22870,8 @@ The car will probably overtake the cyclist. To be on the safe side, slow down an
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **Why should you be ready to brake in this situation?**
 
 ![Question Image](images/2_1_07-012-M.png)
@@ -20943,6 +22895,8 @@ The tractor driver could drive into your lane at any moment, so be ready to brak
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What must be observed when several motorcycles are travelling together in a group?**
 
 **Options:**
@@ -20962,6 +22916,8 @@ Drive in a staggered manner to avoid rear-end collisions caused by sudden brakin
 #### Question 2.1.07-014-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What should you anticipate in this situation?**
 
@@ -20985,6 +22941,8 @@ Because of the turning truck, the van could miss you. Be ready to brake.
 #### Question 2.1.07-015-M
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why should you further reduce your speed here?**
 
@@ -21010,6 +22968,8 @@ It's unlikely that the car in the left lane will continue as it appears to have 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_1_07-016-M.png)
@@ -21033,6 +22993,8 @@ The stalled vehicle is blocking the other vehicle's lane and restricting your vi
 #### Question 2.1.07-017
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why should you continue to slow down here?**
 
@@ -21058,6 +23020,8 @@ On the left lane a car has broken down. There's a person standing in front of th
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, T, C1E, D1E, DE, A80
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_1_07-018.png)
@@ -21080,6 +23044,8 @@ The cyclist cannot continue his journey due to the transporter on the bike path.
 #### Question 2.1.07-019-M
 
 **Points:** 5 Points
+
+**Licenses:** AM
 
 **What is the right course of action now?**
 
@@ -21105,6 +23071,8 @@ The motorcyclist is approaching you at high speed. He could overtake you even th
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, D, D1, D1E, DE, A80
+
 **What should you do now?**
 
 ![Question Image](images/2_1_07-020.png)
@@ -21129,6 +23097,8 @@ The yellow car comes towards you as a wrong-way driver on the highway. Drive to 
 
 **Points:** 4 Points
 
+**Licenses:** AM
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_1_07-021-M.png)
@@ -21151,6 +23121,8 @@ Given that you have traffic on the left line behind you, you should slow down an
 #### Question 2.1.07-022-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the correct course of action in this situation?**
 
@@ -21177,6 +23149,8 @@ Hazard braking could lead to a rear-end collision if the vehicle behind you cann
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why should you reduce your speed now?**
 
 ![Question Image](images/2_1_07-023-M.png)
@@ -21199,6 +23173,8 @@ Even if you keep to the speed limit of 60 km/h, an animal will run onto the road
 #### Question 2.1.07-024-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What do you have to be aware of in this situation?**
 
@@ -21225,6 +23201,8 @@ You should also take care not to drive on the chippings, as chippings increase t
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_1_07-025-M.png)
@@ -21248,6 +23226,8 @@ As the blue car will probably be travelling on the road without observing the ri
 #### Question 2.1.07-026-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right course of action now?**
 
@@ -21273,6 +23253,8 @@ The tractor is signalling by flashing its lights that it wants to move back into
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What is the right thing to do in this situation?**
 
 ![Question Image](images/2_1_07-027-M.png)
@@ -21295,6 +23277,8 @@ On the narrow country road, it is possible that you and the tractor will not be 
 #### Question 2.1.07-028-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right course of action now?**
 
@@ -21321,6 +23305,8 @@ The abrupt braking and steering manoeuvres of the car in front are dangerous. Pa
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What must you be aware of when driving along narrow avenues?**
 
 **Options:**
@@ -21341,6 +23327,8 @@ On bends, your view of the carriageway may be restricted after the bend. You may
 #### Question 2.1.07-030-M
 
 **Points:** 4 Points
+
+**Licenses:** AM
 
 **What is the right behaviour now?**
 
@@ -21366,6 +23354,8 @@ You also can't change to the left lane because there is a motorcycle next to you
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You are taking part in a group tour with several motorbikes. What is the right behaviour?**
 
 **Options:**
@@ -21387,6 +23377,8 @@ This prevents potentially dangerous situations with other motorcycles or oncomin
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What could cause a fast travelling motor vehicle suddenly to veer sideways on a dry straight road?**
 
 **Options:**
@@ -21406,6 +23398,8 @@ A vehicle on a straight, dry road can swing off sideways in the event of a stron
 #### Question 2.1.07-102
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What makes driving in a stream of vehicles easier?**
 
@@ -21427,6 +23421,8 @@ Slightly offset driving allows you to observe the vehicles in front. This allows
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What must you do after an accident with a game animal (for example a deer)?**
 
 **Options:**
@@ -21446,6 +23442,8 @@ After a wildlife accident, you must stop, turn on your hazard lights and secure 
 #### Question 2.1.07-106
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **One of your tyres bursts while you are travelling at high speed on an autobahn. What do you do?**
 
@@ -21467,6 +23465,8 @@ Avoid emergency braking on the freeway and instead steer and brake gently to sta
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You increase your speed from 50 km/h to 100 km/h. How is the braking distance changed according to the rule of thumb?**
 
 **Options:**
@@ -21486,6 +23486,8 @@ According to the rule of thumb, the braking distance quadruples when the speed d
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **When leaving a built-up area, both you and the vehicle approximately 15 m ahead of you increase speed from 50 km/h to 100 km/h. How should you change the safety distance between you and the vehicle ahead?**
 
 **Options:**
@@ -21504,6 +23506,8 @@ Keep a safe distance from the vehicle in front of you outside of closed areas th
 #### Question 2.1.07-111
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why must you be ready to brake in this situation?**
 
@@ -21528,6 +23532,8 @@ You see that a vehicle wants to drive onto the road from the right. Since it com
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why should you lower your speed now?**
 
 ![Question Image](images/2_1_07-112.png)
@@ -21551,6 +23557,8 @@ Basically, you have the right of way, because you are on a priority road. Howeve
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
+
 **What is the right course of action in this situation?**
 
 ![Question Image](images/2_1_07-113-M.png)
@@ -21573,6 +23581,8 @@ In this situation, you need to reduce the speed and allow the car driver to go b
 #### Question 2.1.07-114-M
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What should you anticipate in this situation?**
 
@@ -21598,6 +23608,8 @@ Although you are on the priority road, you must always expect dangerous situatio
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
+
 **What is the right course of action in this situation?**
 
 ![Question Image](images/2_1_07-115.png)
@@ -21620,6 +23632,8 @@ The maximum speed limit on this road is 80 km/h. You drive 80 km/h. The driver d
 #### Question 2.1.07-116
 
 **Points:** 5 Points
+
+**Licenses:** B, C1
 
 **What should you do?**
 
@@ -21645,6 +23659,8 @@ If you suddenly have to brake immediately as much as possible, you stay on your 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What must you pay attention to when turning right?**
 
 ![Question Image](images/2_1_07-117-M.png)
@@ -21668,6 +23684,8 @@ All drivers driving on the priority road must be given priority. The motorcycle 
 #### Question 2.1.07-118-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **You want to remain on the priority road. What must you anticipate now?**
 
@@ -21693,6 +23711,8 @@ In this situation, it is likely that the black car did not see you on your motor
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What should you do, if it is no longer possible to avoid a collision with wild animals?**
 
 **Options:**
@@ -21712,6 +23732,8 @@ If a collision with an animal is no longer avoidable, the direction of travel is
 #### Question 2.1.07-120-M
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **The cruise control system of your motor vehicle is set to 130 km/h. What is the right course of action now?**
 
@@ -21735,6 +23757,8 @@ You must interrupt the cruise control by braking. The motorcyclist changes to yo
 #### Question 2.1.07-121-M
 
 **Points:** 5 Points
+
+**Licenses:** B, C1
 
 **What must you do in this situation?**
 
@@ -21760,6 +23784,8 @@ In this situation, you should immediately brake hard but also not swerve.
 
 **Points:** 4 Points
 
+**Licenses:** B, C, C1, D, D1, L, T
+
 **You are driving on a winding section of road popular with motorcyclists. What must you anticipate?**
 
 **Options:**
@@ -21780,6 +23806,8 @@ On curvy roads, motorcyclists can cut their curves or protrude on your roadway i
 #### Question 2.1.07-123-M
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What should you do now?**
 
@@ -21804,6 +23832,8 @@ The driver of the red vehicle cuts the bend. Brake and stay behind the vehicle u
 #### Question 2.1.07-124-M
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1, L, T
 
 **What is the right behaviour now?**
 
@@ -21830,6 +23860,8 @@ You should also drive as far to the right as possible to avoid a collision with 
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What should you do?**
 
 ![Question Image](images/2_1_07-202.png)
@@ -21853,6 +23885,8 @@ A car driving in front of you parks. You must reduce your speed and then change 
 
 **Points:** 4 Points
 
+**Licenses:** B, L, T
+
 **What should you know about using the rear-view mirror?**
 
 **Options:**
@@ -21872,6 +23906,8 @@ Using the rear-view mirrors requires you to know the following: 1. Rear-view mir
 #### Question 2.1.07-204
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **You are driving into a right-hand bend. A motorcyclist approaches you at high speed. What risks should you take into account?**
 
@@ -21893,6 +23929,8 @@ As you enter a right-hand turn, the oncoming motorcyclist makes a left turn. His
 
 **Points:** 4 Points
 
+**Licenses:** AM, B, L, T
+
 **On a narrow road you want to overtake cyclists on an incline. What should you do?**
 
 **Options:**
@@ -21913,6 +23951,8 @@ Cyclists tend to sway more on inclines. So, the required minimum distance to the
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving on a rural road. A line of approximately 15 slow-moving vehicles is travelling in front of you. What should you do?**
 
 **Options:**
@@ -21931,6 +23971,8 @@ In such a convoy, it is important to stay calm and to maintain the necessary saf
 #### Question 2.1.07-207
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You stop to allow passengers to exit your vehicle on the right-side. A cycle path runs along there. What should you do?**
 
@@ -21952,6 +23994,8 @@ You as a car driver have a special duty of care. So, if you're stopping at a bik
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You increase your speed from 50 km/h to 100 km/h. How does the reaction distance change in accordance with the rule of thumb?**
 
 **Options:**
@@ -21970,6 +24014,8 @@ If the car driver doubles the speed of the vehicle, the braking distance doubles
 #### Question 2.1.07-209
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What can cause a faster-moving vehicle to suddenly swerve on a dry, straight road?**
 
@@ -21990,6 +24036,8 @@ By gusts of wind and tire blow your vehicle can break out and distract you from 
 #### Question 2.1.07-210-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
 
 **What should you anticipate?**
 
@@ -22012,6 +24060,8 @@ The danger sign warns of a sharp left turn. The crest blocks the view forward on
 #### Question 2.1.07-211-M
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE
 
 **What is the right course of action now?**
 
@@ -22039,6 +24089,8 @@ As you can see in the rearview mirror, there is a vehicle behind you in the left
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What must you reckon with here?**
 
 ![Question Image](images/2_1_08-005-B.png)
@@ -22061,6 +24113,8 @@ The sign announces the end of the left lane. The traffic flow will condense from
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What must you do here?**
 
 ![Question Image](images/2_1_08-006-B.png)
@@ -22080,6 +24134,8 @@ If the car driver drives at high speed on the highway for a long time, the sense
 #### Question 2.1.08-008-B
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **A traffic jam is building up here. What is the correct procedure?**
 
@@ -22103,6 +24159,8 @@ If you drive towards a traffic jam, turn on your hazard lights to alert other ro
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
+
 **What must you anticipate with inclines on motorways?**
 
 **Options:**
@@ -22123,6 +24181,8 @@ When driving uphill on motorways, you should expect slow-moving trucks in the ri
 #### Question 2.1.08-011
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What must you do?**
 
@@ -22147,6 +24207,8 @@ Since you are currently being overtaken by a car on the left-hand side, you must
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What must you be aware of when joining the motorway?**
 
 **Options:**
@@ -22166,6 +24228,8 @@ On the freeway, the continuous traffic always has the right of way and does not 
 #### Question 2.1.08-014
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You are driving at the recommended speed on the motorway and want to leave it at the next exit. What should you do?**
 
@@ -22187,6 +24251,8 @@ Finish overtaking in good time and get on the right lane. Before changing to the
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **After a longer journey travelling at about 120 km/h, you want to exit the motorway. What must you be aware of when doing so?**
 
 **Options:**
@@ -22206,6 +24272,8 @@ If you, as a car driver, leave the motorway at a speed of about 120 km/h, you mu
 #### Question 2.1.08-016
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What should you do now?**
 
@@ -22231,6 +24299,8 @@ When approaching a jam end on the highway, you must reduce your speed and warn t
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What should you anticipate with this bend?**
 
 ![Question Image](images/2_1_08-017.png)
@@ -22253,6 +24323,8 @@ The course of the curve is not assessable. You always have to expect obstacles s
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is correct in this situation?**
 
 ![Question Image](images/2_1_08-018.png)
@@ -22274,6 +24346,8 @@ The curve is difficult to assess for the car driver. There may be other road use
 #### Question 2.1.08-019
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why do you have to slow here?**
 
@@ -22298,6 +24372,8 @@ The moveable road barrier with flashing arrow in the right-hand lane forces the 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, C, C1, D, D1, C1E, D1E, DE, A80
+
 **Why do you have to reduce your speed now?**
 
 ![Question Image](images/2_1_08-020.png)
@@ -22321,6 +24397,8 @@ In this situation, the blue car is likely to change to the right lane. You shoul
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving at least 20 km/h faster than the green truck. What should you do?**
 
 ![Question Image](images/2_1_08-021.png)
@@ -22342,6 +24420,8 @@ You are on an acceleration lane to the freeway. On the acceleration lane it is p
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are approaching these vehicles. What should you do in this situation?**
 
 ![Question Image](images/2_1_08-022.png)
@@ -22362,6 +24442,8 @@ The white car on the left lane must not be overtaken on the right. To go behind 
 #### Question 2.1.08-023
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **You are driving a truck. What is the right course of action now?**
 
@@ -22386,6 +24468,8 @@ Please magnify the distance to the vehicle ahead and therefore hold a required s
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What should you do now?**
 
 ![Question Image](images/2_1_08-024-M.png)
@@ -22409,6 +24493,8 @@ Next to you is a red car that changes into the middle lane. Therefore, you canno
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C, C1, CE, D, D1, C1E, D1E, DE, A80
+
 **You want to join the motorway. What driving line should you follow?**
 
 ![Question Image](images/2_1_08-025.png)
@@ -22426,6 +24512,8 @@ While driving onto the freeway you should continue to follow the third driving l
 #### Question 2.1.08-026-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What should you be prepared for now?**
 
@@ -22450,6 +24538,8 @@ No traffic jam can be seen in this situation. Since the motorcycle is driving on
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
+
 **You want to exit the motorway. What is creating a dangerous situation here?**
 
 ![Question Image](images/2_1_08-027-M.png)
@@ -22472,6 +24562,8 @@ The motorbike behind you (see right wing mirror) creates a dangerous situation f
 #### Question 2.1.08-028-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right course of action now?**
 
@@ -22497,6 +24589,8 @@ There is an object on the roadway in the right lane in front of the truck. Truck
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why must you reduce your speed now?**
 
 ![Question Image](images/2_1_08-029-M.png)
@@ -22520,6 +24614,8 @@ The right lane is blocked in front of the truck. He has to change to the left la
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You want to leave the motorway. What is the right course of action?**
 
 ![Question Image](images/2_1_08-030-M.png)
@@ -22542,6 +24638,8 @@ As soon as you have entered the deceleration lane, you should brake. If you brak
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **When driving on motorways, why should you maintain the recommended speed of 130 km/h?**
 
 **Options:**
@@ -22562,6 +24660,8 @@ The higher the speed, the longer the reaction distance, braking distance, etc. I
 #### Question 2.1.08-032-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What must you anticipate here?**
 
@@ -22587,6 +24687,8 @@ Due to the sudden traffic jam, the driver of the truck sees the end of the traff
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
+
 **What should you anticipate when driving out the exit slip road?**
 
 ![Question Image](images/2_1_08-033-M.png)
@@ -22609,6 +24711,8 @@ A warning triangle indicates a nearby obstacle, e.g. people, a defective vehicle
 #### Question 2.1.08-102
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **Why should you avoid overtaking alongside the roadworks site?**
 
@@ -22636,6 +24740,8 @@ Overtaking in the construction site area often saves almost no time, since most 
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **How can you reduce the risk of driving onto a motorway against the stipulated direction?**
 
 **Options:**
@@ -22659,6 +24765,8 @@ To avoid driving against the direction of travel on the motorway, you should alw
 
 **Points:** 4 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What must you remember as bus driver on duty?**
 
 **Options:**
@@ -22678,6 +24786,8 @@ Coming soon...
 #### Question 2.1.09-202
 
 **Points:** 4 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must you remember as bus driver on duty?**
 
@@ -22702,6 +24812,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What must you do if you notice signs of fatigue when driving on open stretches of road at night (heavy eyelids, feeling chilly, sudden frights etc.)?**
 
 **Options:**
@@ -22719,6 +24831,8 @@ You can only avoid signs of fatigue if you take sufficiently long breaks in time
 #### Question 2.1.10-002
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **How can fatigue be prevented on a long journey?**
 
@@ -22739,6 +24853,8 @@ Timely breaks prevent overfatigue. Gymnastic exercises during the break pep up t
 #### Question 2.1.10-003
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **What is the potential risk when using driver assistance systems?**
 
@@ -22761,6 +24877,8 @@ The car driver may have too high expectations of the advanced driver-assistance 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, C, C1, D, D1, A80
+
 **What is the risk if you become distracted while using electronic devices when driving?**
 
 **Options:**
@@ -22780,6 +24898,8 @@ Using electronic devices while driving can cause you to miss traffic signs and w
 #### Question 2.1.10-005
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What frequently causes younger drivers to have “disco accidents”?**
 
@@ -22802,6 +24922,8 @@ All three are correct. The so-called disco accidents are caused by overtiredness
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, C, C1, D, D1, A80
+
 **What is the right thing to do if you sense signs of fatigue during a night-time journey?**
 
 **Options:**
@@ -22821,6 +24943,8 @@ As soon as you feel tired, you should take a break immediately. The risk of fall
 #### Question 2.1.10-101
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What can diminish alertness in road traffic?**
 
@@ -22843,6 +24967,8 @@ All external stimuli such as joy, anger, interesting things on the radio and liv
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What strongly distracts you while you are driving?**
 
 **Options:**
@@ -22863,6 +24989,8 @@ Telephoning while driving is only allowed via a hands-free system. Even then it 
 #### Question 2.1.10-103
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **When should you interrupt your journey?**
 
@@ -22888,6 +25016,8 @@ You should also stop if you want to cancel an object that has fallen into the ve
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **A slow driver prevents you from proceeding quickly. What is right?**
 
 **Options:**
@@ -22906,6 +25036,8 @@ Never start a risky overtaking maneuver or force your frontman to speed up with 
 #### Question 2.1.11-007
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What makes a good driver?**
 
@@ -22926,6 +25058,8 @@ A good driver adheres to the traffic regulations and is characterized by a coope
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **Travelling on a main road after a lengthy period of time of following behind, you are finally able to overtake a very slow-moving car. What should you do?**
 
 **Options:**
@@ -22944,6 +25078,8 @@ You should stay calm in this situation and overtake with a sufficient safety dis
 #### Question 2.1.11-009-M
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **The vehicle ahead has prevented you from overtaking for some time now. What is the right course of action?**
 
@@ -22966,6 +25102,8 @@ The car driver has to wait until overtaking is possible without danger and alway
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **Right before you want to drive off, you got annoyed about something and have become very angry. What should you do?**
 
 **Options:**
@@ -22985,6 +25123,8 @@ Getting into the car angrily can negatively affect your driving style. If you ar
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **You have just avoided a road traffic accident by performing an emergency braking manoeuvre. Your hands and knees are shaking. You are still far from your destination. What should you do?**
 
 **Options:**
@@ -23002,6 +25142,8 @@ You should calm down first. Because your restlessness can have a negative effect
 #### Question 2.1.11-012
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What should you be aware of when driving a car after a long day's work?**
 
@@ -23023,6 +25165,8 @@ After a long day at work, you are usually not fully productive and get tired fas
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, C, C1, D, D1, L, Mofa, T, A80
+
 **How can you recognise a good driver?**
 
 **Options:**
@@ -23042,6 +25186,8 @@ A good driver always takes care to act in partnership and also knows that people
 #### Question 2.1.11-014-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **The [red] car in front of you has been driving slowly for some time now. What is the correct course of action in this situation?**
 
@@ -23067,6 +25213,8 @@ The road is clear, but you can only see as far as the next bend. The visible dis
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What frequently causes young people to have “disco accidents”?**
 
 **Options:**
@@ -23088,6 +25236,8 @@ A defensive driving style can prevent accidents.
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why can driving under pressure of time be dangerous?**
 
 **Options:**
@@ -23108,6 +25258,8 @@ When you are under time pressure, you may underestimate dangers because your wil
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are on a road outside of a built-up area, and a car in front of you is driving much slower than is permitted to and has the capacity to. What is the right course of action?**
 
 **Options:**
@@ -23127,6 +25279,8 @@ Even if you don't like it, you must adapt your speed to that of the car and not 
 #### Question 2.1.11-018
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why is it not advisable to change lanes frequently?**
 
@@ -23149,6 +25303,8 @@ Every lane change requires certain activities: observing traffic, flashing, chan
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **You have narrowly avoided a road traffic accident through emergency braking. Your hands and knees are shaking. What is the right course of action?**
 
 **Options:**
@@ -23169,6 +25325,8 @@ You should also go through the situation again in your head later, as you may re
 #### Question 2.1.11-020
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, L, Mofa, T, A80
 
 **While driving, you become very annoyed at the behaviour of another road user. What is the right course of action now?**
 
@@ -23191,6 +25349,8 @@ It is important that you are not distracted by the traffic if you are annoyed by
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **Why does environment friendly driving in general have a beneficial effect on traffic safety?**
 
 **Options:**
@@ -23211,6 +25371,8 @@ Avoid high speeds and drive anticipatory. This not only has a positive effect on
 
 **Points:** 4 Points
 
+**Licenses:** AM, B
+
 **The queue you are driving in is overtaken in an inconsiderate manner by a car. Because of oncoming traffic the driver wants to join the queue in front of the car driving in front of you. This driver is annoyed and "closes the gap". What do you do?**
 
 **Options:**
@@ -23229,6 +25391,8 @@ In such a situation, by deliberately giving in, you should reduce the speed and 
 #### Question 2.1.11-113
 
 **Points:** 4 Points
+
+**Licenses:** AM, B
 
 **A truck indicating to the right is driving in front of you. An impatient car driver is jostling you. What can you do?**
 
@@ -23250,6 +25414,8 @@ In this situation it is better to cut back and keep a safe distance. Maybe the t
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **On a road not within a built-up area, a car is driving in front of you at a speed somewhat slower than that permitted. You are annoyed at the slower-moving car. What should you do?**
 
 **Options:**
@@ -23270,6 +25436,8 @@ You should definitely wait for a safe situation to overtake. Harassing someone b
 
 **Points:** 4 Points
 
+**Licenses:** AM, B
+
 **What can frequently lead to road traffic accidents during night-time recreational drives at the weekend?**
 
 **Options:**
@@ -23289,6 +25457,8 @@ Too little driving experience during the dark and a lack of knowledge about driv
 #### Question 2.1.11-116
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You are under time pressure. What must you ensure?**
 
@@ -23311,6 +25481,8 @@ Even if you are under time pressure, you must follow the traffic rules. This als
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Serious accidents frequently occur when young people drive cars during night-time recreational drives at weekends. What causes can be particularly relevant here?**
 
 **Options:**
@@ -23331,6 +25503,8 @@ Unreasonable speed and willingness to take risks often lead to serious accidents
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **After overtaking you, a car pulls back into lane without leaving sufficient space in front of you. What should you do?**
 
 **Options:**
@@ -23350,6 +25524,8 @@ The car driver in the overtaking vehicle shows a misconduct that should not dist
 #### Question 2.1.11-119
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **The risk of causing an accident when driving a vehicle is significantly higher for drivers aged between 18 and 24. What reasons are frequently relevant here?**
 
@@ -23372,6 +25548,8 @@ Young car drivers often have too little experience to be able to correctly asses
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **While you are in a traffic jam, looking in your rear-view mirror you see a motorcyclist "snaking" past the stationary line of vehicles. What should you do?**
 
 **Options:**
@@ -23391,6 +25569,8 @@ Under no circumstances should you act illegally just because another road user v
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **You are driving on a main road and a car following behind is "tailgating" you. How should you react?**
 
 **Options:**
@@ -23409,6 +25589,8 @@ When driving on a highway and being harassed by the car behind you, you should k
 #### Question 2.1.11-122
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **You overtake on a motorway. Behind you a car approaches at high speed, with headlights and indicators flashing. What should you do?**
 
@@ -23430,6 +25612,8 @@ The only thing you can do is to keep calm! Stay calm and do not try to score off
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **Five young friends are driving in a car to a recreational event. The mood is exuberant. To what risks can this give rise?**
 
 **Options:**
@@ -23450,6 +25634,8 @@ For the car driver, there is a risk of getting carried away by the mood. He/She 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **While driving on the motorway you overtake several vehicles. A vehicle approaches you from behind with indicators and headlights flashing. What should you do?**
 
 **Options:**
@@ -23468,6 +25654,8 @@ The dense, aggressive tailgating of the following vehicle endangers all road use
 #### Question 2.1.11-125
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **You want to overtake. Why should you not do so?**
 
@@ -23493,6 +25681,8 @@ A car driver may only overtake if he/she can see that the opposite lane is free.
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **You were in a bad mood prior to commencing your journey. What consequences should you avoid when driving?**
 
 **Options:**
@@ -23513,6 +25703,8 @@ Anything that could negatively affect your safe driving should be avoided. Besid
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **Which is the stamp of a responsible driver?**
 
 **Options:**
@@ -23532,6 +25724,8 @@ A responsible car driver expects mistakes from other road users and does not sit
 #### Question 2.1.11-128
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What emotions can influence driving behaviour?**
 
@@ -23554,6 +25748,8 @@ Strong emotions such as anger, fear and sadness as well as joy and exuberance us
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What indications mean you should interrupt your journey?**
 
 **Options:**
@@ -23575,6 +25771,8 @@ Brief microsleep often causes devastating accidents. If you have to yawn frequen
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **Your passenger wants to discuss something with you during the journey. What should you do?**
 
 **Options:**
@@ -23592,6 +25790,8 @@ You should not be distracted while driving. If your passenger wants to discuss w
 #### Question 2.1.11-131
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **During the journey your passenger informs you that you are repeatedly tailgating. What should you do?**
 
@@ -23613,6 +25813,8 @@ You should take the safety advice of passengers seriously. Keep a larger distanc
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **At a red light in a built-up area, another driver apparently wants to provoke you into a street race. What should you do?**
 
 **Options:**
@@ -23631,6 +25833,8 @@ Don't be provoked and stay calm. Since road races are strictly prohibited, you s
 #### Question 2.1.11-133
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What frequently causes young people to have “disco accidents”?**
 
@@ -23652,6 +25856,8 @@ Young drivers in particular have less experience driving at night with crowded v
 #### Question 2.1.11-201
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, A80
 
 **At a red light in a built-up area, another driver apparently wants to provoke you into a street race. What should you do?**
 
@@ -23678,6 +25884,8 @@ Racing will increase your risk of accidents and put people at risk. You should i
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **You are driving on a road with one lane in each direction and want to turn left. Where should you position yourself?**
 
 **Options:**
@@ -23695,6 +25903,8 @@ When turning left in this situation, go towards the center of the road (which is
 #### Question 2.2.02-002
 
 **Points:** 3 Points
+
+**Licenses:** Mofa
 
 **Are you allowed to use your motorized bicycle on the pavement?**
 
@@ -23715,6 +25925,8 @@ Yes but only if you push it, you cannot ride on the pavement
 
 **Points:** 3 Points
 
+**Licenses:** Mofa
+
 **Several cars are waiting in the right-hand lane at a "red" traffic light. Are you allowed to pass the cars cautiously on the right?**
 
 **Options:**
@@ -23734,6 +25946,8 @@ In this case you can behave similarly to a bicycle and can pass the car on the r
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving on a road outside a built-up area with three lanes marked in each direction. Individual slower vehicles are travelling well spaced out in the right-hand lane. Which lane may you use continuously?**
 
 **Options:**
@@ -23751,6 +25965,8 @@ The left-hand lane may only be used by a car driver for the temporary overtaking
 #### Question 2.2.02-007
 
 **Points:** 4 Points
+
+**Licenses:** Mofa
 
 **What risks could arise if you drive in the right-hand lane alongside a truck?**
 
@@ -23773,6 +25989,8 @@ A truck will diminish both your visibility and other people on the road seeing y
 
 **Points:** 3 Points
 
+**Licenses:** T
+
 **What applies to you at the next junction?**
 
 ![Question Image](images/2_2_02-008.png)
@@ -23794,6 +26012,8 @@ Coming soon...
 #### Question 2.2.02-009-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **You would like to turn right. What is the right course of action now?**
 
@@ -23818,6 +26038,8 @@ A motorcycle should behave similarly to a car and wait behind the blue car.
 
 **Points:** 3 Points
 
+**Licenses:** Mofa
+
 **What cycle paths may you use to drive your moped?**
 
 **Options:**
@@ -23837,6 +26059,8 @@ You may ride your moped on cycle paths outside built-up areas and on cycle paths
 #### Question 2.2.02-101-M
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What is the correct course of action on this one-way road?**
 
@@ -23859,6 +26083,8 @@ You only drive on when the work allows it. In a one-way street, you are only all
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, C1E
+
 **For which motor vehicles or combination vehicles designated or used for road haulage purposes, is it necessary to pay a user charge on federal highways?**
 
 **Options:**
@@ -23878,6 +26104,8 @@ For motor vehicles with a maximum authorized mass of at least 7.5 t and combinat
 #### Question 2.2.02-202
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE
 
 **What motor vehicles and combination vehicles are subject to a toll charge on motorways and federal highways?**
 
@@ -23899,6 +26127,8 @@ Motor vehicles and vehicle combinations to a maximum authorized mass of at least
 
 **Points:** 3 Points
 
+**Licenses:** C, C1
+
 **You are transporting hazardous goods during winter. What should you do if road conditions deteriorate due to packed snow?**
 
 **Options:**
@@ -23919,6 +26149,8 @@ In icy weather, you must take special care to avoid endangering others. If you r
 
 **Points:** 3 Points
 
+**Licenses:** CE, L, T
+
 **You are driving an agricultural tractor at 30 km/h on a main road with a paved hard shoulder on the right. What is the right thing to do?**
 
 **Options:**
@@ -23937,6 +26169,8 @@ In order to continue to ensure the flow of traffic, please go possible on the sh
 #### Question 2.2.02-303
 
 **Points:** 4 Points
+
+**Licenses:** Mofa
 
 **What risks could arise if you drive in the right-hand lane alongside a truck?**
 
@@ -23961,6 +26195,8 @@ A truck will diminish both your visibility and other people on the road seeing y
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **A large pool of water has formed on the roadway. What do you do?**
 
 **Options:**
@@ -23980,6 +26216,8 @@ You should drive slowly on large pools of water as there is a risk of aquaplanin
 
 **Points:** 3 Points
 
+**Licenses:** Mofa
+
 **What is the maximum speed a motorized bicycle (not a light motorized bicycle) may travel?**
 
 **Options:**
@@ -23995,6 +26233,8 @@ The maximum speed of a motorized bicycle is 25km/h and 20km/h for a light motori
 #### Question 2.2.03-005
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You are driving in fog on the autobahn and have 50 m visibility. What is the maximum speed you may drive?**
 
@@ -24015,6 +26255,8 @@ If the visibility in fog is less than 50 meters, the driver must not drive faste
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are travelling at 100 km/h, have a reaction time of 1 second, and brake normally. What is the stopping distance according to the rule of thumb?**
 
 **Options:**
@@ -24030,6 +26272,8 @@ The stopping distance during normal braking consists of the addition of reaction
 #### Question 2.2.03-007
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You are travelling at 100 km/h and brake normally. What is the braking distance according to the rule of thumb?**
 
@@ -24048,6 +26292,8 @@ That means at a speed of 100 km/h, the braking distance is 100 meters.
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are travelling at 100 km/h and have a reaction time of 1 second. What is the reaction distance according to the rule of thumb?**
 
 **Options:**
@@ -24064,6 +26310,8 @@ That means at a speed of 100 km/h, the braking distance is 30 meters.
 #### Question 2.2.03-009
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, T, A80
 
 **You are travelling at 50 km/h, have a reaction time of 1 second, and brake normally. What is the stopping distance according to the rule of thumb?**
 
@@ -24083,6 +26331,8 @@ That means at a speed of 50 km/h, the stopping distance is 40 meters.
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, T, A80
+
 **You are travelling at 50 km/h and brake normally. What is the braking distance according to the rule of thumb?**
 
 **Options:**
@@ -24099,6 +26349,8 @@ That means that at a speed of 50 km/h, the braking distance is 25 meters.
 #### Question 2.2.03-011
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, T, A80
 
 **You are travelling at 50 km/h and have a reaction time of 1 second. What is the reaction distance according to the rule of thumb?**
 
@@ -24117,6 +26369,8 @@ That means at a speed of 50 km/h, the braking distance is 15 meters.
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **You are driving on a very narrow road and can see 50 m ahead. What must be your maximum stopping distance?**
 
 **Options:**
@@ -24132,6 +26386,8 @@ On a narrow street you have to stop within half the visibility, in this case 25m
 #### Question 2.2.03-015
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the rule of thumb when calculating the braking distance for evasive braking on a dry, even and asphalted roadway?**
 
@@ -24152,6 +26408,8 @@ The rule of thumb for determining the stopping distance is: thinking distance (s
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are travelling at 40 km/h. The braking distance for evasive braking is approximately 8 metres. How long is the braking distance at 50 km/h given otherwise the same conditions?**
 
 **Options:**
@@ -24171,6 +26429,8 @@ The normal braking distance of your car is determined by this rule of thumb: Spe
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **What is the maximum speed you are allowed to drive a truck with a 4.0 t gross vehicle weight rating on roads outside of settlements?**
 
 **Options:**
@@ -24186,6 +26446,8 @@ When your truck of 4.0 t street legal. Total mass on roads outside built-up area
 #### Question 2.2.03-018
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What is the maximum speed you are allowed to drive a car with trailer on roads outside of built-up areas?**
 
@@ -24203,6 +26465,8 @@ If a trailer is carried along with a passenger car, it may be driven outside of 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What is the maximum speed you are allowed to drive a truck with a 3.0 t gross vehicle weight rating with trailer on roads outside of settlements?**
 
 **Options:**
@@ -24218,6 +26482,8 @@ If a lorry with a maximum mass of 3.0 tonnes is driven by a trailer, it may be d
 #### Question 2.2.03-020
 
 **Points:** 3 Points
+
+**Licenses:** D, DE
 
 **What is the maximum speed you are allowed to drive a bus with luggage trailer on main roads?**
 
@@ -24235,6 +26501,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What is the maximum speed you are allowed to drive a bus limited to 100 km/h on main roads?**
 
 **Options:**
@@ -24251,6 +26519,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** C, C1E
+
 **What is the maximum speed you are allowed to drive a truck with a 7.5 t gross vehicle weight rating on main roads?**
 
 **Options:**
@@ -24266,6 +26536,8 @@ Your truck, which over 7.5 t gross. Total mass on a country road en route shall 
 #### Question 2.2.03-023
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **You are driving on a good quality road in good visibility conditions. Within what distance must you be able to stop?**
 
@@ -24286,6 +26558,8 @@ With good visibility on a developed road, you must be able to stop within the as
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **You are driving in darkness on a well-constructed main road, using your dipped headlights. Within what distance must you be able to stop?**
 
 **Options:**
@@ -24305,6 +26579,8 @@ You must be able to stop within the range of the low beam, as the parking light 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving in foggy conditions on the motorway. Your visibility range is less than 50 m. How fast are you allowed to drive?**
 
 **Options:**
@@ -24323,6 +26599,8 @@ Stopping distance = reaction distance + braking distance
 #### Question 2.2.03-026-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the maximum speed you are allowed to drive after turning?**
 
@@ -24344,6 +26622,8 @@ Unless otherwise indicated, the maximum speed in urban areas is 50 km/h. The 30 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What is the maximum speed a motor vehicle fitted with snow chains is allowed to travel?**
 
 **Options:**
@@ -24359,6 +26639,8 @@ With snow chains, the maximum speed is 50 km/h. If that speed is exceeded, the d
 #### Question 2.2.03-104
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What is the maximum speed you are allowed to drive a car on roads with one marked lane for each direction outside built-up areas?**
 
@@ -24376,6 +26658,8 @@ For vehicles up to 3.5 tonnes of gross vehicle weight and without trailer, the m
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What is the maximum speed you are allowed to drive a truck with a permissible total mass of 3.0 t on roads with one marked lane for each direction outside built-up areas?**
 
 **Options:**
@@ -24392,6 +26676,8 @@ For vehicles up to 3.5 tonnes of gross vehicle weight and without trailer, the m
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What is the maximum speed a truck with a permissible total mass of 3.0 t and trailer may be driven on autobahns?**
 
 **Options:**
@@ -24407,6 +26693,8 @@ For vehicles up to 3.5 tonnes of gross vehicle weight and without trailer, the m
 #### Question 2.2.03-107
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What must you remember particularly when driving with winter tyres (M + S)?**
 
@@ -24427,6 +26715,8 @@ The car driver must comply with the maximum speed limit when driving with winter
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is the maximum speed you may drive on a main road in a truck with a gross vehicle weight rating of 5.5 t and a trail with a gross vehicle weight rating of 2 t?**
 
 **Options:**
@@ -24442,6 +26732,8 @@ With your truck of 5.5 t permissible gross weight and a trailer 2 t you must on 
 #### Question 2.2.03-109
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You are driving a combination vehicle. This consists of a motor vehicle with up to 3.5 t maximum authorised mass and a trailer without a 100 km/h approval. What is the maximum speed you can travel on the motorway?**
 
@@ -24459,6 +26751,8 @@ The maximum speed for vehicle combinations up to 3.5 tonnes gross vehicle weight
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You are driving a vehicle combination. It consists of a motor vehicle with a permissible maximum mass of up to 3.5 tonnes and a trailer that is authorised for speeds of up to 100 km/h. What is the maximum speed limit on a federal highway (not an expressway)?**
 
 **Options:**
@@ -24474,6 +26768,8 @@ The maximum permissible speed on federal roads is 80 km/h. You are only allowed 
 #### Question 2.2.03-202
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **What is the maximum speed you are allowed to drive a truck with a permissible total mass of 4.0 t on autobahns?**
 
@@ -24491,6 +26787,8 @@ With your truck of 4.0 t permissible gross weight allowed to you on the highway 
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What is the maximum speed you are allowed to drive a bus in non-regular traffic outside built-up areas (not an autobahn or clearway for motor vehicles only)?**
 
 **Options:**
@@ -24506,6 +26804,8 @@ Coming soon...
 #### Question 2.2.03-206
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What is the maximum speed you are allowed to drive a "Tempo-100-Bus" with luggage trailer on autobahns?**
 
@@ -24523,6 +26823,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What is the maximum speed you are allowed to drive a "Tempo-100-Bus" on autobahns?**
 
 **Options:**
@@ -24538,6 +26840,8 @@ Coming soon...
 #### Question 2.2.03-209
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What is the maximum speed you are allowed to drive a "Tempo-100-Bus" on clearways for motor vehicles only without marked lanes?**
 
@@ -24555,6 +26859,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What is the maximum speed you are allowed to drive a bus outside built-up areas when there are not enough seats for all passengers?**
 
 **Options:**
@@ -24571,6 +26877,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is the maximum speed you are allowed to drive a truck with a permissible total mass of 40 t on autobahns?**
 
 **Options:**
@@ -24586,6 +26894,8 @@ With your truck of 40 t you must go h on the highway 80 km /.
 #### Question 2.2.03-303
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **You are driving with dipped headlights on a main road. Within what distance must you be able to stop?**
 
@@ -24606,6 +26916,8 @@ You are only allowed to drive so fast that you can stop within the assessable tr
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What vehicles are subject to the recommended speed on motorways?**
 
 **Options:**
@@ -24625,6 +26937,8 @@ On motorways, all cars and vehicles up to a maximum gross vehicle weight of 3.5 
 #### Question 2.2.03-305
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **On what roads does the recommended speed of 130 km/h apply?**
 
@@ -24650,6 +26964,8 @@ On freeway and roads outside the city, whose lanes are structurally separated, a
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving at 80 km/h behind a motor vehicle. What is the minimum safe distance you must observe?**
 
 **Options:**
@@ -24668,6 +26984,8 @@ When driving behind another vehicle, you need to maintain the so-called "two-sec
 #### Question 2.2.04-002
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **You are driving in urban traffic on a dry roadway in a stream of traffic travelling at a speed of 50 km/h. What is the minimum safe distance you must keep from the vehicle in front?**
 
@@ -24688,6 +27006,8 @@ In urban areas, as well as in city traffic, shorter distances are justified acco
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **What is the minimum distance that should normally be maintained from the vehicle in front outside built-up areas?**
 
 **Options:**
@@ -24706,6 +27026,8 @@ Outside built-up areas, the distance to the vehicle in front must be at least ha
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the minimum safety distance you should maintain from the vehicle ahead when driving at a speed of 100 km/h?**
 
 **Options:**
@@ -24721,6 +27043,8 @@ In order to be able to brake in time, you should keep the safety distance equal 
 #### Question 2.2.04-005
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **When driving outside of a built-up area, what minimum safety distance should you maintain between you and the vehicle ahead?**
 
@@ -24742,6 +27066,8 @@ Attention: These rules only apply to dry roads. In the case of rain, snow and bl
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **You are driving your car and caravan trailer (length of combination of vehicles exceeding 7 m) outside built-up areas on a road with only one marked lane in each direction. What must you remember?**
 
 **Options:**
@@ -24761,6 +27087,8 @@ Trains which are longer than 7 meters must keep a distance from the vehicle in f
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **When must a car with trailer driving outside built-up areas on roads with only one lane for each direction keep a sufficient distance from the car in front so that an overtaking vehicle may pull in?**
 
 **Options:**
@@ -24776,6 +27104,8 @@ StVO § 4 Abs.2: "Motor vehicles subject to a special speed restriction and vehi
 #### Question 2.2.04-103
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **You are driving on the motorway in a truck with a gross vehicle weight rating above 3.5 t. Your speed is more than 50 km/h. Why do you have to maintain a minimum distance of 50 m to the vehicle ahead?**
 
@@ -24798,6 +27128,8 @@ thereby reducing the risk of a collision. The minimum distance is not used to be
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **Your are driving a coach at a speed in excess of 50 km/h on the motorway. Why do you have to maintain a minimum distance of 50 m to the vehicle ahead?**
 
 **Options:**
@@ -24817,6 +27149,8 @@ Coming soon...
 #### Question 2.2.04-105-M
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **You are driving a car with a caravan in tow. What is true regarding your distance to the vehicle ahead?**
 
@@ -24840,6 +27174,8 @@ As a rule, the distance to the vehicle in front must be large enough for the ove
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You are driving a heavily loaded car. Why should you maintain a greater safety distance to the vehicle ahead?**
 
 **Options:**
@@ -24860,6 +27196,8 @@ The additional weight changes the driving characteristics of the car. The brakes
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **From what length of a vehicle combination must you keep a sufficient distance from the vehicle in front outside the built-up area to allow an overtaking vehicle to file in?**
 
 **Options:**
@@ -24875,6 +27213,8 @@ If the length of the vehicle combination is more than 7 meters, you must keep a 
 #### Question 2.2.04-204
 
 **Points:** 4 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **You are driving a bus outside built-up areas on a road with only one lane for each direction. Which distance must you keep as a rule from a vehicle travelling in front?**
 
@@ -24894,6 +27234,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **You are driving at approximately 80 km/h on the autobahn. Which distance must you keep from the vehicle travelling in front?**
 
 **Options:**
@@ -24909,6 +27251,8 @@ Coming soon...
 #### Question 2.2.04-207-M
 
 **Points:** 4 Points
+
+**Licenses:** D, D1
 
 **What is true here regarding the distance between you and the vehicle ahead?**
 
@@ -24932,6 +27276,8 @@ The distance is appropriate because the overtaking car can insert in front of yo
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **You are driving a vehicle with a gross vehicle weight rating of 7 t at 60 km/h outside of a built-up area. When do you have to maintain such a great distance, that an overtaking vehicle can pull back into lane?**
 
 **Options:**
@@ -24950,6 +27296,8 @@ If only one lane is available in your direction, you should keep a distance so g
 #### Question 2.2.04-303
 
 **Points:** 4 Points
+
+**Licenses:** C, C1E
 
 **You are driving a truck (12 t gross vehicle weight rating) at 80 km/h on a motorway. What must you ensure?**
 
@@ -24971,6 +27319,8 @@ With your truck (12 t permissible total weight) should be at a speed on the high
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **A road outside of a built-up area has just one lane in the direction of travel. Which trucks have to maintain such a great distance between them and the vehicle ahead, that an overtaking vehicle can pull back into lane?**
 
 **Options:**
@@ -24987,6 +27337,8 @@ Trucks over 3.5 t permissible mass should have such a large distance from the pr
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **You are driving on a motorway at 60 km/h in a truck with a 4 t gross vehicle weight rating. What distance must you maintain to the vehicle ahead?**
 
 **Options:**
@@ -25002,6 +27354,8 @@ At least 50 m you should adhere to when you pass a vehicle that is of 4 t maximu
 #### Question 2.2.04-306
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, L, T, C1E
 
 **Which vehicles have to maintain such a great distance between them and the vehicle ahead when not inside a built-up area, that an overtaking vehicle can pull back into lane?**
 
@@ -25022,6 +27376,8 @@ Here we speak of the so-called Einscherabstand. This is true for trucks of over 
 #### Question 2.2.04-307
 
 **Points:** 4 Points
+
+**Licenses:** CE
 
 **You are driving in a combination vehicle outside of a built-up area on a road with only one lane in each direction. What distance must you usually maintain to the vehicle ahead?**
 
@@ -25045,6 +27401,8 @@ Must be so great the distance that you should observe that an overtaking vehicle
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving at 100 km/h on a road not inside a built-up area. In front of you a truck is travelling at 70 km/h. What is the minimum distance you must be from a crest in the road when commencing an overtaking manoeuvre?**
 
 **Options:**
@@ -25063,6 +27421,8 @@ The rule of thumb for the overtaking path is calculated from the speeds, the ove
 #### Question 2.2.05-006
 
 **Points:** 4 Points
+
+**Licenses:** C, D, C1E, DE
 
 **Fog is limiting visibility to just about 50 m. What applies in this situation for vehicles with a gross vehicle weight rating over 7.5 t?**
 
@@ -25084,6 +27444,8 @@ With limited view your maximum speed must not be higher than 50 h km / on all ro
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving on a road not within a built-up area and want to overtake a car. Where is the very latest point at which the overtaking manoeuvre should be completed?**
 
 **Options:**
@@ -25103,6 +27465,8 @@ You must finish the overtaking process at the latest before the restriction on o
 #### Question 2.2.05-010
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **For what reason do you have to switch to the right-hand lane now?**
 
@@ -25128,6 +27492,8 @@ After you have overtaken the green van, you have to merge right again due to the
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right thing to do in this situation?**
 
 ![Question Image](images/2_2_05-011.png)
@@ -25150,6 +27516,8 @@ You may drive on the lane of the oncoming traffic if you intend to overtake. To 
 #### Question 2.2.05-012
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What must you be prepared for now?**
 
@@ -25175,6 +27543,8 @@ You may have to be prepared for the fact that you cannot overtake now because th
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **To whom must you pay particularly close attention in this situation?**
 
 ![Question Image](images/2_2_05-013.png)
@@ -25198,6 +27568,8 @@ In this situation, as a car driver you have to pay attention to the cyclist who 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why do you have to slow down here?**
 
 ![Question Image](images/2_2_05-014-M.png)
@@ -25220,6 +27592,8 @@ The overtaking motorcyclist represents a danger to you. He will meet you in your
 #### Question 2.2.05-015
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, C1E
 
 **You are driving a truck with a gross vehicle weight rating in excess of 3.5 t. What should you do now?**
 
@@ -25245,6 +27619,8 @@ You should keep to the correct distance and not overtake and reduce the speed.
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You want to overtake. What should you do now?**
 
 ![Question Image](images/2_2_05-016-M.png)
@@ -25267,6 +27643,8 @@ You must wait with overtaking until the driver driving in front of you has finis
 #### Question 2.2.05-017
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What is the right course of action now?**
 
@@ -25291,6 +27669,8 @@ Plan your overtaking maneuver in a way so that it is completed before the solid 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You want to overtake a truck with a trailer. What must you be aware of when doing so?**
 
 **Options:**
@@ -25310,6 +27690,8 @@ If you want to overtake a truck with a trailer, you should take into account the
 #### Question 2.2.05-019
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why are you not permitted to now overtake the bus driving ahead of you?**
 
@@ -25334,6 +27716,8 @@ The bus has turned on the warning lights and is still driving to the bus stop. I
 #### Question 2.2.05-020-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You want to overtake the vehicle driving up ahead of you. What is necessary to allow you to do so?**
 
@@ -25361,6 +27745,8 @@ Just make sure that you do not exceed the permissible maximum speed.
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_2_05-021-M.png)
@@ -25385,6 +27771,8 @@ The tractor seems to want to turn onto the dirt track on the right. Stay behind 
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You want to overtake [the blue car]. What is the right course of action?**
 
 ![Question Image](images/2_2_05-102-M.png)
@@ -25407,6 +27795,8 @@ Wait for the bike to leave the blind spot. Note that the car driver who is overt
 #### Question 2.2.05-103-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What could make this situation become hazardous?**
 
@@ -25432,6 +27822,8 @@ The car driver approaching from behind tries to overtake you before the turn, al
 
 **Points:** 4 Points
 
+**Licenses:** C, C1E
+
 **You are driving on the motorway in a motor vehicle with a gross vehicle weight rating in excess of 7.5 t. The heavy snowfall has reduced visibility to less than 50 m. What must you do?**
 
 **Options:**
@@ -25451,6 +27843,8 @@ With your vehicle that exceeds a maximum permissible gross weight of 7.5 t, you 
 #### Question 2.2.05-202
 
 **Points:** 4 Points
+
+**Licenses:** C, D, C1E, DE
 
 **You are driving outside built-up areas. Visibility is reduced to just about 50 m due to heavy rain. What applies in this situation?**
 
@@ -25472,6 +27866,8 @@ Here, too (50 m due to heavy rain) applies in reduced visibility is the speed li
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **You are driving an agricultural machine. A queue of cars has formed behind you. What is correct?**
 
 **Options:**
@@ -25490,6 +27886,8 @@ Coming soon...
 #### Question 2.2.05-402-M
 
 **Points:** 3 Points
+
+**Licenses:** AM, L
 
 **What should you do now?**
 
@@ -25517,6 +27915,8 @@ In this situation, you should pull into the bus stop and let the car behind over
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_2_06-001.png)
@@ -25539,6 +27939,8 @@ The bottleneck is in your lane. Therefore, you must stop before the bottleneck a
 #### Question 2.2.06-101-M
 
 **Points:** 5 Points
+
+**Licenses:** B
 
 **What is the right course of action here?**
 
@@ -25566,6 +27968,8 @@ The distance to the bicycle is not enough. Stop and wait until the biker has pas
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **You are approaching a "red" traffic light. Several cars are waiting in all lanes. What do you do?**
 
 **Options:**
@@ -25585,6 +27989,8 @@ You should always wait in line behind the last car in your lane and not try to p
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, L, T, A80
+
 **Which motor vehicles may freely choose their lane inside built-up areas?**
 
 **Options:**
@@ -25600,6 +28006,8 @@ In Germany, the legal driving requirement applies. Vehicles up to 3.5 tons are e
 #### Question 2.2.07-004
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right course of action now?**
 
@@ -25624,6 +28032,8 @@ In Germany, you must drive on the right. As there is no vehicle in front of you 
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **How could a dangerous situation arise?**
 
 ![Question Image](images/2_2_07-005.png)
@@ -25646,6 +28056,8 @@ The fast driving style of the yellow truck suggests that he will overtake the bl
 #### Question 2.2.07-006
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What should you do now?**
 
@@ -25670,6 +28082,8 @@ Since the driver of the car on the right of the acceleration lane increases its 
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What should you do?**
 
 ![Question Image](images/2_2_07-007.png)
@@ -25692,6 +28106,8 @@ Stay on the middle lane and delay. The leading car will also delay soon to let t
 #### Question 2.2.07-008
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right course of action?**
 
@@ -25716,6 +28132,8 @@ You drive on the middle lane and in this situation you have to stay on the lane 
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What must you anticipate in this situation?**
 
 ![Question Image](images/2_2_07-009.png)
@@ -25738,6 +28156,8 @@ Since the vehicle drives very fast from the right onto the freeway, you have to 
 #### Question 2.2.07-010
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right course of action?**
 
@@ -25762,6 +28182,8 @@ A car drives in front of you and from the right a car drives onto the main carri
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
+
 **You are driving on a road that has several marked lanes going in one direction. When should the alternate merging procedure be employed?**
 
 **Options:**
@@ -25781,6 +28203,8 @@ The zipper merge is to be used when a lane cannot be used any further. The excep
 #### Question 2.2.07-012-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, C, C1, CE, D, D1, A80
 
 **What is true about using the hard shoulder in this situation?**
 
@@ -25803,6 +28227,8 @@ The traffic sign indicates that the hard shoulder is to be used like the right-h
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C, C1, CE, D, D1, A80
+
 **What is true in this situation about using the hard shoulder?**
 
 ![Question Image](images/2_2_07-013-M.png)
@@ -25823,6 +28249,8 @@ The hard shoulder may not be used regularly. You can only use it in case of a br
 #### Question 2.2.07-014-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
 
 **What is the right behaviour now?**
 
@@ -25847,6 +28275,8 @@ If one of the lanes ends on a multi-lane road, vehicles must be allowed to move 
 #### Question 2.2.07-201-M
 
 **Points:** 3 Points
+
+**Licenses:** C, C1
 
 **What applies to this road that is outside of a built-up area?**
 
@@ -25873,6 +28303,8 @@ Therefore, you can only use the left lanes outside if you want to turn left.
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Where are U-turns prohibited?**
 
 **Options:**
@@ -25892,6 +28324,8 @@ You may not turn your vehicle on freeways or motorways. Reverse driving is stric
 #### Question 2.2.09-002-M
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why do you have to wait before the left turn?**
 
@@ -25916,6 +28350,8 @@ As a left-turning driver, you generally have to give priority to oncoming traffi
 
 **Points:** 5 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right course of action?**
 
 ![Question Image](images/2_2_09-003-M.png)
@@ -25938,6 +28374,8 @@ If you want to turn left and a car wants to overtake you from the left, you have
 #### Question 2.2.09-004-M
 
 **Points:** 5 Points
+
+**Licenses:** A, A1, A2, B, C1, A80
 
 **You want to turn left. What is the right course of action?**
 
@@ -25962,6 +28400,8 @@ Since you are currently being overtaken, it is not possible to turn left. You mu
 
 **Points:** 5 Points
 
+**Licenses:** AM, L, T
+
 **In this situation, why do you have to wait before the left turn?**
 
 ![Question Image](images/2_2_09-005-M.png)
@@ -25984,6 +28424,8 @@ In this situation, you need to wait for the motorbike behind the car to pass bef
 #### Question 2.2.09-006-M
 
 **Points:** 5 Points
+
+**Licenses:** AM, L, T
 
 **What is the right course of action in this situation?**
 
@@ -26008,6 +28450,8 @@ In this situation, you should first wait for the motorcycle to overtake you befo
 
 **Points:** 5 Points
 
+**Licenses:** AM, L, T
+
 **Why are you not allowed to turn off the road now?**
 
 ![Question Image](images/2_2_09-007-M.png)
@@ -26030,6 +28474,8 @@ The red car is overtaking and is travelling to your left. To avoid a collision, 
 #### Question 2.2.09-008-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **You want to turn left at the next junction. What is the right course of action now?**
 
@@ -26054,6 +28500,8 @@ Therefore, start to flash left now to signal to other road users that you want t
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **You want to turn left. Which line should you steer?**
 
 ![Question Image](images/2_2_09-009-M.png)
@@ -26074,6 +28522,8 @@ Keep to the centre line when turning left. This allows you to drive as far to th
 #### Question 2.2.09-010-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, Mofa, A80
 
 **You want to turn left. Which line should you follow?**
 
@@ -26096,6 +28546,8 @@ You should keep as far to the left as possible when turning left. However, you a
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, Mofa, A80
+
 **You want to turn left. Which line should you follow?**
 
 ![Question Image](images/2_2_09-011-M.png)
@@ -26116,6 +28568,8 @@ If you want to turn left in a one-way street, you should keep as far to the left
 #### Question 2.2.09-101
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What is the right course of action when reversing?**
 
@@ -26138,6 +28592,8 @@ When reversing, look to the rear and additionally secure the traffic area by loo
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, L, T
+
 **You are driving a motor vehicle with a gross vehicle weight rating in excess of 3.5 t. At what speed do you have to turn right within a built-up area?**
 
 **Options:**
@@ -26157,6 +28613,8 @@ Drive at walking speed to avoid danger and accidents.
 
 **Points:** 4 Points
 
+**Licenses:** C, C1
+
 **Your vehicle is equipped with a rear view camera. You want to reverse into a forecourt from a very busy road. What must you be aware at this time?**
 
 **Options:**
@@ -26174,6 +28632,8 @@ Drive at walking speed to avoid danger and accidents.
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, D, D1
+
 **What can reduce the risk of serious accidents when turning right within a built-up area?**
 
 **Options:**
@@ -26190,6 +28650,8 @@ Drive at walking speed to avoid danger and accidents.
 #### Question 2.2.09-204
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1
 
 **You want to reverse your vehicle out of a property lot onto a road. What must you do?**
 
@@ -26210,6 +28672,8 @@ To drive backwards from a property to a road, it is not enough just to use the r
 #### Question 2.2.09-205
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1
 
 **When turning right, there is a risk of overlooking cyclists travelling straight ahead in the blind spot. How can you reduce this risk?**
 
@@ -26233,6 +28697,8 @@ This way you can recognize cyclists in good time and avoid accidents.
 
 **Points:** 4 Points
 
+**Licenses:** L, T
+
 **You have mounted a plough which extends far beyond the back of your tractor. What must you remember when you turn right?**
 
 **Options:**
@@ -26250,6 +28716,8 @@ Coming soon...
 #### Question 2.2.09-403
 
 **Points:** 4 Points
+
+**Licenses:** L, T
 
 **You have mounted a plough which extends far beyond the back of your tractor. Who can be endangered when you turn right?**
 
@@ -26271,6 +28739,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** L, T
+
 **To your tractor you have attached a hay turning machine that projects a long way to the back. Who could be endangered by this when you take a left turn?**
 
 **Options:**
@@ -26291,6 +28761,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** CE, L, T
+
 **You are driving an agricultural tractor with two trailers and you want to take a right turn. What must you look out for?**
 
 **Options:**
@@ -26310,6 +28782,8 @@ Since the room increases your agricultural tractor with two trailers when turnin
 #### Question 2.2.09-407
 
 **Points:** 4 Points
+
+**Licenses:** L, T
 
 **You are returning on a tractor from working in a field and want to turn onto a road. What should you observe in order to avoid dangerous situations?**
 
@@ -26335,6 +28809,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Where is stopping prohibited?**
 
 **Options:**
@@ -26355,6 +28831,8 @@ In general, the road traffic act prohibits stopping at the traffic areas when st
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, L, T, A80
+
 **Where is parking prohibited?**
 
 **Options:**
@@ -26374,6 +28852,8 @@ A parking ban in accordance with the road traffic act applies in all places wher
 #### Question 2.2.12-005
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **Who has priority at this parking space?**
 
@@ -26396,6 +28876,8 @@ The vehicle that reaches the parking space first always has priority. Priority w
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **What do you have to consider when parking your motorbike?**
 
 **Options:**
@@ -26416,6 +28898,8 @@ The motorbike must not obstruct or endanger anyone. Make sure that the motorbike
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **When are you allowed to park your two-wheeler on the footpath?**
 
 **Options:**
@@ -26434,6 +28918,8 @@ Basically, the lane is to be used for parking a vehicle. Motorbikes may be parke
 #### Question 2.2.12-008
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **What should you take into account when parking a two-wheeler?**
 
@@ -26456,6 +28942,8 @@ You should also always pay attention to the surface on which you park your motor
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **Both cars want to park here. Which car takes precedence?**
 
 ![Question Image](images/2_2_12-101-B.png)
@@ -26476,6 +28964,8 @@ In this case, the red car has right of way. He has reached the parking space fir
 
 **Points:** 2 Points
 
+**Licenses:** B, L, T
+
 **Up to which permissible total mass may motor vehicles be parked on specially designated footpaths?**
 
 **Options:**
@@ -26492,6 +28982,8 @@ Vehicles with a maximum permissible gross vehicle weight of up to 2.8 tonnes may
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be concealed by the vehicle?**
 
 **Options:**
@@ -26507,6 +28999,8 @@ A minimum distance of 10 meters must be maintained so that the view of light sig
 #### Question 2.2.12-105
 
 **Points:** 3 Points
+
+**Licenses:** B, L, T
 
 **Where are you allowed to park a trailer with a permissible total mass exceeding 2 t in built-up areas regularly on sundays and public holidays and between 10 p.m. and 6 a.m.?**
 
@@ -26528,6 +29022,8 @@ Parking a trailer with a maximum authorized mass of more than 2 t is permitted i
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **What must you remember when parking a trailer without a truck?**
 
 **Options:**
@@ -26547,6 +29043,8 @@ Please note that you may not leave your vehicle trailers on regular parking spac
 #### Question 2.2.12-107-M
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **You want to park on the right-hand edge of the road. What should you do in this situation?**
 
@@ -26569,6 +29067,8 @@ You signalled first and therefore have priority to the parking space. To avoid a
 #### Question 2.2.12-108-M
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You want to park on the right-hand edge of the road. Who has priority in this situation?**
 
@@ -26593,6 +29093,8 @@ The car that stopped in front of you signaled first and therefore had priority i
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You want to reverse park on the right-hand side of the road. What is correct in this situation?**
 
 ![Question Image](images/2_2_12-109-M.png)
@@ -26616,6 +29118,8 @@ Also make sure that no other vehicle wants to leave its parking space to avoid a
 
 **Points:** 3 Points
 
+**Licenses:** C, D, C1E, DE
+
 **Where are you allowed to park motor vehicles with a permissible total mass exceeding 7.5 t in built-up areas regularly on sundays and public holidays and between 10 p.m. and 6 a.m.?**
 
 **Options:**
@@ -26636,6 +29140,8 @@ In a residential area you would at these times not to win a lot of friends. (Vol
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **Where are you allowed to park regular buses in built-up areas regularly on sundays and public holidays and between 10 p.m. and 6 a.m.?**
 
 **Options:**
@@ -26654,6 +29160,8 @@ Coming soon...
 #### Question 2.2.12-203
 
 **Points:** 3 Points
+
+**Licenses:** B, L, T
 
 **Before which sign must you maintain a distance of at least 10 m, if it would otherwise be concealed by your vehicle?**
 
@@ -26675,6 +29183,8 @@ In front of signs such as the diagonal crosses, light signals or the sign "Stop!
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, L, T, A80
+
 **You want to park on the right-hand side edge of the carriageway. How big is the mandatory minimum distance between your vehicle and the solid lane boundary line?**
 
 **Options:**
@@ -26693,6 +29203,8 @@ If a minimum distance of 3 meters to the lane boundary line is observed when par
 #### Question 2.2.13-001
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **Where must you use a parking disc for parking?**
 
@@ -26714,6 +29226,8 @@ Wherever traffic signs dictate, the car driver must use a parking disc. It is al
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **The time on a parking meter has not yet run out. What do you do?**
 
 **Options:**
@@ -26732,6 +29246,8 @@ If a parking meter has not yet expired, you may use the rest of the parking time
 #### Question 2.2.13-003
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **At 10.40, you enter an area where parking is allowed for 2 hours when using a parking disc. What time must you set on the parking disc?**
 
@@ -26752,6 +29268,8 @@ The pointer of the disc should be adjusted to the stroke of half an hour followi
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **You want to park in a car park where there is a parking-ticket machine. What must you remember?**
 
 **Options:**
@@ -26771,6 +29289,8 @@ The car driver must put the valid parking ticket from in the vehicle so that it 
 #### Question 2.2.13-101
 
 **Points:** 2 Points
+
+**Licenses:** B, L, T
 
 **When may you remain parked at a parking meter without activating it?**
 
@@ -26795,6 +29315,8 @@ After field work, the lighting and signaling device must be cleaned if necessary
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **How must you safeguard your motorcycle against unauthorized use?**
 
 **Options:**
@@ -26814,6 +29336,8 @@ To avoid other people to use your motorcycle, remove the ignition key and lock t
 #### Question 2.2.14-002
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **You want to park your motorcycle on its prop stand. What do you have to consider?**
 
@@ -26835,6 +29359,8 @@ To avoid your motorcycle to tip over, make sure the surface is firm and can supp
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You want to park your motorcycle on its main stand. What do you have to consider?**
 
 **Options:**
@@ -26852,6 +29378,8 @@ To avoid your motorcycle to tip over, make sure the surface is firm and can supp
 #### Question 2.2.14-004
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **Where should you not park a motorcycle (using main or side stand)?**
 
@@ -26872,6 +29400,8 @@ To avoid your motorcycle to tip over, make sure the surface is firm and can supp
 #### Question 2.2.14-005
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **Which precautionary measures must you take when parking a motorcycle?**
 
@@ -26894,6 +29424,8 @@ You must make sure that no other people can use your motorcycle by removing the 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You want to park your motorcycle. What must you consider?**
 
 **Options:**
@@ -26912,6 +29444,8 @@ When parking, to avoid your motorcycle to tip over, make sure the surface is fir
 #### Question 2.2.14-008
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **How do you secure your motorcycle against being used without permission?**
 
@@ -26933,6 +29467,8 @@ The steering lock prevents steering in the event of unauthorised access. The eng
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What must you be aware of when using a prop stand?**
 
 **Options:**
@@ -26953,6 +29489,8 @@ If the side stand is not fully retracted, it can cause a fall when cornering. If
 #### Question 2.2.14-010
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What should be noted when using the prop stand?**
 
@@ -26976,6 +29514,8 @@ The side stand is designed for parking a motorbike. Try to avoid slopes when par
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **How must you safeguard your vehicle against theft?**
 
 **Options:**
@@ -26995,6 +29535,8 @@ To secure the car against theft, you must first close all the windows and doors.
 #### Question 2.2.14-102
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What must you do when leaving your car?**
 
@@ -27017,6 +29559,8 @@ Before leaving the vehicle, you have to protect it against rolling away uncontro
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Your car is standing on the edge of the roadway. What should you do when getting into the car?**
 
 **Options:**
@@ -27036,6 +29580,8 @@ When entering and exiting, you must take care not to endanger the other road use
 #### Question 2.2.14-105
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What is important when children are getting in and out of a car?**
 
@@ -27057,6 +29603,8 @@ As a car driver, you should make sure that children get on and off directly on t
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What should you call the attention of your passengers to before exiting?**
 
 **Options:**
@@ -27076,6 +29624,8 @@ As a car driver you must take the necessary measures to avoid accidents or traff
 #### Question 2.2.14-107-M
 
 **Points:** 4 Points
+
+**Licenses:** B, C1, D1
 
 **Why may you not exit now?**
 
@@ -27100,6 +29650,8 @@ Anyone getting in or out of the car must behave in such a way as to avoid endang
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You have stopped in a parking strip and now want to exit your vehicle. What must you do in this situation?**
 
 ![Question Image](images/2_2_14-108-M.png)
@@ -27122,6 +29674,8 @@ Before you open the door and leave the vehicle, check in the left-hand mirror th
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **When leaving your car, how do you secure it against unauthorised use?**
 
 **Options:**
@@ -27141,6 +29695,8 @@ You have to make sure that no unauthorised persons use your car. Therefore, rem
 #### Question 2.2.14-110
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **You want to let a child out of your car. What should you be aware of when doing so?**
 
@@ -27166,6 +29722,8 @@ As a car driver, you should make sure that children get on and off directly on t
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What is allowed when your motorcycle has broken down with engine damage?**
 
 **Options:**
@@ -27185,6 +29743,8 @@ You cannot tow a broken motorcycle, it will tip over and fall. Instead you shoul
 #### Question 2.2.15-002
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **You are outside of a built-up area and have come to a stop due to a fault with your motorcycle. How should it be transported to the garage?**
 
@@ -27207,6 +29767,8 @@ According to § 15a (4) StVO, motorcycles must not be towed with a tow rope.
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You want to tow another vehicle with your car. What must you know?**
 
 **Options:**
@@ -27224,6 +29786,8 @@ You need to know if it is a vehicle with a gearshift, automatic transmission or 
 #### Question 2.2.15-104
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **A car with servo brakes has broken down with engine damage. What is correct when towing the car away?**
 
@@ -27245,6 +29809,8 @@ If possible, use a tow bar when towing a vehicle with a brake booster. Because a
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **A car with power steering has broken down with engine damage and must be towed away. What is correct?**
 
 **Options:**
@@ -27264,6 +29830,8 @@ The function of the power steering depends on the engine and only works when the
 
 **Points:** 4 Points
 
+**Licenses:** B, L, T
+
 **At what distance must the warning triangle be placed when a car has broken down on a road with fast-moving traffic?**
 
 **Options:**
@@ -27282,6 +29850,8 @@ If you are staying on a road with fast traffic with your vehicle, you must set u
 #### Question 2.2.15-107
 
 **Points:** 4 Points
+
+**Licenses:** B, L, T
 
 **At night, how must you secure a vehicle which has broken down at a place where it constitutes a danger to other traffic?**
 
@@ -27303,6 +29873,8 @@ If a vehicle has a breakdown on a multi-lane roadway at a location where it cann
 
 **Points:** 4 Points
 
+**Licenses:** B, L, T
+
 **When must you switch on the hazard warning lights?**
 
 **Options:**
@@ -27321,6 +29893,8 @@ If a car breaks down on a multi-lane roadway at a location where it cannot be re
 #### Question 2.2.15-109
 
 **Points:** 3 Points
+
+**Licenses:** B, L, T
 
 **What must you remember when towing?**
 
@@ -27342,6 +29916,8 @@ When towing, the distance between the towing vehicle and the towed vehicle shall
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **Your car suffers a flat tyre on the motorway. What should you do?**
 
 **Options:**
@@ -27361,6 +29937,8 @@ If your vehicle breaks down on a multi-lane road due to a flat tire in a place w
 #### Question 2.2.15-111
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You car has a fault and can no longer be driven. What must you be aware of during towing?**
 
@@ -27382,6 +29960,8 @@ Keep in mind that without the engine working, the brake boosters of the engine b
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You car has a fault and can no longer be driven. What must you be aware of during towing?**
 
 **Options:**
@@ -27401,6 +29981,8 @@ When towing, the towing vehicle and the towed vehicle must turn on the hazard li
 #### Question 2.2.15-113
 
 **Points:** 4 Points
+
+**Licenses:** B, C, C1, D, D1, C1E, D1E, DE
 
 **You experience a breakdown outside of a built-up area. Your motor vehicle is located on the carriageway behind a bend in the road. What is the right course of action in this situation?**
 
@@ -27423,6 +30005,8 @@ To secure the area, the car driver must turn on the hazard lights and set up a s
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Your car has an engine fault and must be towed away with a tow rope. What must you be aware of?**
 
 **Options:**
@@ -27442,6 +30026,8 @@ Observe the manufacturer's specifications when towing. The electronic aids fail,
 #### Question 2.2.15-115
 
 **Points:** 4 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **You experience a breakdown outside of a built-up area. Your car is situated on the carriageway, behind a bend in the road. Which is correct in this situation?**
 
@@ -27463,6 +30049,8 @@ Before you leave the vehicle, you must switch on the hazard warning lights and p
 #### Question 2.2.15-201
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **You have to change a tyre on the hard shoulder of the motorway. What safeguard is necessary?**
 
@@ -27488,6 +30076,8 @@ Since you is you on the highway, be driven on the very high speeds, you should c
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Where is it permitted to flash headlights to indicate your intention to overtake?**
 
 **Options:**
@@ -27507,6 +30097,8 @@ Outside built-up areas, you as a car driver may use the flashlight to signal you
 #### Question 2.2.16-101
 
 **Points:** 4 Points
+
+**Licenses:** B, C, C1, D, D1, L, T
 
 **When must you switch on the hazard lights on your vehicle?**
 
@@ -27531,6 +30123,8 @@ If your car breaks down in a blind spot, you should warn other road users with y
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **How can you tell whether the rear fog lamp is switched on?**
 
 **Options:**
@@ -27549,6 +30143,8 @@ A look at the dashboard is enough and the car driver immediately recognizes from
 #### Question 2.2.17-002
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **Your motorcycle is fitted with a fog headlamp. What must you remember about lighting when it is foggy?**
 
@@ -27570,6 +30166,8 @@ When it is foggy, you are less visible to other people on the road. To increase 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **It is dark and the main beam fails because the bulb filament has burnt out. What must you do?**
 
 **Options:**
@@ -27589,6 +30187,8 @@ You need to make sure that you are both visible to other people on the road and 
 #### Question 2.2.17-005
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Visibility is considerably reduced. When are you allowed to switch on fog headlamps?**
 
@@ -27611,6 +30211,8 @@ If the visibility during the day is badly affected by fog, snowfall or rain, the
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, L, T, A80
+
 **You are driving at night on an unlit road. There is a motor vehicle travelling a short distance in front of you. Which lights must you have on?**
 
 **Options:**
@@ -27630,6 +30232,8 @@ The car driver must turn on the low beam on his own vehicle in order not to blin
 
 **Points:** 2 Points
 
+**Licenses:** B, L, T
+
 **The rear lighting systems of your car are covered. What has to be done?**
 
 **Options:**
@@ -27648,6 +30252,8 @@ You must always attach a light carrier with all the rear lights to your vehicle.
 #### Question 2.2.17-011
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, B, L, T, A80
 
 **Depending on the motor vehicle, how can you tell if the main beam is switched on?**
 
@@ -27669,6 +30275,8 @@ The blue indicator with the headlight symbol indicates that the high beam is on.
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, L, T, A80
+
 **As a basic rule, what lights of a motor vehicle must be turned on when driving in darkness?**
 
 **Options:**
@@ -27688,6 +30296,8 @@ In Germany it is compulsory to switch on the dipped headlights in the dark. When
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, L, T, A80
+
 **How can you tell that your main beam lights are switched on?**
 
 **Options:**
@@ -27706,6 +30316,8 @@ The blue control light indicates that the high beam is switched on.
 #### Question 2.2.17-101
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **When are you allowed to use fog headlamps also during the day?**
 
@@ -27727,6 +30339,8 @@ In the event of heavy weather-related visibility restriction due to fog, snow or
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **When are you allowed to switch on rear fog lamps?**
 
 **Options:**
@@ -27745,6 +30359,8 @@ The rear fog-lamps of your vehicle may only be used if the visibility is less th
 #### Question 2.2.17-103
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **Where is it sufficient to use your parking lights while your car is parked on an unlit roadway?**
 
@@ -27765,6 +30381,8 @@ Cars may only be parked on unlit roads with parking lights switched on within bu
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **When you are driving, how can you tell whether the headlights are switched on full beam?**
 
 **Options:**
@@ -27783,6 +30401,8 @@ Usually there is a blue indicator light in the area of ​​the speedometer whi
 #### Question 2.2.17-105
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **Which dangers can arise from a manual light range adjustment being incorrectly set?**
 
@@ -27804,6 +30424,8 @@ The headlamp beam height control is there to adjust the orientation of the headl
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **Are you allowed to drive only with side lights (parking lights) in darkness?**
 
 **Options:**
@@ -27822,6 +30444,8 @@ With marker lights alone, you are not allowed to ride as a car driver under any 
 #### Question 2.2.17-109
 
 **Points:** 4 Points
+
+**Licenses:** B, L, T
 
 **When must you use dipped headlights also during the day?**
 
@@ -27843,6 +30467,8 @@ If visibility is severely limited due to weather conditions - rain, fog, snowfal
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **During twilight or the hours of darkness, when must you have your side lights switched on as a minimum requirement?**
 
 **Options:**
@@ -27860,6 +30486,8 @@ At dusk and in the dark always drive with low beam. So, you are clearly visible 
 #### Question 2.2.17-114
 
 **Points:** 4 Points
+
+**Licenses:** B, C, C1, D, D1, L, T, C1E, D1E, DE
 
 **When do you have to switch on your dipped headlights?**
 
@@ -27882,6 +30510,8 @@ In poor visibility you must always turn on the low beam. This is always the case
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What can be the consequence of wrongly setting the headlamp levelling control?**
 
 **Options:**
@@ -27902,6 +30532,8 @@ If the headlights are set incorrectly, the lights may not turn off completely.
 #### Question 2.2.17-116
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What is the function of your vehicle’s high-beam assist during hours of darkness?**
 
@@ -27924,6 +30556,8 @@ The high beam is only switched on automatically if the road is not sufficiently 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **In what situation might your high-beam assist be unable to dim your vehicle’s high beam in good time when encountering oncoming traffic?**
 
 **Options:**
@@ -27943,6 +30577,8 @@ When crossing a crest and driving through a bend, the high beam assist camera ma
 #### Question 2.2.17-118
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **The automatic lighting system is activated on your car. What should you anticipate when driving in the lighting conditions shown?**
 
@@ -27966,6 +30602,8 @@ The light and visibility conditions are poor due to the low sun and foggy air. H
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, L, T, C1E
+
 **Which vehicles must always be marked by their own lights or parking warning plates when parked on the roadway at dusk or in darkness in built-up areas?**
 
 **Options:**
@@ -27985,6 +30623,8 @@ Trucks and recreational vehicles above 3.5 t permissible gross weight and traile
 #### Question 2.2.17-301
 
 **Points:** 2 Points
+
+**Licenses:** CE, L, T
 
 **Which vehicles must be equipped with amber reflectors on their sides?**
 
@@ -28006,6 +30646,8 @@ To make the long side more visible, you should on tractors that run on attachmen
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **You have finished working in the fields and want to drive home on public roads with your tractor. It is already dusk. What must you do?**
 
 **Options:**
@@ -28025,6 +30667,8 @@ Coming soon...
 #### Question 2.2.17-402
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, L, T, A80
 
 **You are driving with main beam lights on in darkness. When do you have to dip your headlights?**
 
@@ -28046,6 +30690,8 @@ You must not dazzle the oncoming traffic with high beam. So, turn it off immedia
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, L, T, A80
+
 **You are driving with main beam lights on in darkness. When do you have to dip your headlights?**
 
 **Options:**
@@ -28066,6 +30712,8 @@ When driving in the dark with high beam, you need to turn it off when approachin
 
 **Points:** 4 Points
 
+**Licenses:** B, L, T
+
 **Why must you also drive with dipped headlight during the day when visibility is impaired by fog, rain or falling snow?**
 
 **Options:**
@@ -28085,6 +30733,8 @@ If visibility is poor during the day, due to weather conditions such as rain, fo
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **When are you required to drive with dipped headlights or daytime running lights?**
 
 **Options:**
@@ -28103,6 +30753,8 @@ For your safety and the safety of other people, you should be visible by always 
 #### Question 2.2.17-406
 
 **Points:** 2 Points
+
+**Licenses:** C, L, T, C1E
 
 **When must attachments have additional lighting systems?**
 
@@ -28128,6 +30780,8 @@ That need to cover the lighting equipment of your vehicle attachments are additi
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You are driving on the autobahn and there is a traffic jam. What is correct?**
 
 **Options:**
@@ -28146,6 +30800,8 @@ During a traffic jam, a motorcycle has to behave like a regular car. It cannot d
 #### Question 2.2.18-002
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What is allowed on autobahns?**
 
@@ -28166,6 +30822,8 @@ On the freeway/autobahn, a motorcycle has to behave like a regular car. It can s
 
 **Points:** 2 Points
 
+**Licenses:** A, A2, B, A80
+
 **What is the recommended speed that applies to cars and motorcycles on autobahns?**
 
 **Options:**
@@ -28181,6 +30839,8 @@ On motorways cars and motorcycles have to keep an advisory speed limit of 130 km
 #### Question 2.2.18-006
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You are driving in the left of two lanes and approaching a vehicle that has just started to overtake. What do you do?**
 
@@ -28202,6 +30862,8 @@ You allow this vehicle to overtake by maintaining a safety distance. As the vehi
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving on the autobahn in light traffic. How long are you allowed to stay in the left-hand lane?**
 
 **Options:**
@@ -28221,6 +30883,8 @@ The left lane may generally only be used for the purpose of overtaking. If the p
 #### Question 2.2.18-009
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What applies on clearways for motor vehicles only?**
 
@@ -28242,6 +30906,8 @@ You may only enter at intersections or T-junctions on motorways. Turning on moto
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What top speed must be entered in the vehicle documents to allow the vehicle's use on autobahns?**
 
 **Options:**
@@ -28257,6 +30923,8 @@ A highway or freeway was built for high-speed traffic. That's why only vehicles 
 #### Question 2.2.18-011
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **A traffic jam has formed on a three-lane autobahn. Where must the channel for emergency vehicles be formed?**
 
@@ -28277,6 +30945,8 @@ When traffic stops on freeways or on roads outside of built-up areas with at lea
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving in a merging lane. What should you do?**
 
 **Options:**
@@ -28296,6 +30966,8 @@ On an acceleration lane it is allowed to drive faster on the right than on the c
 #### Question 2.2.18-013
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What must you do now?**
 
@@ -28320,6 +30992,8 @@ You approach the end of a traffic jam on the freeway. Turn on the hazard light. 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What should you do?**
 
 ![Question Image](images/2_2_18-014.png)
@@ -28343,6 +31017,8 @@ They want to leave the freeway. You can see that traffic is stalling in your int
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What must you do when a traffic jam forms on this road?**
 
 ![Question Image](images/2_2_18-015-M.png)
@@ -28363,6 +31039,8 @@ Any car driver must cooperate in forming an alley in the middle of the road for 
 #### Question 2.2.18-016-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **What is the right course of action now?**
 
@@ -28389,6 +31067,8 @@ You meet a wrong-way driver on the freeway exit. By driving as far to the right 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What should you do now?**
 
 ![Question Image](images/2_2_18-017-M.png)
@@ -28412,6 +31092,8 @@ They have already passed the truck on the acceleration lane on the right-hand si
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
+
 **You want to exit the motorway. What is the right course of action in this situation?**
 
 ![Question Image](images/2_2_18-018-M.png)
@@ -28433,6 +31115,8 @@ You flash and leave the freeway at the exit. The route to the turn of the exit i
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
+
 **What must you do if you find yourself in a traffic jam on motorways and on highways with two lanes travelling in the same direction?**
 
 **Options:**
@@ -28453,6 +31137,8 @@ If vehicles stand or drive at walking speed on freeways or on roads outside of b
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You are approaching a traffic jam on the motorway. What is the right course of action?**
 
 **Options:**
@@ -28471,6 +31157,8 @@ Warn following traffic by switching on the hazard warning lights and close up ca
 #### Question 2.2.18-021-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right course of action now?**
 
@@ -28495,6 +31183,8 @@ In the right lane, a motorbike is coming onto the motorway from the slip road. I
 #### Question 2.2.18-022
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You want to leave the motorway at the next exit. What is the correct course of action in this situation?**
 
@@ -28521,6 +31211,8 @@ Always keep a close eye on the traffic behind you when driving on the motorway. 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What should you do now?**
 
 ![Question Image](images/2_2_18-023-M.png)
@@ -28543,6 +31235,8 @@ Reduce your speed and allow the blue car to join the motorway while keeping a sa
 #### Question 2.2.18-024-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What can you expect now?**
 
@@ -28569,6 +31263,8 @@ If a dangerous situation is identified on the motorway, the hazard warning light
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Your vehicle has broken down on the autobahn. What must you remember when having it towed away?**
 
 **Options:**
@@ -28588,6 +31284,8 @@ When towing on the freeway, the towing vehicle and the towed vehicle must have t
 #### Question 2.2.18-102
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What applies on autobahns?**
 
@@ -28609,6 +31307,8 @@ On the freeway you are only allowed to drive forward and only in one given direc
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **You are driving on the motorway and have missed the exit. What is the right course of action?**
 
 **Options:**
@@ -28627,6 +31327,8 @@ Continue until the next exit and leave the freeway there. Now you can drive back
 #### Question 2.2.18-104-M
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **How can lane changing assist help you in this situation without steering override?**
 
@@ -28648,6 +31350,8 @@ Lane Change Assist recognises the vehicle in the middle lane as a hazard and war
 #### Question 2.2.18-105
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **What is prohibited when using motorways?**
 
@@ -28672,6 +31376,8 @@ According to the StVO § 18 motorways and motor drivers:
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **What vehicles are subject to the toll on motorways and certain federal highways?**
 
 **Options:**
@@ -28691,6 +31397,8 @@ is correct: motor vehicles with at least 7.5 t permissible total mass, which are
 #### Question 2.2.18-208
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **Who can be held responsible if the toll charge is not paid?**
 
@@ -28712,6 +31420,8 @@ Not only the driver but also the holder are responsible. The shipper is not resp
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **The gross vehicle weight rating of your towing vehicle amounts to 6.5 t; the gross vehicle weight rating of your trailer is 5.5 t. Is this combination vehicle liable to the toll if used on a motorway?**
 
 **Options:**
@@ -28731,6 +31441,8 @@ If your tractor t a maximum authorized mass of 6.5 and your trailer has 5.5 t, y
 
 **Points:** 3 Points
 
+**Licenses:** C1, CE
+
 **The gross vehicle weight rating of your truck amounts to 5.5 t; the gross vehicle weight rating of your trailer is 2.0 t. Is this combination vehicle liable to the toll if used for road haulage on a motorway?**
 
 **Options:**
@@ -28749,6 +31461,8 @@ Since your total mass of a total of 7.5 is your truck (freight) t, including tra
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, C1E
+
 **A user charge must be paid on motorways for motor vehicles or combination vehicles intended or used exclusively for the carriage of goods by road. From what gross vehicle weight rating does this apply?**
 
 **Options:**
@@ -28764,6 +31478,8 @@ The toll is t from a maximum mass of 7.5 to be paid.
 #### Question 2.2.18-212
 
 **Points:** 2 Points
+
+**Licenses:** C1, CE
 
 **Your truck has a gross vehicle weight rating of 6.5 t, and you would like to use it on the motorway for road haulage. What is true regarding the toll terminal registration?**
 
@@ -28784,6 +31500,8 @@ Your trucks with a gross vehicle weight of 6.5 t for freight has no log-on to ma
 
 **Points:** 2 Points
 
+**Licenses:** C1, CE
+
 **Your truck is equipped with an on-board unit (OBU). What information must be reviewed, and adapted as necessary, prior to travelling on a toll route?**
 
 **Options:**
@@ -28802,6 +31520,8 @@ Before you befährst a Toll route your OBU (toll collection device), you should 
 #### Question 2.2.18-214
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **You want to drive a toll-chargeable motor vehicle on the motorway. How can the requisite toll entry be performed?**
 
@@ -28824,6 +31544,8 @@ Before you befährst a Toll route your OBU (toll collection device), you should 
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, C1E, D1E, DE
+
 **Why should you have the traffic information switched on, when driving on the motorway?**
 
 **Options:**
@@ -28843,6 +31565,8 @@ Drivers are not required to listen to traffic news, but traffic news are indispe
 #### Question 2.2.18-216
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **Who is responsible for enforcing the road toll?**
 
@@ -28864,6 +31588,8 @@ The toll-control is carried out by the operator of the automatic control bridges
 
 **Points:** 2 Points
 
+**Licenses:** C, C1
+
 **Your truck is equipped with a toll collection device (OBU). What information must be checked and, if necessary, adjusted before driving along a toll section?**
 
 **Options:**
@@ -28883,6 +31609,8 @@ The toll rates are based on the weight classes, so you must account are rolling 
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE
+
 **In which case are motor vehicles or combination vehicles used in road haulage, subject to a toll charge?**
 
 **Options:**
@@ -28895,6 +31623,8 @@ The toll rates are based on the weight classes, so you must account are rolling 
 #### Question 2.2.18-219
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE
 
 **What applies to the payment of tolls in commercial road haulage?**
 
@@ -28916,6 +31646,8 @@ Both the driver and the owner of a vehicle are responsible for paying the toll p
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE
+
 **A toll must be paid for motor vehicles or vehicle combinations used for commercial freight transport on motorways. From what technically permissible maximum laden mass does this apply?**
 
 **Options:**
@@ -28931,6 +31663,8 @@ Motor vehicles or vehicle combinations with a technically permissible total mass
 #### Question 2.2.18-301
 
 **Points:** 2 Points
+
+**Licenses:** CE
 
 **Your truck is equipped with a toll collection device (OBU). What information must be checked and, if necessary, adjusted before driving along a toll section?**
 
@@ -28955,6 +31689,8 @@ The toll rates are based on the weight classes, so you must account are rolling 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What effects does a pillion passenger have on driving a motorcycle?**
 
 **Options:**
@@ -28975,6 +31711,8 @@ Having a passenger sitting behind you will increase your weight which makes star
 #### Question 2.2.21-002
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **You want to take a passenger on your motorcycle. What should you pay attention to before you drive off?**
 
@@ -28997,6 +31735,8 @@ When taking an inexperienced passenger with you, make sure that he wears a helme
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What must you remember if you want to take a pillion passenger?**
 
 **Options:**
@@ -29016,6 +31756,8 @@ When taking another passenger ensure that he wears a helmet and that the motorcy
 #### Question 2.2.21-004
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What must you point out to your pillion passenger before setting off?**
 
@@ -29037,6 +31779,8 @@ Make sure that your passenger wears a helmet, keeps his feet on the footrests (o
 
 **Points:** 4 Points
 
+**Licenses:** Mofa
+
 **You want to take a five-year old child on your motorized bicycle. Which seats are permissible for this?**
 
 **Options:**
@@ -29055,6 +31799,8 @@ In order to carry a child as a passenger, you need a special child seat with foo
 #### Question 2.2.21-007
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **Why is it dangerous if passengers sitting in the rear do not wear their seatbelts?**
 
@@ -29077,6 +31823,8 @@ In the event of a collision, people on the rear seats can be thrown forward or s
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **To what should you pay attention if you want to take a passenger on the motorbike?**
 
 **Options:**
@@ -29097,6 +31845,8 @@ When increasing the load on your motorcycle, make sure to increase the tire pres
 #### Question 2.2.21-009
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **What must you be aware of if you want to take a pillion rider with you?**
 
@@ -29119,6 +31869,8 @@ The passenger(s) must be physically and mentally able to ride, and the motorbike
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **How does riding with a pillion rider affect the handling of a motorbike?**
 
 **Options:**
@@ -29138,6 +31890,8 @@ The pillion rider's own movement destabilises the motorbike. Riding with a passe
 #### Question 2.2.21-011
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **You want to transport a pillion passenger and luggage on your motorbike. What must you be aware of?**
 
@@ -29160,6 +31914,8 @@ You must not exceed the permissible total weight for the motorbike. This is made
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **You want to transport a pillion passenger. What must you ensure before commencing your journey?**
 
 **Options:**
@@ -29181,6 +31937,8 @@ In principle, when a pillion passenger is carried, the passenger seat, footrests
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What should you anticipate if you want to take a pillion passenger with you?**
 
 **Options:**
@@ -29201,6 +31959,8 @@ You should also be aware that the additional weight can make your overtaking dis
 #### Question 2.2.21-014
 
 **Points:** 3 Points
+
+**Licenses:** Mofa
 
 **What conditions must you fulfil to be allowed to carry a five-year-old child on your moped?**
 
@@ -29224,6 +31984,8 @@ Since the child is under 7 years old, you must be able to attach a special child
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **You are driving a truck with a trailer and wish to give someone a lift as a favour. Where are you allowed to carry such a passenger?**
 
 **Options:**
@@ -29242,6 +32004,8 @@ For safety reasons, you may only carry people inside the cab of a truck. Taking 
 #### Question 2.2.21-103
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What must you ensure before setting off on a journey in your car?**
 
@@ -29264,6 +32028,8 @@ The car driver is responsible for the safety of the passengers and the cargo. He
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **How are you allowed to transport a small child in your car?**
 
 **Options:**
@@ -29282,6 +32048,8 @@ Toddlers must be specially secured. This is only possible with an age-appropriat
 #### Question 2.2.21-105
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **How are you allowed to transport a five-year-old child in your car?**
 
@@ -29302,6 +32070,8 @@ If you want to bring a five-year-old child with you in your car, you must use a 
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **How are you allowed to transport an eleven-year-old child of 140 cm (4'11") in your car?**
 
 **Options:**
@@ -29320,6 +32090,8 @@ An eleven-year-old child that is 140 cm tall needs a children's seat or a booste
 #### Question 2.2.21-107
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What should be borne in mind when using an approved child seat with test mark?**
 
@@ -29341,6 +32113,8 @@ Child seats are made for different age groups. They are safety-tested for the sp
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **Why is it dangerous not to wear safety belts?**
 
 **Options:**
@@ -29361,6 +32135,8 @@ In an accident, a person may be easily thrown out of the vehicle by the impact e
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **At which impact speed must you reckon with serious or deadly injuries when no safety belt is worn?**
 
 **Options:**
@@ -29380,6 +32156,8 @@ Without a seat belt, serious injuries can occur in a collision just over 20 km/h
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **A car is equipped with two front air bags. On which seats must safety belts be worn?**
 
 **Options:**
@@ -29398,6 +32176,8 @@ The front airbags protect the car driver and the co-driver in the front seat in 
 #### Question 2.2.21-113
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What does this warning sign mean?**
 
@@ -29421,6 +32201,8 @@ The note warns against the wrong installation of the children's seat. If the chi
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **You wish to take several small children home after a children's birthday party. What must you observe when using your car?**
 
 **Options:**
@@ -29439,6 +32221,8 @@ If you want to bring several small children home with your car, you must ensure 
 #### Question 2.2.21-115
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What must you observe if you wish to drive a vehicle with front passenger air bag?**
 
@@ -29460,6 +32244,8 @@ The children's seat must be facing forward. If it is placed in the opposite dire
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What is important to consider about headrests?**
 
 **Options:**
@@ -29478,6 +32264,8 @@ Head restraints must always be adjusted to suit the height of the occupants. Onl
 #### Question 2.2.21-118
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **While you are driving, the airbag control light stays on constantly. What must you do?**
 
@@ -29498,6 +32286,8 @@ If the airbag control lamp is lit up, it signals a defect in the airbag system. 
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **Are you allowed to transport persons on the loading platform of your truck?**
 
 **Options:**
@@ -29517,6 +32307,8 @@ It is forbidden to carry persons on the load platform or in the shipping space o
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **How can you prevent a child from opening a door while the vehicle is moving?**
 
 **Options:**
@@ -29534,6 +32326,8 @@ With the central locking, and child safety you can close all doors at the push o
 #### Question 2.2.21-122
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **You want to carry a child in your car. When must you use a child seat for this purpose?**
 
@@ -29553,6 +32347,8 @@ You need a child seat if the child is younger than 12 years and smaller than 150
 #### Question 2.2.21-123
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **You want to drive with a baby in the passenger seat. What do you have to be aware of when using an infant carrier?**
 
@@ -29574,6 +32370,8 @@ The baby carrier must be placed against the direction of travel and the passenge
 #### Question 2.2.21-124
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **What should be noted when using a seatbelt?**
 
@@ -29598,6 +32396,8 @@ If you determine damage to the seat belt, it must be repaired immediately.
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **What inhibits the operation of a three-point seatbelt?**
 
 **Options:**
@@ -29618,6 +32418,8 @@ In order to ensure the maximum protective effect of the seat belt, it must be re
 #### Question 2.2.21-126
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What should you check before starting your journey?**
 
@@ -29642,6 +32444,8 @@ In the best case, you should keep the registration certificate Part II in a safe
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What should be noted regarding the desired protective effect of airbags?**
 
 **Options:**
@@ -29662,6 +32466,8 @@ The desired protective effect of airbags is only guaranteed if the passengers ar
 #### Question 2.2.21-128
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You want to transport a person in a vehicle, and that person must remain seated in a wheelchair during the drive. What must you be aware of?**
 
@@ -29687,6 +32493,8 @@ Some points should be considered for the safe transportation of a wheelchair. Sp
 
 **Points:** 2 Points
 
+**Licenses:** D, D1
+
 **You are driving a public transport bus. Where may you allow passengers to board and alight the bus?**
 
 **Options:**
@@ -29705,6 +32513,8 @@ You are only allowed to let passengers get on and off the bus at the specified s
 #### Question 2.2.21-202
 
 **Points:** 3 Points
+
+**Licenses:** D, D1
 
 **As the driver of a public transport bus, what should you do when approaching a bus stop?**
 
@@ -29727,6 +32537,8 @@ When nearing a bus stop, it is important to switch on the blinkers and reduce sp
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **You are driving a bus for the occasional carriage of passengers, and you are supposed to convey passengers and luggage. What must you observe?**
 
 **Options:**
@@ -29746,6 +32558,8 @@ Coming soon...
 #### Question 2.2.21-401
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **How are you allowed to transport persons on trailers used for agricultural purposes?**
 
@@ -29770,6 +32584,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What safety adjustments may be necessary when loading a motorcycle?**
 
 **Options:**
@@ -29789,6 +32605,8 @@ When increasing the load on your motorcycle, make sure to increase the tire pres
 #### Question 2.2.22-002
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What should you especially consider when travelling with luggage?**
 
@@ -29811,6 +32629,8 @@ Adding luggage to your motorcycle will impact its behavior on the road. The addi
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **Where should you stow heavy luggage?**
 
 **Options:**
@@ -29830,6 +32650,8 @@ You should place heavy luggage as close as possible to the center of gravity of 
 #### Question 2.2.22-004
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **How does incorrect loading affect driving stability?**
 
@@ -29851,6 +32673,8 @@ Incorrectly loading your motorcycle will make your motorcycle less stable. It wi
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What must you be aware of when loading a truck with trailer (truck-trailer)?**
 
 **Options:**
@@ -29871,6 +32695,8 @@ The total length of the train (lorry with trailer) and its load must not 20.75 m
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is the maximum permissible length of a truck with trailer, including load?**
 
 **Options:**
@@ -29889,6 +32715,8 @@ The charge of the truck, including trailer must be 20.75 meters long at most.
 #### Question 2.2.22-007
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **You are carrying an additionally attached piece of luggage on your motorbike. What should you take into account?**
 
@@ -29912,6 +32740,8 @@ There may be recommendations from the vehicle manufacturer as to how you should 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **How does an improperly stowed load affect the driving stability of a motorbike?**
 
 **Options:**
@@ -29932,6 +32762,8 @@ Light luggage in the tank bag does not affect the riding stability of the motorb
 #### Question 2.2.22-009
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What might be needed when a motorcycle is fully loaded?**
 
@@ -29954,6 +32786,8 @@ If the motorbike is fully loaded, the load exerts more pressure on the tyres. Yo
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **Carrying a rucksack while cycling can affect the handling of your two-wheeler. What can the consequences be?**
 
 **Options:**
@@ -29974,6 +32808,8 @@ By carrying a backpack, you offer a larger surface for crosswinds to attack. Car
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **What do white plates with a black "A" on a truck mean?**
 
 **Options:**
@@ -29992,6 +32828,8 @@ A truck with white plates marked with a black "A" transports litter. The white p
 #### Question 2.2.22-102
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What must you bear in mind if you want to carry luggage on the roof of your car?**
 
@@ -30014,6 +32852,8 @@ Luggage on the roof changes the center of gravity of your vehicle upwards. This 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What must you reckon with when transporting luggage on the roof of your car?**
 
 **Options:**
@@ -30033,6 +32873,8 @@ The luggage on the roof changes the center of gravity of the vehicle - it is rai
 #### Question 2.2.22-104
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What must you do when transporting bicycles on the roof of your car?**
 
@@ -30055,6 +32897,8 @@ Bicycles on the roof require special attention: think of safety regulations and 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What must you check when transporting bicycles on a rear-mounted support system?**
 
 **Options:**
@@ -30076,6 +32920,8 @@ Check if the rear carry system is securely fastened. Likewise, the attachment of
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **How must a load be marked in darkness or bad visibility when it extends laterally more than 40 cm beyond the side lights of the vehicle?**
 
 **Options:**
@@ -30096,6 +32942,8 @@ In the dark or in poor visibility conditions, a cargo that laterally protrudes m
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **What is the maximum height allowed above the roadway for a red light marking a load extending to the back?**
 
 **Options:**
@@ -30115,6 +32963,8 @@ The maximum height for attaching the lamp is 1.5 meters. This is to ensure that 
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **Up to what height is a load not allowed to project over the front of the vehicle?**
 
 **Options:**
@@ -30130,6 +32980,8 @@ The red lamp, which marks the rear projecting cargo, may be installed at a maxim
 #### Question 2.2.22-112
 
 **Points:** 3 Points
+
+**Licenses:** B, L, T
 
 **Under what conditions is a load allowed to project over the front of a vehicle?**
 
@@ -30148,6 +33000,8 @@ If the cargo is fastened above a height of 2.50 m, it may protrude up to 50 cm f
 #### Question 2.2.22-113
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **During a break you find out that one of the lashing straps has torn. What do you do?**
 
@@ -30169,6 +33023,8 @@ As a car driver, you must ensure that your cargo is properly secured throughout 
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **Do the requirements for properly securing of loads apply to all small transporters?**
 
 **Options:**
@@ -30188,6 +33044,8 @@ Without exception, the requirements for proper securing of the load apply to all
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **You want to drive a truck with a gross vehicle weight rating of 5.0 t and bearing an orange warning sign. What conditions must you fulfil?**
 
 **Options:**
@@ -30206,6 +33064,8 @@ The requirement that you should fulfill: You need additional to the required dri
 #### Question 2.2.22-116
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **What do you have to observe when getting a load ready for safe road transportation?**
 
@@ -30228,6 +33088,8 @@ A distribution of the charge and the fixing of the selfsame and a backup of the 
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, L, T, C1E
+
 **What should be noted when loading vehicles?**
 
 **Options:**
@@ -30247,6 +33109,8 @@ Cargo may protrude above a height of 2.50 m forward up to 50 cm above the vehicl
 #### Question 2.2.22-118
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **What must you ensure when transporting long steel pipes?**
 
@@ -30268,6 +33132,8 @@ The steel pipes must be secured with appropriate means and are indicated at rear
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **How might an uneven load distribution affect the vehicle and the handling?**
 
 **Options:**
@@ -30288,6 +33154,8 @@ An uneven load distribution of the load can cause the permissible axle loads can
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, T, C1E
+
 **When is a centrifugal force exerted on the load of a truck?**
 
 **Options:**
@@ -30306,6 +33174,8 @@ The centrifugal force affects your truck when cornering. go straight brakes or h
 #### Question 2.2.22-121
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **What can an unsecured load cause when cornering?**
 
@@ -30328,6 +33198,8 @@ Unsecured load during cornering can result in damage to the vehicle body, facili
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What must you be aware of, if you want to transport the load?**
 
 **Options:**
@@ -30348,6 +33220,8 @@ When loading your vehicle, you as a car driver must make sure that the cargo is 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You want to transport your holiday luggage on the roof of your fully occupied car. What must you observe?**
 
 **Options:**
@@ -30367,6 +33241,8 @@ Observe the permissible roof load specified by the vehicle manufacturer. This ca
 #### Question 2.2.22-124
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You want to transport a load. What must you be aware of when doing so?**
 
@@ -30389,6 +33265,8 @@ When transporting cargo, you must make sure that you are not hindered by it whil
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What load-securing equipment is to be used in the car?**
 
 **Options:**
@@ -30409,6 +33287,8 @@ Load securing means for use in cars are tension belts and safety nets. Wheel cho
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **You want to transport a load on the roof of your car. How will this influence the handling of your car?**
 
 **Options:**
@@ -30428,6 +33308,8 @@ Your driving behaviour with a load on the roof will affect the braking distance 
 #### Question 2.2.22-127
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What can be used to secure loads carried in a car?**
 
@@ -30450,6 +33332,8 @@ The anti-slip mat prevents the load from sliding. The tensioning straps are for 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What should you remember when loading luggage into a car luggage compartment?**
 
 **Options:**
@@ -30471,6 +33355,8 @@ In the event of an accident or breakdown, the warning triangle should always be 
 
 **Points:** 2 Points
 
+**Licenses:** B, C, C1, CE, T
+
 **How far may a labelled load protrude beyond the rear of your vehicle if your journey is more than 100 km?**
 
 **Options:**
@@ -30486,6 +33372,8 @@ For distances up to 100 Kilometers, the load is allowed to overhang up to 3 mete
 #### Question 2.2.22-130
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What should you anticipate when you transport a load on the roof of your car?**
 
@@ -30507,6 +33395,8 @@ The loading of the roof consumes significantly more fuel. The reason is that not
 #### Question 2.2.22-131
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You are transporting furniture in a van. While taking a break you notice that a lashing strap is damaged. Under what condition may you continue driving?**
 
@@ -30530,6 +33420,8 @@ According to the StVO, the following applies: "§ 22 (1) The charge, including d
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What should you note regarding the trailer coupling, when transporting pedelecs on a rear-mounted carrier system?**
 
 **Options:**
@@ -30552,6 +33444,8 @@ If both questions can be answered with yes and you have chosen a corresponding r
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, L, T, C1E
+
 **Which warning plate is correctly mounted?**
 
 ![Question Image](images/2_2_22-201.png)
@@ -30571,6 +33465,8 @@ As we need an A for (attention) the right warning sign is in place.
 #### Question 2.2.22-203
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **How can you determine that a truck is overloaded?**
 
@@ -30592,6 +33488,8 @@ To determine an overload, you can weigh again your loaded vehicle or by built-ax
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **A truck for exchangeable load carriers (interchangeable containers) has a permissable total mass of 6,000 kg. The interchangeable container has an empty mass of 1,500 kg. Which mass are you allowed to stow in this interchangeable container?**
 
 **Options:**
@@ -30610,6 +33508,8 @@ Empty weight (1500 kg) plus loading (4,500 kg) = payload (6000 kg) 4,500 kg is c
 #### Question 2.2.22-208
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **What do you understand by form-fit secured load?**
 
@@ -30631,6 +33531,8 @@ Under a form-locking securing loads (zero) means the application of charge to lo
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **What do you understand by form-fit securing of the load?**
 
 **Options:**
@@ -30651,6 +33553,8 @@ The positive load securing means that free spaces are closed between the cargo i
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **Who is responsible for the load being sufficiently secured?**
 
 **Options:**
@@ -30669,6 +33573,8 @@ All the transport stakeholders are responsible for adequate cargo securing.
 #### Question 2.2.22-214
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **Who is responsible for operating vehicles in regard to its load?**
 
@@ -30690,6 +33596,8 @@ both the driver and the holder will be responsible for the operation of the vehi
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **What do you have to consider when tipping bulk goods?**
 
 **Options:**
@@ -30709,6 +33617,8 @@ When dumping of materials, please make sure that the vehicle is on sufficiently 
 #### Question 2.2.22-217
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE
 
 **Why is it necessary to observe the load distribution plan?**
 
@@ -30730,6 +33640,8 @@ In order to avoid exceeding the axle load, it is necessary to adhere to the load
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE
+
 **What is the purpose of a load distribution plan?**
 
 **Options:**
@@ -30749,6 +33661,8 @@ The load distribution plan shows how the vehicle must be loaded. If the distribu
 #### Question 2.2.22-219
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE
 
 **What could happen if your vehicle is not loaded according to the load distribution plan?**
 
@@ -30771,6 +33685,8 @@ The load distribution plan shows how the vehicle must be loaded. If the load is 
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE
+
 **What specific information can you find in a load distribution plan?**
 
 **Options:**
@@ -30790,6 +33706,8 @@ The load distribution plan gives information on the load centre of gravity with 
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE
+
 **Who is responsible for securing the load on the vehicle?**
 
 **Options:**
@@ -30806,6 +33724,8 @@ The load distribution plan gives information on the load centre of gravity with 
 #### Question 2.2.22-222
 
 **Points:** 3 Points
+
+**Licenses:** C, C1
 
 **What can help with friction-locked load securing?**
 
@@ -30831,6 +33751,8 @@ This prevents the load from slipping.
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, L, T
+
 **What should be taken into consideration when selecting load-securing lashing equipment?**
 
 **Options:**
@@ -30853,6 +33775,8 @@ Equally important are the requirements of the vehicle, such as the permissible p
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, L, T
+
 **You want to secure your load by lashing it down. What should you bear in mind?**
 
 **Options:**
@@ -30873,6 +33797,8 @@ When lashing down, the load is pressed onto the loading area using lashing devic
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is better for reasons of driving safety?**
 
 **Options:**
@@ -30890,6 +33816,8 @@ Since you could load (truck) in a truck with a trailer on the front part of the 
 #### Question 2.2.22-302
 
 **Points:** 3 Points
+
+**Licenses:** CE, L, T
 
 **What must you remember when you wish to transport animals on a trailer?**
 
@@ -30911,6 +33839,8 @@ You have to make sure that the maximum authorized mass of the trailer is not exc
 
 **Points:** 3 Points
 
+**Licenses:** CE, L, T
+
 **When must attached working equipment be marked with red-white warning plates?**
 
 **Options:**
@@ -30931,6 +33861,8 @@ A red and white warning board is then to mount when it protrudes rearward more t
 #### Question 2.2.22-305
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **What duties do you have when driving a loaded vehicle?**
 
@@ -30955,6 +33887,8 @@ If you lead a loaded vehicle, you are responsible for ensuring that the safety o
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What happens if you do not wear snug-fitting clothing?**
 
 **Options:**
@@ -30974,6 +33908,8 @@ Clothes that are not loose and not snug-fitting will be flapping at high speed w
 #### Question 2.2.23-003
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What must you do before setting off on a journey?**
 
@@ -30996,6 +33932,8 @@ All three are correct. Make sure that everything is fixed well on your motorcycl
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **Why are motorcyclists required to wear an appropriate protective helmet?**
 
 **Options:**
@@ -31014,6 +33952,8 @@ A helmet is required to protect your head against injuries and potential death
 #### Question 2.2.23-009
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, A80
 
 **Which items are part of a motorcyclists safety equipment?**
 
@@ -31035,6 +33975,8 @@ An appropriate jacket, trousers and boots are part of the safety equipment that 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **Why should you wear appropriate boots when riding a motorcycle?**
 
 **Options:**
@@ -31054,6 +33996,8 @@ Boots do not reduce air resistance. Appropriate boots are a protective that will
 #### Question 2.2.23-014
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, A80
 
 **Which motorcycle clothing increases optical perceptibility?**
 
@@ -31075,6 +34019,8 @@ To increase your visibility, wear bright and light colours. Dark colours are les
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **Why should you regularly apply the brakes with force at standstill?**
 
 **Options:**
@@ -31094,6 +34040,8 @@ When standing still, use your brakes to ensure that the system works correctly (
 #### Question 2.2.23-018
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What are the effects of a badly scratched helmet visor?**
 
@@ -31115,6 +34063,8 @@ A badly scratched helmet visor will diminish your vision and will make light mor
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What is correct for checking the brake light?**
 
 **Options:**
@@ -31133,6 +34083,8 @@ Make sure that the brake light works for the hand brake and foot break separatel
 #### Question 2.2.23-020
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **Where are you allowed to store luggage on motorcycles?**
 
@@ -31154,6 +34106,8 @@ You can store luggage in the tank-top bag, panniers (equally distributed on the 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **How must you protect yourself from serious head injuries?**
 
 **Options:**
@@ -31172,6 +34126,8 @@ An officially approved protective helmet is required to protect your head agains
 #### Question 2.2.23-026
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **What applies to the installation and use of rear-view mirrors on motorcycles?**
 
@@ -31193,6 +34149,8 @@ In order to be able to use your rearview mirror, you must ensure that they are w
 
 **Points:** 3 Points
 
+**Licenses:** AM, Mofa
+
 **What is required when the motor liability insurance of your vehicle has expired?**
 
 **Options:**
@@ -31210,6 +34168,8 @@ It is required to have an insurance for your vehicle, without one you are not al
 #### Question 2.2.23-031
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, L, T, A80
 
 **What can prevent you from hearing warning signals?**
 
@@ -31232,6 +34192,8 @@ Other sounds, such as a loud radio or a loud exhaust, can prevent car drivers fr
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, L, T, A80
+
 **You have sold your vehicle which is still registered. The buyer has paid. What must you do?**
 
 **Options:**
@@ -31251,6 +34213,8 @@ If you have sold your licensed vehicle and received the payment, proceed as foll
 #### Question 2.2.23-034
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, L, T, A80
 
 **What is important with regard to the official registration plates?**
 
@@ -31273,6 +34237,8 @@ For license numbers, it is important that they are placed in the required place.
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, L, T, A80
+
 **What is required when your vehicle is no longer covered by motor liability insurance?**
 
 **Options:**
@@ -31293,6 +34259,8 @@ Without a valid liability insurance, a car is not ready to drive and therefore m
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, L, T, A80
+
 **What are you allowed to change on the official registration plate?**
 
 **Options:**
@@ -31311,6 +34279,8 @@ A license number is an official document, which may not be altered in any way. T
 #### Question 2.2.23-038
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **As a cyclist, what must you check before commencing your journey?**
 
@@ -31332,6 +34302,8 @@ Before starting your trip, make sure that your lights and tires are in good cond
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What do we mean by the term "blind spot"?**
 
 **Options:**
@@ -31350,6 +34322,8 @@ In blind spots you can not see other road users. Areas around the vehicle that c
 #### Question 2.2.23-040
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **While you are driving a car you get a call on your mobile phone. What must you be aware of here, if you do not have a hands-free set?**
 
@@ -31371,6 +34345,8 @@ You must keep the cellphone ringing. Taking or holding the phone is generally pr
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What can be the consequence of your passenger (pillion passenger) on the motorbike not wearing conspicuous clothing?**
 
 **Options:**
@@ -31389,6 +34365,8 @@ If your passenger does not wear highly visible clothes (conspicuous clothes), it
 #### Question 2.2.23-043
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, A80
 
 **Why can motorcycles be overseen despite having their dipped headlights switched on?**
 
@@ -31411,6 +34389,8 @@ Motorcycles are easy to miss because they are small and even more so if they are
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What may be expected if you do not wear conspicuous protective motorcycle clothing when riding a motorbike?**
 
 **Options:**
@@ -31431,6 +34411,8 @@ If you do not wear highly visible clothes (conspicuous clothes), you will be les
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **Why is it extremely advisable to wear protective motorcycle clothing during the journey?**
 
 **Options:**
@@ -31449,6 +34431,8 @@ Protective motorcycle clothes will protect you against injuries in case of an ac
 #### Question 2.2.23-046
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What statements apply to the term "blind spot"?**
 
@@ -31470,6 +34454,8 @@ In the blind spot you can not see by means of mirrors. Especially for bikers, th
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **What lighting is permissible so that you can be seen as early as possible in road traffic during day-light?**
 
 **Options:**
@@ -31489,6 +34475,8 @@ During the day in order to be visible you are permitted to use dipped headlights
 #### Question 2.2.23-048
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **You want to exit a parking space and drive onto the road. What must you watch out for in particular?**
 
@@ -31511,6 +34499,8 @@ You should also check on the vehicle especially to children playing. To the poss
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **Why is it risky to ride without protective motorcycle clothing?**
 
 **Options:**
@@ -31532,6 +34522,8 @@ Wearing protective motorcycle clothing will decrease the risk of injury in case 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **Why should you wear protective motorcycle clothing with a high-visibility colouring?**
 
 **Options:**
@@ -31552,6 +34544,8 @@ Wearing highly visible colours will make you easier to see and will thus reduce 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **As a motorcyclist what should you do to make yourself more visible to others during the daytime?**
 
 **Options:**
@@ -31571,6 +34565,8 @@ In order to be more visible and reduce the risk of accidents during the daytime,
 #### Question 2.2.23-052
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **You want to make a right turn within a built-up area. What risks could arise here?**
 
@@ -31593,6 +34589,8 @@ In order to be more visible and reduce the risk of accidents during the daytime,
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, L, T, A80
+
 **As the vehicle owner, what change must you report to the relevant licensing authority?**
 
 **Options:**
@@ -31612,6 +34610,8 @@ If you change your name or place of residence, you must notify the vehicle licen
 #### Question 2.2.23-054
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, L, T, A80
 
 **You are the new owner of a licensed vehicle. What do you have to do?**
 
@@ -31633,6 +34633,8 @@ When replacing the owner, you do not need to carry out a general inspection. You
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **You should regularly check your helmet visor. Why should you replace it if it is scratched?**
 
 **Options:**
@@ -31652,6 +34654,8 @@ A badly scratched helmet visor will diminish your vision and will make light mor
 #### Question 2.2.23-056
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What should you anticipate if you fail to wear suitable protective motorbike clothing when riding a motorbike?**
 
@@ -31674,6 +34678,8 @@ Wearing protective motorcycle clothing will decrease the risk of injury in case 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **You want to use a navigation device mounted on your motorcycle. What should you observe?**
 
 **Options:**
@@ -31695,6 +34701,8 @@ In order to be able to concentrate fully on the journey, you should use your nav
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What should be included as suitable protective clothing for a motorcyclist?**
 
 **Options:**
@@ -31714,6 +34722,8 @@ The motorbike protective clothing consists of shoes, gloves, jacket, trousers an
 #### Question 2.2.23-059
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **Why should you wear suitable motorcycle boots when riding a motorcycle?**
 
@@ -31736,6 +34746,8 @@ Foot may be injured if tipped over. Vehicle operation may be limited in poor wea
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **Why should you replace a scratched helmet visor?**
 
 **Options:**
@@ -31756,6 +34768,8 @@ You are strongly dazzled by other light and visibility is also limited.
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What must you do to protect yourself against head injuries?**
 
 **Options:**
@@ -31774,6 +34788,8 @@ The motorbike helmet protects you from head injuries, after an accident you must
 #### Question 2.2.23-062
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **How is it ensured that the rear-view mirror on the bike is working properly?**
 
@@ -31794,6 +34810,8 @@ The rear-view mirror on the two-wheeler must be properly adjusted to the rider -
 #### Question 2.2.23-063
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, L, A80
 
 **When driving, what can cause you to miss warning signals?**
 
@@ -31816,6 +34834,8 @@ Distractions caused by talking on the phone can also mean that you hear warning 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What is the benefit of wearing an integral helmet when riding a motorcycle?**
 
 **Options:**
@@ -31837,6 +34857,8 @@ A full-face helmet offers more protection than other helmet models, as full-face
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **What should you check on your two-wheeler before moving off?**
 
 **Options:**
@@ -31856,6 +34878,8 @@ You should check that the lights on your two-wheeler are working properly every 
 #### Question 2.2.23-066
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **When riding a motorbike, what makes you more visible to other road users?**
 
@@ -31877,6 +34901,8 @@ If you wear eye-catching clothing, for example a motorbike jacket in bright colo
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What criterion do motorbike boots have to fulfil?**
 
 **Options:**
@@ -31897,6 +34923,8 @@ You should also make sure that the boots have non-slip soles, which provide good
 #### Question 2.2.23-068
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What criterion do motorbike gloves have to fulfil?**
 
@@ -31921,6 +34949,8 @@ Choose motorbike gloves made of abrasion-resistant materials such as leather or 
 
 **Points:** 3 Points
 
+**Licenses:** Mofa
+
 **You are riding a moped with a maximum design speed of 25 km/h. How do you need to protect yourself from head injuries?**
 
 **Options:**
@@ -31939,6 +34969,8 @@ Since the moped can travel over 20 km/h, you must wear a suitable motorcycle hel
 #### Question 2.2.23-070
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What should you bear in mind when buying a motorbike jacket and motorbike trousers?**
 
@@ -31961,6 +34993,8 @@ You should also make sure that the protectors sit exactly in the places they are
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What must be remembered with regard to vehicles with canvass covers?**
 
 **Options:**
@@ -31980,6 +35014,8 @@ For vehicles with tarpaulin you must take care that the view to the back is not 
 #### Question 2.2.23-103
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What must you adjust when driving a vehicle which is not your own?**
 
@@ -32001,6 +35037,8 @@ In order to drive safely with a vehicle that's not your own, you must adjust the
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **How do you secure a car with a manual gearbox against rolling away on a downhill slope?**
 
 **Options:**
@@ -32020,6 +35058,8 @@ You can prevent a car with a manual transmission from rolling away by engaging a
 #### Question 2.2.23-105
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **How do you secure a car with automatic transmission against rolling away on a downhill slope?**
 
@@ -32041,6 +35081,8 @@ You can secure a car with automatic transmission against rolling away by activat
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What must you do when reversing?**
 
 **Options:**
@@ -32060,6 +35102,8 @@ As a car driver, you are only allowed to drive backwards very slowly and with th
 #### Question 2.2.23-107
 
 **Points:** 3 Points
+
+**Licenses:** B, L, T
 
 **What can interfere with your view?**
 
@@ -32082,6 +35126,8 @@ Your vision may be impaired if the windowpane becomes dirty, if streaks form due
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **A single axle caravan with overrun brake is parked on a downhill slope. How do you have to secure it to prevent it from rolling away?**
 
 **Options:**
@@ -32101,6 +35147,8 @@ In order to protect your caravan from rolling away, you must place the wheel cho
 #### Question 2.2.23-114
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **You want to reverse. What must you ensure?**
 
@@ -32122,6 +35170,8 @@ In order not to endanger others, you should be aware and let instruct you, if ne
 
 **Points:** 4 Points
 
+**Licenses:** C, L, T, C1E
+
 **You have attached equipment to your tractor. What do you have to do if you want to drive on public roads?**
 
 **Options:**
@@ -32142,6 +35192,8 @@ You have to inform to the working implement mounting your tractor through the re
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, C1E
+
 **You want to reverse your truck from a property lot onto a road. What must you do?**
 
 **Options:**
@@ -32161,6 +35213,8 @@ You have to when reverse erfoderlichenfalls instruct allow to rule out a risk to
 #### Question 2.2.23-117
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, CE, D, D1, L, T, C1E, D1E, DE
 
 **Your vehicle is snowed under. What do you have to do before you drive off?**
 
@@ -32183,6 +35237,8 @@ Before you drive, you must remove the ice from your vehicle, so as not to endang
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, CE, D, D1, L, T, C1E, D1E, DE
+
 **Your vehicle is snowed under. What do you have to do before you drive off?**
 
 **Options:**
@@ -32203,6 +35259,8 @@ As a car driver, you must make sure before every journey that a risk to other ro
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What should be observed when positioning the head rests in your car?**
 
 **Options:**
@@ -32222,6 +35280,8 @@ With correctly adjusted headrests the car driver reduces the force on the cervic
 #### Question 2.2.23-120
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1, L, T
 
 **When should you refrain from using the telephone even if you have a hands-free device?**
 
@@ -32244,6 +35304,8 @@ Despite the availability of a hands-free system, you are likely to become nervou
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, L, T
+
 **You want to use a smartphone mounted on your motor vehicle as a navigation device. What should you observe?**
 
 **Options:**
@@ -32265,6 +35327,8 @@ To protect yourself, you should enter your destination in the stationary vehicle
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, L, T
+
 **You receive a telephone call while driving. What must you be aware of?**
 
 **Options:**
@@ -32284,6 +35348,8 @@ Phone use is prohibited if it distracts you too much from the traffic. This inev
 #### Question 2.2.23-123
 
 **Points:** 4 Points
+
+**Licenses:** B, C, C1, D, D1, L, T
 
 **You are planning a long journey with your motor vehicle. Before commencing the journey, what should you check on the vehicle to avoid endangering yourself and others?**
 
@@ -32309,6 +35375,8 @@ A clear view should be ensured on every journey. This includes not only ensuring
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **What is the main function of the headrest in a car?**
 
 **Options:**
@@ -32327,6 +35395,8 @@ The head restraint reduces the force on the occupants' cervical spine during hea
 #### Question 2.2.23-125
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1, L, T
 
 **While driving, the inside of your vehicle’s windscreen begins to mist over. How can you counteract this?**
 
@@ -32347,6 +35417,8 @@ By increasing the air circulation on the windscreen, you can prevent the windscr
 #### Question 2.2.23-126
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, CE, D, D1, L, T
 
 **Your car is snowed in. What do you need to do before you start your journey?**
 
@@ -32370,6 +35442,8 @@ Also make sure that no snow covers your license plates. If the license plates ar
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, CE, D, D1, L, T
+
 **Which parts of your motor vehicle do you have to completely clear of snow and ice before driving off?**
 
 **Options:**
@@ -32390,6 +35464,8 @@ Before you drive off, you must remove the snow from the entire vehicle as it cou
 #### Question 2.2.23-128
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, CE, D, D1
 
 **You want to take a trip in winter weather conditions. What do you need to bear in mind?**
 
@@ -32412,6 +35488,8 @@ Before you drive off, you must remove the snow from the entire vehicle, as it co
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **What must you do to prevent a two-axle truck from rolling down a steep slope?**
 
 **Options:**
@@ -32431,6 +35509,8 @@ Against rolling away in a steep slope, you should apply the parking brake and pu
 #### Question 2.2.23-202
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must you do to prevent a two-axle bus from rolling down a slope?**
 
@@ -32452,6 +35532,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **How can you reduce the danger created by the blind spot?**
 
 **Options:**
@@ -32472,6 +35554,8 @@ A reduction in the dead angle can be achieved by observing the traffic behind. I
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **How do you secure the traffic area behind the vehicle when you reverse from a property piece of land into a street?**
 
 **Options:**
@@ -32490,6 +35574,8 @@ You can by a fuse items the traffic space. Horns or switching on the hazard warn
 #### Question 2.2.23-214
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **What must you be aware of when loading your vehicle with loose bulk material?**
 
@@ -32510,6 +35596,8 @@ This will be covered during the loading of loose bulk material must, if it could
 #### Question 2.2.23-215
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **You want to de-ice the body of your vehicle. What equipment is suitable for this purpose?**
 
@@ -32532,6 +35620,8 @@ You can use all the third De-icing, Enteisungsbühne or a Enteisungsleiter with 
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, CE, D, D1, L, T, C1E, D1E, DE
+
 **After stopping for a lengthy time, you wish to continue driving. What should you do?**
 
 **Options:**
@@ -32552,6 +35642,8 @@ You can use all the third De-icing, Enteisungsbühne or a Enteisungsleiter with 
 #### Question 2.2.23-217
 
 **Points:** 4 Points
+
+**Licenses:** C, L, T, C1E
 
 **You have installed a front-mounted, forward-extending attachment to your motor vehicle. What must you be aware of?**
 
@@ -32574,6 +35666,8 @@ Because of your extensive forward front attachment you need to consider while dr
 
 **Points:** 3 Points
 
+**Licenses:** D, D1
+
 **You want to continue your journey after taking a break at a service station. What should you check before recommencing your journey?**
 
 **Options:**
@@ -32594,6 +35688,8 @@ After ending a break, you should make sure that there are no loose objects in th
 #### Question 2.2.23-219
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE
 
 **How can you clear the snow and ice from the structure of your vehicle?**
 
@@ -32616,6 +35712,8 @@ When de-icing the vehicle, it is essential to use suitable aids such as de-icing
 
 **Points:** 3 Points
 
+**Licenses:** CE, L, T
+
 **What must you remember in terms of lighting when you wish to attach a trailer?**
 
 **Options:**
@@ -32635,6 +35733,8 @@ Regarding the lighting, you should attached to a trailer, you should make sure t
 #### Question 2.2.23-302
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **The tarpaulin of your trailer is frozen over. What could happen when you start a journey?**
 
@@ -32657,6 +35757,8 @@ When the tarp is iced up your trailer, it can happen that can be severely damage
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **A two-axle trailer with overrun brakes and fifth-wheel steering is parked on a slope. How must it be secured against rolling?**
 
 **Options:**
@@ -32676,6 +35778,8 @@ Coming soon...
 #### Question 2.2.23-402
 
 **Points:** 2 Points
+
+**Licenses:** L, T
 
 **You have mounted twin tyres on your truck tractor. What must you remember?**
 
@@ -32697,6 +35801,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** Mofa
+
 **In what situations may I allow a cyclist to be pulled along?**
 
 **Options:**
@@ -32716,6 +35822,8 @@ Pulling along cyclists is dangerous for both you and the cyclist and is not allo
 
 **Points:** 4 Points
 
+**Licenses:** Mofa
+
 **As a moped driver (not a light moped), what precautions must you take against head injuries?**
 
 **Options:**
@@ -32734,6 +35842,8 @@ To protect your head against injury, an adequate helmet is required. A cyclist o
 #### Question 2.2.23-406
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **Who is prohibited from using a mobile phone without a hands-free unit when driving?**
 
@@ -32756,6 +35866,8 @@ Car drivers are allowed to use mobile and car telephones while driving only with
 
 **Points:** 4 Points
 
+**Licenses:** C, L, T, C1E
+
 **You want to attach a device to your tractor. In what situations do you have to be particularly careful?**
 
 **Options:**
@@ -32777,6 +35889,8 @@ Especially cautious you should be when the attachments through your vehicle far 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **When riding a motorbike, how can you help other road users to see you better and as early as possible?**
 
 **Options:**
@@ -32796,6 +35910,8 @@ Wearing highly visible clothes (conspicuous clothes) and retro-reflective clothe
 #### Question 2.2.23-409
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What items form part of your protective clothing when riding a motorbike?**
 
@@ -32817,6 +35933,8 @@ Wearing highly visible clothes (conspicuous clothes) and retro-reflective clothe
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What items increase safety when riding a motorbike?**
 
 **Options:**
@@ -32836,6 +35954,8 @@ Special motorcycle clothing (highly visible, retro-reflective gear at night for 
 #### Question 2.2.23-411
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **You have fitted your motorbike with a tank bag and side panniers. What must you ensure?**
 
@@ -32858,6 +35978,8 @@ When loading your motorcycle with bags and panniers, make sure that you do not e
 
 **Points:** 4 Points
 
+**Licenses:** L, T
+
 **You want to drive your agricultural tractor with attached accessory equipment. What must you be aware of before driving off?**
 
 **Options:**
@@ -32877,6 +35999,8 @@ Put the implements in transport position and secure them so that they do not pos
 #### Question 2.2.23-413
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **You are driving an agricultural tractor with a mounted implement. After finishing working in the field, you want to drive on to a public road. What must you check first?**
 
@@ -32898,6 +36022,8 @@ You must check the transport position of the implement for road travel, as well 
 #### Question 2.2.23-414
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **You are driving a tractor with an attachment. After working in a field, now you want to drive on a public road. What should you note first?**
 
@@ -32923,6 +36049,8 @@ Before driving a tractor with a mounted implement on a road, check that the impl
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **You come to a stop unexpectedly on a pedestrian crossing. What do you do?**
 
 **Options:**
@@ -32945,6 +36073,8 @@ To avoid danger for pedestrians, pedestrian crossings must be kept clear. Theref
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What may result from taking part in illegal road races?**
 
 **Options:**
@@ -32966,6 +36096,8 @@ Participation in illegal road races can lead to serious traffic accidents and ca
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **A 2.50 m wide motor vehicle is loaded with bulky goods projecting laterally more than 50 cm over the side and rear lights. What must be remembered when transporting the load?**
 
 **Options:**
@@ -32986,6 +36118,8 @@ If your load 50 cm extends laterally beyond the front and rear position lamps, p
 
 **Points:** 3 Points
 
+**Licenses:** C, C1E
+
 **A 3-metre wide construction machine is to be transported on public roads. Under which conditions may you perform the transport?**
 
 **Options:**
@@ -33005,6 +36139,8 @@ With your 3-meter wide construction machine on public roads you must charge your
 #### Question 2.2.29-205
 
 **Points:** 3 Points
+
+**Licenses:** C, C1E
 
 **A vehicle exceeds the legal limits for maximum masses and dimensions. What applies when wanting to drive this vehicle on public roads?**
 
@@ -33029,6 +36165,8 @@ With a special permit, you can with a support vehicle was which prescribed drive
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Between what hours does the sunday and public holiday driving ban apply?**
 
 **Options:**
@@ -33044,6 +36182,8 @@ The driving ban, for trucks over 7.5t gross vehicle weight and for all trucks re
 #### Question 2.2.30-102
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **To which vehicles does the sunday and public holiday driving ban apply?**
 
@@ -33065,6 +36205,8 @@ Trucks over 7.5 tons and trucks with trailers may not be moved on public roads o
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1
+
 **What motor vehicles engaged in the commercial or paid transport of goods, are prohibited from driving on Sundays and public holidays?**
 
 **Options:**
@@ -33084,6 +36226,8 @@ The driving ban on Sundays and public holidays applies to License C, i.e. trucks
 #### Question 2.2.30-201
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE
 
 **The German summer holiday traffic regulations apply to which vehicles used in the transport of goods for hire or reward?**
 
@@ -33105,6 +36249,8 @@ The Holiday Travel Regulation applies to trucks for the commercial or paid trans
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE
+
 **When does the driving ban contained in the German summer holiday traffic regulations apply?**
 
 **Options:**
@@ -33121,6 +36267,8 @@ On all Saturdays in July and August from 7 to 20, you are subject to the driving
 
 **Points:** 3 Points
 
+**Licenses:** C, CE
+
 **You are driving a truck with a gross vehicle weight rating of 18 t. During what hours does the driving ban on the transport of goods for hire or reward apply on Sundays and public holidays?**
 
 **Options:**
@@ -33136,6 +36284,8 @@ For the paid transport of goods or business trips, the driving ban applies to th
 #### Question 2.2.30-204
 
 **Points:** 2 Points
+
+**Licenses:** C, C1
 
 **You want to transport goods on a commercial basis or for payment. For which vehicles or vehicle combinations does the holiday travel regulation apply?**
 
@@ -33160,6 +36310,8 @@ The holiday regulations apply to all trucks with a permissible total mass of ove
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **You are entering a public road e.g. from a field or building site and considerably soil the road. Who is responsible for eliminating this traffic obstruction?**
 
 **Options:**
@@ -33178,6 +36330,8 @@ If you significantly pollute a road due to leaving an unpaved area, then you, th
 #### Question 2.2.32-102
 
 **Points:** 3 Points
+
+**Licenses:** B, L, T
 
 **What must you do to avoid endangering others by equipment or load which has fallen off your vehicle?**
 
@@ -33199,6 +36353,8 @@ You must immediately remove any objects from the roadway that have fallen down a
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, L, T, C1E
+
 **Your vehicle has left a considerable amount of dirt on the carriageway, causing a risk to road traffic. What do you have to do?**
 
 **Options:**
@@ -33218,6 +36374,8 @@ The following road users will thank you if you eliminate immediately the polluti
 #### Question 2.2.32-204
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, L, T, C1E
 
 **What do you have to do when exiting a construction site in your vehicle?**
 
@@ -33240,6 +36398,8 @@ When leaving a construction site you should ensure that no charge can fall down 
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, L, T
+
 **How should you behave when you leave a construction site with your vehicle?**
 
 **Options:**
@@ -33261,6 +36421,8 @@ When leaving a construction site, it is important to clean the lighting equipmen
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **What must you do to avoid soiling the roadway?**
 
 **Options:**
@@ -33281,6 +36443,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **When driving your agricultural vehicle, you could not avoid soiling the roadway. What must you do?**
 
 **Options:**
@@ -33300,6 +36464,8 @@ Coming soon...
 #### Question 2.2.32-403
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **You have dirtied the public highway with your agricultural vehicle. This is endangering or impeding traffic. What do you have to do?**
 
@@ -33324,6 +36490,8 @@ Clean up the area and mark it visibly to eliminate a hazard.
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
+
 **What is the right course of action in this situation?**
 
 ![Question Image](images/2_2_34-001-M.png)
@@ -33346,6 +36514,8 @@ It can be seen that the accident scene has already been adequately secured. For 
 #### Question 2.2.34-002-M
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right course of action now?**
 
@@ -33371,6 +36541,8 @@ On the right lane there was an accident and you drive towards the still unsecure
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the right course of action now?**
 
 ![Question Image](images/2_2_34-003-M.png)
@@ -33395,6 +36567,8 @@ In the event of an accident, you should always play it safe and increase the saf
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Your vehicle has collided with a wild animal. What is the right course of action here?**
 
 **Options:**
@@ -33415,6 +36589,8 @@ After a deer accident, you should switch on the hazard warning lights, put on a 
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **Why should you always carry the European accident report form with you on your journey?**
 
 **Options:**
@@ -33434,6 +36610,8 @@ The European Accident Report should be carried at all times, because it makes it
 #### Question 2.2.34-103
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **How does an eCall system work in the event of a serious accident?**
 
@@ -33456,6 +36634,8 @@ Alternatively, vehicle occupants can also trigger an SOS signal manually-for exa
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **In what situation is the eCall system designed to be triggered manually?**
 
 **Options:**
@@ -33476,6 +36656,8 @@ The emergency call system can also be triggered manually in the event of an urge
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, C1E
+
 **You have an accident on the autobahn with your truck. In which order do you proceed?**
 
 **Options:**
@@ -33494,6 +36676,8 @@ In an accident with your truck on a highway, you should immediately stop, secure
 #### Question 2.2.34-203
 
 **Points:** 4 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **While you are travelling on the autobahn, your passengers tell you there is smoke in the bus. What must you do?**
 
@@ -33515,6 +36699,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **Your bus overturns in an accident and you cannot open the doors. What must you do?**
 
 **Options:**
@@ -33535,6 +36721,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **You are involved in a pile-up accident on the autobahn in fog. Your bus is wedged in by other vehicles. What must you do?**
 
 **Options:**
@@ -33554,6 +36742,8 @@ Coming soon...
 #### Question 2.2.34-206
 
 **Points:** 4 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **You break down and have to stop on the right hand hard shoulder of an autobahn. What must you do?**
 
@@ -33576,6 +36766,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Who is a party involved in an accident?**
 
 **Options:**
@@ -33596,6 +36788,8 @@ A participant in a traffic accident can be a person whose conduct has contribute
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Does the person involved in an accident have to move his/her vehicle to the side?**
 
 **Options:**
@@ -33614,6 +36808,8 @@ A participant in the accident should drive his vehicle aside if only minor damag
 #### Question 2.2.34-210
 
 **Points:** 4 Points
+
+**Licenses:** D, D1
 
 **You are involved in a traffic accident. To ensure that passengers are not endangered, they must leave the bus. However, it is no longer possible to open the doors of your bus. What must you do now?**
 
@@ -33636,6 +36832,8 @@ Ask the passengers to leave the vehicle via the designated emergency outputs and
 #### Question 2.2.34-211
 
 **Points:** 4 Points
+
+**Licenses:** D, D1
 
 **While driving your bus on the motorway you become involved in a road traffic accident. The passengers need to disembark from the bus. What is the right course of action?**
 
@@ -33660,6 +36858,8 @@ The first thing you should do is reassure the passengers and inform them of the 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, B, T, A80
+
 **What do these signals indicate?**
 
 ![Question Image](images/2_2_37-001-B.png)
@@ -33682,6 +36882,8 @@ These permanent lights can either enable or disable the lanes, depending on the 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **You are travelling at a speed of approximately 40 km/h. The lights change from "green" to "amber" when you are 10 m away. What do you do?**
 
 **Options:**
@@ -33700,6 +36902,8 @@ At 40 km/h, the braking distance according to the rule of thumb is 28 meters. Ev
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **You are travelling at a speed of approximately 40 km/h. The lights change from "green" to "amber" when you are 40 m away. What do you do?**
 
 **Options:**
@@ -33717,6 +36921,8 @@ According to the rule of thumb, at a speed of 40 km/h your car comes to a stand 
 #### Question 2.2.37-004
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **You are approaching a traffic light which has been "green" for some time. What do you do?**
 
@@ -33738,6 +36944,8 @@ Since the traffic light has been green for a while, it can switch at any moment.
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **The traffic light has just changed to yellow. What is the right course of action if you are turning left?**
 
 ![Question Image](images/2_2_37-006.png)
@@ -33757,6 +36965,8 @@ The yellow traffic light indicates that you have to wait before the crossing. Si
 #### Question 2.2.37-007
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, C1, D, D1, D1E, DE, A80
 
 **What is true of permanently illuminated signs?**
 
@@ -33779,6 +36989,8 @@ If there are crossed red diagonal beams, drivers on the lane must neither drive 
 #### Question 2.2.37-008
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **What do these permanently illuminated signs mean?**
 
@@ -33804,6 +37016,8 @@ Continuous light signals above a lane inform you as a car driver whether this la
 #### Question 2.2.38-101
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **A vehicle with flashing blue lights and siren sounding is approaching you from the rear. What is the right course of action now?**
 
@@ -33833,6 +37047,8 @@ The vehicle must be given free access. Therefore, you must reduce your speed and
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What do you do when you see this traffic sign on an autobahn?**
 
 ![Question Image](images/2_4_40-002.png)
@@ -33855,6 +37071,8 @@ Caution of congestion: With this traffic sign you should reduce the speed of you
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, T, A80
+
 **What must you do when you see this traffic sign?**
 
 ![Question Image](images/2_4_40-003.png)
@@ -33876,6 +37094,8 @@ The traffic sign announces a dangerous left turn. Decrease your speed to keep th
 #### Question 2.4.40-004
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **What do you do within this danger section?**
 
@@ -33900,6 +37120,8 @@ Attention wild animals crossing: This sign is set up on routes, where a lot of w
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What must you be prepared for upon seeing this traffic sign?**
 
 ![Question Image](images/2_4_40-005.png)
@@ -33921,6 +37143,8 @@ This traffic sign indicates a section of the route with crosswinds. This is espe
 #### Question 2.4.40-006
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What must you be prepared for upon seeing this traffic sign?**
 
@@ -33945,6 +37169,8 @@ If you encounter this traffic sign, you have to adjust to strong crosswinds. Mos
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What should you anticipate when you see this road sign?**
 
 ![Question Image](images/2_4_40-007.png)
@@ -33967,6 +37193,8 @@ Because of trees, tall vehicles can brake suddenly and swerve. Tall vehicles can
 #### Question 2.4.40-201
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, L, T
 
 **What must you anticipate with this road sign?**
 
@@ -33994,6 +37222,8 @@ All 3 answers are correct. Trees may lie in the driveway, branches may lie in th
 
 **Points:** 3 Points
 
+**Licenses:** Mofa
+
 **What is correct from this traffic sign onwards?**
 
 ![Question Image](images/2_4_41-001.png)
@@ -34014,6 +37244,8 @@ This sign indicates that no vehicles can proceed, you therefore cannot ride your
 #### Question 2.4.41-002
 
 **Points:** 2 Points
+
+**Licenses:** C, C1E
 
 **To what does the "12 t" refer on this traffic sign?**
 
@@ -34036,6 +37268,8 @@ The total mass (12 t) refers to the vehicle including charge.
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, C1E, DE
+
 **On your 10 m-long vehicle, the load is projecting 60 cm over the vehicle’s rear edge. What applies to you when this traffic sign is displayed?**
 
 ![Question Image](images/2_4_41-003.png)
@@ -34056,6 +37290,8 @@ The length of your truck is described as 10.6 m. (10 m + 60 cm truck of the load
 #### Question 2.4.41-004-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
 
 **You are driving on this motorway. What is the right course of action?**
 
@@ -34078,6 +37314,8 @@ The left lane is closed. You may not use it under any circumstances. Not even if
 #### Question 2.4.41-005-M
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What is the right behaviour now?**
 
@@ -34102,6 +37340,8 @@ You are allowed to accelerate because you have passed the construction site with
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **What must you remember when you see this traffic sign?**
 
 ![Question Image](images/2_4_41-101.png)
@@ -34124,6 +37364,8 @@ This traffic sign indicates that the following route can only be used with snow 
 
 **Points:** 2 Points
 
+**Licenses:** B, L, T
+
 **Which traffic sign refers to the permissible total mass?**
 
 ![Question Image](images/2_4_41-102.png)
@@ -34142,6 +37384,8 @@ As a car driver you should note that this traffic sign can be read in two ways. 
 
 **Points:** 2 Points
 
+**Licenses:** B, L, T
+
 **Which traffic sign refers to the actual mass?**
 
 ![Question Image](images/2_4_41-103.png)
@@ -34159,6 +37403,8 @@ If the symbol 't' for tons is in the traffic sign, it refers to the actual weigh
 #### Question 2.4.41-104
 
 **Points:** 2 Points
+
+**Licenses:** B, L, T
 
 **Which vehicles are prohibited from using a road sign-posted like this?**
 
@@ -34181,6 +37427,8 @@ The traffic sign prohibits vehicles from traveling on the route that exceed the 
 
 **Points:** 2 Points
 
+**Licenses:** B, L, T
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/2_4_41-105.png)
@@ -34202,6 +37450,8 @@ The traffic sign "Width Limit including load" indicates road constrictions and b
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **Which vehicles can cause serious accidents when this traffic sign is ignored?**
 
 ![Question Image](images/2_4_41-106.png)
@@ -34222,6 +37472,8 @@ This traffic sign is aimed at trucks and warns of height-limited passages - in f
 #### Question 2.4.41-107
 
 **Points:** 2 Points
+
+**Licenses:** B, L, T
 
 **With which vehicles are you not allowed to drive on a road sign-posted like this?**
 
@@ -34245,6 +37497,8 @@ The red round circle in the traffic sign always indicates a ban. Vehicles whose 
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, L, T
+
 **What vehicles may you overtake when this traffic sign is displayed?**
 
 ![Question Image](images/2_4_41-108.png)
@@ -34266,6 +37520,8 @@ You are not allowed to overtake, neither single nor multi-lane vehicles.
 
 **Points:** 2 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **What motor vehicles are subject to the no-overtaking rule indicated by this sign?**
 
 ![Question Image](images/2_4_41-109.png)
@@ -34286,6 +37542,8 @@ This traffic sign prescribes a ban on overtaking for motor vehicles with a permi
 #### Question 2.4.41-201
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, L, T, C1E
 
 **Which vehicles are prohibited from using a road sign-posted like this?**
 
@@ -34309,6 +37567,8 @@ The road marked on the sign you darst not drive when you are driving tractors or
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, L, T, C1E
+
 **Which vehicles must keep the minimum distance of 70 m here?**
 
 ![Question Image](images/2_4_41-202.png)
@@ -34330,6 +37590,8 @@ Both tractors and trucks t with a maximum mass of more than 3.5. Map for these s
 #### Question 2.4.41-203
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, L, T, C1E
 
 **Which vehicles are not allowed to overtake here?**
 
@@ -34353,6 +37615,8 @@ Trucks and trucks with a gross vehicle mass exceeding 3.5 tonnes and tractors ma
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, T, C1E
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/2_4_41-204.png)
@@ -34373,6 +37637,8 @@ This traffic sign indicates a ban on labeling requirements vehicles carrying dan
 #### Question 2.4.41-205
 
 **Points:** 2 Points
+
+**Licenses:** C, C1E, D
 
 **You want to enter a road displaying this road sign. To what does the information "12 t" refer?**
 
@@ -34395,6 +37661,8 @@ This sign refers to the actual mass of the vehicle, including cargo. Please mind
 
 **Points:** 2 Points
 
+**Licenses:** C
+
 **On this road traffic sign, to what does the information “12 t” refer?**
 
 ![Question Image](images/2_4_41-206.png)
@@ -34412,6 +37680,8 @@ This sign refers to the actual mass of the vehicle, including cargo. Please mind
 #### Question 2.4.41-207
 
 **Points:** 2 Points
+
+**Licenses:** C, CE
 
 **You are driving a road haulage combination vehicle with a maximum authorised mass of 30 t. When may you continue driving after seeing this road traffic sign?**
 
@@ -34435,6 +37705,8 @@ You may only drive on this road if you have to deliver a load to a resident or i
 
 **Points:** 2 Points
 
+**Licenses:** C1, CE, D, D1
+
 **You are driving a vehicle combination comprising a motor vehicle and trailer, and you want to enter a road that has this signpost. What does the reference to “5.5 t” mean?**
 
 ![Question Image](images/2_4_41-208.png)
@@ -34455,6 +37727,8 @@ The traffic sign refers to the actual mass of each individual vehicle, the vehic
 #### Question 2.4.41-209
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, T
 
 **When you see this road sign, what is the situation in which you must keep a minimum distance of 70 metres from the vehicle in front?**
 
@@ -34477,6 +37751,8 @@ As a driver of a truck with a maximum permissible mass of over 3.5 tonnes or as 
 #### Question 2.4.41-401
 
 **Points:** 2 Points
+
+**Licenses:** L, T
 
 **What motor vehicles are prohibited from driving on a road where this sign is displayed?**
 
@@ -34504,6 +37780,8 @@ This does not apply to tractors with a maximum design speed of more than 40 km/h
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/2_4_42-001.png)
@@ -34524,6 +37802,8 @@ This traffic sign is at the end of the motorway.
 #### Question 2.4.42-002
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What does this traffic sign indicate?**
 
@@ -34546,6 +37826,8 @@ This traffic sign is placed at the end of a highway. It means: From here on the 
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What do such traffic signs indicate?**
 
 ![Question Image](images/2_4_42-004.png)
@@ -34566,6 +37848,8 @@ A white number on a blue background with a white outline indicates the number of
 #### Question 2.4.42-005
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What does the figure "26" indicate in this traffic sign?**
 
@@ -34588,6 +37872,8 @@ All motorway exits are numbered for better orientation. As a car driver, you can
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/2_4_42-006.png)
@@ -34608,6 +37894,8 @@ This traffic sign refers to a detour for freeway traffic. It is set up in the ev
 #### Question 2.4.42-007
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **What applies from this traffic sign onwards?**
 
@@ -34631,6 +37919,8 @@ This traffic sign is subject to regulations that apply to traffic within built-u
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What applies when you see this traffic sign?**
 
 ![Question Image](images/2_4_42-008-M.png)
@@ -34652,6 +37942,8 @@ In towns, you are allowed to deviate from the requirement to drive on the right,
 #### Question 2.4.42-101
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What applies from this traffic sign onwards?**
 
@@ -34675,6 +37967,8 @@ Car drivers recognize from this traffic sign that the regulations for traffic wi
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **How are vehicles with a permissible total mass up to 2.8 t allowed to be parked here?**
 
 ![Question Image](images/2_4_42-102.png)
@@ -34697,6 +37991,8 @@ This traffic sign signals to the vehicle driver that vehicles up to 2.8 t of per
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/2_4_42-103.png)
@@ -34717,6 +38013,8 @@ The square traffic sign with a blue border indicates that there is a refuel poss
 #### Question 2.4.42-104
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **What does this traffic sign indicate?**
 
@@ -34739,6 +38037,8 @@ This traffic sign points out a natural gas filling station where drivers can ref
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/2_4_42-105.png)
@@ -34759,6 +38059,8 @@ The inscription LPG on the square traffic sign is an abbreviation for Liquefied 
 #### Question 2.4.42-106
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **What does this traffic sign indicate?**
 
@@ -34781,6 +38083,8 @@ You will see a plug with cable on the sign. It shows you a nearby charging stati
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What does this traffic sign indicate?**
 
 ![Question Image](images/2_4_42-107.png)
@@ -34801,6 +38105,8 @@ The traffic sign P + R on a blue background stands for "Park and Ride". It ident
 #### Question 2.4.42-108
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **You are driving a toll-chargeable truck and are approaching the displayed traffic sign. What should you do?**
 
@@ -34824,6 +38130,8 @@ You can only continue if the toll was paid for using the route and you should ch
 
 **Points:** 4 Points
 
+**Licenses:** B, C, C1, D, D1, L, T
+
 **What is correct in this situation?**
 
 ![Question Image](images/2_4_42-109-M.png)
@@ -34845,6 +38153,8 @@ Driving a protective strip continuously is not permitted. Protective strips have
 #### Question 2.4.42-110
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **Which document allows you to park here?**
 
@@ -34870,6 +38180,8 @@ You are allowed to park in the parking lot with this sign if you yourself have a
 #### Question 2.4.43-002
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You need assistance on the autobahn. Which information does the arrow on the roadside marker give you?**
 
@@ -34898,6 +38210,8 @@ Arrows on the reflector posts on the edge of a freeway point towards the nearest
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What can you do to avoid unnecessary noise?**
 
 **Options:**
@@ -34917,6 +38231,8 @@ To avoid unnececessary noise, avoid making high revolutions with your engine and
 #### Question 2.5.01-002
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What can you do to avoid noise pollution?**
 
@@ -34939,6 +38255,8 @@ To avoid above normal level of noise called noise pollution, do all of the above
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **How can you save fuel?**
 
 **Options:**
@@ -34958,6 +38276,8 @@ You as a car driver can save fuel when you are traveling with your vehicle at lo
 #### Question 2.5.01-005
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **How can noise be avoided?**
 
@@ -34979,6 +38299,8 @@ Noise is generally generated by the running engine of a car. Driving at high spe
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **How is avoidable noise caused?**
 
 **Options:**
@@ -34998,6 +38320,8 @@ Avoidable noise can be caused by driving with a defective exhaust system or by "
 #### Question 2.5.01-007
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **Why should you avoid driving off at a rapid pace?**
 
@@ -35019,6 +38343,8 @@ Making a racing start is an additional noise pollution for other road users. You
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **How can you avoid pollution of the environment and benefit your engine after a cold start?**
 
 **Options:**
@@ -35037,6 +38363,8 @@ If possible, do not allow your vehicle to warm up while you are stationary as th
 #### Question 2.5.01-010
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Which vehicles are allowed to enter this environmental zone?**
 
@@ -35060,6 +38388,8 @@ Motor vehicle drivers are only allowed to drive their vehicles into an environme
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What is caused by driving with winter tyres during the summer months?**
 
 **Options:**
@@ -35079,6 +38409,8 @@ Every car driver should know that winter tires are designed for use in cold and 
 #### Question 2.5.01-012
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
 
 **What motor vehicles may enter an environment zone that has this sign?**
 
@@ -35102,6 +38434,8 @@ The additional sign shows which motor vehicles with which sticker may enter. Mot
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You want to wash your car. Where should you do this in the interests of environmental protection?**
 
 **Options:**
@@ -35120,6 +38454,8 @@ You should always wash your vehicle in a car wash. There, the wastewater is disp
 #### Question 2.5.01-014
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What increases the fuel consumption of your vehicle considerably?**
 
@@ -35140,6 +38476,8 @@ Turning on the seat heating or air conditioning of your vehicle consumes a lot o
 #### Question 2.5.01-015
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **What can reduce the fuel consumption of a commercial vehicle?**
 
@@ -35162,6 +38500,8 @@ A reduction can cause all three answers. The use of louvers on the vehicle, the 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What are the effects of driving at high speed in motor vehicles with combustion engines?**
 
 **Options:**
@@ -35181,6 +38521,8 @@ Be aware that fast, high-speed driving results in high fuel consumption and high
 #### Question 2.5.01-017
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **When riding a motorcycle, what can you do to avoid unnecessary noise?**
 
@@ -35203,6 +38545,8 @@ High-speed starting leads to unnecessary noise.
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why is an environmentally considerate driving style also beneficial for road safety?**
 
 **Options:**
@@ -35222,6 +38566,8 @@ Alternative fuels can also be used to drive fast. However, you will be driving i
 #### Question 2.5.01-102
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What must you know about catalytic converters?**
 
@@ -35243,6 +38589,8 @@ Vehicles with a catalytic converter should not be towed away. As a result, unbur
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Tyre wear is a burden to the environment. What can extend tyre life?**
 
 **Options:**
@@ -35263,6 +38611,8 @@ The wear of tires is the lowest when the tires are used as intended. Winter tire
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **How can you save fuel when driving a motor vehicle with automatic transmission?**
 
 **Options:**
@@ -35281,6 +38631,8 @@ Avoid the kick-down. The high-speed acceleration gear causes increased fuel cons
 #### Question 2.5.01-105
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **How can you keep the burden on the environment low?**
 
@@ -35303,6 +38655,8 @@ In order to relieve the environment, you should form carpools with others as a c
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What results in increased fuel consumption of your car?**
 
 **Options:**
@@ -35323,6 +38677,8 @@ Increased fuel consumption can be expected if, for example, you install roof or 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **How can you save fuel?**
 
 **Options:**
@@ -35342,6 +38698,8 @@ Additional load and additional attachments such as roof racks or ski holders inc
 #### Question 2.5.01-108
 
 **Points:** 3 Points
+
+**Licenses:** AM, B
 
 **What should you avoid for reasons of environmental protection?**
 
@@ -35364,6 +38722,8 @@ After starting the engine, you as a car driver should start immediately in a low
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Which conduct shows awareness of the environment?**
 
 **Options:**
@@ -35385,6 +38745,8 @@ Avoid driving around aimlessly. Private transport pollutes the environment. Make
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **How can you reduce noise?**
 
 **Options:**
@@ -35403,6 +38765,8 @@ Driving in the high-speed range causes more noise than a low-speed driving style
 #### Question 2.5.01-112
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What does "power sound" in the car result in?**
 
@@ -35425,6 +38789,8 @@ Driving in the high-speed range causes more noise than a low-speed driving style
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **By which percentage does the fuel consumption (l/100 km) of a middle-class car driving at 160 km/h in general increase compared to driving at the recommended speed of 130 km/h?**
 
 **Options:**
@@ -35443,6 +38809,8 @@ Compared to driving at the advisory speed limit of 130 km/h, the fuel consumptio
 #### Question 2.5.01-116
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **When are you allowed to enter an environmental zone?**
 
@@ -35464,6 +38832,8 @@ You may only drive into an environmental zone as a car driver if a valid badge i
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **Where do you have to place the emissions sticker for identifying lowemission vehicles?**
 
 **Options:**
@@ -35482,6 +38852,8 @@ As a car driver, you must ensure that the carbon emission sticker is affixed to 
 #### Question 2.5.01-118
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **If your car has a petrol engine but does not have an emissions sticker, are you allowed to enter an environmental zone which is sign-posted as follows?**
 
@@ -35504,6 +38876,8 @@ Without visibly attached carbon emission sticker, motor vehicle drivers are not 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Where can you stow your baggage so that you do not increase your fuel consumption unnecessarily?**
 
 **Options:**
@@ -35524,6 +38898,8 @@ If possible, you should only store the luggage in the trunk of your vehicle. The
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **Tyre wear negatively impacts the environment. How can you reduce this impact?**
 
 **Options:**
@@ -35543,6 +38919,8 @@ To reduce tyre wear (i.e. the wear on the tyres), you can drive with foresight a
 #### Question 2.5.01-121
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What can contribute to environmentally-friendly driving?**
 
@@ -35565,6 +38943,8 @@ If possible, carpool to reduce the number of vehicles on the road. Training can 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **How can you save fuel if you drive a car with an automatic gearbox?**
 
 **Options:**
@@ -35584,6 +38964,8 @@ Unnecessary acceleration leads to high fuel consumption. Drive in eco mode if av
 #### Question 2.5.01-123
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What cars that are driven within designated environmental zones must display a particulate matter sticker?**
 
@@ -35606,6 +38988,8 @@ In principle, all cars in a designated environmental zone are subject to the obl
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What can result from listening to very loud music while driving a car?**
 
 **Options:**
@@ -35626,6 +39010,8 @@ The driver's ability to react deteriorates due to the loud music and the resulti
 #### Question 2.5.01-125
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **Air resistance affects the fuel consumption of a vehicle. What affects air resistance the most?**
 
@@ -35648,6 +39034,8 @@ The number of passengers does not directly affect the air resistance.
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You have to wait because a rail-crossing barrier is lowered. How can you now help protect the environment at this point?**
 
 **Options:**
@@ -35666,6 +39054,8 @@ By using the automatic start-stop system, the vehicle can be switched off while 
 #### Question 2.5.01-127
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What increases the range of an electric vehicle?**
 
@@ -35686,6 +39076,8 @@ If you only brake slightly, the electric motor brakes and the kinetic energy is 
 #### Question 2.5.01-128
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What is the benefit of recuperation in an electric vehicle?**
 
@@ -35708,6 +39100,8 @@ Recuperation means "recovery". Just as electrical energy was converted into kine
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Your car is equipped with an automatic start-stop system. What is the environmental protection benefit from using this vehicle system?**
 
 **Options:**
@@ -35728,6 +39122,8 @@ By switching off the engine, for example at traffic lights, the automatic start-
 #### Question 2.5.01-130
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You are driving a car with a plug-in hybrid drive system. How can you optimise fuel consumption?**
 
@@ -35750,6 +39146,8 @@ You can also reduce fuel consumption by regularly charging the battery of your p
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, L, T, C1E
+
 **How can you avoid unnecessary noise?**
 
 **Options:**
@@ -35769,6 +39167,8 @@ Unnecessary noise you avoid by properly storing or use of the tension chains and
 #### Question 2.5.01-203
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, L, T, C1E
 
 **What can cause noise pollution?**
 
@@ -35791,6 +39191,8 @@ Unnecessary noise you avoid by properly storing or use of the tension chains and
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, T, C1E
+
 **How can you avoid noise in built-up areas, in particular with empty vehicles?**
 
 **Options:**
@@ -35809,6 +39211,8 @@ In town you can avoid particularly poor road with your empty vehicle noise by in
 #### Question 2.5.01-205
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **Which motor vehicles are allowed to use a road with this sign?**
 
@@ -35832,6 +39236,8 @@ This road leads in an environmental zone. All buses with a corresponding emissio
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
+
 **How can you avoid creating noise?**
 
 **Options:**
@@ -35851,6 +39257,8 @@ Noise you can prevent this by you as possible befüllst empty compressed air tan
 #### Question 2.5.01-207
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **When planning your journeys, how can you make them environmentally-friendlier?**
 
@@ -35873,6 +39281,8 @@ For the sake of the environment, motorists should refrain from all trips that ar
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **How do you drive down a descending gradient safely?**
 
 **Options:**
@@ -35891,6 +39301,8 @@ On a down grade, use the engine brake by shifting down to a lower gear. This rel
 #### Question 2.5.01-209
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **What motor vehicles are permitted to enter an environment zone without a fine-particle badge?**
 
@@ -35911,6 +39323,8 @@ All two- and three-wheeled motor vehicles and agricultural and forestry tractors
 #### Question 2.5.01-210
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What manufacturer specifications will allow you to know if your motor vehicle is environmentally-friendly?**
 
@@ -35933,6 +39347,8 @@ The emission class provides information about the emission of pollutants. The em
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **Why are short journeys performed with a cold engine especially damaging to the environment?**
 
 **Options:**
@@ -35953,6 +39369,8 @@ Short trips with a cold engine usually consume more fuel than driving with a mot
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What causes avoidable noise?**
 
 **Options:**
@@ -35972,6 +39390,8 @@ All noise disturbances arising during normal operation of a vehicle are consider
 #### Question 2.5.01-213
 
 **Points:** 3 Points
+
+**Licenses:** C, D, C1E, DE
 
 **How does the eco-roll mode in commercial vehicles contribute to the reduction of fuel consumption?**
 
@@ -35998,6 +39418,8 @@ Because the kinetic energy of the vehicle is maximally utilized in eco-roll mode
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, A80
+
 **When must motorcycles be submitted for official inspection (Hauptuntersuchung)?**
 
 **Options:**
@@ -36016,6 +39438,8 @@ Similarly to cars, motorcycles should be inspected every two years
 #### Question 2.6.01-003
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, L, T, C1E, D1E, DE, A80
 
 **How can you tell when you need to bring your vehicle in for its next vehicle roadworthiness test?**
 
@@ -36037,6 +39461,8 @@ The date for the next main inspection of your vehicle can be found in the certif
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **You have bought a second-hand car. The official inspection (Hauptuntersuchung) has just been carried out. When is it due for its next official inspection?**
 
 **Options:**
@@ -36056,6 +39482,8 @@ If the main inspection of a used car has just happened, you must do the next gen
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **You have left your registered caravan trailer for six months during the winter on a campground. What applies as far as the official inspection (Hauptuntersuchung) is concerned?**
 
 **Options:**
@@ -36074,6 +39502,8 @@ Even if you have parked your caravan on a campsite, you must meet the deadline f
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **You have purchased a 3-year-old car for your own personal use. The vehicle roadworthiness test certificate is new. What is the time limit until the next roadworthiness test must be performed?**
 
 **Options:**
@@ -36089,6 +39519,8 @@ The first general inspection of a passenger car takes place after three years, e
 #### Question 2.6.01-201
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, C1E
 
 **At what monthly interval must trucks with a permissible total mass exceeding 3.5 t be presented for official inspection (Hauptuntersuchung)?**
 
@@ -36106,6 +39538,8 @@ You have your trucks with a gross vehicle mass exceeding 3,5 t bring every 12 mo
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **At what monthly interval must buses be presented for official inspection (Hauptuntersuchung)?**
 
 **Options:**
@@ -36121,6 +39555,8 @@ Coming soon...
 #### Question 2.6.01-205
 
 **Points:** 2 Points
+
+**Licenses:** C, C1E
 
 **You have been requested to present a truck with a gross vehicle weight rating of 18 t for its vehicle roadworthiness test. What vehicle documents do you need?**
 
@@ -36142,6 +39578,8 @@ With your trucks with a maximum mass of 18 t you should use the log book and the
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **You are requested to present a coach for its safety test. What vehicle documents do you need?**
 
 **Options:**
@@ -36162,6 +39600,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** CE
+
 **You have been requested to present a trailer with a gross vehicle weight rating of 18 t for its vehicle roadworthiness test. What vehicle documents do you need?**
 
 **Options:**
@@ -36181,6 +39621,8 @@ must be at the trailer with a maximum total weight of 18 t, which presented for 
 #### Question 2.6.01-208
 
 **Points:** 2 Points
+
+**Licenses:** C, CE, D, D1, C1E, D1E, DE
 
 **What is entered in the inspection log book?**
 
@@ -36203,6 +39645,8 @@ The date of the Fahrteinschreibeüberprüfung not one of them.
 
 **Points:** 2 Points
 
+**Licenses:** C, D, D1, T, C1E, D1E, DE
+
 **How can you tell when your vehicle needs to be brought in for its next safety inspection?**
 
 **Options:**
@@ -36222,6 +39666,8 @@ When you are presented to a security check next time have to, you realize the SP
 
 **Points:** 2 Points
 
+**Licenses:** D, D1
+
 **What is the mandatory time interval for performing the vehicle roadworthiness test for coaches and buses?**
 
 **Options:**
@@ -36240,6 +39686,8 @@ Buses and coaches drive a lot and transport people, which is why buses and coach
 #### Question 2.6.02-002
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What alterations can result in the permit for use (Betriebserlaubnis) being cancelled?**
 
@@ -36261,6 +39709,8 @@ Adding a sidecar or fitting tires of a different size impact the way your vehicl
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What alterations can result in the permit for use (Betriebserlaubnis) being cancelled?**
 
 **Options:**
@@ -36280,6 +39730,8 @@ Your vehicule's next roadworthiness test can be seen either in the Part I of the
 #### Question 2.6.02-005
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **What alterations can result in the permit for use (Betriebserlaubnis) being cancelled?**
 
@@ -36301,6 +39753,8 @@ Changing the gear ratio or the engine power impact the way your vehicle behave a
 
 **Points:** 3 Points
 
+**Licenses:** A1
+
 **You are holding a driving permit class A1. Which of the vehicles described are you allowed to drive?**
 
 **Options:**
@@ -36320,6 +39774,8 @@ With a A1 driving permit you can ride a vehicle that has a 80km/h maximum speed,
 
 **Points:** 3 Points
 
+**Licenses:** AM, Mofa
+
 **What are the requirements when the motor liability insurance of your vehicle has expired?**
 
 **Options:**
@@ -36338,6 +39794,8 @@ It is required to have an insurance for your vehicle, without one you are not al
 #### Question 2.6.02-011
 
 **Points:** 3 Points
+
+**Licenses:** Mofa
 
 **When are you not allowed to drive a motorized bicycle on public roads?**
 
@@ -36359,6 +39817,8 @@ A motorized bicycle has to be insured to cover for third party damages in case o
 
 **Points:** 2 Points
 
+**Licenses:** Mofa
+
 **What is the minimum age for driving a motorized bicycle?**
 
 **Options:**
@@ -36374,6 +39834,8 @@ You must be at least 15 years old to drive a motorized bicycle
 #### Question 2.6.02-013
 
 **Points:** 3 Points
+
+**Licenses:** Mofa
 
 **What are the consequences when driving a motorized bicycle which can run faster than 25 km/h because it has been tuned?**
 
@@ -36395,6 +39857,8 @@ Tuning your motorized bicycle to go faster than 25km/h void your permit for use,
 
 **Points:** 3 Points
 
+**Licenses:** Mofa
+
 **What cancels the permit for use of a motorized bicycle?**
 
 **Options:**
@@ -36414,6 +39878,8 @@ Modifications that impact the behaviour of your motorcycle such as gear ratio, s
 #### Question 2.6.02-015
 
 **Points:** 2 Points
+
+**Licenses:** Mofa
 
 **Which documents must you carry?**
 
@@ -36436,6 +39902,8 @@ When driving you must always carry proof of insurance, permit for use, test cert
 
 **Points:** 2 Points
 
+**Licenses:** AM, Mofa
+
 **You want to drive on public roads. Which insurance must you take out for your vehicle?**
 
 **Options:**
@@ -36454,6 +39922,8 @@ You are required by law to have a motor vehicle liability insurance to drive you
 #### Question 2.6.02-017
 
 **Points:** 2 Points
+
+**Licenses:** AM, Mofa
 
 **What proves that you have taken out a motor liability insurance for your vehicle?**
 
@@ -36475,6 +39945,8 @@ You can provide an insurance certificate or have a valid insurance number plate
 
 **Points:** 2 Points
 
+**Licenses:** AM, Mofa
+
 **What is the maximum validity of the insurance number plate?**
 
 **Options:**
@@ -36493,6 +39965,8 @@ The insurance number plate is valid for a maximum of 1 year
 #### Question 2.6.02-023
 
 **Points:** 3 Points
+
+**Licenses:** AM, Mofa
 
 **The insurance indicator on your two-wheeler is no longer valid. What are the consequences if you continue to drive it so?**
 
@@ -36514,6 +39988,8 @@ It is legally required to have an insurance to drive. Without one you are at ris
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What documents must you carry with you, if you want to drive a motorbike with an engine size larger than 200 cm³?**
 
 **Options:**
@@ -36534,6 +40010,8 @@ To drive you need to have your driver's license and the part I of your registrat
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What documents do you have to carry with you, if you want to drive a light motorcycle?**
 
 **Options:**
@@ -36553,6 +40031,8 @@ To drive you need to have your driver's license and the part I of your registrat
 #### Question 2.6.02-026
 
 **Points:** 2 Points
+
+**Licenses:** AM
 
 **What documents do you have to carry with you, if you want to drive a small-engined motorcycle?**
 
@@ -36575,6 +40055,8 @@ You are required to have all three documents, your driver's license, an insuranc
 
 **Points:** 2 Points
 
+**Licenses:** B, L, T
+
 **What documents do you have to carry with you, if you want to drive a compulsory registrable vehicle?**
 
 **Options:**
@@ -36595,6 +40077,8 @@ As a car driver, you must always have your driver's license and vehicle registra
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **Which of the following listed documents must you have with you, if you want to drive a passenger bus in occasional service within national boundaries?**
 
 **Options:**
@@ -36614,6 +40098,8 @@ Coming soon...
 #### Question 2.6.02-030
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, Mofa, A80
 
 **A technical modification to your vehicle means that the operating licence is extinguished. What consequences should you anticipate if you nevertheless use the vehicle on public roads?**
 
@@ -36636,6 +40122,8 @@ If you use your vehicle on public roads despite the expired operating license, y
 
 **Points:** 2 Points
 
+**Licenses:** L, T
+
 **What type of trailers used in agriculture and forestry do not have to have their own registration number?**
 
 **Options:**
@@ -36654,6 +40142,8 @@ Coming soon...
 #### Question 2.6.02-032
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **You want to transport hazardous goods, but have more than the permissible exempted allowance. What conditions must you fulfil in order to transport the goods?**
 
@@ -36674,6 +40164,8 @@ Because you have exceeded the quantitative restrictions, you need to for your li
 #### Question 2.6.02-034
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **What is the meaning of the numbers on a sign of this kind?**
 
@@ -36696,6 +40188,8 @@ These figures provide information about the transported hazardous goods. 33 is o
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **You would like to drive a truck with a gross vehicle weight rating of 8.0 t, which is carrying orange warning plates. Which of the following conditions do you have to fulfil?**
 
 **Options:**
@@ -36716,6 +40210,8 @@ With your truck with 8.0 t permissible gross weight, you must meet the following
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **An inspection has been performed because of a technical modification made to your vehicle. What are you obliged to do?**
 
 **Options:**
@@ -36734,6 +40230,8 @@ After the technical modification of a vehicle, an acceptance report is usually c
 #### Question 2.6.02-037
 
 **Points:** 3 Points
+
+**Licenses:** Mofa
 
 **The maximum design speed of a moped exceeds 25 km/h due to a prohibited technical modification. What are the consequences for me if I ride such a moped on public roads?**
 
@@ -36755,6 +40253,8 @@ As soon as you change anything on your vehicle without a general operating permi
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **An assessment is required following modifications to your vehicle. When must this be performed?**
 
 **Options:**
@@ -36773,6 +40273,8 @@ The assessment must be carried out immediately after the conversion.
 #### Question 2.6.02-039
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **What technical modification to a motorbike will generally void the issued operating licence?**
 
@@ -36793,6 +40295,8 @@ The original gear ratio of the pinion and sprocket is part of the operating lice
 #### Question 2.6.02-040
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **What technical modifications to a two-wheeler could result in the withdrawal of the vehicle’s type approval?**
 
@@ -36815,6 +40319,8 @@ The operating licence of your two-wheeler may lose its validity if, for example,
 
 **Points:** 2 Points
 
+**Licenses:** AM, Mofa
+
 **What is the latest date on which you must display the new proof of insurance on your two-wheeler in order to continue driving without any gap in your cover?**
 
 **Options:**
@@ -36833,6 +40339,8 @@ From 1 March 2023, the new insurance licence plates will become invalid. In orde
 #### Question 2.6.02-042
 
 **Points:** 3 Points
+
+**Licenses:** AM, Mofa
 
 **The validity of the insurance plate on your bike has expired. What are the consequences for its use on public roads?**
 
@@ -36855,6 +40363,8 @@ You are allowed to push your two-wheeler on a sidewalk without a valid insurance
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **The suspension of your motor vehicle has been lowered and an expert opinion must be obtained. When is this required?**
 
 **Options:**
@@ -36873,6 +40383,8 @@ If you lower a car you need this change on the chassis to be officially accepted
 #### Question 2.6.02-104
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You are holding a driving permit class B. Your car has the following specifications: - empty mass 1900 kg - permissible total mass 2400 kg - permissible towed load 1500 kg Which trailer are you allowed to tow?**
 
@@ -36893,6 +40405,8 @@ Regardless of the information, a vehicle plus a trailer may only have a restrict
 
 **Points:** 3 Points
 
+**Licenses:** C, C1E
+
 **You are holding a driving permit class C. Your truck has the following specifications: - empty mass 9000 kg - permissible total mass 18000 kg - permissible towed load 22000 kg Which trailer are you allowed to tow?**
 
 **Options:**
@@ -36911,6 +40425,8 @@ The trailer has a maximum authorized mass of 750 kg must not be exceeded for Cla
 #### Question 2.6.02-202
 
 **Points:** 3 Points
+
+**Licenses:** C1
 
 **You are holding a driving permit class C1. Your truck has the following specifications: - empty mass 3500 kg - permissible total mass 6200 kg - permissible towed load 9300 kg Which trailer are you allowed to tow?**
 
@@ -36931,6 +40447,8 @@ With these data your followers must not weigh over 750 kg more.
 
 **Points:** 3 Points
 
+**Licenses:** D, DE
+
 **You are holding a driving permit class D. Your bus has the following specifications: - empty mass 13000 kg - permissible total mass 18000 kg - permissible towed load 2000 kg Which trailer are you allowed to tow?**
 
 **Options:**
@@ -36950,6 +40468,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What is the maximum period for which a driving licence class D or D1 is issued?**
 
 **Options:**
@@ -36965,6 +40485,8 @@ Coming soon...
 #### Question 2.6.02-206
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What can result in your qualification as a bus driver having to be reviewed?**
 
@@ -36986,6 +40508,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **When does a driving permit class D or D1 lapse?**
 
 **Options:**
@@ -37004,6 +40528,8 @@ Coming soon...
 #### Question 2.6.02-209
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **When is a bus driver not allowed to drive?**
 
@@ -37026,6 +40552,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **All the seats on your bus are equipped with the prescribed safety belts. You are driving in non-regular traffic. What is correct?**
 
 **Options:**
@@ -37046,6 +40574,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **Which document do you have to carry with you for a bus in cross-border traffic within the EU states?**
 
 **Options:**
@@ -37064,6 +40594,8 @@ Coming soon...
 #### Question 2.6.02-225
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **What is regulated by the road haulage act?**
 
@@ -37085,6 +40617,8 @@ The road transport law regulates the paid transport of goods and the businesslik
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, C1E
+
 **You are performing a cross-border furniture removal operation. What transport document do you have to carry with you?**
 
 **Options:**
@@ -37103,6 +40637,8 @@ You have to carry the CMR at an international furniture transport. CRM is a CMR 
 #### Question 2.6.02-228
 
 **Points:** 2 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **You hold a certificate of approval in accordance with the passenger transportation law. When must this be carried during the occasional carriage of passengers?**
 
@@ -37124,6 +40660,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** C1
+
 **You carry out a household dissolution in return for payment. For moving the furniture you use a motor vehicle with a gross vehicle weight rating of 4.5 t. Do you need a permit under the Road Haulage Act in order to transport the load?**
 
 **Options:**
@@ -37142,6 +40680,8 @@ Since your truck has a maximum authorized mass of 3.5 t, you need at a furniture
 #### Question 2.6.02-230
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1
 
 **What should you note about the classes C, C1, D and D1 driving licence?**
 
@@ -37164,6 +40704,8 @@ All three answers are correct. The classes mentioned are all limited to a maximu
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, CE
+
 **You are to transport hazardous goods, but have more than the permissible exempted allowance. What proof must you carry with you to perform the transport?**
 
 **Options:**
@@ -37181,6 +40723,8 @@ All three answers are correct. The classes mentioned are all limited to a maximu
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1
+
 **Where will you find information on the validity period of your licence to drive?**
 
 **Options:**
@@ -37196,6 +40740,8 @@ All three answers are correct. The classes mentioned are all limited to a maximu
 #### Question 2.6.02-233
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1
 
 **What proof do you need to extend the period of validity of your driving licence?**
 
@@ -37216,6 +40762,8 @@ To extend the validity of your driving license, you will need a renewed proof of
 #### Question 2.6.02-234
 
 **Points:** 2 Points
+
+**Licenses:** C, C1
 
 **You are driving a lorry in commercial freight transport. What do you have to be able to prove on request?**
 
@@ -37243,6 +40791,8 @@ Carrying these documents is required by law and serves to ensure orderly and saf
 
 **Points:** 2 Points
 
+**Licenses:** C, C1
+
 **When do you need an authorisation to transport goods in accordance with the Road Haulage Act?**
 
 **Options:**
@@ -37261,6 +40811,8 @@ You only need this authorization for the transport of goods in commercial freigh
 #### Question 2.6.02-301
 
 **Points:** 2 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **When performing the occasional carriage of passengers, what document must you present for inspection by the competent persons upon demand?**
 
@@ -37282,6 +40834,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **As a bus driver, you carry passengers by means of a regular international services operation. What documents do you have to carry with you?**
 
 **Options:**
@@ -37301,6 +40855,8 @@ Coming soon...
 #### Question 2.6.02-403
 
 **Points:** 2 Points
+
+**Licenses:** L, T
 
 **Which requirements must be met so that a farm trailer is exempt from registration?**
 
@@ -37322,6 +40878,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** AM, Mofa
+
 **What are the consequences of an invalid insurance indicator on using a vehicle on public roads?**
 
 **Options:**
@@ -37340,6 +40898,8 @@ It is legally required to have an insurance to drive. Without one you are not al
 #### Question 2.6.02-407
 
 **Points:** 2 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **Which of the following listed documents must you have with you, if you want to drive a cross-border passenger bus within the EU?**
 
@@ -37360,6 +40920,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, C1E
+
 **How long is the validity period of an ADR Certificate detailing a driver's training for transporting hazardous goods?**
 
 **Options:**
@@ -37378,6 +40940,8 @@ The ADR certificate (the driver training for hazardous cargo) is valid for 5 yea
 #### Question 2.6.02-409
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, C1E
 
 **What duties do you have when driving a commercial freight transport vehicle?**
 
@@ -37399,6 +40963,8 @@ Your duties in a commercial freight are to take all necessary measures for secur
 
 **Points:** 3 Points
 
+**Licenses:** T
+
 **What vehicles - including with trailer - may be driven by someone even before their 18th birthday if they hold a Class T driving licence?**
 
 **Options:**
@@ -37418,6 +40984,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** T
+
 **What vehicles - including with trailer - may be driven by someone after their 18th birthday if they hold a Class T driving licence?**
 
 **Options:**
@@ -37436,6 +41004,8 @@ Coming soon...
 #### Question 2.6.02-412
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **What modifications to the vehicle could result in the license to drive it being cancelled?**
 
@@ -37457,6 +41027,8 @@ Changing the type of steering wheel or modifying the exhaust system impact the w
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, C1E
+
 **Which of the following regulations govern the road transport of hazardous goods?**
 
 **Options:**
@@ -37477,6 +41049,8 @@ These regulations govern the transport and are included in the Dangerous Goods O
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What is the period of validity of the authorisation for occasional passenger services (national) with coaches or buses?**
 
 **Options:**
@@ -37495,6 +41069,8 @@ Coming soon...
 #### Question 2.6.02-416
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, C1E
 
 **What proofs may be necessary for cross-border road haulage services?**
 
@@ -37520,6 +41096,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** B, L, T
+
 **What is the correct response if, when reversing a combination vehicle the view to the rear is impeded?**
 
 **Options:**
@@ -37538,6 +41116,8 @@ If you drive backwards with a vehicle combination and your view is restricted to
 #### Question 2.6.03-002
 
 **Points:** 2 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What is the period of validity of the authorisation for other occasional passenger services (national) with motor vehicles?**
 
@@ -37558,6 +41138,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **What is the maximum number of trailers allowed to be towed by a class B truck?**
 
 **Options:**
@@ -37573,6 +41155,8 @@ Only one trailer may be carried behind motor vehicles (class B). However, none f
 #### Question 2.6.03-102
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You are driving on a road with potholes and your trailer starts "jumping". What must you do?**
 
@@ -37592,6 +41176,8 @@ You should not accelerate any further as this would cause the trailer to build u
 #### Question 2.6.03-105
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What must you remember when you want to use a trailer with overrun brakes behind your car?**
 
@@ -37613,6 +41199,8 @@ Make sure that the breakaway cable is properly fastened. It has the effect that,
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **What is designated as towed load?**
 
 **Options:**
@@ -37631,6 +41219,8 @@ Only the actually dragged load is called trailer load, in other words the weight
 #### Question 2.6.03-111
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You want to pull a trailer. When do additional rear-view mirrors have be to attached to your motor vehicle?**
 
@@ -37651,6 +41241,8 @@ As a car driver you are responsible for a sufficient view of the vehicle. If vis
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **You want to tow a brake-equipped trailer. Where can you find details or guidelines on the permissible towable mass of your car?**
 
 **Options:**
@@ -37669,6 +41261,8 @@ The information on how much weight a towing vehicle can tow can be found in the 
 #### Question 2.6.03-113
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **You want to couple a trailer to your car. Where will you find details about the maximum permissible vertical loading of your car?**
 
@@ -37689,6 +41283,8 @@ Information about the permissible trailer load can be found in part 1 in the cer
 #### Question 2.6.03-114
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You want to pull a trailer. What must you be aware of?**
 
@@ -37711,6 +41307,8 @@ The manufacturer specifies how high the maximum drawbar load, the payload and th
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You are driving with a trailer on a road with potholes. Your combination vehicle begins to swing up. What must you do now?**
 
 **Options:**
@@ -37730,6 +41328,8 @@ By reducing the speed, you can prevent skidding.
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **What number of trailers may be towed behind a car?**
 
 **Options:**
@@ -37745,6 +41345,8 @@ According to StVZO § 32 a Carrying trailers: Only one trailer may be carried be
 #### Question 2.6.03-117
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **You want to hitch a trailer with a maximum authorised mass over 750 kg to your car. What must you ensure in this situation?**
 
@@ -37768,6 +41370,8 @@ After you have checked all the connections, you must also check the lighting bef
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You are driving a car with a fully loaded trailer equipped with overrun braking. What special aspect should be noted here?**
 
 **Options:**
@@ -37790,6 +41394,8 @@ The brake brake is only activated when the trailer on the towing vehicle. If you
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What should you note when driving a car after coupling a trailer caravan to it?**
 
 **Options:**
@@ -37810,6 +41416,8 @@ When overtaking, your overtaking path is extended by the length of the residenti
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You hold a Class B driving licence. What trailer are you allowed to tow?**
 
 **Options:**
@@ -37829,6 +41437,8 @@ Drivers with a category B driving licence may carry a trailer with a maximum per
 #### Question 2.6.03-121
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What can affect the driving stability of a towed trailer?**
 
@@ -37854,6 +41464,8 @@ A shock absorber that is already leaking can also have a negative impact on the 
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is the maximum permissible weight of a trailer behind a truck of 10 t permissible total mass with continuous brake system?**
 
 **Options:**
@@ -37872,6 +41484,8 @@ A trailer behind a truck with 10 tons maximum permissible weight with a continuo
 #### Question 2.6.03-302
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **Which masses (weights) must be applied in a ratio for the calculation of the maximum permissible towed load behind a truck (continuous brake system)?**
 
@@ -37892,6 +41506,8 @@ Here you have to calculate the maximum authorized mass of the truck to the actua
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is the maximum permissible towed load behind a truck (continuous brake system)?**
 
 **Options:**
@@ -37911,6 +41527,8 @@ The towable behind a truck must not be greater than 1.5 times the maximum mass o
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is the maximum permissible towed load behind a truck with a permissible total mass of 15 t (continuous brake system)?**
 
 **Options:**
@@ -37926,6 +41544,8 @@ The trailer load must not weigh more than 22.5 t, when you drive a truck with a 
 #### Question 2.6.03-306
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **What are the special features of semi-trailer trucks with short coupling systems?**
 
@@ -37948,6 +41568,8 @@ Here you have to consider all the special features. The cornering characteristic
 
 **Points:** 3 Points
 
+**Licenses:** CE, L, T
+
 **You want to couple on a multiple-axle trailer. What must you ensure?**
 
 **Options:**
@@ -37968,6 +41590,8 @@ If you want to Hitch a multiaxial trailer, you need the trailer from rolling awa
 
 **Points:** 3 Points
 
+**Licenses:** CE, L, T
+
 **You want to tow a trailer. What must you note regarding the electric cable between the towing vehicle and the trailer?**
 
 **Options:**
@@ -37986,6 +41610,8 @@ If you want to Hitch a multiaxial trailer, you need the trailer from rolling awa
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **What is the maximum number of trailers with overrun brakes and speed signs of 25 km/h you may tow with a truck tractor having a maximum speed of 32 km/h determined by its construction?**
 
 **Options:**
@@ -38002,6 +41628,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **What is the maximum speed you may drive with a combination of vehicles which consists of a truck and two trailers with overrun brakes?**
 
 **Options:**
@@ -38017,6 +41645,8 @@ Coming soon...
 #### Question 2.6.03-403
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **You wish to tow two trailers with overrun brakes, which are exempt from registration, with your agricultural truck tractor having a maximum speed of 32 km/h determined by its construction. What must you remember?**
 
@@ -38037,6 +41667,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **What is the maximum number of trailers with overrun brakes, exempt from registration, you may tow with a truck tractor having a maximum speed of 32 km/h determined by its construction?**
 
 **Options:**
@@ -38056,6 +41688,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** T
+
 **What is the maximum number of trailers with overrun brakes are you allowed to tow with a truck tractor when you intend to drive the truck/trailer combination at a speed of more than 25 km/h?**
 
 **Options:**
@@ -38071,6 +41705,8 @@ Coming soon...
 #### Question 2.6.03-406
 
 **Points:** 3 Points
+
+**Licenses:** B, L, T
 
 **A single-axle trailer has an actual gross weight of 600 kg. What is the minimum possible vertical load?**
 
@@ -38090,6 +41726,8 @@ The bearing load is the mass that rests on the coupling device of the towing veh
 #### Question 2.6.03-408
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **You are driving an agricultural tractor with a maximum design speed of 40 km/h. You want to tow a type-approval-exempt trailer behind this tractor. What must you bear in mind here?**
 
@@ -38111,6 +41749,8 @@ To increase the transport capacity, two trailers can be driven behind one tracto
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **You are driving an agricultural tractor with a maximum design speed of 40 km/h. You are permitted to tow what maximum number of trailers that have a maximum permissible speed of 25 km/h?**
 
 **Options:**
@@ -38129,6 +41769,8 @@ To increase the transport capacity, two trailers can be driven behind one tracto
 #### Question 2.6.04-202
 
 **Points:** 3 Points
+
+**Licenses:** C, C1E
 
 **What is the maximum number of hours you are allowed to drive a truck with a total permissible mass of 16 t within 2 weeks?**
 
@@ -38149,6 +41791,8 @@ A truck with a maximum mass of 16 t is allowed to draw just 90 hours over 2 week
 
 **Points:** 4 Points
 
+**Licenses:** C, C1E
+
 **You are driving a truck with a total permissible mass of 16 t. What is the required minimum rest period after 4 1/2 hours at the wheel before you proceed?**
 
 **Options:**
@@ -38167,6 +41811,8 @@ Trucks with a total mass of 16 t have to make at least 45 minutes rest after 4 1
 #### Question 2.6.04-205
 
 **Points:** 4 Points
+
+**Licenses:** C, C1E
 
 **What is the maximum permissible time at the wheel per day when driving a truck with a permissible total mass of 16 t?**
 
@@ -38187,6 +41833,8 @@ More than 56 hours a week you must not drive. Therefore, 9 hours twice a week an
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, C1E
+
 **What is the minimum daily rest period (without any reduction) when you are driving alone?**
 
 **Options:**
@@ -38205,6 +41853,8 @@ If you go alone, you have to 11 hours without reducing rest. Are you starting to
 #### Question 2.6.04-211
 
 **Points:** 3 Points
+
+**Licenses:** C1
 
 **What is the maximum number of hours you are allowed to spend at the wheel of a truck with a total permissible mass of 6 t within a period of 2 weeks?**
 
@@ -38225,6 +41875,8 @@ With your truck with a gross vehicle mass of 6 t you must steer within the highe
 
 **Points:** 4 Points
 
+**Licenses:** C1
+
 **You are driving a truck with a total permissible mass of 6 t. What is the required minimum rest period after 4 1/2 hours at the wheel before you proceed?**
 
 **Options:**
@@ -38243,6 +41895,8 @@ With your truck with a gross vehicle mass of 6 t you need after 4 1/2 hours cont
 #### Question 2.6.04-216
 
 **Points:** 4 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What is the maximum number of hours you are allowed to drive a bus without a break within the EU?**
 
@@ -38263,6 +41917,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What is the maximum time you are allowed to spend at the wheel per day?**
 
 **Options:**
@@ -38282,6 +41938,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What is the maximum number of hours you are allowed to spend at the wheel of a bus within the EU within a period of two weeks?**
 
 **Options:**
@@ -38297,6 +41955,8 @@ Coming soon...
 #### Question 2.6.04-219
 
 **Points:** 4 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **You are driving a bus in non-regular traffic within the EU. What is the required minimum break in the time spent at the wheel after 4 1/2 hours before you proceed?**
 
@@ -38317,6 +41977,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **You are driving in non-regular traffic. What is the minimum daily rest period (without any reduction) when you are driving alone?**
 
 **Options:**
@@ -38335,6 +41997,8 @@ Coming soon...
 #### Question 2.6.04-223
 
 **Points:** 4 Points
+
+**Licenses:** C1
 
 **You are driving a truck with a total permissible mass of 6 t. What are the required minimum breaks after a period at the wheel of 4 1/2 hours?**
 
@@ -38356,6 +42020,8 @@ With your truck with a gross vehicle mass of 6 t you need after 4 1/2 hours cont
 
 **Points:** 4 Points
 
+**Licenses:** C1
+
 **What constitutes a break from driving for a driver of a commercial freight transport truck with a gross vehicle weight rating of 6 t?**
 
 **Options:**
@@ -38375,6 +42041,8 @@ For you as a driver of your truck with a maximum authorized mass of 6 tonnes in 
 
 **Points:** 4 Points
 
+**Licenses:** D, D1
+
 **You are driving a bus used in the occasional carriage of passengers. After 4 1/2 hours of continuous driving, for how long must the driving time be interrupted, before you can continue driving again?**
 
 **Options:**
@@ -38388,6 +42056,8 @@ For you as a driver of your truck with a maximum authorized mass of 6 tonnes in 
 
 **Points:** 4 Points
 
+**Licenses:** C1
+
 **You are driving a truck with a maximum authorised mass of 6 t for commercial freight transport purposes. What is the latest time you must stop driving in order to take a break?**
 
 **Options:**
@@ -38400,6 +42070,8 @@ For you as a driver of your truck with a maximum authorized mass of 6 tonnes in 
 #### Question 2.6.04-227
 
 **Points:** 4 Points
+
+**Licenses:** C, C1
 
 **You are driving a truck with a maximum authorised mass of more than 3.5 t for commercial transport purposes. What period of time is deemed to constitute a driving break for you?**
 
@@ -38422,6 +42094,8 @@ Time spent by the driver in the passenger seat is also a break from driving.
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1
+
 **You are driving a vehicle in commercial freight or passenger transport. By when do you have to compensate for an abbreviated weekly rest period at the latest?**
 
 **Options:**
@@ -38441,6 +42115,8 @@ As a driver in commercial freight or passenger transport, you must compensate fo
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1
+
 **You are driving a vehicle in commercial freight or passenger transport. What is the minimum duration of a regular weekly rest period without any reduction?**
 
 **Options:**
@@ -38457,6 +42133,8 @@ The regulation requires drivers to have a regular rest period of at least 45 hou
 
 **Points:** 3 Points
 
+**Licenses:** C, C1
+
 **Who is subject to driving and rest periods when transporting goods commercially?**
 
 **Options:**
@@ -38472,6 +42150,8 @@ The driving and rest times apply to drivers of vehicles over 2.8 tonnes; these r
 #### Question 2.6.04-302
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **What is the maximum number of hours you are allowed to spend at the wheel of a truck and trailer with a total permissible mass of 24 t within 2 weeks?**
 
@@ -38492,6 +42172,8 @@ Within 2 weeks you are allowed a maximum of driving 90 hours if you steer a truc
 
 **Points:** 4 Points
 
+**Licenses:** CE
+
 **What is the maximum number of hours a day you are allowed to drive a truck and trailer with a permissible total mass of 24 t?**
 
 **Options:**
@@ -38510,6 +42192,8 @@ The allowable daily driving period (24 t permissible total mass) is 9 hours, twi
 #### Question 2.6.04-307
 
 **Points:** 4 Points
+
+**Licenses:** CE
 
 **You are driving a truck and trailer with a total permissible mass of 24 t. What is the required minimum rest period after 4 1/2 hours at the wheel before you proceed?**
 
@@ -38531,6 +42215,8 @@ After 4 1/2 hours, you need a break of 45 minutes, make or break of 30 minutes i
 
 **Points:** 4 Points
 
+**Licenses:** C, C1E
+
 **If you are driving a truck with a gross vehicle weight rating of 16 t, you have to take a break after how many hours at the wheel?**
 
 **Options:**
@@ -38549,6 +42235,8 @@ Rule of thumb: Always half the daily driving time. Since this is 9 hours, the an
 #### Question 2.6.04-311
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **Who is subject to prescribed commercial freight transport driving and rest?**
 
@@ -38569,6 +42257,8 @@ For drivers carrying commercial goods are basically driving and rest periods for
 
 **Points:** 4 Points
 
+**Licenses:** C1
+
 **If you are driving a truck with a gross vehicle weight rating of 6 t, you have to take a break after how many hours at the wheel?**
 
 **Options:**
@@ -38587,6 +42277,8 @@ For you in your truck with a gross vehicle weight of 6 tons, you need the ride a
 #### Question 2.6.04-313
 
 **Points:** 4 Points
+
+**Licenses:** CE
 
 **If you are driving an articulated vehicle with a gross vehicle weight rating of 20 t, you have to take a break after how many hours at the wheel?**
 
@@ -38607,6 +42299,8 @@ With a total weight of 20 t of your saddle vehicle you need after 4.5 hours take
 
 **Points:** 4 Points
 
+**Licenses:** C1
+
 **How many hours is the permissible daily driving time if you are driving a truck with a gross vehicle weight rating of 6 t for the commercial transport of goods?**
 
 **Options:**
@@ -38625,6 +42319,8 @@ The permitted daily driving time with your truck with a maximum authorized mass 
 #### Question 2.6.04-315
 
 **Points:** 4 Points
+
+**Licenses:** C, C1E
 
 **What constitutes a break from driving for a driver of a commercial freight transport truck with a gross vehicle weight rating of 16 t?**
 
@@ -38645,6 +42341,8 @@ Breaks and rest periods are considered stop-over. While changing a wheel or help
 
 **Points:** 4 Points
 
+**Licenses:** CE
+
 **What constitutes a break from driving for a driver of a commercial freight transport truck with a gross vehicle weight rating of 24 t?**
 
 **Options:**
@@ -38663,6 +42361,8 @@ With a total weight of 24 tonnes in commercial goods traffic you need to keep yo
 #### Question 2.6.04-317
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, C1E
 
 **You are driving a commercial freight transport truck with a gross vehicle weight rating in excess of 3.5 t. After a driving period of 4 1/2 hours, what is the minimum break you have to take before setting off again?**
 
@@ -38684,6 +42384,8 @@ The driving period interruption is your recovery. 45 minutes and if you advance 
 
 **Points:** 4 Points
 
+**Licenses:** CE
+
 **You are driving a semi-trailer truck with a gross vehicle weight rating of 24 t for commercial freight transport purposes. What is the minimum break you are required to take, if you have already been driving for an uninterrupted period of 4 1/2 hours?**
 
 **Options:**
@@ -38700,6 +42402,8 @@ After 4 1/2 hours of continuous driving, you need to take a break of 45 minutes.
 
 **Points:** 4 Points
 
+**Licenses:** CE
+
 **You are driving a combination vehicle with a maximum authorised combination mass of 24 t. What is the longest time before you must interrupt your driving time for a break?**
 
 **Options:**
@@ -38715,6 +42419,8 @@ After 4 1/2 hours of continuous driving, you need to take a break of 45 minutes.
 #### Question 2.6.05-216
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What is the purpose of the driver’s card?**
 
@@ -38737,6 +42443,8 @@ With the driver card all activities of the trip will be stored. It serves as pro
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **Which data can the police access on the control card?**
 
 ![Question Image](images/2_6_05-217.png)
@@ -38757,6 +42465,8 @@ The police with the control card access to all stored data. Within your driver c
 #### Question 2.6.05-219
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **When do you have to notify the loss of a driver’s card?**
 
@@ -38779,6 +42489,8 @@ The loss of the driver card must be reported immediately. Not tomorrow or the da
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **When are controlling police officers allowed to withhold a driver’s card?**
 
 ![Question Image](images/2_6_05-220.png)
@@ -38799,6 +42511,8 @@ If control officer a driver card to be presented with a different driver, you wi
 #### Question 2.6.05-221
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What do you have to submit when applying for a driver’s card?**
 
@@ -38822,6 +42536,8 @@ Both the driving license be presented as a photograph shall so your permission a
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What does the tachograph record?**
 
 ![Question Image](images/2_6_05-226.png)
@@ -38844,6 +42560,8 @@ With the control device (tachograph), the driving time and the driving speed is 
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **How are loading times to be proven with this tachograph prior to departure?**
 
 ![Question Image](images/2_6_05-227.png)
@@ -38864,6 +42582,8 @@ By entering into the tachograph (control device) you can demonstrate to the sati
 #### Question 2.6.05-228
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What is the purpose of Slot 2 of this tachograph?**
 
@@ -38889,6 +42609,8 @@ If a second driver mitfährt, the second slot to be used for the tachograph. Thi
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, CE, L, T
+
 **When operating a vehicle, what must you observe regarding the vehicle height?**
 
 **Options:**
@@ -38910,6 +42632,8 @@ Before starting your journey, you should find out about the actual height of the
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1
+
 **What is the permissible payload?**
 
 **Options:**
@@ -38930,6 +42654,8 @@ The permissible payload - i.e. the weight you can load - is unfortunately not to
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **What is the maximum permitted length of a car and trailer vehicle combination, without a protruding load?**
 
 **Options:**
@@ -38945,6 +42671,8 @@ Without a load, your car can be up to 18.00 m long.
 #### Question 2.6.06-104
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, CE, L, T
 
 **What applies to the operation of vehicles with regard to the height of the vehicle, including the height of the load?**
 
@@ -38967,6 +42695,8 @@ If the load extends beyond the outline of the vehicle, you will need to determin
 
 **Points:** 3 Points
 
+**Licenses:** C1, L, T
+
 **What is the maximum length allowed for a combination of vehicles comprising a motor vehicle and a trailer including load?**
 
 **Options:**
@@ -38985,6 +42715,8 @@ A train consisting of a motor vehicle and a trailer, including the charge may be
 #### Question 2.6.06-202
 
 **Points:** 2 Points
+
+**Licenses:** C, D, C1E, DE
 
 **When does the speed limiter have to be tested?**
 
@@ -39006,6 +42738,8 @@ The test of the overspeed is & prescribed fuel supply means after each change of
 
 **Points:** 2 Points
 
+**Licenses:** C, D, C1E, DE
+
 **Who is allowed to issue a certificate on the testing of a speed limiter?**
 
 **Options:**
@@ -39026,6 +42760,8 @@ A certificate of testing a speed limiter shall not issue the authorized by an au
 
 **Points:** 3 Points
 
+**Licenses:** D, DE
+
 **You only have a Class B and D driving licence and want to pull a trailer behind your bus. What is the maximum permissible mass that the trailer is not allowed to exceed?**
 
 **Options:**
@@ -39044,6 +42780,8 @@ Coming soon...
 #### Question 2.6.06-205
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must you reckon with when all passengers carry luggage in a fully occupied coach?**
 
@@ -39065,6 +42803,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What must you consider when driving your bus through narrow passageways?**
 
 **Options:**
@@ -39085,6 +42825,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D1, D1E
+
 **You only have a Class B and D1 driving licence. Your bus has the following data: - empty mass 5,000 kg - permissible total mass 7,500 kg - permissible towed load 2,000 kg What is the permissible total mass of a trailer you are pulling?**
 
 **Options:**
@@ -39103,6 +42845,8 @@ Coming soon...
 #### Question 2.6.06-211
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **What must you be aware of when driving your lorry through narrow passageways?**
 
@@ -39124,6 +42868,8 @@ You should make sure that the exterior mirrors protrude above the specified in t
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **When are you allowed to remain on the left-hand lane in this situation?**
 
 ![Question Image](images/2_6_06-213.png)
@@ -39144,6 +42890,8 @@ The traffic sign indicates how wide your vehicle may be, including the outside m
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What vehicle documents contain information about the dimensions of your bus?**
 
 **Options:**
@@ -39162,6 +42910,8 @@ Coming soon...
 #### Question 2.6.06-216
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What do you have to be aware of in this situation?**
 
@@ -39185,6 +42935,8 @@ The upper traffic sign indicates that the roadway is narrowing to the width indi
 
 **Points:** 2 Points
 
+**Licenses:** CE
+
 **What is the maximum permissible length of a combination of a truck and one trailer if a load does not project backward?**
 
 **Options:**
@@ -39203,6 +42955,8 @@ A train consisting of a truck and a trailer, without protruding the charge may b
 #### Question 2.6.06-302
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **What is the maximum permissible total mass of an articulated motor vehicle (two-axle truck tractor, three-axle semitrailer, not combined traffic)?**
 
@@ -39223,6 +42977,8 @@ The maximum authorized mass in an articulated vehicle shall not exceed 40 t be d
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is the maximum permissible total mass of an articulated motor vehicle (three-axle truck tractor, three-axle semitrailer) in combined traffic with 40 feet ISO containers?**
 
 **Options:**
@@ -39241,6 +42997,8 @@ The permitted total weight with an articulated vehicle which in 3 axes of the tr
 #### Question 2.6.06-304
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **What total mass must a truck with trailer (two-axle truck, three-axle trailer, not combined traffic) not exceed?**
 
@@ -39261,6 +43019,8 @@ The total mass in a train (two-axle truck, three-axle trailer, no combined trans
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **How can you check by calculation whether the combination of an articulated motor vehicle (semitrailer load = vertical load) exceeds the permissible total mass of the combination of vehicles?**
 
 **Options:**
@@ -39279,6 +43039,8 @@ You can mathematically that the maximum mass of the tractor plus determine the m
 #### Question 2.6.06-306
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **You are combining a semitrailer motor vehicle with 5 axles (not combined traffic). The following vehicle data are known to you:
 Permissible total mass (Truck tractor) = 25 t
@@ -39303,6 +43065,8 @@ The operation of this combination is permitted if you t at least three renounce 
 
 **Points:** 2 Points
 
+**Licenses:** CE
+
 **What is the maximum length allowed for a combination of vehicles comprising a lorry and two-axle trailer including load?**
 
 **Options:**
@@ -39318,6 +43082,8 @@ Your train consisting of a truck and two-axle, and its load may be more than 20,
 #### Question 2.6.06-308
 
 **Points:** 2 Points
+
+**Licenses:** CE, T
 
 **How do you determine the maximum authorised combination mass of a vehicle combination consisting of a towing vehicle with rigid drawbar trailer?**
 
@@ -39339,6 +43105,8 @@ Maximum authorised mass of the towing vehicle plus the maximum authorised mass o
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **What is the maximum permissible width of this truck tractor with mounted implement?**
 
 ![Question Image](images/2_6_06-401.png)
@@ -39356,6 +43124,8 @@ Coming soon...
 #### Question 2.6.06-402
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **What is the maximum permissible dimension X for truck tractors?**
 
@@ -39378,6 +43148,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **What is the maximum permissible dimension X for agricultural truck tractors?**
 
 ![Question Image](images/2_6_06-403.png)
@@ -39399,6 +43171,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **What is the maximum permissible length of the truck and trailer with load?**
 
 ![Question Image](images/2_6_06-404.png)
@@ -39416,6 +43190,8 @@ Coming soon...
 #### Question 2.6.06-405
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **From which width onwards must truck tractors be equipped with these warning plates?**
 
@@ -39435,6 +43211,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** L, T
+
 **What is the maximum permissible length of dimension X?**
 
 ![Question Image](images/2_6_06-406.png)
@@ -39452,6 +43230,8 @@ Coming soon...
 #### Question 2.6.06-407
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, C1E
 
 **The Road Haulage Act applies to commercial haulage vehicles or vehicle combinations in excess of what gross vehicle weight rating?**
 
@@ -39471,6 +43251,8 @@ From a maximum mass of 3.5 t for motor vehicles or vehicle combinations with bus
 #### Question 2.6.06-408
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **The validity period of one of your driving licence classes has expired. What are the consequences of this?**
 
@@ -39495,6 +43277,8 @@ The consequences are the driving motor vehicles in this class is prohibited and 
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, A80
+
 **What must you be aware of when using navigation systems and road maps?**
 
 **Options:**
@@ -39514,6 +43298,8 @@ When using a navigation system, you should be aware that even current content ca
 #### Question 2.6.07-101
 
 **Points:** 2 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **What must you be aware of when route planning abroad?**
 
@@ -39536,6 +43322,8 @@ Before driving, find out which regulations apply abroad.
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What must you take into account when planning routes?**
 
 **Options:**
@@ -39556,6 +43344,8 @@ For your route planning please pay attention to possible traffic delays due to r
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **Can information in road maps deviate from actual conditions?**
 
 **Options:**
@@ -39575,6 +43365,8 @@ Road maps may be shortly overhauled after the release and outdated. Eighth pleas
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What does the scale 1:300,000 on a road map tell you?**
 
 **Options:**
@@ -39593,6 +43385,8 @@ This standard says that 1 centimeter equals on the road map 3 kilometers.
 #### Question 2.6.07-209
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **You are driving along the autobahn and want to go directly to Unterbach. Where do you leave the autobahn?**
 
@@ -39615,6 +43409,8 @@ If you want to Unterbach, you should exit onto the highway exit Dusseldorf / Erk
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **You want to drive your vehicle from Hamburg to Rome. Which map scale should you use for initial overall planning?**
 
 **Options:**
@@ -39633,6 +43429,8 @@ When your trip from Hamburg to Rome you can with the scale of 1: 500,000 to carr
 #### Question 2.6.07-212
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **Which information is given by the key on a roadmap?**
 
@@ -39654,6 +43452,8 @@ A legend of a road map provides you an explanation of the symbols and characters
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **Autobahn numbers have the following meanings:**
 
 **Options:**
@@ -39674,6 +43474,8 @@ The numbering on motorways mean: Regional highways leading three-digit numbers, 
 
 **Points:** 3 Points
 
+**Licenses:** C, CE, C1E
+
 **You want to drive your truck with a total permissible mass of more than 7.5 t on the autobahn from Hanover to Munich. Which average speed can you reckon with?**
 
 **Options:**
@@ -39692,6 +43494,8 @@ With your trucks over 7.5 t permissible total mass on the highway from Hannover 
 #### Question 2.6.07-216
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **You want to transport live animals over a large distance. What do you have to consider when planning the route?**
 
@@ -39714,6 +43518,8 @@ If you want to transport live animals over long distances, you should consider w
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **You want to establish a route plan to drive from Frankfurt (Oder) to Kiel. You have to exchange loads at different intermediate stops. Which information is necessary to plan your route in terms of roads and time?**
 
 **Options:**
@@ -39733,6 +43539,8 @@ In your directions from Frankfurt (Oder) to Kiel, with different intermediate st
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **You are planning your trip using a road map with a scale of 1:200,000. 1 cm on the map corresponds to how many kilometres in reality?**
 
 **Options:**
@@ -39751,6 +43559,8 @@ In your planning with a road map with a scale of 1: 200,000 corresponds to 1 cm 
 #### Question 2.6.07-219
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What must you be aware of when using a navigation system in the vehicle?**
 
@@ -39773,6 +43583,8 @@ When using a navigation system, please note that the information issued are reco
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, T, C1E, D1E, DE
+
 **What activities could pose a highly risky distraction while driving?**
 
 **Options:**
@@ -39794,6 +43606,8 @@ All three activities distract the car driver from traffic during the journey. Th
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **Why do the driving and rest periods have to be taken into account in the route planning?**
 
 **Options:**
@@ -39813,6 +43627,8 @@ to be considered for route planning on driving and rest periods is important bec
 #### Question 2.6.07-222
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What should be taken into account with the route planning?**
 
@@ -39835,6 +43651,8 @@ You should take into account the driving and rest times for your route planning,
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What must be observed when using an electronic navigation device?**
 
 **Options:**
@@ -39854,6 +43672,8 @@ please check if a map update was carried out at regular intervals and the goal s
 #### Question 2.6.07-224
 
 **Points:** 2 Points
+
+**Licenses:** C, C1
 
 **What should you factor in when planning your route?**
 
@@ -39876,6 +43696,8 @@ When planning the route, you should consider all 3 answers. The driving and rest
 
 **Points:** 2 Points
 
+**Licenses:** D, D1
+
 **What should you factor in when planning your route?**
 
 **Options:**
@@ -39895,6 +43717,8 @@ When planning your route, you should take into account the driving and rest time
 #### Question 2.6.07-226
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE
 
 **What should be observed in relation to route planning?**
 
@@ -39917,6 +43741,8 @@ When planning your route, you should be aware of possible traffic obstructions d
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE
+
 **You are transporting general cargo. What should be noted in relation to route planning?**
 
 **Options:**
@@ -39938,6 +43764,8 @@ When transporting general cargo, you should consider all 3 answers. The order of
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, D, D1
+
 **What should you note when using your navigation system?**
 
 **Options:**
@@ -39954,6 +43782,8 @@ When transporting general cargo, you should consider all 3 answers. The order of
 #### Question 2.6.07-229
 
 **Points:** 2 Points
+
+**Licenses:** C, C1
 
 **What must you note when driving in other European countries in winter?**
 
@@ -39979,6 +43809,8 @@ When transporting general cargo, you should consider all 3 answers. The order of
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **Your motorcycle is fully loaded. How do you drive down a long mountain pass road?**
 
 **Options:**
@@ -39998,6 +43830,8 @@ When driving down over a long period of time, your brakes are at risk to overhea
 #### Question 2.7.01-009
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **When is there a danger of the motorcycle's front wheel lifting off the road?**
 
@@ -40019,6 +43853,8 @@ Fast and sudden accelerations could lead to the front wheel lifting off the road
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You have changed the motorcycle. For the first time, you are driving a motorcycle with fairings. What is different?**
 
 **Options:**
@@ -40038,6 +43874,8 @@ Fairings do not decrease the danger of falling. However, it increases the sensit
 #### Question 2.7.01-018
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What must you particularly remember when carrying side-mounted cases or bags?**
 
@@ -40059,6 +43897,8 @@ Adding luggage to your motorcycle will impact its behavior on the road. Make sur
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What happens if you engage too low a gear and quickly release the clutch when driving at high speed?**
 
 **Options:**
@@ -40079,6 +43919,8 @@ If you engage a gear that is too low and release the clutch, your motorcycle wil
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What must you check on your motorcycle before you set off?**
 
 **Options:**
@@ -40098,6 +43940,8 @@ Before starting to drive, make sure that the rearview mirrors are correctly inst
 #### Question 2.7.01-022
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **When do you have to increase tyre pressure?**
 
@@ -40120,6 +43964,8 @@ Tire pressure need to be increased if driving with more weight (additional passe
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What must you remember when taking a passenger?**
 
 **Options:**
@@ -40139,6 +43985,8 @@ A passenger increases the weight on your motorcycle. This makes accelerating and
 #### Question 2.7.01-024
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What must you do to be ready to brake?**
 
@@ -40160,6 +44008,8 @@ By placing your hand on the handbrakes and foot over the brake pedal you improve
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **Why does the rear wheel of a motorcycle tend to lock when braking rather than the front wheel?**
 
 **Options:**
@@ -40178,6 +44028,8 @@ When breaking, more weight is applied on the front wheel and less on the back wh
 #### Question 2.7.01-026
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What is correct when driving round bends on downhill slopes?**
 
@@ -40199,6 +44051,8 @@ When going downhill you need to break more than on bends on flat areas. You shou
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **You are driving round a bend at a brisk pace which is tighter than you first thought. What do you do?**
 
 **Options:**
@@ -40218,6 +44072,8 @@ In this situation, making a sharp steering movement will be dangerous and could 
 #### Question 2.7.01-028
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What must you particularly remember when raising motorcycles onto their stands (centre stands)?**
 
@@ -40239,6 +44095,8 @@ To avoid the motorcycle to tip over or fall, you must ensure that the ground is 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **Why is the rule of having to adapt your driving to your visibility particularly important in bends?**
 
 **Options:**
@@ -40258,6 +44116,8 @@ In a bend, there is limited visibility due to the curvature of the road. You sho
 #### Question 2.7.01-030
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **How can you counteract centrifugal force?**
 
@@ -40279,6 +44139,8 @@ The centrifugal force can be either reduced by driving at a slower speed or be c
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What can happen if a motorcycle is accelerated rapidly?**
 
 **Options:**
@@ -40299,6 +44161,8 @@ Accelerating while turning will increase the centrifugal force which will increa
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What must be changed before driving with a heavy load?**
 
 **Options:**
@@ -40318,6 +44182,8 @@ When driving with heavy loads, make sure to increase the tire pressure and adjus
 #### Question 2.7.01-033
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **Which checks are particularly important before setting off?**
 
@@ -40340,6 +44206,8 @@ All three are important to check before starting to drive. Make sure your visor 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **In which cases should you apply the brakes only very carefully?**
 
 **Options:**
@@ -40361,6 +44229,8 @@ You should break carefully on slippery surfaces such as wet roads, tram tracks, 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **What is the normal braking procedure for motorcycles?**
 
 **Options:**
@@ -40379,6 +44249,8 @@ You should apply both brakes which will result in a shorter stopping distance th
 #### Question 2.7.01-036
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **Why must both brakes on a motorcycle always be in perfect working order?**
 
@@ -40400,6 +44272,8 @@ Both brakes are required to function in case one of them suddenly fail, the othe
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **Is there a difference in the tendency of the wheels to lock?**
 
 **Options:**
@@ -40419,6 +44293,8 @@ When breaking, more weight is applied on the front wheel and less on the back wh
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **Is there a difference in the braking action?**
 
 **Options:**
@@ -40437,6 +44313,8 @@ When breaking, more weight is applied on the front wheel and less on the back wh
 #### Question 2.7.01-039
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, Mofa, A80
 
 **You come unexpectedly upon a stretch of road with loose chippings. What do you do?**
 
@@ -40458,6 +44336,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** AM, Mofa
+
 **Your vehicle was parked for a long time in the open in moist weather. What must you reckon with when applying the brakes for the first time?**
 
 **Options:**
@@ -40477,6 +44357,8 @@ When wet, brakes are less effective and the wheels will have a tendency to lock 
 #### Question 2.7.01-041
 
 **Points:** 4 Points
+
+**Licenses:** Mofa
 
 **What can be the reason for a motorized bicycle skidding on bends?**
 
@@ -40499,6 +44381,8 @@ Skidding risk is increases because of slippery surfaces such as wet road, ice, s
 
 **Points:** 4 Points
 
+**Licenses:** Mofa
+
 **When does the braking distance increase?**
 
 **Options:**
@@ -40519,6 +44403,8 @@ The heavier the vehicle, the longer will be the braking distance. Downward slope
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What particular characteristics of disc brakes must you remember when driving on a wet road surface?**
 
 **Options:**
@@ -40536,6 +44422,8 @@ As a car driver you have to take into account that when the street is wet the ef
 #### Question 2.7.01-044
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What increases the danger of "flying out" of a bend when driving at high speed?**
 
@@ -40557,6 +44445,8 @@ Decelerating or accelerating your car will result in less steering effort. As a 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, L, T, A80
+
 **What must you take into consideration when checking tyre pressure?**
 
 **Options:**
@@ -40577,6 +44467,8 @@ When checking tire pressure, you must also take into account the temperature and
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, T, A80
+
 **You drive round a bend once at 30 km/h and again at 60 km/h. How does the centrifugal force change?**
 
 **Options:**
@@ -40595,6 +44487,8 @@ The centrifugal force quadruples when the speed is doubled, that is, when you ta
 #### Question 2.7.01-047
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, T, A80
 
 **What increases the effect of centrifugal force on the vehicle when driving round bends?**
 
@@ -40616,6 +44510,8 @@ The speed has an immediate effect on the level of centrifugal force. Your brakin
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You are driving a motorcycle with sidecar on the right. Which driving technique must you use on bends?**
 
 **Options:**
@@ -40636,6 +44532,8 @@ Driving with a sidecar increase your weight, you thus need to go slower when tur
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **Where should a passenger on a motorcycle with sidecar sit to reduce the risk of tipping over on bends?**
 
 **Options:**
@@ -40654,6 +44552,8 @@ In order to keep a motorcycle with a sidecar stable, the weight should be equaly
 #### Question 2.7.01-050
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What can you do if the sidecar lifts off the ground on a right-hand bend when you are driving a motorcycle and sidecar (sidecar on the right)?**
 
@@ -40675,6 +44575,8 @@ When turning right, a torque force will push the sidecar up. To reduce this torq
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What can happen to a motorcycle with a sidecar attached on the right when driving too fast round a right-hand bend?**
 
 **Options:**
@@ -40692,6 +44594,8 @@ When turning right, a torque force will push the sidecar up. At high speed the s
 #### Question 2.7.01-052
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **So far, you have only driven solo motorcycles. You now change over to a combination (sidecar on the right, unbraked). How does driving differ?**
 
@@ -40713,6 +44617,8 @@ As the sidecar is attached to your right, you cannot lean right and need to stee
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **So far, you have only driven solo motorcycles. You now change over to a combination (sidecar on the right, unbraked). What is different?**
 
 **Options:**
@@ -40733,6 +44639,8 @@ As the sidecar is attached to your right, you cannot lean right and need to stee
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What should you know about using the emergency operation of bus doors?**
 
 **Options:**
@@ -40752,6 +44660,8 @@ Coming soon...
 #### Question 2.7.01-055
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What can happen if you accelerate very rapidly when moving off on your motorbike?**
 
@@ -40774,6 +44684,8 @@ Fast and sudden accelerations could lead to the front wheel lifting off the road
 
 **Points:** 4 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **You are driving a local transport bus and want to drive away from a bus stop. What must you look out for?**
 
 **Options:**
@@ -40795,6 +44707,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **You are driving in the wet in a car with trailer on a narrow rural road and are approaching a clearly visible but tight left-hand bend. What should you do?**
 
 **Options:**
@@ -40814,6 +44728,8 @@ Decrease your speed before the turn. Take the weather conditions into account. K
 #### Question 2.7.01-060
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What do you have to pay attention to, when jacking up a motorbike on its centre stand?**
 
@@ -40835,6 +44751,8 @@ Setting a motorcycle on its centre stand requires more effort and can be difficu
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What should you do if your motorbike starts to wobble?**
 
 **Options:**
@@ -40854,6 +44772,8 @@ If your motorcycle starts to wobble, decelerate, disengage the clutch and brake.
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You are driving a motorbike equipped with an anti-lock braking system (ABS). How do you perform an emergency braking manoeuvre?**
 
 **Options:**
@@ -40872,6 +44792,8 @@ Breaking both foot and hand brake will result in the shortest stopping distance.
 #### Question 2.7.01-063
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, C1E, D1E, DE, A80
 
 **How can driver assistance systems be helpful?**
 
@@ -40893,6 +44815,8 @@ Driver assistance systems assist the car driver and increase traffic safety when
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What must you be aware of, if you have to brake sharply while in a bend?**
 
 **Options:**
@@ -40913,6 +44837,8 @@ If you have to brake sharply in a curve, make sure that your motorcycle straight
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, L, T, A80
+
 **What must you be aware of when driving a quad?**
 
 **Options:**
@@ -40932,6 +44858,8 @@ Reduce speed when turning, as quads tend to tip over due to their high centre of
 #### Question 2.7.01-066
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, AM, B, L, T, A80
 
 **What should be observed when driving a quad?**
 
@@ -40954,6 +44882,8 @@ The quad has no steering assistance, so steering may be more difficult than driv
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **You are driving a motorbike with a manual gearbox. What do you have to do in order to be ready to brake?**
 
 **Options:**
@@ -40973,6 +44903,8 @@ Put your foot and hand already over the brake levers to initiate the braking pro
 #### Question 2.7.01-068
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **You want to use a carrying case or pannier affixed to the side of your motorcycle. What must you be especially aware of?**
 
@@ -40995,6 +44927,8 @@ Make sure that the weight is evenly distributed to stabilise the driving behavio
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **Your motorbike is equipped with a traction control system (TCS). What is the system designed to do?**
 
 **Options:**
@@ -41013,6 +44947,8 @@ Slippage" is the sudden increase in the speed of a drive wheel when it loses gri
 #### Question 2.7.01-070
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, A80
 
 **You are driving around a bend in the road, and the turning radius becomes smaller as the bend progresses. You had reckoned that the turning radius would be larger. How must you now react?**
 
@@ -41035,6 +44971,8 @@ You can also increase the lean angle in the bend so that you can take tighter be
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What should you take into account when you have to brake unexpectedly sharply while driving around a road bend?**
 
 **Options:**
@@ -41054,6 +44992,8 @@ When you brake in a bend, your motorbike is lifted up by the force of inertia. Y
 #### Question 2.7.01-072
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **In bends with poor road conditions, what increases the risk of skidding?**
 
@@ -41078,6 +45018,8 @@ This is because the tyres cannot apply the same force to the road and you lose g
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You are travelling along a winding road with a steep gradient. Your motorbike is fully loaded. What is the right course of action?**
 
 **Options:**
@@ -41098,6 +45040,8 @@ Use the front and rear brakes evenly and try to use the braking effect of the mo
 #### Question 2.7.01-074
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **When is there a risk that the front wheel of the motorbike will lose contact with the carriageway?**
 
@@ -41120,6 +45064,8 @@ A passenger also shifts the weight to the rear when speeding up. This weight shi
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What might happen if you shift to a low gear while travelling at a high speed?**
 
 **Options:**
@@ -41139,6 +45085,8 @@ The sudden, rapid increase in engine speed when engaging the clutch creates a br
 #### Question 2.7.01-076
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, A80
 
 **How should you respond if your motorbike begins to wobble?**
 
@@ -41160,6 +45108,8 @@ By reducing the speed immediately, you can reduce swaying and increase driving s
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What is the purpose of an emergency stop switch on a motorbike?**
 
 **Options:**
@@ -41179,6 +45129,8 @@ The emergency stop switch switches off the engine. You can use it to switch off 
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **What applies to the effectiveness of the front and rear wheel brakes, especially at higher speeds?**
 
 **Options:**
@@ -41197,6 +45149,8 @@ When braking, the weight shifts forward, which puts greater strain on the front 
 #### Question 2.7.01-079
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What can cause a motorcycle to oscillate at high speed?**
 
@@ -41220,6 +45174,8 @@ If you have a heavy load on the rear of your motorcycle, there will be less weig
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What changes when a caravan trailer is towed?**
 
 **Options:**
@@ -41239,6 +45195,8 @@ If you drive with a caravan, not only does it increase the risk of skidding, the
 #### Question 2.7.01-103
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What changes in a car when towing a two-axle trailer?**
 
@@ -41260,6 +45218,8 @@ The combination of car and trailer requires more space when driving on bends and
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **You are in your car towing a trailer on a road with oncoming traffic and want to turn left. What must you particularly remember when you set off again?**
 
 **Options:**
@@ -41279,6 +45239,8 @@ With a trailer you have a lower accelerating ability, changed mass and a greater
 #### Question 2.7.01-105
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **You are in your car towing a trailer which has no brakes and you approach a long steep downhill slope. What is correct?**
 
@@ -41300,6 +45262,8 @@ Reduce your speed on time. Us a gear as low as possible. The thus activated engi
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What must you check on a car with a caravan trailer before setting out on a journey?**
 
 **Options:**
@@ -41320,6 +45284,8 @@ Caravans restrict the view to the back. Therefore, you must check before the sta
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You are in your car towing a fully loaded trailer which has no brakes. What is correct?**
 
 **Options:**
@@ -41338,6 +45304,8 @@ Note that a fully loaded trailer without its own brake extends the braking dista
 #### Question 2.7.01-109
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You want to tow a singe-axle caravan trailer behind your car. What must you check?**
 
@@ -41359,6 +45327,8 @@ The caravan reduces the view to the back. You as a car driver have to check whet
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You want to set off in an automatic car (hydraulic converter). What must you know?**
 
 **Options:**
@@ -41377,6 +45347,8 @@ If you give a "go" with an engaged gear as a car driver in a vehicle with automa
 #### Question 2.7.01-111
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What must you remember with regard to tyre pressure?**
 
@@ -41398,6 +45370,8 @@ By regularly checking the air pressure of the tires, tire damage can be avoided,
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You had a tyre failure and must mount the emergency wheel. What is prohibited when you continue to drive?**
 
 **Options:**
@@ -41417,6 +45391,8 @@ Emergency wheels have a different design than conventional wheels and are only a
 #### Question 2.7.01-113
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **When driving, you notice that the car constantly pulls to the left. What could be the cause of this?**
 
@@ -41438,6 +45414,8 @@ If your vehicle pulls to the left so that countersteering is required, too littl
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What does a front-wheel drive car tend to do if you accelerate too much on a bend?**
 
 **Options:**
@@ -41457,6 +45435,8 @@ As a car driver, you must always expect your vehicle with front-wheel drive to s
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What does a rear-wheel drive car tend to do if you accelerate too much on a bend?**
 
 **Options:**
@@ -41475,6 +45455,8 @@ You should always expect your vehicle with rear wheel drive to swing off to the 
 #### Question 2.7.01-118
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What are the advantages of an anti-slip device (ASR)?**
 
@@ -41496,6 +45478,8 @@ The traction control system (TCS) of a car prevents the wheels of the vehicle fr
 
 **Points:** 4 Points
 
+**Licenses:** B, L, T
+
 **You want to couple up a trailer with ball coupling. What is correct?**
 
 **Options:**
@@ -41515,6 +45499,8 @@ In a trailer with ball clutch, the clutch dog must firmly enclose the spherical 
 #### Question 2.7.01-121
 
 **Points:** 4 Points
+
+**Licenses:** B, L, T
 
 **What must you do after coupling up a single-axle trailer with overrun brakes?**
 
@@ -41537,6 +45523,8 @@ The breakaway cable must be hung on the coupling device of the towing vehicle. W
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **What must you bear in mind when loading a single-axle trailer?**
 
 **Options:**
@@ -41558,6 +45546,8 @@ When loading a single-axle trailer, you must ensure to comply with the total mas
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **You want to park your single-axle trailer (overrun brakes, 1000 kg permissible total mass) on a slope. What must you do?**
 
 **Options:**
@@ -41577,6 +45567,8 @@ You must always secure your trailer against possibly rolling away. To do this, y
 #### Question 2.7.01-124
 
 **Points:** 4 Points
+
+**Licenses:** B, L, T
 
 **Which dangerous defects can have occurred on a trailer with overrun brakes which has been parked for some time?**
 
@@ -41598,6 +45590,8 @@ If you leave a trailer standing somewhere for a long time, the weather can cause
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **What must you remember when loading a trailer?**
 
 **Options:**
@@ -41617,6 +45611,8 @@ Always pay attention to the proper securing of your cargo. In order not to endan
 #### Question 2.7.01-126
 
 **Points:** 3 Points
+
+**Licenses:** B, T
 
 **Why should you not press the clutch and switch off the engine at the same time when driving down a long slope?**
 
@@ -41638,6 +45634,8 @@ When the engine is off, the engine brake (brake booster) cannot work. Even power
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Why should you not apply the clutch when driving on a long, steep downhill slope?**
 
 **Options:**
@@ -41657,6 +45655,8 @@ If you step down the clutch, the engine brake will not work and you will have to
 #### Question 2.7.01-128
 
 **Points:** 4 Points
+
+**Licenses:** CE, T
 
 **What is correct when coupling a full trailer?**
 
@@ -41678,6 +45678,8 @@ You should make sure that a suitable person in the viewing area is about you and
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You are driving in a pair with a load. What should be noted when performing an emergency stop?**
 
 **Options:**
@@ -41698,6 +45700,8 @@ If you are driving with more weight, you should apply more braking force. Due to
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **You suddenly have to brake when cornering on a wet carriageway. What special aspects exist with a vehicle equipped with an anti-lock braking system (ABS)?**
 
 **Options:**
@@ -41716,6 +45720,8 @@ On wet roads, the antilocking system prevents the wheels from locking and shorte
 #### Question 2.7.01-131
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What is the effect of the cornering characteristics of a combination vehicle (car towing a caravan) when taking a turn?**
 
@@ -41737,6 +45743,8 @@ Despite careful driving, it is possible that the trailer cuts the curve or even 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You experience pendular movements on your motorbike. What could be the cause of these?**
 
 **Options:**
@@ -41757,6 +45765,8 @@ If your entire motorcycle swings to the front and back, this could be caused by 
 
 **Points:** 2 Points
 
+**Licenses:** B, C, C1, D, D1, C1E, D1E, DE
+
 **What can restrict the functionality of a lane departure warning system?**
 
 **Options:**
@@ -41776,6 +45786,8 @@ The function of the lane departure warning system may be limited if the system c
 #### Question 2.7.01-134
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What information should you obtain before undertaking a journey with a purely electric vehicle?**
 
@@ -41798,6 +45810,8 @@ The car driver should inform himself about the range of the electric vehicle bef
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **You are planning a longer journey with a purely electric vehicle. What should you be aware of?**
 
 **Options:**
@@ -41819,6 +45833,8 @@ If you are planning a longer journey with a purely electric vehicle, you should 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What should you be aware of when charging purely electric vehicles?**
 
 **Options:**
@@ -41838,6 +45854,8 @@ When charging pure electric vehicles, you must be aware that they cannot be rech
 #### Question 2.7.01-137
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **How is a purely electric vehicle different from a vehicle with a combustion engine?**
 
@@ -41859,6 +45877,8 @@ Pure electric vehicles are almost noiseless. These vehicles also have no direct 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You are driving a purely electric vehicle in a residential area. What should you be aware of due to your lower engine noise?**
 
 **Options:**
@@ -41879,6 +45899,8 @@ With a pure electric vehicle, you are almost noiseless on the road and you can a
 
 **Points:** 4 Points
 
+**Licenses:** B, C, C1, D, D1, C1E, D1E, DE
+
 **You are driving a motor vehicle fitted with anti-lock braking system (ABS). How do you achieve the shortest possible braking distance?**
 
 **Options:**
@@ -41897,6 +45919,8 @@ If you drive a car with an automatic anti-lock braking system, you achieve the s
 #### Question 2.7.01-140
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1, C1E, D1E, DE
 
 **A lane assist system with corrective steer control can help you when driving. What should you be aware of?**
 
@@ -41918,6 +45942,8 @@ A prerequisite for a perfect function of the lane departure warning system are g
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **You are driving at high speed into a bend. What could happen if you had to brake suddenly?**
 
 **Options:**
@@ -41937,6 +45963,8 @@ If you drive fast into a tight curve, you lose road grip when you brake hard and
 #### Question 2.7.01-142
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What can result in your motor vehicle skidding while driving round a bend?**
 
@@ -41958,6 +45986,8 @@ If you turn sharply, your vehicle may start to skid on bends. This can also happ
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **The lane keeping assist system warns you with acoustic, haptic or optical signals. What might be the cause of this?**
 
 **Options:**
@@ -41976,6 +46006,8 @@ If you drift out of your lane, the lane departure warning system detects this by
 #### Question 2.7.01-144
 
 **Points:** 3 Points
+
+**Licenses:** B, C, D1
 
 **In what situation can the lane keep assist system with steering override help you?**
 
@@ -41998,6 +46030,8 @@ Due to poor markings and narrow lanes in roadworks, steering intervention by the
 
 **Points:** 3 Points
 
+**Licenses:** B, C, D1
+
 **With which driving task can the lane keep assist system with steering override help the driver?**
 
 **Options:**
@@ -42017,6 +46051,8 @@ When turning, you cross lanes and markings; the lane departure warning system ca
 #### Question 2.7.01-146
 
 **Points:** 3 Points
+
+**Licenses:** B, C, D1
 
 **What can negatively affect the functioning of the lane keep assist system?**
 
@@ -42040,6 +46076,8 @@ Weather conditions can affect the sensors of the lane departure warning system. 
 
 **Points:** 3 Points
 
+**Licenses:** B, C, D1
+
 **Under what conditions will the lane keep assist system with steering override function optimally?**
 
 **Options:**
@@ -42061,6 +46099,8 @@ Weather conditions can affect the sensors of the lane departure warning system. 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What driver assistance system offers a high degree of road safety potential?**
 
 **Options:**
@@ -42081,6 +46121,8 @@ Braking too late or too timidly are often causes of traffic accidents. Brake ass
 #### Question 2.7.01-149
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **How can driver assistance systems help you?**
 
@@ -42104,6 +46146,8 @@ If danger is imminent, they can warn you with light, sound and haptic signals. D
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What can result if you accelerate too hard when driving a front-wheel drive car through a road bend?**
 
 **Options:**
@@ -42124,6 +46168,8 @@ If you give a front-wheel drive car too much gas in a bend, it can swerve over t
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Under what conditions can an active lane change assist system perform a lane change?**
 
 **Options:**
@@ -42143,6 +46189,8 @@ The Active Lane Change Assistant only performs a lane change when it cannot dete
 #### Question 2.7.01-152
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D1
 
 **Your motor vehicle is equipped with an active lane keep assist system. What information can be indicated by the status display of this system?**
 
@@ -42165,6 +46213,8 @@ The system must be able to display when it is switched on, switched off or has a
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **Your motor vehicle is equipped with a lane keep assist system. In what situation can this system help you?**
 
 **Options:**
@@ -42183,6 +46233,8 @@ Lane Keeping Assist helps you stay in lane. It warns you if you unintentionally 
 #### Question 2.7.01-154
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **You have the lane keep assist system activated in your motor vehicle. It emits a warning signal while you are driving. What could be the cause of this?**
 
@@ -42203,6 +46255,8 @@ Lane Keeping Assist warns you if you unintentionally leave your lane. If you for
 #### Question 2.7.01-155
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **You are using your motor vehicle’s lane keep assist system while driving. The system does not respond when you depart from the lane. What could be the cause of this?**
 
@@ -42225,6 +46279,8 @@ Due to missing lane markings, insufficient road illumination and heavy precipita
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **Your motor vehicle is equipped with a lane change assist system without steering intervention. While driving, the warning light flashes on the left-hand exterior rear-view mirror. What is this warning light indicating?**
 
 **Options:**
@@ -42244,6 +46300,8 @@ If there is a vehicle in the monitoring area, this is signaled by the warning la
 #### Question 2.7.01-157
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **While driving, you are using your motor vehicle’s active lane keep assist system. How can you manually override this driver assist system in the event that it intervenes?**
 
@@ -42265,6 +46323,8 @@ Countersteering and activating the indicator overrides the intervention of Lane 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **In which situation is it purposeful to use an active lane change assist system?**
 
 **Options:**
@@ -42284,6 +46344,8 @@ On motorways or motorway-like roads, the lane markings are clearly visible and t
 #### Question 2.7.01-159
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You want to overtake and you have initiated a lane change using the active lane change assist system. What is correct?**
 
@@ -42305,6 +46367,8 @@ The Active Lane Change Assistant can change lanes automatically after initiation
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Which driver assistance systems do you have to manually activate to assist you in specific situations?**
 
 **Options:**
@@ -42324,6 +46388,8 @@ The active parking assistant and the adaptive cruise control system do not count
 #### Question 2.7.01-161
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You want to transport furniture in the van shown here (up to 3.5 t). Compared to driving a car, what do you have to be aware of?**
 
@@ -42348,6 +46414,8 @@ A van is much higher, longer and wider than a normal car. Therefore, you should 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **How does the active park assist help you when parking?**
 
 **Options:**
@@ -42366,6 +46434,8 @@ The active park assistant must be activated manually by you. After activating th
 #### Question 2.7.01-163
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **Why might a turn assist system not always detect that a cyclist is present?**
 
@@ -42388,6 +46458,8 @@ A turning assistant can work incorrectly due to various circumstances. So it is 
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **What must you note when using the active park assist?**
 
 **Options:**
@@ -42406,6 +46478,8 @@ After activating the active park assistant, the system supports you in finding a
 #### Question 2.7.01-165
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You are driving an electric vehicle. When can recuperation inhibit the braking action?**
 
@@ -42427,6 +46501,8 @@ By recuperation, the engine of the electric vehicle works like a generator when 
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **Your vehicle is equipped with a hill-start assist. What benefit does this assist system provide?**
 
 **Options:**
@@ -42446,6 +46522,8 @@ The hill assist can make it easier for you to start off on a hill by releasing t
 #### Question 2.7.01-167
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **What applies when using driver assistance systems for longitudinal and lateral control of your vehicle?**
 
@@ -42468,6 +46546,8 @@ If you notice a driver assistance system malfunction, you should oversteer as qu
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, C1E
+
 **What must you be prepared for when driving a partly loaded tank truck?**
 
 **Options:**
@@ -42487,6 +46567,8 @@ When a tank vehicle that you drive with partially loaded chambers, you need to a
 #### Question 2.7.01-204
 
 **Points:** 3 Points
+
+**Licenses:** C, D, D1, C1E, D1E, DE
 
 **How can you avoid excessive wear of the service brakes on a long downhill slope?**
 
@@ -42508,6 +46590,8 @@ By timely switch back, you can conserve avoid heating the service brake. The use
 
 **Points:** 4 Points
 
+**Licenses:** D, DE
+
 **You are driving downhill in a fully loaded bus and have underestimated the slope. Despite retarders being engaged, the speed increases appreciably. What must you do?**
 
 **Options:**
@@ -42525,6 +46609,8 @@ Coming soon...
 #### Question 2.7.01-206
 
 **Points:** 3 Points
+
+**Licenses:** D, DE
 
 **What must you remember when passengers are boarding and alighting?**
 
@@ -42546,6 +46632,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, DE
+
 **What must you remember when the doors of your bus are operated independently?**
 
 **Options:**
@@ -42565,6 +46653,8 @@ Coming soon...
 #### Question 2.7.01-208
 
 **Points:** 2 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must you remember in regular traffic?**
 
@@ -42586,6 +46676,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **On which journeys are you not allowed to transport persons who are standing up?**
 
 **Options:**
@@ -42605,6 +46697,8 @@ Coming soon...
 #### Question 2.7.01-211
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must you provide for in winter?**
 
@@ -42626,6 +46720,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What must you remember in the case of bus doors?**
 
 **Options:**
@@ -42645,6 +46741,8 @@ Coming soon...
 #### Question 2.7.01-216
 
 **Points:** 2 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **For what are you allowed to use the loudspeaker system when driving in regular traffic?**
 
@@ -42666,6 +46764,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What must you show passengers if requested in regular traffic?**
 
 **Options:**
@@ -42685,6 +46785,8 @@ Coming soon...
 #### Question 2.7.01-218
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **When must you intervene as bus driver?**
 
@@ -42707,6 +46809,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **When must you intervene as bus driver?**
 
 **Options:**
@@ -42726,6 +46830,8 @@ Coming soon...
 #### Question 2.7.01-220
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **Which persons may you refuse to transport?**
 
@@ -42747,6 +46853,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What are you not allowed to carry on a bus?**
 
 **Options:**
@@ -42766,6 +46874,8 @@ Coming soon...
 #### Question 2.7.01-222
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must you remember when transporting luggage in buses?**
 
@@ -42787,6 +46897,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What must you remember when transporting animals in buses?**
 
 **Options:**
@@ -42807,6 +46919,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What must you reckon with at a bus stop when driving a school bus?**
 
 **Options:**
@@ -42826,6 +46940,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **When must a school bus be marked with orange school bus signs?**
 
 **Options:**
@@ -42843,6 +46959,8 @@ Coming soon...
 #### Question 2.7.01-227
 
 **Points:** 4 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must you do as driver of a school bus before leaving a bus stop?**
 
@@ -42865,6 +46983,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **When must you intervene as driver of a school bus while you are driving?**
 
 **Options:**
@@ -42884,6 +47004,8 @@ Coming soon...
 #### Question 2.7.01-229
 
 **Points:** 4 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must you remember as driver of a regular bus or school bus when approaching bus stops?**
 
@@ -42905,6 +47027,8 @@ Coming soon...
 
 **Points:** 4 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **As driver of a regular bus, you want to leave a bus stop. What is correct?**
 
 **Options:**
@@ -42924,6 +47048,8 @@ Coming soon...
 #### Question 2.7.01-232
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must you remember when you want to use the ramp or lift of a bus?**
 
@@ -42945,6 +47071,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **You are driving a bus in non-regular traffic. Passengers ask you to take a break. What must you remember?**
 
 **Options:**
@@ -42962,6 +47090,8 @@ Coming soon...
 #### Question 2.7.01-238
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
 
 **A motor vehicle with air brakes has not been used for several days. When may you set off at the earliest (vehicle fully loaded)?**
 
@@ -42981,6 +47111,8 @@ If your vehicle was several days, you should make sure that the pressure warning
 #### Question 2.7.01-242
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **What must you do after changing a wheel?**
 
@@ -43002,6 +47134,8 @@ Wheel nuts always ask the manufacturer instructions to put on. Not too tight. ti
 
 **Points:** 3 Points
 
+**Licenses:** C, CE, C1E
+
 **A vehicle with a full load has a damaged tyre on the lift axle. What can you do?**
 
 **Options:**
@@ -43022,6 +47156,8 @@ In a puncture on the lifting axle you need to perform this vehicle and the truck
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **What transport of goods is excluded from the Motor Carrier Act?**
 
 **Options:**
@@ -43040,6 +47176,8 @@ In the road haulage law stipulates that industrial goods transport vehicles that
 #### Question 2.7.01-251
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **For which vehicles in commercial goods traffic do you need a permit?**
 
@@ -43061,6 +47199,8 @@ Permission urkunden in commercial freight must then present if for vehicles with
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **Your bus is equipped with a ramp operated by external power or lift operated by external power. What must you check regularly?**
 
 **Options:**
@@ -43081,6 +47221,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **Where are you not allowed to use retread tyres on 100 km/h buses?**
 
 **Options:**
@@ -43099,6 +47241,8 @@ Coming soon...
 #### Question 2.7.01-255
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **What must you be careful about, when putting on a wheel?**
 
@@ -43119,6 +47263,8 @@ Please pay attention to tightening the wheel nuts to the specified torque and mu
 #### Question 2.7.01-256
 
 **Points:** 3 Points
+
+**Licenses:** C, C1
 
 **What must you be aware of when operating your motor vehicle in wintry conditions?**
 
@@ -43141,6 +47287,8 @@ To ensure safety, you must drive with winter tyres, have sufficient antifreeze a
 
 **Points:** 3 Points
 
+**Licenses:** C, D, D1
+
 **You are driving a motor vehicle with a manual gearbox. How do you conserve the service brake when driving down a long downward slope?**
 
 **Options:**
@@ -43161,6 +47309,8 @@ Shift down to increase the engine braking effect.
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1
+
 **Why might your turn assist system emit a warning?**
 
 **Options:**
@@ -43180,6 +47330,8 @@ A turn assistant checks the area to the right of the truck for bikers and walker
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1
+
 **Your motor vehicle is equipped with a turn assist system. What function does this perform during a turning manoeuvre?**
 
 **Options:**
@@ -43198,6 +47350,8 @@ A turn assistant checks the area to the right of the truck for bikers and walker
 #### Question 2.7.01-260
 
 **Points:** 3 Points
+
+**Licenses:** C, C1
 
 **What can you expect if you take a truck with a heavy load and drive it around a tight bend?**
 
@@ -43219,6 +47373,8 @@ A heavily loaded truck can tip over when negotiating a tight curve, or inadequat
 
 **Points:** 4 Points
 
+**Licenses:** CE
+
 **Which facilities on a trailer are not operational when the electrical connections to the towing vehicle are interrupted or the cables are not connected?**
 
 **Options:**
@@ -43238,6 +47394,8 @@ If the cables from the trailer are not operational because the electronic connec
 #### Question 2.7.01-305
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **What should you regularly check with a spare tyre carried in the vehicle?**
 
@@ -43259,6 +47417,8 @@ When carried spare you should pay attention to the secure attachment and check t
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, C1E
+
 **You are driving a loaded truck on a road with gradients. Despite engaging the permanent brake, the speed increases markedly. What is the right course of action?**
 
 **Options:**
@@ -43277,6 +47437,8 @@ You should try to increase the engine braking effect of your truck for a downgra
 #### Question 2.7.01-307
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What should be noted with a motorbike with a conventional anti-lock braking system (ABS) when braking in a bend?**
 
@@ -43298,6 +47460,8 @@ Even if your motorcycle has ABS, you should still use controlled braking as ABS 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What can help the wobbling of a motorbike?**
 
 **Options:**
@@ -43318,6 +47482,8 @@ Wobbling increases at higher speed and if the weight is not well distributed suc
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What can cause a motorbike to start wobbling?**
 
 **Options:**
@@ -43337,6 +47503,8 @@ Wobbling can be due to unbalanced weights (more weight to the right or left side
 #### Question 2.7.01-310
 
 **Points:** 3 Points
+
+**Licenses:** CE, L, T
 
 **What is the effect of the cornering characteristics of a combination vehicle (motor vehicle towing a trailer) when taking a turn?**
 
@@ -43361,6 +47529,8 @@ The cornering characteristics of a vehicle combination can swing when turning an
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You notice there is play on the handlebar bearing. What must you do?**
 
 **Options:**
@@ -43379,6 +47549,8 @@ Having a loose handlebar with some play is dangerous and make your motorcycle mo
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **When you move the handlebar, you notice that the handlebar bearing is catching in one place. What must you do?**
 
 **Options:**
@@ -43396,6 +47568,8 @@ Having catching in your handelbar bearing makes your motorcycle more difficult t
 #### Question 2.7.02-003
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What can play in the handlebar bearing cause?**
 
@@ -43416,6 +47590,8 @@ Having a loose handlebar with some play is dangerous and make your motorcycle mo
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What effect can a defective steering shock absorber have on road behaviour?**
 
 **Options:**
@@ -43435,6 +47611,8 @@ A defective steering shock absorber can cause the steering wheel to vibrate/shim
 #### Question 2.7.02-005
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **What can decisively impair road behaviour?**
 
@@ -43457,6 +47635,8 @@ All three will worsen the steering of your motorcycle making it more difficult t
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You notice your motorcycle has poor track-holding. What can be the cause?**
 
 **Options:**
@@ -43475,6 +47655,8 @@ Both play in the wheel bearings and deflected back fork can cause your motorcycl
 #### Question 2.7.02-007
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, A80
 
 **Your motorcycle no longer keeps the track. What can be defective?**
 
@@ -43496,6 +47678,8 @@ A bent fork or frame can make your motorcycle not aligned which will result in d
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **When you throttle down without disengaging the clutch, your motorcycle no longer keeps to the track. What can be the cause of this?**
 
 **Options:**
@@ -43516,6 +47700,8 @@ Both play in the rear wheel bearing and fork bearing can cause your motorcycle t
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You notice that the lever travel of the hydraulic front wheel brake on your motorcycle has become considerably longer. What must you do?**
 
 **Options:**
@@ -43535,6 +47721,8 @@ It is a sign of a defective front wheel brake which needs to be repaired or repl
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, A80
+
 **The mirror holder on your motorcycle is loose. What do you do?**
 
 **Options:**
@@ -43552,6 +47740,8 @@ You should never remove your mirror and need to fix them as they are required at
 #### Question 2.7.02-015
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What can you check on your tyre?**
 
@@ -43574,6 +47764,8 @@ The driver can check on the tire whether the prescribed tread depth is present a
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **When do you need to renew the brake pads?**
 
 **Options:**
@@ -43594,6 +47786,8 @@ The car driver must replace the brake pads on the vehicle if they are heavily co
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **Just after driving off, you test the brakes. Why?**
 
 **Options:**
@@ -43611,6 +47805,8 @@ Immediately after the start of the journey you should check the effectiveness of
 #### Question 2.7.02-019
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **Why does the brake fluid have to be exchanged according to the instructions of the vehicle manufacturer?**
 
@@ -43632,6 +47828,8 @@ The brake fluid also draws water from the air, so the proportion of water in the
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **In which cases is it imperative to test the brakes?**
 
 **Options:**
@@ -43651,6 +47849,8 @@ A brake test is always essential if a vehicle has not been moved for a long peri
 #### Question 2.7.02-021
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What do you have to check the tyres on your vehicle at regular intervals for?**
 
@@ -43673,6 +47873,8 @@ At regular intervals you should check the air pressure and tread depth of your v
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **If tyre pressure is too high or too low, what can this cause?**
 
 **Options:**
@@ -43693,6 +47895,8 @@ If the internal tire pressure is too high or too low, the driving behavior will 
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **You hit a tyre against a hard obstacle with force. What must you do?**
 
 **Options:**
@@ -43710,6 +47914,8 @@ Tire and wheel rim must be thoroughly checked before proceeding. Damage to the t
 #### Question 2.7.02-024
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What happens when you drive with a tyre pressure which is far too low?**
 
@@ -43731,6 +47937,8 @@ If you drive with significantly too low tire pressure, the tire may overheat. Th
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **What can be the cause of a rear light not to work?**
 
 **Options:**
@@ -43751,6 +47959,8 @@ If the taillight fails, you should first check the bulb. Even a defective fuse c
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **The control light of your indicator is blinking considerably faster than usual. What can be the cause of this?**
 
 **Options:**
@@ -43768,6 +47978,8 @@ The flashing interval of the control lamp is shortened significantly if a bulb o
 #### Question 2.7.02-027
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **Why are you required to have a defective exhaust system repaired immediately?**
 
@@ -43789,6 +48001,8 @@ You must repair a rusted exhaust system immediately, otherwise parts of the exha
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **The noise of the exhaust has suddenly become louder than usual. What do you do?**
 
 **Options:**
@@ -43807,6 +48021,8 @@ It is likely that the exhaust system is broken or rusted. A rusted exhaust syste
 #### Question 2.7.02-029
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **If the horn does not work, what can be the reason?**
 
@@ -43828,6 +48044,8 @@ If the horn of your vehicle does not work, it may be due to a faulty fuse or a f
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **When braking, you note that your vehicle pulls to the right. What should you do?**
 
 **Options:**
@@ -43846,6 +48064,8 @@ A defective brake system poses a significant risk, which can lead to accidents. 
 #### Question 2.7.02-031
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **What can cause an excessively large brake cylinder stroke?**
 
@@ -43867,6 +48087,8 @@ One cause of an excessive brake cylinder stroke is a worn out bearing of the tra
 
 **Points:** 3 Points
 
+**Licenses:** A, A2, B, A80
+
 **What is the permissible minimum tread depth of the main tread of all your vehicle's tyres?**
 
 **Options:**
@@ -43882,6 +48104,8 @@ Reifen von Krafträder und PKW müssen eine Profiltiefe von mindesten 1,6 mm auf
 #### Question 2.7.02-033
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **The brake light of your vehicle is not working. What could be the cause of this?**
 
@@ -43903,6 +48127,8 @@ A functioning brake light is significant for the participation in traffic. If th
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, L, T, A80
+
 **What must you do if the oil pressure warning light fails to switch off after starting the engine?**
 
 **Options:**
@@ -43922,6 +48148,8 @@ To avoid damage to the engine, stop the engine immediately and check the engine 
 #### Question 2.7.02-035
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **When it is necessary to check the braking system of your motorcycle immediately?**
 
@@ -43944,6 +48172,8 @@ The brake indicator light warns of a defective brake system; if it lights up whi
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **How do you properly perform a visual check to ensure the brake lights are working?**
 
 **Options:**
@@ -43962,6 +48192,8 @@ To make sure that both the hand and foot brake lights are working, operate and c
 #### Question 2.7.02-037
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **One of your wheels has collided heavily against a kerb. What should you note?**
 
@@ -43985,6 +48217,8 @@ If the wheel has been damaged in the collision, it could have a negative effect 
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, C, C1, D, D1, L, T, A80
+
 **The tail light of your vehicle is not working. What could be the cause of this?**
 
 **Options:**
@@ -44004,6 +48238,8 @@ A blown fuse or a defective bulb can be the cause of a tail light failure.
 #### Question 2.7.02-039
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **How can you detect that a disc brake system has worn brake pads?**
 
@@ -44025,6 +48261,8 @@ The wear markings on the brake pad serve to check the wear state of the brake pa
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **Your vehicle’s brake light is not working. What is the right course of action?**
 
 **Options:**
@@ -44044,6 +48282,8 @@ If the lamp is defective, the vehicle's brake light does not work, you should fi
 #### Question 2.7.02-041
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **The exhaust noise has suddenly become unusually loud. What is the right thing to do?**
 
@@ -44065,6 +48305,8 @@ Check the exhaust immediately, e.g. if it is no longer sufficiently secured, thi
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You discover a considerable amount of play on the steering head bearings of your motorbike. What is the right course of action?**
 
 **Options:**
@@ -44083,6 +48325,8 @@ Significant play in the steering head bearing indicates that the bearing is brok
 #### Question 2.7.02-043
 
 **Points:** 4 Points
+
+**Licenses:** A, A1, A2, A80
 
 **How can you detect a fault in the steering head bearings of your motorbike?**
 
@@ -44106,6 +48350,8 @@ If the handlebars are difficult to turn, for example, this may be due to the ste
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, C, C1, D, D1, A80
+
 **How can you detect your indicator is defective?**
 
 **Options:**
@@ -44127,6 +48373,8 @@ If the indicator light flashes faster than usual while riding, an indicator may 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You can see that the free travel of the lever of the hydraulic front-wheel brake has increased considerably. What do you have to do?**
 
 **Options:**
@@ -44145,6 +48393,8 @@ If the free distance on the brake lever of the hydraulic front brake has increas
 #### Question 2.7.02-046
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, A80
 
 **The tracking characteristics of your motorbike have deteriorated. What might be the cause of this?**
 
@@ -44167,6 +48417,8 @@ If the chain tensioners on your motorbike have been adjusted unevenly, the rear 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **In what road situation can a worn and therefore slippery coupling negatively affect road safety?**
 
 **Options:**
@@ -44186,6 +48438,8 @@ You can recognise a worn and slipping clutch by the fact that it no longer engag
 #### Question 2.7.02-048
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, A80
 
 **You are on a lengthy journey and stop to refuel. What checks should you perform on your motorbike at this time?**
 
@@ -44208,6 +48462,8 @@ Before starting longer rides, you should check your lights and tyres. You should
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, C1, D1, L, A80
+
 **A display on your liquid-cooled vehicle indicates an excessively high engine temperature. What should you do now?**
 
 **Options:**
@@ -44226,6 +48482,8 @@ Stop as quickly as possible at a suitable location and switch off the engine to 
 #### Question 2.7.02-050
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, C, C1, D, D1, L, T, A80
 
 **A display on your liquid-cooled vehicle indicates that the temperature of your coolant is excessively high. What might be the cause of this?**
 
@@ -44250,6 +48508,8 @@ If the radiator fan is defective, the temperature will rise quickly. Check the r
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What can negatively affect your motorbike's stability on the road?**
 
 **Options:**
@@ -44270,6 +48530,8 @@ If your shock absorbers are worn out, they can no longer compensate for bumps in
 #### Question 2.7.02-052
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, A80
 
 **Your motorbike is liquid-cooled. What should you be sure you do?**
 
@@ -44292,6 +48554,8 @@ Blockages and dirt can impair the function of the radiator. Avoid this by keepin
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **The steering wheel is harder to turn than usual. What can cause this?**
 
 **Options:**
@@ -44311,6 +48575,8 @@ If the steering is stiff, a defect in the steering gear can be the cause. Also, 
 #### Question 2.7.02-107
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **The brakes on your car are pulling strongly to one side. What effects can this have when you are braking?**
 
@@ -44332,6 +48598,8 @@ If the brake on the car has a strong one-sided effect, this has a significant ne
 
 **Points:** 5 Points
 
+**Licenses:** B
+
 **When you press on the brake pedal, it touches the floor. Only when you press on it several times does the pedal travel become shorter. What must you do?**
 
 **Options:**
@@ -44352,6 +48620,8 @@ If the brake pedal can be pushed down to the floor of the vehicle and the pedal 
 
 **Points:** 4 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **The brake lights do not function. What do you do?**
 
 **Options:**
@@ -44370,6 +48640,8 @@ A defect in the brake lights must be rectified immediately in order not to endan
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **How can you tell while driving that an indicator lamp is not working?**
 
 **Options:**
@@ -44387,6 +48659,8 @@ A faulty indicator is noticeable because the indicator light in the instrument d
 #### Question 2.7.02-114
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You are driving in the dark with dipped headlights. Oncoming traffic flash their headlights at you. What can this mean?**
 
@@ -44408,6 +48682,8 @@ If the oncoming driver is turning the headlights up and dips them again this is 
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **The glass in your left outside mirror is broken. What do you do?**
 
 **Options:**
@@ -44425,6 +48701,8 @@ On each vehicle, a left exterior mirror is mandatory. If the glass has cracked, 
 #### Question 2.7.02-117
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **The windscreen washer does not work. What can be the reason for this?**
 
@@ -44447,6 +48725,8 @@ If the windscreen washer does not work, it may be due to clogged nozzles or a de
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **Too little water is coming out of the windscreen washer jets. What can cause this?**
 
 **Options:**
@@ -44466,6 +48746,8 @@ The windshield washer nozzles of your vehicle may be partially clogged if too li
 #### Question 2.7.02-119
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **The windscreen wipers do not wipe clean? What can be the reason for this?**
 
@@ -44487,6 +48769,8 @@ If the wipers do not wipe clean, this may be due to an oil film on the windscree
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **The windscreen wipers on your car do not function. What can be the cause of this?**
 
 **Options:**
@@ -44507,6 +48791,8 @@ If the windscreen wipers on your car do not work, it may be due to a faulty engi
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **A safety belt lock does not close. What do you do?**
 
 **Options:**
@@ -44525,6 +48811,8 @@ If the lock of a seatbelt does not close properly, you must first take care of t
 #### Question 2.7.02-122
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **A safety belt does not roll up automatically. What can be the reason for this?**
 
@@ -44545,6 +48833,8 @@ It sometimes happens that the belt is twisted and jammed in the guide provided w
 #### Question 2.7.02-123
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **Your car’s steering wheel wobbles while you are driving. What can be the reason?**
 
@@ -44567,6 +48857,8 @@ If the steering wheel flutters while driving, defective shock absorbers may be t
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What can be the reason for a tyre on front axle wearing on one side more than the other?**
 
 **Options:**
@@ -44585,6 +48877,8 @@ Basically, there are two causes for the different degrees of wear of the front t
 #### Question 2.7.02-125
 
 **Points:** 3 Points
+
+**Licenses:** AM, B
 
 **What can cause excessive wear on tyres?**
 
@@ -44606,6 +48900,8 @@ Improper tire pressure and suspension damage are the most common causes of exces
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **Whilst driving, your vehicle pulls to the right. What can be the reason for this?**
 
 **Options:**
@@ -44625,6 +48921,8 @@ If your vehicle pulls to the right while driving, the wheel position may be resp
 #### Question 2.7.02-127
 
 **Points:** 2 Points
+
+**Licenses:** B, C, C1, D, D1, T, C1E, D1E, DE
 
 **What is the impact on your vehicle if you operate the steering wheel while stationary?**
 
@@ -44646,6 +48944,8 @@ Attempting to steer your vehicle while standing requires much more effort than w
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **When should you arrange for the braking system of your car to be checked?**
 
 **Options:**
@@ -44665,6 +48965,8 @@ The brake control light warns of a defective brake system; if it lights up while
 #### Question 2.7.02-129
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **While driving, you notice that your car pulls heavily to the left when you brake. What is the right course of action?**
 
@@ -44687,6 +48989,8 @@ Braking with the handbrake can cause your car to drift out of its lane. You shou
 
 **Points:** 2 Points
 
+**Licenses:** B, C, C1, D, D1, L, T
+
 **Your vehicle is much more difficult to steer than usual. What is the right course of action?**
 
 **Options:**
@@ -44706,6 +49010,8 @@ Further journeys would entail too much risk. You would be putting yourself and o
 #### Question 2.7.02-131
 
 **Points:** 2 Points
+
+**Licenses:** B, C, C1, D, D1
 
 **You note that the tyres on your vehicle's front axle are showing uneven amounts of wear. What should be checked?**
 
@@ -44729,6 +49035,8 @@ A defective shock absorber or also an incorrect suspension setting can lead to u
 
 **Points:** 2 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **While driving, your vehicle pulls to the right. What is the right course of action?**
 
 **Options:**
@@ -44751,6 +49059,8 @@ Further driving would involve too much risk.
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **When must you arrange for your car to be inspected by a garage?**
 
 **Options:**
@@ -44771,6 +49081,8 @@ If you notice any defects in your suspension or steering system, you should visi
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **The indicator light is flashing much faster than usual. What could be the cause of this?**
 
 **Options:**
@@ -44789,6 +49101,8 @@ As an indication of a defective bulb, the indicator light flashes twice as fast.
 #### Question 2.7.02-135
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **When should you arrange for your car to be inspected in a garage?**
 
@@ -44811,6 +49125,8 @@ You should have your car checked by a workshop if the airbag indicator light doe
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **When accelerating, you notice that the steering wheel trembles. How should you do here?**
 
 **Options:**
@@ -44830,6 +49146,8 @@ If the steering wheel "flutters" under acceleration, you should take a closer lo
 #### Question 2.7.02-137
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **The front passenger seatbelt is defective. What must you do?**
 
@@ -44851,6 +49169,8 @@ A defective seat belt must be professionally replaced. As long as the seat belt 
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **You are driving within a built-up area during darkness. Oncoming drivers are flashing their headlights as a warning to you. What might this mean in this situation?**
 
 **Options:**
@@ -44870,6 +49190,8 @@ If there are an oncoming vehicles, then this can be because you have switched on
 #### Question 2.7.02-139
 
 **Points:** 2 Points
+
+**Licenses:** B
 
 **The indicator lamp of your car’s Electronic Stability Program (ESC) is continuously illuminated. What might this indicate?**
 
@@ -44892,6 +49214,8 @@ If you have not deactivated or switched off with a permanently shining ESP warni
 
 **Points:** 2 Points
 
+**Licenses:** B
+
 **The seat belt for the front passenger in your car is faulty. What is the right behaviour?**
 
 **Options:**
@@ -44911,6 +49235,8 @@ A seat with a defective seat belt may no longer be used. To do this, a defective
 #### Question 2.7.02-202
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
 
 **What can cause the filling time of an air brake system to be longer than normal?**
 
@@ -44932,6 +49258,8 @@ If the filling time of the air brake system longer than normal, please check the
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
+
 **The warning device of the brake system is activated when driving. What does this mean?**
 
 **Options:**
@@ -44951,6 +49279,8 @@ When the pressure warning device responsive while driving, it means that the bra
 #### Question 2.7.02-204
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
 
 **What can cause the air compressor in a braking system with a multi-circuit safety valve to deliver compressed air continuously?**
 
@@ -44972,6 +49302,8 @@ If the air compressor promotes continuously compressed air is the cause, that a 
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
+
 **What faults could be a possible cause of inadequate air compressor performance?**
 
 **Options:**
@@ -44992,6 +49324,8 @@ For an insufficient capacity of the air compressor faulty air compressor are eli
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
+
 **The compressed air system has failed in a vehicle fitted with an air-assisted hydraulic braking system. Can the vehicle still be braked by means of the service brake system?**
 
 **Options:**
@@ -45010,6 +49344,8 @@ If the compressed air support is down at your vehicle with pressure air-assisted
 #### Question 2.7.02-209
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
 
 **While driving a motor vehicle with air brake system, the line to a wheel brake cylinder at the front axle breaks. How can you notice this damage?**
 
@@ -45032,6 +49368,8 @@ you can notice the damage to the lower braking effect. During braking, the doubl
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
+
 **While driving a motor vehicle with air brake system, a line on the reservoir of the front axle brake circuit breaks. How can you notice this damage?**
 
 **Options:**
@@ -45052,6 +49390,8 @@ you can see the damage to the lower braking effect and the double pressure gauge
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, D, C1E, DE
+
 **What could be the effect of a strongly leaking air bellows have on road worthiness?**
 
 **Options:**
@@ -45071,6 +49411,8 @@ A heavily leaky air spring bellows can affect the braking efficiency due to wron
 #### Question 2.7.02-212
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **When several spring leaves of a spring assembly snap, what are the effects on roadworthiness?**
 
@@ -45093,6 +49435,8 @@ All three are correct. The directional stability of the vehicle is compromised a
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, T
+
 **The brake line to a wheel brake cylinder of your motor vehicle is leaking heavily. How can you detect this issue?**
 
 **Options:**
@@ -45113,6 +49457,8 @@ If your brake line is leaking at a wheel brake cylinder, you can tell both by th
 #### Question 2.7.02-214
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE
 
 **What effect can damage to important axle suspension components have on road safety?**
 
@@ -45135,6 +49481,8 @@ If there is damage to essential components of the axle suspension, this can affe
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1, T
+
 **What could be the possible cause of low air compressor output?**
 
 **Options:**
@@ -45155,6 +49503,8 @@ One of the reasons for the air compressor's delivery rate being too low can be c
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1
+
 **What should you do if the engine temperature warning light illuminates while you are driving?**
 
 **Options:**
@@ -45173,6 +49523,8 @@ Check the operating instructions for what to do now.
 #### Question 2.7.02-302
 
 **Points:** 3 Points
+
+**Licenses:** CE, T
 
 **In a two-line braking system, what is the effect of a rupture in the emergency line to the trailer?**
 
@@ -45194,6 +49546,8 @@ The trailer brake valve of a two-line braking system includes the trailer air su
 
 **Points:** 3 Points
 
+**Licenses:** CE, T
+
 **How can you tell whether the trailer brake valve is working (air tank filled) after the parking brake has been released?**
 
 **Options:**
@@ -45213,6 +49567,8 @@ Whether the trailer brake valve is working, you can tell by (red coupling head) 
 #### Question 2.7.02-304
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
 
 **What happens if one of the service brake circuits of a dual-circuit compressed air-braking system leaks when the vehicle is in motion?**
 
@@ -45234,6 +49590,8 @@ If one of the service brake circuits 2 of a two-circuit air brake is leaky, the 
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **The electric connections to your towing vehicle are interrupted. What device on the trailer is therefore rendered inoperable?**
 
 **Options:**
@@ -45253,6 +49611,8 @@ When the electronic connections are interrupted, work not yet ABV EBS.
 #### Question 2.7.02-306
 
 **Points:** 4 Points
+
+**Licenses:** CE
 
 **What device on the trailer will not function if the electrical connection to the towing vehicle is missing or interrupted?**
 
@@ -45277,6 +49637,8 @@ When the electronic connection to the trailer is disconnected, the electronic br
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **Your motorbike is fitted with a chain drive attached to the rear wheel. What should you regularly check the chain for?**
 
 **Options:**
@@ -45300,6 +49662,8 @@ You should also check the lubrication of the chain regularly and re-lubricate it
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, Mofa, A80
+
 **Your motorbike is fitted with a chain drive attached to the rear wheel. What do you have to be aware of when tightening the chain?**
 
 **Options:**
@@ -45321,6 +49685,8 @@ The slack of the chain is important and must comply with the manufacturer's spec
 #### Question 2.7.03-003
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, A80
 
 **Your motorcycle is equipped with a belt drive to the rear wheel. What should you check regularly?**
 
@@ -45344,6 +49710,8 @@ Likewise, too little tension on the belt on your motorcycle can lead to loss of 
 
 **Points:** 2 Points
 
+**Licenses:** B, C, C1, D, D1, L, T
+
 **What may be the result of too little coolant in the engine?**
 
 **Options:**
@@ -45364,6 +49732,8 @@ Too little coolant can lead to engine damage and should always be checked by you
 
 **Points:** 2 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **You are in a traffic jam, driving at walking speed. When is the least wear exerted on the clutch of your manual transmission vehicle?**
 
 **Options:**
@@ -45382,6 +49752,8 @@ Engage the clutch fully to avoid unnecessary wear on the clutch. Choose a gear i
 #### Question 2.7.03-201
 
 **Points:** 2 Points
+
+**Licenses:** C, D, C1E, DE
 
 **Why is a diesel engine also called an self-ignition engine?**
 
@@ -45402,6 +49774,8 @@ Because diesel engines get along without spark plugs of the work cycle is starte
 
 **Points:** 2 Points
 
+**Licenses:** C, D, C1E, DE
+
 **What is the function of the camshaft in a diesel engine?**
 
 **Options:**
@@ -45420,6 +49794,8 @@ The object of the camshaft in a diesel engine is to control the valves in the en
 #### Question 2.7.03-205
 
 **Points:** 2 Points
+
+**Licenses:** C, D, C1E, DE
 
 **What is the function of a coolant thermostat in an engine's cooling system?**
 
@@ -45440,6 +49816,8 @@ As the name suggests, the coolant thermostat regulates the engine operating temp
 
 **Points:** 2 Points
 
+**Licenses:** C, D, C1E, DE
+
 **What can cause damage to an engine's cooling system in winter?**
 
 **Options:**
@@ -45458,6 +49836,8 @@ By insufficient antifreeze engine damage can occur. Please ensure that this is a
 #### Question 2.7.03-207
 
 **Points:** 2 Points
+
+**Licenses:** C, D, C1E, DE
 
 **Which engine oil covers the largest range of temperatures?**
 
@@ -45478,6 +49858,8 @@ The smaller number (10) (light oil) in SAE 10 W 40 is the lowest temperature ran
 
 **Points:** 2 Points
 
+**Licenses:** C, D, C1E, DE
+
 **Your diesel engine does not start in winter. What can be the reason for this?**
 
 **Options:**
@@ -45497,6 +49879,8 @@ If you still summer diesel in the tank, it may be that the engine in the winter 
 
 **Points:** 2 Points
 
+**Licenses:** C, D, C1E, DE
+
 **You are driving your vehicle at walking speed in a traffic jam. In which cases is the wear on the clutch lowest?**
 
 **Options:**
@@ -45515,6 +49899,8 @@ If you drive possible without the use of the clutch when driving in a low gear, 
 #### Question 2.7.03-211
 
 **Points:** 2 Points
+
+**Licenses:** C, D, L, T, C1E, DE
 
 **What is the function of a differential lock?**
 
@@ -45536,6 +49922,8 @@ The differential lock distributes the drive torque evenly to the driving time, t
 
 **Points:** 2 Points
 
+**Licenses:** C, D, L, T, C1E, DE
+
 **When it is helpful to activate the differential lock?**
 
 **Options:**
@@ -45555,6 +49943,8 @@ The differential lock you should go straight on slippery roads during slow and i
 #### Question 2.7.03-213
 
 **Points:** 2 Points
+
+**Licenses:** C, D, L, T, C1E, DE
 
 **When can I activate the differential lock so that this does not possibly damage the motor vehicle?**
 
@@ -45576,6 +49966,8 @@ If your car is and you drive at a walking pace, you should have no damaging effe
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1
+
 **What increases clutch wear in motor vehicles with a manual gearbox?**
 
 **Options:**
@@ -45596,6 +49988,8 @@ In the case of a manual gearbox, the clutch wear increases in motor vehicles tha
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1
+
 **How can you preserve the clutch components of motor vehicles with a manual gearbox?**
 
 **Options:**
@@ -45615,6 +50009,8 @@ In order to protect the clutch components in motor vehicles with manual transmis
 #### Question 2.7.03-216
 
 **Points:** 2 Points
+
+**Licenses:** C, L, T
 
 **What is the function of a differential lock (mechanically locked differential transmission)?**
 
@@ -45639,6 +50035,8 @@ The differential lock improves traction when driving slowly off-road and on slip
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, C, C1, D, D1, L, T, C1E, D1E, DE, A80
+
 **What should I ensure when refilling with engine oil?**
 
 **Options:**
@@ -45658,6 +50056,8 @@ Engine oil may only be used according to the specifications of the manufacturer.
 #### Question 2.7.04-002
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, AM, B, C, D, D1, L, T, A80
 
 **What is the function of engine oil in a combustion engine?**
 
@@ -45680,6 +50080,8 @@ Engine oil has different effects on an internal combustion engine. It is used fo
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, A80
+
 **How can you check the engine oil level?**
 
 **Options:**
@@ -45699,6 +50101,8 @@ There is a sight glass where you can read the oil level. Otherwise, you can read
 #### Question 2.7.04-101
 
 **Points:** 2 Points
+
+**Licenses:** B, C, C1, D, D1, L, T
 
 **How can you check the engine oil level?**
 
@@ -45720,6 +50124,8 @@ Depending on the vehicle, the engine oil level can be checked in different ways.
 
 **Points:** 2 Points
 
+**Licenses:** C, D, C1E, DE
+
 **Why does the coolant have to be checked for sufficient frost protection before winter begins?**
 
 **Options:**
@@ -45739,6 +50145,8 @@ A freezing of the coolant (extends) to avoid you should adequately check the ant
 #### Question 2.7.04-203
 
 **Points:** 2 Points
+
+**Licenses:** C, D, C1E, DE
 
 **What are the functions of anti-freeze in the coolant system?**
 
@@ -45760,6 +50168,8 @@ Antifreeze protect against corrosion (rust) and protect the cooling system from 
 
 **Points:** 2 Points
 
+**Licenses:** C, D, C1E, DE
+
 **Why do diesel and petrol engines need engine oil?**
 
 **Options:**
@@ -45779,6 +50189,8 @@ Motor oil is needed in diesel and gasoline engines because it serves to reduce t
 #### Question 2.7.04-206
 
 **Points:** 2 Points
+
+**Licenses:** C, D, C1E, DE
 
 **What are the requirements of lubricating oils for diesel engines?**
 
@@ -45804,6 +50216,8 @@ Lubricating oils of diesel engines are used for heat resistance, fluidity in col
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, C, C1, CE, D, D1, Mofa, T, C1E, D1E, DE, A80
+
 **What is the meaning of the date of manufacture "1217" specified on the tyre?**
 
 ![Question Image](images/2_7_05-001.png)
@@ -45825,6 +50239,8 @@ The date of manufacture indicated on the tire is made up of the manufacturing we
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, B, C, C1, CE, D, D1, L, Mofa, T, A80
+
 **When should you check the tyre pressure?**
 
 **Options:**
@@ -45845,6 +50261,8 @@ You should check the tyre pressure regularly when the tyres are cold and immedia
 
 **Points:** 3 Points
 
+**Licenses:** Mofa
+
 **What is the minimum tread depth permissible for the tyres of your moped?**
 
 **Options:**
@@ -45860,6 +50278,8 @@ The tread depth of your moped must be 1 mm.
 #### Question 2.7.05-004
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, A80
 
 **What can be the consequences of having too much or too little air pressure in the tyres of the motorcycle?**
 
@@ -45881,6 +50301,8 @@ The tyre closure increases due to greater friction. The tyre deforms and thus wo
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, AM, B, A80
+
 **Your tyre inflation pressure is clearly too low while you driving on public roads. What is the consequence of this?**
 
 **Options:**
@@ -45900,6 +50322,8 @@ A low tyre pressure results that a larger area of the tyre lies on the asphalt w
 #### Question 2.7.05-006
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, A80
 
 **What must you check when regularly inspecting your vehicle’s tyres?**
 
@@ -45923,6 +50347,8 @@ Especially in front of longer journeys or with a higher load, you should make su
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, AM, A80
+
 **A tyre’s adhesion to the road surface depends on what?**
 
 **Options:**
@@ -45944,6 +50370,8 @@ The liability of a tire on the road is heavily dependent on the road conditions 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What can cause a gradual loss in tyre inflation pressure?**
 
 **Options:**
@@ -45964,6 +50392,8 @@ Damage to the tire by e.g. a nail or similar foreign bodies can lead to the loss
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **You are riding a motorbike with an engine size larger than 125 cm³. What is the legally prescribed minimum tread depth for all the tyres on your motorbike?**
 
 **Options:**
@@ -45979,6 +50409,8 @@ The legally regulated minimum profile depth for tyres is 1.6 mm.
 #### Question 2.7.05-101
 
 **Points:** 2 Points
+
+**Licenses:** B, C, C1, D, D1, L, T, C1E, D1E, DE
 
 **What should be noted when changing a tyre using a car jack?**
 
@@ -46000,6 +50432,8 @@ To attach the jack, the vehicle driver must use the mounting points provided by 
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, L, T, C1E, D1E, DE
+
 **You have to remove a defective tyre. In what sequence should you proceed?**
 
 **Options:**
@@ -46018,6 +50452,8 @@ Secure the vehicle against rolling away unintentionally. Put the jack on. Loosen
 #### Question 2.7.05-103
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What does the red symbol on the tyre indicate?**
 
@@ -46041,6 +50477,8 @@ The symbol means that this tyre is suitable for winter weather conditions and su
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **To what must you pay particular attention when driving with winter tyres?**
 
 **Options:**
@@ -46059,6 +50497,8 @@ With winter tyres, you must ensure that you do not exceed the maximum permitted 
 #### Question 2.7.05-105
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **Your car is equipped with winter tyres. What is the meaning of the speed label "max. 190 km/h" on your dashboard?**
 
@@ -46079,6 +50519,8 @@ You must not exceed the maximum speed of 190 km / h on your winter tires.
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What should you remember when putting winter tyres on your car?**
 
 **Options:**
@@ -46098,6 +50540,8 @@ After installing winter tires, you should check the tire pressure according to t
 #### Question 2.7.05-107
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **This indicator lamp lights up. What could be the cause of this?**
 
@@ -46122,6 +50566,8 @@ However, a lot can also go wrong with the tyre pressure sensors if you have rece
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **What is the legally prescribed minimum tread depth across the main profile of all the tyres on your car?**
 
 **Options:**
@@ -46137,6 +50583,8 @@ The legally regulated minimum profile depth for tyres is 1.6 mm. The main tread 
 #### Question 2.7.05-203
 
 **Points:** 4 Points
+
+**Licenses:** C, CE, D, D1, C1E, D1E, DE
 
 **What effect does incorrect tyre pressure have?**
 
@@ -46157,6 +50605,8 @@ Incorrect tire pressure increases the possibility of deterioration of tires. Ple
 #### Question 2.7.05-205
 
 **Points:** 4 Points
+
+**Licenses:** C, CE, D, D1, C1E, D1E, DE
 
 **What is the effect when tyre pressure is too low?**
 
@@ -46179,6 +50629,8 @@ Since the air supporting the tire, so to speak, is likely to overheat in case of
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **When should you have the tyre pressure checked?**
 
 **Options:**
@@ -46199,6 +50651,8 @@ You should the tire pressure immediately after each change to be measured and at
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **What does the designation “TWI” (Tread Wear Indicator) mean?**
 
 **Options:**
@@ -46218,6 +50672,8 @@ On the tire wear indicator (wear indicator or Tread Wear Indicator, TWI) shows w
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **How do you recognise that tyres have been retreaded?**
 
 **Options:**
@@ -46236,6 +50692,8 @@ A retread tire you acknowledge labeling RETREAD on the tire sidewall. It is also
 #### Question 2.7.05-213
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **What must you observe when checking the spare wheel fixing?**
 
@@ -46258,6 +50716,8 @@ When checking the spare wheel attachment you have to respect all third The contr
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
+
 **When should you check that the designation on the tyre corresponds to the type of tyre allowed?**
 
 **Options:**
@@ -46277,6 +50737,8 @@ The designation on the tires to check for eligibility is required at each wheel 
 #### Question 2.7.05-215
 
 **Points:** 4 Points
+
+**Licenses:** C, CE, D, D1, C1E, D1E, DE
 
 **Before beginning the journey, what do I have to check in connection with the tyres?**
 
@@ -46298,6 +50760,8 @@ Before starting out on the tires checking visible damage and pressure loss is ne
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **Where can you find information about the tyre pressure for your vehicle?**
 
 **Options:**
@@ -46316,6 +50780,8 @@ The information on the tire pressure of your vehicle, check the operating instru
 #### Question 2.7.05-217
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What are the possible consequences if the wheel nuts are not re-tightened following a tyre change?**
 
@@ -46337,6 +50803,8 @@ If the wheel fasteners are not tightened after a wheel change or this has been n
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **You have to change the front-right wheel of your biaxial motor vehicle. You apply a wheel chock to prevent the vehicle from accidentally rolling off. What must you be aware of when doing so?**
 
 **Options:**
@@ -46357,6 +50825,8 @@ You should one wheel of the rear axle back up and the vehicle should be on a sol
 
 **Points:** 3 Points
 
+**Licenses:** C, D, C1E, DE
+
 **You have to change the front-right wheel of your triaxial motor vehicle on flat ground. What should you be aware of when doing so?**
 
 **Options:**
@@ -46375,6 +50845,8 @@ You should two chocks on one wheel of the rear ashes have backed up on a solid g
 #### Question 2.7.05-220
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What does "L" refer to in the following tyre designation: 315/80 R 22.5 156/150 L?**
 
@@ -46397,6 +50869,8 @@ The L stands in this case for the maximum speed of the tire. The other two answe
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What does "156/150" refer to in the following tyre designation: 315/80 R 22.5 156/150 L?**
 
 ![Question Image](images/2_7_05-221.png)
@@ -46418,6 +50892,8 @@ The marking 156/150 represents the load index of the single and twin wheels. It 
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **The tyre pressure monitoring system (TPMS) indicates to you that there is a pressure loss in one of the twin tyres. What should you do?**
 
 **Options:**
@@ -46436,6 +50912,8 @@ When the pressure drops in a dual tires you should at the nearest suitable place
 #### Question 2.7.05-223
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1
 
 **What does the red symbol on the tyre indicate?**
 
@@ -46459,6 +50937,8 @@ The symbol on this tyre means it is suitable for wintry weather conditions and s
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, CE
+
 **What should you check with the spare tyre stored in your vehicle?**
 
 **Options:**
@@ -46480,6 +50960,8 @@ All of the answers are correct. You must check that the spare wheel is securely 
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, D, D1
+
 **Based on the tyre designation, when should you check the road-worthiness of your tyres?**
 
 **Options:**
@@ -46499,6 +50981,8 @@ You check the admissibility based on the tire designation every time you change 
 #### Question 2.7.05-226
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, CE, D, D1, L, T
 
 **Before beginning your journey, what do you have to check in connection with the tyres?**
 
@@ -46520,6 +51004,8 @@ With a visual inspection you can check the tyres and see if there is any damage 
 
 **Points:** 3 Points
 
+**Licenses:** D, D1
+
 **You are driving a coach or bus. What must you note during wintry conditions?**
 
 **Options:**
@@ -46537,6 +51023,8 @@ With a visual inspection you can check the tyres and see if there is any damage 
 
 **Points:** 3 Points
 
+**Licenses:** C, C1
+
 **You are driving a motor vehicle with a maximum authorised mass of more than 3.5 t for transporting freight. What must you note during wintry conditions?**
 
 **Options:**
@@ -46553,6 +51041,8 @@ With a visual inspection you can check the tyres and see if there is any damage 
 #### Question 2.7.05-229
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE
 
 **What should you check regularly if your car has a spare wheel carried outside the body of the car?**
 
@@ -46577,6 +51067,8 @@ If you carry a spare wheel outside the body, it is important to regularly check 
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **What is the benefit of having a motorbike with an anti-lock system (ALS)?**
 
 **Options:**
@@ -46595,6 +51087,8 @@ During emergency braking, the wheels tend to lock and you could fall. An adaptiv
 #### Question 2.7.06-002
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, A80
 
 **You are riding a motorbike equipped with an anti-lock braking system (ABS). What should you take into account if you have to brake while cornering?**
 
@@ -46618,6 +51112,8 @@ Nevertheless, you should brake in a controlled manner when leaning, as the motor
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, A80
+
 **Your motorbike is equipped with a cornering optimised anti-lock braking system (ABS). What is the purpose of this assist system?**
 
 **Options:**
@@ -46637,6 +51133,8 @@ The automatic anti-lock brake prevents the wheels from locking when braking. Thi
 #### Question 2.7.06-101
 
 **Points:** 4 Points
+
+**Licenses:** B
 
 **What is the effect of an automatic anti-locking device (ABS)?**
 
@@ -46658,6 +51156,8 @@ An antilocking system ensures that the wheels of a vehicle do not block even whe
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What are the advantages of an automatic anti-locking device (ABS)?**
 
 **Options:**
@@ -46678,6 +51178,8 @@ The antilocking system has the advantage that it prevents locking of the wheels 
 
 **Points:** 4 Points
 
+**Licenses:** B
+
 **What are the advantages of an automatic anti-locking device (ABS)?**
 
 **Options:**
@@ -46697,6 +51199,8 @@ An anti-lock braking system is particularly useful for heavy braking on wet or d
 
 **Points:** 3 Points
 
+**Licenses:** B, L, T
+
 **When does the braking action of a trailer with overrun brakes start?**
 
 **Options:**
@@ -46715,6 +51219,8 @@ When the trailer hangs on the towing vehicle, the braking effect occurs in a tra
 #### Question 2.7.06-107
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **When is there a particularly high risk of a combination vehicle jack-knifing or skidding on a slippery road?**
 
@@ -46736,6 +51242,8 @@ In a vehicle combination, the danger is particularly great when steering is jerk
 
 **Points:** 4 Points
 
+**Licenses:** CE
+
 **When is there a particularly high risk of a semi-trailer truck with compressed-air brakes jack-knifing or skidding on a slippery road?**
 
 **Options:**
@@ -46756,6 +51264,8 @@ If the truck when cornering brake more than the trailer, the risk on a slippery 
 
 **Points:** 3 Points
 
+**Licenses:** L
+
 **You are pulling a trailer with overrun brakes. What must you be aware of?**
 
 **Options:**
@@ -46774,6 +51284,8 @@ Coming soon...
 #### Question 2.7.06-110
 
 **Points:** 2 Points
+
+**Licenses:** B, C, C1, D, D1, C1E, D1E, DE
 
 **What could happen if the cruise control system (speed limiter) is switched off too late?**
 
@@ -46796,6 +51308,8 @@ The speed controller constantly keeps a set speed. So, when driving into road se
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, C1E, D1E, DE
+
 **With what can a cruise control system (speed limiter) assist you?**
 
 **Options:**
@@ -46815,6 +51329,8 @@ Cruise control keeps your car at a constant speed, but does not control the dist
 #### Question 2.7.06-112
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1, C1E, D1E, DE
 
 **What should I be aware of when using an adaptive cruise control system?**
 
@@ -46837,6 +51353,8 @@ An adaptive speed control system evaluates the position and the speed of the veh
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, C1E, D1E, DE
+
 **What function is performed by an adaptive cruise control system on a motor vehicle?**
 
 **Options:**
@@ -46856,6 +51374,8 @@ An adaptive cruise control system, also known as adaptive cruise control, determ
 #### Question 2.7.06-114
 
 **Points:** 3 Points
+
+**Licenses:** B, C, C1, D, D1, T
 
 **What benefits does the driver of a motor vehicle have by using a cruise control system?**
 
@@ -46877,6 +51397,8 @@ The cruise control maintains a steady vehicle speed on a level road and relieves
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, CE, D, D1
+
 **In which situation is it helpful to use an adaptive cruise control system (ACC)?**
 
 **Options:**
@@ -46896,6 +51418,8 @@ Adaptive Cruise Control monitors the distance to the vehicle in front and adjust
 #### Question 2.7.06-116
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **How can you manually override an activated cruise control system?**
 
@@ -46917,6 +51441,8 @@ An active cruise control system is overridden by applying the brakes or accelera
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1, A, A1, A2, A80
+
 **What is the purpose of an adaptive cruise control system (ACC) in motor vehicles?**
 
 **Options:**
@@ -46937,6 +51463,8 @@ It also brakes when it detects vehicles ahead. It does not slow down if it canno
 #### Question 2.7.06-118-M
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **While driving, you use the adaptive cruise control (ACC). The speed is set to 100 km/h. What must you be prepared for before entering a bend in the road?**
 
@@ -46963,6 +51491,8 @@ You have set the speed of the AGR to 100 km/h. Because the vehicle in front is n
 
 **Points:** 3 Points
 
+**Licenses:** B, C, C1, D, D1
+
 **What is the function of your vehicle’s emergency brake assist?**
 
 **Options:**
@@ -46983,6 +51513,8 @@ An emergency brake assist is a safety system for motor vehicles that warns you o
 
 **Points:** 3 Points
 
+**Licenses:** C, D, C1E, DE
+
 **What happens when the retarders are engaged and the service brake is applied?**
 
 **Options:**
@@ -47001,6 +51533,8 @@ When the service brake is applied with switched permanent brake, the following h
 #### Question 2.7.06-203
 
 **Points:** 2 Points
+
+**Licenses:** C, D, C1E, DE
 
 **What are the advantages of the speed control (cruise control) when driving a motor vehicle?**
 
@@ -47023,6 +51557,8 @@ Advantages in a cruise control are relief during acceleration, fuel economy thro
 
 **Points:** 2 Points
 
+**Licenses:** C, D, C1E, DE
+
 **When should the speed control (cruise control) be used?**
 
 **Options:**
@@ -47042,6 +51578,8 @@ Cruise control should be used if the traffic conditions permit a constant speed.
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What is understood by a braking system with an automatic load-dependent braking-force regulator (ALB)?**
 
 **Options:**
@@ -47060,6 +51598,8 @@ Among ALB (automatically loads dependent braking force control), it is understoo
 #### Question 2.7.06-209
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **The rear wheels of an unloaded vehicle equipped with an automatic load-dependent braking force regulator (ALB) lock each time the brakes are strongly applied. What can be the cause?**
 
@@ -47081,6 +51621,8 @@ The causes can defective or incorrectly set ALB be, or the breaking of several s
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **How does the effect of automatic load-dependent braking-force regulators (ALB) and automatic anti-locking devices (ABS) differ?**
 
 **Options:**
@@ -47100,6 +51642,8 @@ When ABS brakes automatically preventing the wheels from locking. For ALB, the b
 #### Question 2.7.06-211
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **Which brakes are not subject to significant wear?**
 
@@ -47121,6 +51665,8 @@ Without significant wear the retarder (eddy-current brake) working the lock.
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What produces the braking action in a spring-loaded brake cylinder?**
 
 **Options:**
@@ -47140,6 +51686,8 @@ The spring-loaded brake is effected by the spring force. Here, the spring is ven
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **How does a spring-loaded brake system work?**
 
 **Options:**
@@ -47158,6 +51706,8 @@ When operating the hand brake valve, the spring-loaded brake cylinder is vented 
 #### Question 2.7.06-215
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **The spring-loaded brake has been applied on a truck which has broken down with engine failure. The air supply is exhausted. What effect does this have?**
 
@@ -47179,6 +51729,8 @@ If you want your vehicle towed, must be the spring-loaded brake is released with
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What kind of emergency release devices exist for spring-loaded brake cylinders?**
 
 **Options:**
@@ -47199,6 +51751,8 @@ There are both mechanical and pneumatic auxiliary equipment for spring brake cyl
 
 **Points:** 3 Points
 
+**Licenses:** D, DE
+
 **You are driving a bus equipped with a bus-stop brake. When are you allowed to use the bus-stop brake?**
 
 **Options:**
@@ -47217,6 +51771,8 @@ Coming soon...
 #### Question 2.7.06-220
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
 
 **What must you remember with an air brake system with air-drier?**
 
@@ -47238,6 +51794,8 @@ In a pneumatic brake system with air dryer you should make sure that it is regul
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
+
 **When you depress the brake pedal completely, what fall in pressure in the air tank of a motor vehicle (cut-off pressure approx. 7 - 8 bar overpressure) gives no cause for concern?**
 
 **Options:**
@@ -47256,6 +51814,8 @@ If you are the brake pedal fully durchtrittst (cut about 7 to 8 bar pressure) is
 #### Question 2.7.06-223
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
 
 **What is the function of a multiple-circuit safety valve in an air brake system?**
 
@@ -47277,6 +51837,8 @@ A four-circuit protection valve in an air brake system, the air supply to the in
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Which inspections and servicing measures are regularly required for an air compressor?**
 
 **Options:**
@@ -47297,6 +51859,8 @@ one of the regular inspection and maintenance of an air compressor: Cleaning the
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
+
 **Why is a pressure drop of more than 0.7 bar in the air tank of a vehicle problematic when you fully depress the brake pedal (cut-off pressure approximately 7 - 8 bar)?**
 
 **Options:**
@@ -47316,6 +51880,8 @@ If the pressure drop in the air tank to be higher than 0.7 bar, while the brake 
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, D, D1, T, C1E, D1E, DE
+
 **The braking force on the rear wheels of a vehicle with automatic load-dependent braking force regulator (ALB) fails. What can be the reason?**
 
 **Options:**
@@ -47334,6 +51900,8 @@ This is due to the faulty ALB setting. Please check so that you can safely and c
 #### Question 2.7.06-228
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **Your motor vehicle is equipped with an electronic braking system (EBS). What happens in the event of a failure of the EBS?**
 
@@ -47355,6 +51923,8 @@ In case of failure of the EBS (electronic brake system) the vehicle is braked by
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **Your motor vehicle is equipped with an electronic braking system (EBS). What does the EBS perform?**
 
 **Options:**
@@ -47375,6 +51945,8 @@ An EBS causes an optimal adjustment of the braking forces takes place between th
 
 **Points:** 3 Points
 
+**Licenses:** C, D
+
 **What happens if the service brake is activated while the permanent brake is switched on?**
 
 **Options:**
@@ -47394,6 +51966,8 @@ Applying the service brake when the permanent brake is on has the following effe
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, T
+
 **You press the brake pedal of your motor vehicle fully down. What is the maximum safe decrease of pressure in the braking system if the air tanks are full?**
 
 **Options:**
@@ -47412,6 +51986,8 @@ A maximum pressure drop of 0.7 bar is harmless when the air tank is completely f
 #### Question 2.7.06-232
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, D, D1, T
 
 **Why is a decrease of pressure of more than 0.7 bar problematic in the compressed air system of a motor vehicle, if you press the brake pedal fully down one time (cut-off pressure around 10 to 13 bar)?**
 
@@ -47433,6 +52009,8 @@ If the pressure in the compressed air system of your vehicle drops by more than 
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1
+
 **What is the purpose of an automatic load-sensitive braking system (ALB)?**
 
 **Options:**
@@ -47451,6 +52029,8 @@ The braking force function with ALB is adjusted to the actual vehicle mass.
 #### Question 2.7.06-234
 
 **Points:** 2 Points
+
+**Licenses:** C, D
 
 **Which brake system of a motor vehicle functions without any appreciable wear?**
 
@@ -47471,6 +52051,8 @@ The engine brake and the retarder (electrodynamic permanent brake) work without 
 #### Question 2.7.06-235
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1
 
 **Your motor vehicle is equipped with an electronic braking system (EBS). What is the effect of the EBS?**
 
@@ -47493,6 +52075,8 @@ All answers are correct. The braking distance with EBS is shortened, braking sta
 
 **Points:** 4 Points
 
+**Licenses:** C, D
+
 **You are driving a laden motor vehicle equipped with a manual gearbox. On a steep descent your speed is steadily increasing even though the permanent brake is activated. What should you do?**
 
 **Options:**
@@ -47511,6 +52095,8 @@ If your speed increases on a steep incline, brake with the service brake and shi
 #### Question 2.7.06-237
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1
 
 **Your motor vehicle is equipped with an emergency brake assist. Which is correct?**
 
@@ -47531,6 +52117,8 @@ If it is present, it should be activated. It is a great help during emergency br
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1
+
 **Your motor vehicle is equipped with an emergency brake assist. Which is correct?**
 
 **Options:**
@@ -47549,6 +52137,8 @@ If it is present, it should be activated. It is a great help during emergency br
 #### Question 2.7.06-239
 
 **Points:** 2 Points
+
+**Licenses:** C, D
 
 **Why should you use the permanent brake (retarder) of your motor vehicle?**
 
@@ -47570,6 +52160,8 @@ A continuous brake is a device that allows braking for a longer period of time a
 
 **Points:** 2 Points
 
+**Licenses:** C, D
+
 **What is the benefit of using adaptive cruise control (ACC) on motorways?**
 
 **Options:**
@@ -47590,6 +52182,8 @@ The driver assistance system ensures the correct safety distance to the vehicle 
 
 **Points:** 2 Points
 
+**Licenses:** C, D
+
 **You are driving a motor vehicle with a manual gearbox. What is the logical thing to do so that the cruise control system can contribute to a fuel-efficient driving style?**
 
 **Options:**
@@ -47609,6 +52203,8 @@ The speed must be as low as possible.
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1
+
 **What can cause the emergency brake assist of a vehicle to deactivate automatically?**
 
 **Options:**
@@ -47625,6 +52221,8 @@ The speed must be as low as possible.
 #### Question 2.7.06-243
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1
 
 **Your vehicle is equipped with an emergency brake assistant. What is correct?**
 
@@ -47644,6 +52242,8 @@ As a truck driver, you are obliged to keep the emergency braking assistant activ
 #### Question 2.7.06-303
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **What happens to a truck and trailer combination when the spring-loaded braking system of the truck is activated?**
 
@@ -47665,6 +52265,8 @@ If you are the spring-brake your Zugafahrzeuges einlegst in your truck, (vent) i
 
 **Points:** 3 Points
 
+**Licenses:** CE, T
+
 **In which cases must you activate the release valve?**
 
 **Options:**
@@ -47683,6 +52285,8 @@ The release valve you need to press when the trailer with filled air tanks and d
 #### Question 2.7.06-307
 
 **Points:** 3 Points
+
+**Licenses:** CE, T
 
 **What is the effect when the brake line (hose) between the truck (dual-circuit brake system) and trailer breaks on braking?**
 
@@ -47704,6 +52308,8 @@ At a fraction of the braking line (hose) between the towing vehicle (two-circuit
 
 **Points:** 4 Points
 
+**Licenses:** CE, T
+
 **The brake line to the front right-hand wheel ruptures on a truck which is fitted with an air-hydraulic dual-circuit braking system with pre-loaded cylinder and a pneumatic trailer-control valve. What effect does this have on the truck and trailer?**
 
 **Options:**
@@ -47724,6 +52330,8 @@ The effects are as follows: For the trailer, the service brake is fully function
 
 **Points:** 4 Points
 
+**Licenses:** CE, T
+
 **What danger arises if the brake cylinder pistons of a trailer air brake system protrude to their limit stop on braking?**
 
 **Options:**
@@ -47742,6 +52350,8 @@ The danger that exists when the pistons of the brake cylinders is to eject a com
 #### Question 2.7.06-310
 
 **Points:** 4 Points
+
+**Licenses:** CE
 
 **What can happen if a truck and trailer are continuously braked with the service brakes on a long downhill slope?**
 
@@ -47762,6 +52372,8 @@ After a long gap, the wheel brakes are heated so much that the braking effect we
 
 **Points:** 4 Points
 
+**Licenses:** CE
+
 **You are driving downhill with fully loaded truck and trailer and have underestimated the slope. Despite retarders being engaged, the speed increases appreciably. What must you do?**
 
 **Options:**
@@ -47779,6 +52391,8 @@ You should with the service brake to slow down to be able to switch back if you 
 #### Question 2.7.06-313
 
 **Points:** 3 Points
+
+**Licenses:** CE, L, T
 
 **You park a trailer with compressed air-braking system for a short period. How can you disengage the service brake of the trailer?**
 
@@ -47798,6 +52412,8 @@ By pressing the release valve, you can release the service brake of the trailer.
 #### Question 2.7.06-314
 
 **Points:** 4 Points
+
+**Licenses:** CE
 
 **Only the towing vehicle of a semi-trailer unit is equipped with an anti-lock braking system (ABS). What could the effect of this be when performing an emergency braking manoeuvre on a wet carriageway?**
 
@@ -47819,6 +52435,8 @@ During emergency braking in blocking the wheels of the trailer can break out and
 
 **Points:** 2 Points
 
+**Licenses:** CE
+
 **The connection between the electronic braking system (EBS) and the trailer is interrupted. What effect could this have on the trailer when braking?**
 
 **Options:**
@@ -47839,6 +52457,8 @@ When an interruption of the connection of the EBS electronic braking system) of 
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **Towing vehicle and trailer are equipped with an electronic braking system (EBS). How can you check the electronic connection to the trailer when the reservoirs are full?**
 
 **Options:**
@@ -47857,6 +52477,8 @@ The electronic with filled reservoirs connection to the trailer you test by you 
 #### Question 2.7.06-317
 
 **Points:** 3 Points
+
+**Licenses:** CE, T
 
 **What will be the effect if the brake line hose with the yellow coupling head tears between the towing vehicle and trailer during braking?**
 
@@ -47878,6 +52500,8 @@ If the brake hose (with yellow coupling head) between the towing vehicle and the
 
 **Points:** 4 Points
 
+**Licenses:** CE, T
+
 **A piston belonging to the pneumatic brake cylinders of your trailer is extended to its maximum during braking. What danger can this present?**
 
 **Options:**
@@ -47896,6 +52520,8 @@ The danger for you is that the braking effect of the trailer is reduced. There i
 #### Question 2.7.06-319
 
 **Points:** 4 Points
+
+**Licenses:** CE, T
 
 **You are driving a towing vehicle equipped with a compressed air-braking system. The brake line to the front-right wheel severs. What impact does this have when towing a trailer?**
 
@@ -47917,6 +52543,8 @@ If the brake line on the right front wheel breaks, you can still brake with your
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **You are driving a truck and trailer with a common compressed air-braking system. What is the function of the handbrake valve control setting here?**
 
 **Options:**
@@ -47937,6 +52565,8 @@ The function of the control position of the handbrake valve (on your truck with 
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is the effect on a truck-trailer combination when the parking brake in the towing vehicle is engaged (not in the test position)?**
 
 **Options:**
@@ -47953,6 +52583,8 @@ The function of the control position of the handbrake valve (on your truck with 
 #### Question 2.7.06-402
 
 **Points:** 3 Points
+
+**Licenses:** T
 
 **You want to drive an agricultural tractor with two trailers equipped with compressed-air brakes. What do you have to ensure you do with the manual brake power regulator on each of the trailers?**
 
@@ -47973,6 +52605,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** C, D, C1E, DE
+
 **What is needed to ensure that the cruise control can contribute to fuel-efficiency?**
 
 **Options:**
@@ -47992,6 +52626,8 @@ Selecting the right gear can contribute to a more fuel-efficient driving style w
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What function is performed by an automatic load-sensitive braking system?**
 
 **Options:**
@@ -48010,6 +52646,8 @@ causes the function of the load sensing valve, that the braking force of the act
 #### Question 2.7.06-405
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **You want to drive a vehicle with a trailer equipped with overrun braking. What do you have to check before beginning the journey?**
 
@@ -48031,6 +52669,8 @@ Note that an overrun brake is a mechanical device whose interlock must be checke
 #### Question 2.7.06-406
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **What do you have to regularly check on the air compressor?**
 
@@ -48055,6 +52695,8 @@ On the air compressor, you should regularly check the connection of the pressure
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, C1E
+
 **What control and service work has to be carried out regularly on a fifth wheel?**
 
 **Options:**
@@ -48075,6 +52717,8 @@ In the case of inspection and maintenance work must be the fifth wheel greased a
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What is the maximum wear allowed for a coupling pin on an automatic trailer coupling with a diameter of 38.0 mm when new?**
 
 **Options:**
@@ -48092,6 +52736,8 @@ The coupling pin must not exceed worn mm up to a diameter of 36.5 when he mm in 
 #### Question 2.7.07-204
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What can be the effect of longitudinal play of the tow-bar of a trailer coupling?**
 
@@ -48113,6 +52759,8 @@ At length game of the tie rod can cause damage to the Traverse and the trailer c
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **Is the tow-bar of a trailer coupling allowed to have longitudinal play?**
 
 **Options:**
@@ -48131,6 +52779,8 @@ The answer is no. A tow can have no end play.
 #### Question 2.7.07-208
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
 
 **What must you consider when coupling a trailer with ball coupling?**
 
@@ -48153,6 +52803,8 @@ The coupling claw has to close securely. The ground is touched during the coupli
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, D, D1, C1E, D1E, DE
+
 **What must be checked after you have coupled a multiple-axle trailer to an automatic trailer coupling?**
 
 **Options:**
@@ -48172,6 +52824,8 @@ When coupling a multi-axle trailer to an automatic trailer hitch, you should che
 #### Question 2.7.07-302
 
 **Points:** 4 Points
+
+**Licenses:** CE
 
 **What must you do after attaching a semitrailer?**
 
@@ -48193,6 +52847,8 @@ After hitching a semitrailer you should produce and check and check the lock and
 
 **Points:** 3 Points
 
+**Licenses:** CE
+
 **What is the maximum vertical play permitted for a coupling pin?**
 
 **Options:**
@@ -48211,6 +52867,8 @@ The coupling pin must have a maximum height of 4 mm play. If it is too high, it 
 #### Question 2.7.07-304
 
 **Points:** 4 Points
+
+**Licenses:** CE
 
 **You take over a semitrailer which you have not used before. What must you remember before attaching the semitrailer?**
 
@@ -48231,6 +52889,8 @@ About you taking a new semi-trailer (not all are the same) please pay attention 
 #### Question 2.7.07-305
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **What must you do before detaching a semitrailer?**
 
@@ -48253,6 +52913,8 @@ All three answers are correct. All hose and cable connections zwichen tractor an
 
 **Points:** 4 Points
 
+**Licenses:** CE, L, T
+
 **What is the correct procedure when coupling up a multiple-axle trailer?**
 
 **Options:**
@@ -48272,6 +52934,8 @@ During the coupling of the towing vehicle is Mehrachsanhängers ranks to the tra
 
 **Points:** 3 Points
 
+**Licenses:** CE, L, T
+
 **By which means should the towing bar of a multiple-axle trailer be kept on level with the coupling of the approaching truck tractor?**
 
 **Options:**
@@ -48290,6 +52954,8 @@ The Multi-axle trailer is held in coupling height of the oncoming tractor by the
 #### Question 2.7.07-309
 
 **Points:** 4 Points
+
+**Licenses:** CE, T
 
 **What must you check before coupling up a multiple-axle trailer?**
 
@@ -48311,6 +52977,8 @@ During the coupling of a multi-axle trailer, you need to convince them that the 
 
 **Points:** 3 Points
 
+**Licenses:** CE, T
+
 **You have coupled up a multiple-axle trailer which you have not used before. How can you establish that the towing fork and turning ring are dangerously worn?**
 
 **Options:**
@@ -48329,6 +52997,8 @@ forward movement several times briefly with the towing vehicle when braked trail
 #### Question 2.7.07-312
 
 **Points:** 4 Points
+
+**Licenses:** CE, T
 
 **How can you see that the coupling pin has engaged correctly in the case of an automatic trailer coupling?**
 
@@ -48349,6 +53019,8 @@ So you can check whether the coupling pin is properly engaged, you can look up o
 
 **Points:** 3 Points
 
+**Licenses:** CE, T
+
 **What is the maximum wear the tow-bar eye may have?**
 
 **Options:**
@@ -48368,6 +53040,8 @@ The wear of the towing eye must be 1.5 mm maximum.
 
 **Points:** 3 Points
 
+**Licenses:** CE, T
+
 **What is the maximum play the towing fork may have in the bearing bushes in towing direction?**
 
 **Options:**
@@ -48386,6 +53060,8 @@ The drawbar must not have any noticeable play in the bearing bushes (tensile dir
 #### Question 2.7.07-317
 
 **Points:** 4 Points
+
+**Licenses:** CE, T
 
 **What can be the consequences if the tow-bar of a towing coupling has longitudinal play?**
 
@@ -48407,6 +53083,8 @@ The consequences of the longitudinal play of the pull rod are as follows: cracki
 
 **Points:** 3 Points
 
+**Licenses:** CE, T
+
 **How do you have to disconnect the air lines when detaching a trailer?**
 
 **Options:**
@@ -48426,6 +53104,8 @@ The compressed air lines you separate during the uncoupling of a trailer by you 
 #### Question 2.7.07-320
 
 **Points:** 3 Points
+
+**Licenses:** CE, T
 
 **What must you remember when coupling up a trailer?**
 
@@ -48447,6 +53127,8 @@ When coupling a trailer with a combined coupling heads close both lines at the s
 
 **Points:** 3 Points
 
+**Licenses:** CE, T
+
 **What must you remember when coupling up a trailer?**
 
 **Options:**
@@ -48466,6 +53148,8 @@ When coupling a trailer, please release the parking brake after coupling and rem
 #### Question 2.7.07-322
 
 **Points:** 4 Points
+
+**Licenses:** CE, T
 
 **What must you remember after you have coupled up a trailer to an automatic trailer coupling?**
 
@@ -48487,6 +53171,8 @@ When coupling a trailer, please release the parking brake after coupling and rem
 
 **Points:** 4 Points
 
+**Licenses:** CE
+
 **Which requirements must be fulfilled before coupling a semi-trailer?**
 
 **Options:**
@@ -48506,6 +53192,8 @@ be unlocked during coupling of a semitrailer has the fifth wheel (tractor) and o
 #### Question 2.7.07-324
 
 **Points:** 3 Points
+
+**Licenses:** CE, L, T
 
 **The coupling pins of your trailer hitch have a diameter of 38 mm when new. What should you note regarding wear?**
 
@@ -48527,6 +53215,8 @@ If you notice wear on the coupling bolt (e.g. 2 mm) you have to have the bolt re
 
 **Points:** 3 Points
 
+**Licenses:** CE, L, T
+
 **A considerable amount of longitudinal play becomes apparent in the towing device of the trailer. What effect can this have?**
 
 **Options:**
@@ -48547,6 +53237,8 @@ If you notice significant longitudinal play in the trailer drawbar, this will af
 
 **Points:** 3 Points
 
+**Licenses:** CE, T
+
 **How much longitudinal play may there be in the drawbar of the hitch?**
 
 **Options:**
@@ -48565,6 +53257,8 @@ A longitudinal play in the drawbar of your trailer is not permitted and must be 
 #### Question 2.7.07-327
 
 **Points:** 3 Points
+
+**Licenses:** CE, L, T
 
 **The drawbar of a full trailer is to be kept level with the coupling height of the approaching towing vehicle. How is this ensured?**
 
@@ -48585,6 +53279,8 @@ To bring the drawbar of a drawbar trailer to coupling height, use the height adj
 
 **Points:** 3 Points
 
+**Licenses:** CE, L, T
+
 **How can you check the state of wear of the drawbar or the turntable of a full trailer?**
 
 **Options:**
@@ -48603,6 +53299,8 @@ You can check with your towing vehicle whether there is any wear on the drawbar 
 #### Question 2.7.07-329
 
 **Points:** 3 Points
+
+**Licenses:** CE, L, T
 
 **How much wear is permitted on the diameter of the drawbar eye of the hitch?**
 
@@ -48623,6 +53321,8 @@ The wear on the drawbar eye must be large in diameter mm 1.5 maximum.
 
 **Points:** 3 Points
 
+**Licenses:** CE, L, T
+
 **What is the maximum permissible wear measured across the diameter of the towing ring of a drawbar?**
 
 **Options:**
@@ -48641,6 +53341,8 @@ The diameter must not exceed 1.5 mm.
 #### Question 2.7.07-401
 
 **Points:** 3 Points
+
+**Licenses:** L, T
 
 **Your tractor is equipped with a K 80 coupling system with manual locking. What must you ensure when coupling a trailer?**
 
@@ -48665,6 +53367,8 @@ You must lock the hold-down on the coupling system after coupling and adjust the
 
 **Points:** 3 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Why must you ensure the brake fluid is changed regularly in accordance with the vehicle manufacturer's instructions?**
 
 **Options:**
@@ -48685,6 +53389,8 @@ You should have the brake fluid changed regularly according to the manufacturer'
 #### Question 2.7.08-201
 
 **Points:** 3 Points
+
+**Licenses:** C, D, D1, C1E, D1E, DE
 
 **If you do not regularly exchange the air filter, what effects does this have on the engine?**
 
@@ -48707,6 +53413,8 @@ A waiver of the regular air filter changes can increase the proportion of pollut
 
 **Points:** 3 Points
 
+**Licenses:** C, D, D1, C1E, D1E, DE
+
 **Why should you check the tread of the tyres regularly?**
 
 **Options:**
@@ -48727,6 +53435,8 @@ A waiver of the regular air filter changes can increase the proportion of pollut
 #### Question 2.7.08-203
 
 **Points:** 2 Points
+
+**Licenses:** C, D, D1, C1E, D1E, DE
 
 **Why should you check your vehicle before the start of the cold weather period?**
 
@@ -48749,6 +53459,8 @@ Because the windshield washer system can freeze and because the battery may fail
 
 **Points:** 2 Points
 
+**Licenses:** C, D, D1, C1E, D1E, DE
+
 **What preventive maintenance can you carry out on the battery?**
 
 **Options:**
@@ -48769,6 +53481,8 @@ Check cable connections and battery holder are tight and clean and grease the po
 
 **Points:** 2 Points
 
+**Licenses:** C, D, D1, C1E, D1E, DE
+
 **Why is it important to regularly check the engine's coolant?**
 
 **Options:**
@@ -48788,6 +53502,8 @@ A regular check of the cooling liquid is important because it can lead to the ab
 #### Question 2.7.08-207
 
 **Points:** 3 Points
+
+**Licenses:** C, CE, D, D1, C1E, D1E, DE
 
 **Why should the planned services be carried out on your vehicle?**
 
@@ -48810,6 +53526,8 @@ The inspections provided for you should perform because so environmentally relev
 
 **Points:** 3 Points
 
+**Licenses:** C, CE, D, D1, C1E, D1E, DE
+
 **Why should you always carry out a control on your vehicle before you drive off?**
 
 **Options:**
@@ -48831,6 +53549,8 @@ A descent control to your vehicle you should carry out all the above reasons. Be
 
 **Points:** 2 Points
 
+**Licenses:** C, CE, D, D1, C1E, D1E, DE
+
 **How are lubricating points lubricated on motor vehicles and trailers?**
 
 **Options:**
@@ -48851,6 +53571,8 @@ The lubrication points are lubricated with manual lubrication with a hard press 
 
 **Points:** 2 Points
 
+**Licenses:** C, CE, D, D1, L, T, C1E, D1E, DE
+
 **What should be noted when lubricating a vehicle?**
 
 **Options:**
@@ -48870,6 +53592,8 @@ You should make sure that a noticeable fat entry is to recognize and clean the g
 #### Question 2.7.08-301
 
 **Points:** 3 Points
+
+**Licenses:** CE
 
 **What maintenance is necessary on trailers?**
 
@@ -48894,6 +53618,8 @@ You have all the moving parts (drawbar & slewing ring) wait on the trailer.
 
 **Points:** 2 Points
 
+**Licenses:** C, CE, C1E
+
 **What is the maximum permissible width of a vehicle including load (excluding vehicles with farming or forestry products and refrigerator vehicles)?**
 
 **Options:**
@@ -48910,6 +53636,8 @@ The width of thy vehicle (except vehicles agricultural or forestry products and 
 
 **Points:** 2 Points
 
+**Licenses:** C, CE, C1E
+
 **What is the maximum permissible height of a vehicle including load (excluding vehicles with farming or forestry products)?**
 
 **Options:**
@@ -48925,6 +53653,8 @@ The amount of your vehicle, including cargo (except vehicles agricultural or for
 #### Question 2.7.09-204
 
 **Points:** 2 Points
+
+**Licenses:** C, CE, C1E
 
 **A load extending beyond the back of the vehicle must be marked. Which means are allowed during the day?**
 
@@ -48946,6 +53676,8 @@ By day following means are permitted at a rearwardly protruding charge: A minimu
 
 **Points:** 3 Points
 
+**Licenses:** C, CE, C1E
+
 **What precautionary measures must be taken before putting a loading crane into operation?**
 
 **Options:**
@@ -48965,6 +53697,8 @@ Before putting a loading crane you need to be sure that in the swivel range, no 
 #### Question 2.7.09-209
 
 **Points:** 3 Points
+
+**Licenses:** C, CE, C1E
 
 **What are the conditions on which you are allowed to carry out loading on the edge of the roadway?**
 
@@ -48986,6 +53720,8 @@ If you would like to perform at the roadside a loading operation, please pay att
 
 **Points:** 3 Points
 
+**Licenses:** C, CE, C1E
+
 **What is the permitted height of a vehicle including load (excluding vehicles with agricultural or forestry products)?**
 
 **Options:**
@@ -49004,6 +53740,8 @@ In the charge allowed (except vehicles agricultural or forestry products) has a 
 #### Question 2.7.09-211
 
 **Points:** 3 Points
+
+**Licenses:** C, CE, C1E
 
 **What measures must you take if you break down with a load which has to be transported hot (e.g. bitumen transport)?**
 
@@ -49026,6 +53764,8 @@ In a breakdown with a hot transported cargo, you should organize help ensure the
 
 **Points:** 2 Points
 
+**Licenses:** C, CE, C1E
+
 **What are the rules with which you have to comply when you transport refrigerated goods?**
 
 **Options:**
@@ -49045,6 +53785,8 @@ In a Kühlguttransport please make sure to constantly meet the following the spe
 #### Question 2.7.09-220
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **When transporting certain goods, special regulations must be observed. For which goods does this apply?**
 
@@ -49067,6 +53809,8 @@ Both for waste materials, as well as live animals and dangerous goods Special re
 
 **Points:** 4 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **How do you mark a load when it extends laterally by more than 0.4 m beyond the side lights of the vehicle?**
 
 **Options:**
@@ -49085,6 +53829,8 @@ The marking on the side of more than 0.4 m above the vehicle running lights also
 #### Question 2.7.09-222
 
 **Points:** 4 Points
+
+**Licenses:** C, C1, CE, D, D1, C1E, D1E, DE
 
 **What do you have to make sure of regarding the load on your vehicle?**
 
@@ -49107,6 +53853,8 @@ When you load your vehicle, please pay attention to compliance with the maximum 
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **What does this sign mean?**
 
 ![Question Image](images/2_7_09-224.png)
@@ -49128,6 +53876,8 @@ This panel means waste shipments.
 
 **Points:** 2 Points
 
+**Licenses:** C, CE, C1E
+
 **Where can you find guidelines concerning the transport and securing of loads on vehicles?**
 
 **Options:**
@@ -49147,6 +53897,8 @@ The guidelines you'll find in the road traffic regulations (Highway Code) and ac
 #### Question 2.7.09-226
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, C1E
 
 **You are transporting a "groupage" cargo load containing transport units of varying sizes and weight. How should you secure this load?**
 
@@ -49168,6 +53920,8 @@ Do you drive a load handling with different sized and heavy transport units, ple
 
 **Points:** 4 Points
 
+**Licenses:** C, CE, L, T, C1E
+
 **You are transporting logs. The driving route means you have to drive along poor quality roads. What do you have to do?**
 
 **Options:**
@@ -49188,6 +53942,8 @@ When tree trunks transport over bad roads, you should regularly review and adjus
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, C1E
+
 **What do you have to ensure when taking receipt of a load, if it is expected that transporting this load will create a risk?**
 
 **Options:**
@@ -49206,6 +53962,8 @@ Accepting the award of damaged cargo, you should note that the charge must rejec
 #### Question 2.7.09-229
 
 **Points:** 3 Points
+
+**Licenses:** C, C1, CE, L, T, C1E
 
 **When are you required to cover bulk material loaded on your vehicle?**
 
@@ -49227,6 +53985,8 @@ You have to bulk up your vehicle before the fall cover and the eighth from the f
 
 **Points:** 3 Points
 
+**Licenses:** C, C1, CE, L, T, C1E
+
 **What forms part of securing the load?**
 
 **Options:**
@@ -49246,6 +54006,8 @@ Part of your load securing that safe stowage and securing and the cover of bulk.
 #### Question 2.7.09-231
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, CE
 
 **This sign on a vehicle indicates what type of transport?**
 
@@ -49268,6 +54030,8 @@ Part of your load securing that safe stowage and securing and the cover of bulk.
 
 **Points:** 3 Points
 
+**Licenses:** Mofa
+
 **What must be constantly operative on a motorized bicycle?**
 
 **Options:**
@@ -49289,6 +54053,8 @@ All three are required to be visible on the road and ensure your safety
 
 **Points:** 2 Points
 
+**Licenses:** D, DE
+
 **A bus has 32 passenger seats. How many first-aid kits must be on-board?**
 
 **Options:**
@@ -49308,6 +54074,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** B
+
 **A car is fitted with winter tyres (M+S). A sticker reading "Mit M+S 160" is attached to the dashboard. What does it mean?**
 
 **Options:**
@@ -49326,6 +54094,8 @@ When driving with these tires they must not exceed the speed indicated on the st
 #### Question 2.7.10-102
 
 **Points:** 3 Points
+
+**Licenses:** B
 
 **What must you remember when fitting winter tyres (M+S)?**
 
@@ -49347,6 +54117,8 @@ The optimal air pressure for winter tires may be different when there is no snow
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **You are driving a regular service bus. Where is the number of permissible seats and standing places indicated?**
 
 **Options:**
@@ -49366,6 +54138,8 @@ Coming soon...
 #### Question 2.7.10-203
 
 **Points:** 2 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **Which equipment must be carried on a bus in unfavourable road and weather conditions?**
 
@@ -49387,6 +54161,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **Your bus has a permissible total mass of 4 t. What must you carry?**
 
 **Options:**
@@ -49406,6 +54182,8 @@ Coming soon...
 #### Question 2.7.10-206
 
 **Points:** 3 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What are the requirements to be met by fire extinguishers to be carried on buses?**
 
@@ -49427,6 +54205,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **At which intervals must fire extinguishers be checked for usability?**
 
 **Options:**
@@ -49445,6 +54225,8 @@ Coming soon...
 #### Question 2.7.10-210
 
 **Points:** 2 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What must be clearly marked in buses?**
 
@@ -49466,6 +54248,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What must you check at the emergency exits before setting off?**
 
 **Options:**
@@ -49486,6 +54270,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **A bus has 15 passenger seats. What is the minimum number of standard first-aid kits required?**
 
 **Options:**
@@ -49504,6 +54290,8 @@ Coming soon...
 
 **Points:** 3 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **What is the minimum number of operative fire extinguishers which must be carried on a bus (single deck)?**
 
 **Options:**
@@ -49521,6 +54309,8 @@ Coming soon...
 #### Question 2.7.10-214
 
 **Points:** 2 Points
+
+**Licenses:** D, D1, D1E, DE
 
 **What is the location of the required fire extinguishers on a double-decker bus?**
 
@@ -49542,6 +54332,8 @@ Coming soon...
 
 **Points:** 2 Points
 
+**Licenses:** D, D1, D1E, DE
+
 **Where can you find the details of the inspection period of a fire extinguisher carried in the vehicle?**
 
 **Options:**
@@ -49561,6 +54353,8 @@ Coming soon...
 #### Question 2.7.10-216
 
 **Points:** 2 Points
+
+**Licenses:** D
 
 **You are driving a double-decker bus. Where should a fire extinguisher be located?**
 
@@ -49588,6 +54382,8 @@ According to Section 35g of the Road Traffic Licensing Regulations (StVZO), doub
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What is the normal trial period?**
 
 **Options:**
@@ -49606,6 +54402,8 @@ Normally, the probationary period is 2 years. But there are also situations wher
 #### Question 2.8.01-009
 
 **Points:** 2 Points
+
+**Licenses:** A, A1, A2, B, A80
 
 **You are currently in the probationary period and to date have not come to the attention of the authorities. What consequences may result if you fail to observe the traffic sign "Stop. Give way." and thereby endanger other road users?**
 
@@ -49627,6 +54425,8 @@ Failure to observe the traffic sign "Stop. Grant right of way" is a serious viol
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **What should be achieved by attending an advanced seminar during the probationary period?**
 
 **Options:**
@@ -49647,6 +54447,8 @@ At the retraining seminar you will learn how to analyze your daily driving behav
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **Having committed several violations during the probationary period, the authorities have ordered a driver to attend an advanced seminar. The new driver fails to comply with the order. What may he now anticipate?**
 
 **Options:**
@@ -49665,6 +54467,8 @@ If the novice driver fails to attend the retraining seminar as required, he is t
 #### Question 2.8.01-012
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, L, T, A80
 
 **What should a driving licence applicant anticipate if he is found driving without a licence?**
 
@@ -49686,6 +54490,8 @@ A person who wants to obtain a driving license not only has to bring along the n
 
 **Points:** 2 Points
 
+**Licenses:** A, A1, A2, B, A80
+
 **A learner driver has committed several violations during the probationary period. The authority has ordered that the driver attends a supplementary driving course. The learner driver fails to comply with this order. What can they expect to happen?**
 
 **Options:**
@@ -49704,6 +54510,8 @@ The probationary period for novice drivers is 2 years. During this time, very st
 #### Question 2.8.01-014
 
 **Points:** 3 Points
+
+**Licenses:** A, A1, A2, AM, B, L, T, A80
 
 **A driving licence applicant practices practical driving skills without a driving instructor on public roads. What should he expect if the police perform a check on him?**
 
@@ -49726,6 +54534,8 @@ The police can order a check of your ability to drive. As a driving license appl
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE
+
 **You are transporting commercial goods with a truck. What is the purpose of the 35-hour further training course, which you must attend within 5 years?**
 
 **Options:**
@@ -49746,6 +54556,8 @@ When transporting commercial goods, the aim of the 35-hour training course is to
 
 **Points:** 2 Points
 
+**Licenses:** C, C1, CE, D, D1
+
 **Working as a professional driver requires you to complete a basic qualification and to regularly attend training programmes. Where will you find information concerning the validity period of your professional driver’s basic qualification?**
 
 **Options:**
@@ -49764,6 +54576,8 @@ You can find the information about the time limit on the back of your driving li
 #### Question 2.8.01-203
 
 **Points:** 2 Points
+
+**Licenses:** D, D1
 
 **You are a commercial bus driver. What is the purpose of the 35-hour further training course, which you must attend within 5 years?**
 
@@ -49785,6 +54599,8 @@ If you are transporting people commercially by bus, within 35-hour training cour
 
 **Points:** 3 Points
 
+**Licenses:** D, D1
+
 **What can lead to a review of your fitness to be a bus driver?**
 
 **Options:**
@@ -49801,6 +54617,8 @@ If you are transporting people commercially by bus, within 35-hour training cour
 #### Question 2.8.01-205
 
 **Points:** 3 Points
+
+**Licenses:** D, D1
 
 **When can the authorities order a bus driver to undergo a fitness assessment?**
 
@@ -49820,6 +54638,8 @@ If you are transporting people commercially by bus, within 35-hour training cour
 
 **Points:** 2 Points
 
+**Licenses:** C
+
 **After receiving your Class C driving licence for the first time, you want to transport goods commercially. How can you meet the requirements?**
 
 **Options:**
@@ -49837,6 +54657,8 @@ If you are transporting people commercially by bus, within 35-hour training cour
 
 **Points:** 2 Points
 
+**Licenses:** D
+
 **After receiving your Class D driving licence for the first time, you want to transport passengers commercially. How can you meet the requirements?**
 
 **Options:**
@@ -49853,6 +54675,8 @@ If you are transporting people commercially by bus, within 35-hour training cour
 #### Question 2.8.01-208
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1
 
 **To be employed as a professional driver, you will need an initial qualification as well as regular training. How are the relevant proofs documented?**
 
@@ -49873,6 +54697,8 @@ Professional drivers who work in the transport of goods or passengers on public 
 #### Question 2.8.01-209
 
 **Points:** 2 Points
+
+**Licenses:** C, C1, D, D1
 
 **What is documented on the driver qualification card?**
 

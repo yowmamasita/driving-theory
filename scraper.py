@@ -18,6 +18,17 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
+# Labels the site uses for the basic material (Grundstoff) shared by all classes
+BASIC_LABELS = {'Basic material', 'Grundstoff'}
+
+
+def in_class(item: Dict, license_class: str) -> bool:
+    """True if the question belongs to the pool of the given licence class, e.g. 'B'"""
+    # ponytail: Mofa's basic set is labelled GM, not Basic material; filtering for Mofa needs that label too
+    licenses = item.get('licenses', [])
+    return license_class in licenses or bool(BASIC_LABELS & set(licenses))
+
+
 class DrivingTheoryScraper:
     def __init__(self, base_url: str = "https://www.clickclickdrive.de", delay: float = 0.5):
         self.base_url = base_url
@@ -219,6 +230,10 @@ class DrivingTheoryScraper:
                 elif 'Points' in text or 'Point' in text:
                     points = text
             
+            # Licence classes, e.g. ['Basic material', 'GM classes'] or ['A', 'A1', 'B']
+            licenses_span = soup.find('span', class_='infoTagValue')
+            licenses = [line.strip() for line in licenses_span.text.splitlines() if line.strip()] if licenses_span else []
+            
             # If question number not found, use the ID from URL
             if not question_number:
                 question_number = question_id
@@ -361,6 +376,7 @@ class DrivingTheoryScraper:
                 'question_id': question_id,
                 'question_number': question_number.replace('Question: ', ''),
                 'points': points,
+                'licenses': licenses,
                 'question_text': question_text,
                 'options': options,
                 'correct_answers': correct_answers,
@@ -423,6 +439,7 @@ class DrivingTheoryScraper:
                 'question_id': item['question_id'],
                 'question_number': item['question_number'],
                 'points': item['points'],
+                'licenses': '; '.join(item.get('licenses', [])),
                 'question_text': item['question_text'],
                 'options': '; '.join([f"{opt['letter']} {opt['text']}" for opt in item['options']]),
                 'correct_answers': '; '.join([f"{ans['letter']} {ans['text']}" for ans in item['correct_answers']]),
@@ -459,6 +476,7 @@ class DrivingTheoryScraper:
                 # Question
                 f.write(f"\n#### Question {item['question_number']}\n\n")
                 f.write(f"**Points:** {item['points']}\n\n")
+                f.write(f"**Licenses:** {', '.join(item.get('licenses', []))}\n\n")
                 f.write(f"**{item['question_text']}**\n\n")
                 
                 # Images
@@ -503,6 +521,12 @@ def main():
     scraper.export_json()
     scraper.export_csv()
     scraper.export_markdown()
+    
+    # Class B (car) pool only
+    scraper.data = [item for item in scraper.data if in_class(item, 'B')]
+    scraper.export_json("driving_theory_questions_b.json")
+    scraper.export_csv("driving_theory_questions_b.csv")
+    scraper.export_markdown("driving_theory_questions_b.md")
     
     print("\nAll done!")
 

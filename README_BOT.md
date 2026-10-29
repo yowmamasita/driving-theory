@@ -22,6 +22,8 @@ cp .env.example .env
 # Edit .env and add your TELEGRAM_BOT_TOKEN
 ```
 
+   Set `LICENSE_CLASS=B` in `.env` to only ask questions from the class B pool. Leave it empty for all classes.
+
 3. Place your question JSON files in the parent directory:
    - `driving_theory_questions.json` (English questions)
    - `driving_theory_questions_de.json` (German questions)
